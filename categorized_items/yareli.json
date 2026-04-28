@@ -1,0 +1,58 @@
+[
+  {
+    "id": "6214e890e3c4660048a8b982",
+    "slug": "surging_blades",
+    "gameRef": "/Lotus/Powersuits/Yareli/YareliDisksAugmentCard",
+    "tags": [
+      "yareli",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Surging Blades",
+      "zh-hans": "涌流之刃"
+    },
+    "icons": {
+      "en": "items/images/en/surging_blades.bbc3a9a4fa5386c0e3813b0652c3b20f.png",
+      "zh-hans": "items/images/en/surging_blades.bbc3a9a4fa5386c0e3813b0652c3b20f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/surging_blades.bbc3a9a4fa5386c0e3813b0652c3b20f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/surging_blades.bbc3a9a4fa5386c0e3813b0652c3b20f.128x128.png"
+    }
+  },
+  {
+    "id": "63ee00ff10125411da49e6f7",
+    "slug": "merulina_guardian",
+    "gameRef": "/Lotus/Powersuits/Yareli/YareliBoardAugmentCard",
+    "tags": [
+      "yareli",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Merulina Guardian",
+      "zh-hans": "涌浪之护"
+    },
+    "icons": {
+      "en": "items/images/en/merulina_guardian.6d904a0724dbba4554bd3acdcd70c36a.png",
+      "zh-hans": "items/images/en/merulina_guardian.6d904a0724dbba4554bd3acdcd70c36a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/merulina_guardian.6d904a0724dbba4554bd3acdcd70c36a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/merulina_guardian.6d904a0724dbba4554bd3acdcd70c36a.128x128.png"
+    }
+  }
+]

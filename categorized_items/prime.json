@@ -1,0 +1,2355 @@
+[
+  {
+    "id": "54a73e65e779893a797fff59",
+    "slug": "reaper_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/PrimeScytheBlueprint",
+    "tags": [
+      "prime",
+      "weapon",
+      "melee",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Reaper Prime Blueprint",
+      "zh-hans": "收割者 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/reaper_prime_blueprint.4e1d36812203a97fd0191930485b1095.png",
+      "zh-hans": "items/images/en/reaper_prime_blueprint.4e1d36812203a97fd0191930485b1095.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/reaper_prime_blueprint.4e1d36812203a97fd0191930485b1095.128x128.png",
+      "zh-hans": "items/images/en/thumbs/reaper_prime_blueprint.4e1d36812203a97fd0191930485b1095.128x128.png"
+    }
+  },
+  {
+    "id": "58b57068eb26db5c31192114",
+    "slug": "helios_prime_set",
+    "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeHeliosPowerSuit",
+    "tags": [
+      "prime",
+      "sentinel",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Helios Prime Set",
+      "zh-hans": "赫利俄斯 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/helios_prime_set.625b7c74ea5dd61b1840f8094df7648a.png",
+      "zh-hans": "items/images/en/helios_prime_set.625b7c74ea5dd61b1840f8094df7648a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/helios_prime_set.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/helios_prime_set.625b7c74ea5dd61b1840f8094df7648a.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd89a0",
+    "slug": "kavasa_prime_kubrow_collar_set",
+    "gameRef": "/Lotus/Upgrades/Skins/Kubrows/Collars/PrimeKubrowCollarA",
+    "tags": [
+      "prime",
+      "skin",
+      "set"
+    ],
+    "ducats": 155,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Kavasa Prime Kubrow Collar Set",
+      "zh-hans": "喀婆萨 Prime 库狛项圈 一套"
+    },
+    "icons": {
+      "en": "items/images/en/kavasa_prime_kubrow_collar_set.cc1bafee4156c05ebaa812d39cd559ba.png",
+      "zh-hans": "items/images/en/kavasa_prime_kubrow_collar_set.cc1bafee4156c05ebaa812d39cd559ba.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/kavasa_prime_kubrow_collar_set.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
+      "zh-hans": "items/images/en/thumbs/kavasa_prime_kubrow_collar_set.cc1bafee4156c05ebaa812d39cd559ba.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd89a7",
+    "slug": "odonata_prime_set",
+    "gameRef": "/Lotus/Powersuits/Archwing/PrimeJetPack/PrimeJetPack",
+    "tags": [
+      "prime",
+      "set",
+      "archwing"
+    ],
+    "ducats": 140,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Odonata Prime Set",
+      "zh-hans": "陨蜓 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/odonata_prime_set.9087f5267b49dee37c38d36f57387753.png",
+      "zh-hans": "items/images/en/odonata_prime_set.9087f5267b49dee37c38d36f57387753.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/odonata_prime_set.9087f5267b49dee37c38d36f57387753.128x128.png",
+      "zh-hans": "items/images/en/thumbs/odonata_prime_set.9087f5267b49dee37c38d36f57387753.128x128.png"
+    }
+  },
+  {
+    "id": "58b57068eb26db5c31192113",
+    "slug": "euphona_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Pistols/AllNew1hSG/AllNew1hSG",
+    "tags": [
+      "prime",
+      "weapon",
+      "secondary",
+      "set"
+    ],
+    "ducats": 160,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Euphona Prime Set",
+      "zh-hans": "悦音 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/euphona_prime_set.6a18cc50c57ac13c3203e872baf85a8d.png",
+      "zh-hans": "items/images/en/euphona_prime_set.6a18cc50c57ac13c3203e872baf85a8d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/euphona_prime_set.6a18cc50c57ac13c3203e872baf85a8d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/euphona_prime_set.6a18cc50c57ac13c3203e872baf85a8d.128x128.png"
+    }
+  },
+  {
+    "id": "58b57068eb26db5c31192112",
+    "slug": "euphona_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/Prime1HShotgunBlueprint",
+    "tags": [
+      "prime",
+      "weapon",
+      "secondary",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Euphona Prime Blueprint",
+      "zh-hans": "悦音 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/euphona_prime_blueprint.6a18cc50c57ac13c3203e872baf85a8d.png",
+      "zh-hans": "items/images/en/euphona_prime_blueprint.6a18cc50c57ac13c3203e872baf85a8d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/euphona_prime_blueprint.6a18cc50c57ac13c3203e872baf85a8d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/euphona_prime_blueprint.6a18cc50c57ac13c3203e872baf85a8d.128x128.png"
+    }
+  },
+  {
+    "id": "56153730b66f836f9488bcce",
+    "slug": "kavasa_prime_buckle",
+    "gameRef": "/Lotus/Types/Recipes/Kubrow/Collars/PrimeKubrowCollarABuckleComponent",
+    "tags": [
+      "prime"
+    ],
+    "ducats": 65,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Kavasa Prime Buckle",
+      "zh-hans": "喀婆萨 Prime 项圈扣"
+    },
+    "icons": {
+      "en": "items/images/en/kavasa_prime_buckle.cc1bafee4156c05ebaa812d39cd559ba.png",
+      "zh-hans": "items/images/en/kavasa_prime_buckle.cc1bafee4156c05ebaa812d39cd559ba.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/kavasa_prime_buckle.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
+      "zh-hans": "items/images/en/thumbs/kavasa_prime_buckle.cc1bafee4156c05ebaa812d39cd559ba.128x128.png"
+    }
+  },
+  {
+    "id": "56153734b66f836f976f5501",
+    "slug": "kavasa_prime_band",
+    "gameRef": "/Lotus/Types/Recipes/Kubrow/Collars/PrimeKubrowCollarABandComponent",
+    "tags": [
+      "prime"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Kavasa Prime Band",
+      "zh-hans": "喀婆萨 Prime 项圈带"
+    },
+    "icons": {
+      "en": "items/images/en/kavasa_prime_band.cc1bafee4156c05ebaa812d39cd559ba.png",
+      "zh-hans": "items/images/en/kavasa_prime_band.cc1bafee4156c05ebaa812d39cd559ba.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/kavasa_prime_band.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
+      "zh-hans": "items/images/en/thumbs/kavasa_prime_band.cc1bafee4156c05ebaa812d39cd559ba.128x128.png"
+    }
+  },
+  {
+    "id": "58b57068eb26db5c31192118",
+    "slug": "helios_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/SentinelRecipes/PrimeHeliosSentinelBlueprint",
+    "tags": [
+      "prime",
+      "sentinel",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Helios Prime Blueprint",
+      "zh-hans": "赫利俄斯 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/helios_prime_blueprint.625b7c74ea5dd61b1840f8094df7648a.png",
+      "zh-hans": "items/images/en/helios_prime_blueprint.625b7c74ea5dd61b1840f8094df7648a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/helios_prime_blueprint.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/helios_prime_blueprint.625b7c74ea5dd61b1840f8094df7648a.128x128.png"
+    }
+  },
+  {
+    "id": "56153727b66f836f91a8e849",
+    "slug": "kavasa_prime_kubrow_collar_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Kubrow/Collars/PrimeKubrowCollarABlueprint",
+    "tags": [
+      "prime",
+      "skin",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Kavasa Prime Kubrow Collar Blueprint",
+      "zh-hans": "喀婆萨 Prime 库狛项圈 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/kavasa_prime_kubrow_collar_blueprint.cc1bafee4156c05ebaa812d39cd559ba.png",
+      "zh-hans": "items/images/en/kavasa_prime_kubrow_collar_blueprint.cc1bafee4156c05ebaa812d39cd559ba.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/kavasa_prime_kubrow_collar_blueprint.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
+      "zh-hans": "items/images/en/thumbs/kavasa_prime_kubrow_collar_blueprint.cc1bafee4156c05ebaa812d39cd559ba.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd89aa",
+    "slug": "reaper_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/Scythe/ReaperWeapon",
+    "tags": [
+      "prime",
+      "weapon",
+      "melee",
+      "set"
+    ],
+    "ducats": 75,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Reaper Prime Set",
+      "zh-hans": "收割者 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/reaper_prime_set.4e1d36812203a97fd0191930485b1095.png",
+      "zh-hans": "items/images/en/reaper_prime_set.4e1d36812203a97fd0191930485b1095.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/reaper_prime_set.4e1d36812203a97fd0191930485b1095.128x128.png",
+      "zh-hans": "items/images/en/thumbs/reaper_prime_set.4e1d36812203a97fd0191930485b1095.128x128.png"
+    }
+  },
+  {
+    "id": "58358a0e2c2ada0047b386fa",
+    "slug": "valkyr_prime_set",
+    "gameRef": "/Lotus/Powersuits/Berserker/ValkyrPrime",
+    "tags": [
+      "prime",
+      "warframe",
+      "set"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Valkyr Prime Set",
+      "zh-hans": "Valkyr Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/valkyr_prime_set.a5c906d66a11ff70158f0ffad0c628e8.png",
+      "zh-hans": "items/images/en/valkyr_prime_set.a5c906d66a11ff70158f0ffad0c628e8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/valkyr_prime_set.a5c906d66a11ff70158f0ffad0c628e8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/valkyr_prime_set.a5c906d66a11ff70158f0ffad0c628e8.128x128.png"
+    }
+  },
+  {
+    "id": "5ab1570db2b6a8044d5137c5",
+    "slug": "zephyr_prime_set",
+    "gameRef": "/Lotus/Powersuits/Tengu/ZephyrPrime",
+    "tags": [
+      "prime",
+      "warframe",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Zephyr Prime Set",
+      "zh-hans": "Zephyr Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/zephyr_prime_set.4ffc19dd100b3c182beef5f1ef3d337e.png",
+      "zh-hans": "items/images/en/zephyr_prime_set.4ffc19dd100b3c182beef5f1ef3d337e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/zephyr_prime_set.4ffc19dd100b3c182beef5f1ef3d337e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/zephyr_prime_set.4ffc19dd100b3c182beef5f1ef3d337e.128x128.png"
+    }
+  },
+  {
+    "id": "60ad4a1bf1904300d012c6ff",
+    "slug": "gara_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GaraPrimeBlueprint",
+    "tags": [
+      "prime",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gara Prime Blueprint",
+      "zh-hans": "Gara Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/gara_prime_blueprint.e0359bcb2d3e747c46edd23083f39de8.png",
+      "zh-hans": "items/images/en/gara_prime_blueprint.e0359bcb2d3e747c46edd23083f39de8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gara_prime_blueprint.e0359bcb2d3e747c46edd23083f39de8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gara_prime_blueprint.e0359bcb2d3e747c46edd23083f39de8.128x128.png"
+    }
+  },
+  {
+    "id": "62d3493f75156700ce450ded",
+    "slug": "khora_prime_chassis_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/KhoraPrimeChassisBlueprint",
+    "tags": [
+      "prime",
+      "component",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Khora Prime Chassis Blueprint",
+      "zh-hans": "Khora Prime 机体 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/khora_prime_chassis_blueprint.12b9da415ed4f659296947b5c7157dc0.png",
+      "zh-hans": "items/images/en/khora_prime_chassis_blueprint.12b9da415ed4f659296947b5c7157dc0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/khora_prime_chassis_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/khora_prime_chassis_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494075156700ce450dee",
+    "slug": "dual_keres_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeDualKeres/PrimeDualKeresWeapon",
+    "tags": [
+      "prime",
+      "melee",
+      "weapon",
+      "set"
+    ],
+    "ducats": 220,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Dual Keres Prime Set",
+      "zh-hans": "凯瑞斯双刀 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/dual_keres_prime_set.ea70ac30dab8db745193cb166b246efc.png",
+      "zh-hans": "items/images/en/dual_keres_prime_set.ea70ac30dab8db745193cb166b246efc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/dual_keres_prime_set.ea70ac30dab8db745193cb166b246efc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/dual_keres_prime_set.ea70ac30dab8db745193cb166b246efc.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494075156700ce450df3",
+    "slug": "dual_keres_prime_handle",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/DualKeresPrimeHandle",
+    "tags": [
+      "prime",
+      "weapon",
+      "component"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Dual Keres Prime Handle",
+      "zh-hans": "凯瑞斯双刀 Prime 握柄"
+    },
+    "icons": {
+      "en": "items/images/en/dual_keres_prime_handle.ea70ac30dab8db745193cb166b246efc.png",
+      "zh-hans": "items/images/en/dual_keres_prime_handle.ea70ac30dab8db745193cb166b246efc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/dual_keres_prime_handle.ea70ac30dab8db745193cb166b246efc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/dual_keres_prime_handle.ea70ac30dab8db745193cb166b246efc.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494075156700ce450df4",
+    "slug": "khora_prime_set",
+    "gameRef": "/Lotus/Powersuits/Khora/KhoraPrime",
+    "tags": [
+      "prime",
+      "warframe",
+      "set"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Khora Prime Set",
+      "zh-hans": "Khora Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/khora_prime_set.12b9da415ed4f659296947b5c7157dc0.png",
+      "zh-hans": "items/images/en/khora_prime_set.12b9da415ed4f659296947b5c7157dc0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/khora_prime_set.12b9da415ed4f659296947b5c7157dc0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/khora_prime_set.12b9da415ed4f659296947b5c7157dc0.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494075156700ce450df5",
+    "slug": "khora_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/KhoraPrimeBlueprint",
+    "tags": [
+      "prime",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 65,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Khora Prime Blueprint",
+      "zh-hans": "Khora Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/khora_prime_blueprint.12b9da415ed4f659296947b5c7157dc0.png",
+      "zh-hans": "items/images/en/khora_prime_blueprint.12b9da415ed4f659296947b5c7157dc0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/khora_prime_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/khora_prime_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494075156700ce450df7",
+    "slug": "hystrix_prime_receiver",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/HystrixPrimeReceiver",
+    "tags": [
+      "prime",
+      "weapon",
+      "component"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hystrix Prime Receiver",
+      "zh-hans": "豪猪 Prime 枪机"
+    },
+    "icons": {
+      "en": "items/images/en/hystrix_prime_receiver.1ac7d440197ca107e3df6646cb58a43d.png",
+      "zh-hans": "items/images/en/hystrix_prime_receiver.1ac7d440197ca107e3df6646cb58a43d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hystrix_prime_receiver.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hystrix_prime_receiver.1ac7d440197ca107e3df6646cb58a43d.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494175156700ce450dfd",
+    "slug": "hystrix_prime_barrel",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/HystrixPrimeBarrel",
+    "tags": [
+      "prime",
+      "weapon",
+      "component"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hystrix Prime Barrel",
+      "zh-hans": "豪猪 Prime 枪管"
+    },
+    "icons": {
+      "en": "items/images/en/hystrix_prime_barrel.1ac7d440197ca107e3df6646cb58a43d.png",
+      "zh-hans": "items/images/en/hystrix_prime_barrel.1ac7d440197ca107e3df6646cb58a43d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hystrix_prime_barrel.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hystrix_prime_barrel.1ac7d440197ca107e3df6646cb58a43d.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494175156700ce450dff",
+    "slug": "khora_prime_neuroptics_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/KhoraPrimeHelmetBlueprint",
+    "tags": [
+      "prime",
+      "component",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Khora Prime Neuroptics Blueprint",
+      "zh-hans": "Khora Prime 头部神经光元 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/khora_prime_neuroptics_blueprint.12b9da415ed4f659296947b5c7157dc0.png",
+      "zh-hans": "items/images/en/khora_prime_neuroptics_blueprint.12b9da415ed4f659296947b5c7157dc0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/khora_prime_neuroptics_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/khora_prime_neuroptics_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494175156700ce450e00",
+    "slug": "dual_keres_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/DualKeresPrimeBlueprint",
+    "tags": [
+      "prime",
+      "melee",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Dual Keres Prime Blueprint",
+      "zh-hans": "凯瑞斯双刀 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/dual_keres_prime_blueprint.ea70ac30dab8db745193cb166b246efc.png",
+      "zh-hans": "items/images/en/dual_keres_prime_blueprint.ea70ac30dab8db745193cb166b246efc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/dual_keres_prime_blueprint.ea70ac30dab8db745193cb166b246efc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/dual_keres_prime_blueprint.ea70ac30dab8db745193cb166b246efc.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494175156700ce450e04",
+    "slug": "khora_prime_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/KhoraPrimeSystemsBlueprint",
+    "tags": [
+      "prime",
+      "component",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Khora Prime Systems Blueprint",
+      "zh-hans": "Khora Prime 系统 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/khora_prime_systems_blueprint.12b9da415ed4f659296947b5c7157dc0.png",
+      "zh-hans": "items/images/en/khora_prime_systems_blueprint.12b9da415ed4f659296947b5c7157dc0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/khora_prime_systems_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/khora_prime_systems_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494175156700ce450e05",
+    "slug": "dual_keres_prime_blade",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/DualKeresPrimeBlade",
+    "tags": [
+      "prime",
+      "weapon",
+      "component"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Dual Keres Prime Blade",
+      "zh-hans": "凯瑞斯双刀 Prime 刀刃"
+    },
+    "icons": {
+      "en": "items/images/en/dual_keres_prime_blade.ea70ac30dab8db745193cb166b246efc.png",
+      "zh-hans": "items/images/en/dual_keres_prime_blade.ea70ac30dab8db745193cb166b246efc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/dual_keres_prime_blade.ea70ac30dab8db745193cb166b246efc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/dual_keres_prime_blade.ea70ac30dab8db745193cb166b246efc.128x128.png"
+    }
+  },
+  {
+    "id": "633e2e6af570d10793afb81a",
+    "slug": "revenant_prime_set",
+    "gameRef": "/Lotus/Powersuits/Revenant/RevenantPrime",
+    "tags": [
+      "prime",
+      "warframe",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Revenant Prime Set",
+      "zh-hans": "Revenant Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/revenant_prime_set.469f99b4183a5dda7769b78b2cde6658.png",
+      "zh-hans": "items/images/en/revenant_prime_set.469f99b4183a5dda7769b78b2cde6658.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/revenant_prime_set.469f99b4183a5dda7769b78b2cde6658.128x128.png",
+      "zh-hans": "items/images/en/thumbs/revenant_prime_set.469f99b4183a5dda7769b78b2cde6658.128x128.png"
+    }
+  },
+  {
+    "id": "639a8d9374b02f003889eb71",
+    "slug": "baruuk_prime_chassis_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/BaruukPrimeChassisBlueprint",
+    "tags": [
+      "prime",
+      "component",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Baruuk Prime Chassis Blueprint",
+      "zh-hans": "Baruuk Prime 机体 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/baruuk_prime_chassis_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.png",
+      "zh-hans": "items/images/en/baruuk_prime_chassis_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/baruuk_prime_chassis_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/baruuk_prime_chassis_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png"
+    }
+  },
+  {
+    "id": "639a8d9374b02f003889eb77",
+    "slug": "baruuk_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/BaruukPrimeBlueprint",
+    "tags": [
+      "prime",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Baruuk Prime Blueprint",
+      "zh-hans": "Baruuk Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/baruuk_prime_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.png",
+      "zh-hans": "items/images/en/baruuk_prime_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/baruuk_prime_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/baruuk_prime_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png"
+    }
+  },
+  {
+    "id": "639a8d9374b02f003889eb7e",
+    "slug": "baruuk_prime_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/BaruukPrimeSystemsBlueprint",
+    "tags": [
+      "prime",
+      "component",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Baruuk Prime Systems Blueprint",
+      "zh-hans": "Baruuk Prime 系统 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/baruuk_prime_systems_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.png",
+      "zh-hans": "items/images/en/baruuk_prime_systems_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/baruuk_prime_systems_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/baruuk_prime_systems_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png"
+    }
+  },
+  {
+    "id": "639a8d9474b02f003889eb81",
+    "slug": "baruuk_prime_neuroptics_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/BaruukPrimeHelmetBlueprint",
+    "tags": [
+      "prime",
+      "component",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 65,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Baruuk Prime Neuroptics Blueprint",
+      "zh-hans": "Baruuk Prime 头部神经光元 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/baruuk_prime_neuroptics_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.png",
+      "zh-hans": "items/images/en/baruuk_prime_neuroptics_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/baruuk_prime_neuroptics_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/baruuk_prime_neuroptics_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png"
+    }
+  },
+  {
+    "id": "639a8d9474b02f003889eb84",
+    "slug": "baruuk_prime_set",
+    "gameRef": "/Lotus/Powersuits/Pacifist/BaruukPrime",
+    "tags": [
+      "prime",
+      "warframe",
+      "set"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Baruuk Prime Set",
+      "zh-hans": "Baruuk Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/baruuk_prime_set.90bcb486d7a5defe4a74c94acfebf6d0.png",
+      "zh-hans": "items/images/en/baruuk_prime_set.90bcb486d7a5defe4a74c94acfebf6d0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/baruuk_prime_set.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/baruuk_prime_set.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png"
+    }
+  },
+  {
+    "id": "639a941c74b02f008887784a",
+    "slug": "cobra_and_crane_prime_guard",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/CobraCranePrimeGuard",
+    "tags": [
+      "prime",
+      "component",
+      "weapon"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cobra & Crane Prime Guard",
+      "zh-hans": "眼镜蛇 & 鹤 Prime 护手"
+    },
+    "icons": {
+      "en": "items/images/en/cobra_and_crane_prime_guard.84b2733b9f7486c23028b5a2b4e012b4.png",
+      "zh-hans": "items/images/en/cobra_and_crane_prime_guard.84b2733b9f7486c23028b5a2b4e012b4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cobra_and_crane_prime_guard.84b2733b9f7486c23028b5a2b4e012b4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cobra_and_crane_prime_guard.84b2733b9f7486c23028b5a2b4e012b4.128x128.png"
+    }
+  },
+  {
+    "id": "639a941c74b02f008887784b",
+    "slug": "afuris_prime_barrel",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfurisPrimeBarrel",
+    "tags": [
+      "prime",
+      "component",
+      "weapon"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Afuris Prime Barrel",
+      "zh-hans": "盗贼双枪 Prime 枪管"
+    },
+    "icons": {
+      "en": "items/images/en/afuris_prime_barrel.bfdca7167652c5c2d474ac75ea3af595.png",
+      "zh-hans": "items/images/en/afuris_prime_barrel.bfdca7167652c5c2d474ac75ea3af595.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/afuris_prime_barrel.bfdca7167652c5c2d474ac75ea3af595.128x128.png",
+      "zh-hans": "items/images/en/thumbs/afuris_prime_barrel.bfdca7167652c5c2d474ac75ea3af595.128x128.png"
+    }
+  },
+  {
+    "id": "639a941c74b02f008887784c",
+    "slug": "afuris_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeAfuris/PrimeAFurisWeapon",
+    "tags": [
+      "prime",
+      "secondary",
+      "weapon",
+      "set"
+    ],
+    "ducats": 290,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Afuris Prime Set",
+      "zh-hans": "盗贼双枪 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/afuris_prime_set.bfdca7167652c5c2d474ac75ea3af595.png",
+      "zh-hans": "items/images/en/afuris_prime_set.bfdca7167652c5c2d474ac75ea3af595.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/afuris_prime_set.bfdca7167652c5c2d474ac75ea3af595.128x128.png",
+      "zh-hans": "items/images/en/thumbs/afuris_prime_set.bfdca7167652c5c2d474ac75ea3af595.128x128.png"
+    }
+  },
+  {
+    "id": "639a941d74b02f008887784d",
+    "slug": "afuris_prime_link",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfurisPrimeLink",
+    "tags": [
+      "prime",
+      "component",
+      "weapon"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Afuris Prime Link",
+      "zh-hans": "盗贼双枪 Prime 连接器"
+    },
+    "icons": {
+      "en": "items/images/en/afuris_prime_link.bfdca7167652c5c2d474ac75ea3af595.png",
+      "zh-hans": "items/images/en/afuris_prime_link.bfdca7167652c5c2d474ac75ea3af595.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/afuris_prime_link.bfdca7167652c5c2d474ac75ea3af595.128x128.png",
+      "zh-hans": "items/images/en/thumbs/afuris_prime_link.bfdca7167652c5c2d474ac75ea3af595.128x128.png"
+    }
+  },
+  {
+    "id": "639a941d74b02f008887784e",
+    "slug": "cobra_and_crane_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/CobraCranePrimeBlueprint",
+    "tags": [
+      "prime",
+      "weapon",
+      "melee",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cobra & Crane Prime Blueprint",
+      "zh-hans": "眼镜蛇 & 鹤 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/cobra_and_crane_prime_blueprint.84b2733b9f7486c23028b5a2b4e012b4.png",
+      "zh-hans": "items/images/en/cobra_and_crane_prime_blueprint.84b2733b9f7486c23028b5a2b4e012b4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cobra_and_crane_prime_blueprint.84b2733b9f7486c23028b5a2b4e012b4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cobra_and_crane_prime_blueprint.84b2733b9f7486c23028b5a2b4e012b4.128x128.png"
+    }
+  },
+  {
+    "id": "639a941d74b02f008887784f",
+    "slug": "afuris_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/AfurisPrimeBlueprint",
+    "tags": [
+      "prime",
+      "secondary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Afuris Prime Blueprint",
+      "zh-hans": "盗贼双枪 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/afuris_prime_blueprint.bfdca7167652c5c2d474ac75ea3af595.png",
+      "zh-hans": "items/images/en/afuris_prime_blueprint.bfdca7167652c5c2d474ac75ea3af595.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/afuris_prime_blueprint.bfdca7167652c5c2d474ac75ea3af595.128x128.png",
+      "zh-hans": "items/images/en/thumbs/afuris_prime_blueprint.bfdca7167652c5c2d474ac75ea3af595.128x128.png"
+    }
+  },
+  {
+    "id": "639a941d74b02f0088877850",
+    "slug": "cobra_and_crane_prime_blade",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/CobraCranePrimeBlade",
+    "tags": [
+      "prime",
+      "component",
+      "weapon"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cobra & Crane Prime Blade",
+      "zh-hans": "眼镜蛇 & 鹤 Prime 刀刃"
+    },
+    "icons": {
+      "en": "items/images/en/cobra_and_crane_prime_blade.84b2733b9f7486c23028b5a2b4e012b4.png",
+      "zh-hans": "items/images/en/cobra_and_crane_prime_blade.84b2733b9f7486c23028b5a2b4e012b4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cobra_and_crane_prime_blade.84b2733b9f7486c23028b5a2b4e012b4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cobra_and_crane_prime_blade.84b2733b9f7486c23028b5a2b4e012b4.128x128.png"
+    }
+  },
+  {
+    "id": "639a941d74b02f0088877851",
+    "slug": "cobra_and_crane_prime_hilt",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/CobraCranePrimeHandle",
+    "tags": [
+      "prime",
+      "component",
+      "weapon"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cobra & Crane Prime Hilt",
+      "zh-hans": "眼镜蛇 & 鹤 Prime 握柄"
+    },
+    "icons": {
+      "en": "items/images/en/cobra_and_crane_prime_hilt.84b2733b9f7486c23028b5a2b4e012b4.png",
+      "zh-hans": "items/images/en/cobra_and_crane_prime_hilt.84b2733b9f7486c23028b5a2b4e012b4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cobra_and_crane_prime_hilt.84b2733b9f7486c23028b5a2b4e012b4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cobra_and_crane_prime_hilt.84b2733b9f7486c23028b5a2b4e012b4.128x128.png"
+    }
+  },
+  {
+    "id": "639a941e74b02f0088877852",
+    "slug": "cobra_and_crane_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/PrimeCobraAndCrane/PrimeCobraAndCraneWeapon",
+    "tags": [
+      "prime",
+      "weapon",
+      "melee",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cobra & Crane Prime Set",
+      "zh-hans": "眼镜蛇 & 鹤 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/cobra_and_crane_prime_set.84b2733b9f7486c23028b5a2b4e012b4.png",
+      "zh-hans": "items/images/en/cobra_and_crane_prime_set.84b2733b9f7486c23028b5a2b4e012b4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cobra_and_crane_prime_set.84b2733b9f7486c23028b5a2b4e012b4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cobra_and_crane_prime_set.84b2733b9f7486c23028b5a2b4e012b4.128x128.png"
+    }
+  },
+  {
+    "id": "639a941e74b02f0088877853",
+    "slug": "afuris_prime_receiver",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfurisPrimeReceiver",
+    "tags": [
+      "prime",
+      "component",
+      "weapon"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Afuris Prime Receiver",
+      "zh-hans": "盗贼双枪 Prime 枪机"
+    },
+    "icons": {
+      "en": "items/images/en/afuris_prime_receiver.bfdca7167652c5c2d474ac75ea3af595.png",
+      "zh-hans": "items/images/en/afuris_prime_receiver.bfdca7167652c5c2d474ac75ea3af595.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/afuris_prime_receiver.bfdca7167652c5c2d474ac75ea3af595.128x128.png",
+      "zh-hans": "items/images/en/thumbs/afuris_prime_receiver.bfdca7167652c5c2d474ac75ea3af595.128x128.png"
+    }
+  },
+  {
+    "id": "641263df7d179f02100c6d40",
+    "slug": "hildryn_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/HildrynPrimeBlueprint",
+    "tags": [
+      "prime",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hildryn Prime Blueprint",
+      "zh-hans": "Hildryn Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/hildryn_prime_blueprint.7e3f1cd4b94baa590dde37cd0ad0ba9e.png",
+      "zh-hans": "items/images/en/hildryn_prime_blueprint.7e3f1cd4b94baa590dde37cd0ad0ba9e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hildryn_prime_blueprint.7e3f1cd4b94baa590dde37cd0ad0ba9e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hildryn_prime_blueprint.7e3f1cd4b94baa590dde37cd0ad0ba9e.128x128.png"
+    }
+  },
+  {
+    "id": "641263e07d179f02100c6d45",
+    "slug": "larkspur_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeLarkspur/PrimeLarkspurWeapon",
+    "tags": [
+      "prime",
+      "archwing",
+      "weapon",
+      "primary",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Larkspur Prime Set",
+      "zh-hans": "翠雀 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/larkspur_prime_set.592e684b836593e202891aea8b3a3f6c.png",
+      "zh-hans": "items/images/en/larkspur_prime_set.592e684b836593e202891aea8b3a3f6c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/larkspur_prime_set.592e684b836593e202891aea8b3a3f6c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/larkspur_prime_set.592e684b836593e202891aea8b3a3f6c.128x128.png"
+    }
+  },
+  {
+    "id": "641263e07d179f02100c6d49",
+    "slug": "shade_prime_set",
+    "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeShadePowerSuit",
+    "tags": [
+      "prime",
+      "sentinel",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Shade Prime Set",
+      "zh-hans": "阴影 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/shade_prime_set.d4376af3d68e873e85f81f456c83b261.png",
+      "zh-hans": "items/images/en/shade_prime_set.d4376af3d68e873e85f81f456c83b261.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shade_prime_set.d4376af3d68e873e85f81f456c83b261.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shade_prime_set.d4376af3d68e873e85f81f456c83b261.128x128.png"
+    }
+  },
+  {
+    "id": "641263e07d179f02100c6d4e",
+    "slug": "larkspur_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/LarkspurPrimeBlueprint",
+    "tags": [
+      "prime",
+      "archwing",
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Larkspur Prime Blueprint",
+      "zh-hans": "翠雀 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/larkspur_prime_blueprint.592e684b836593e202891aea8b3a3f6c.png",
+      "zh-hans": "items/images/en/larkspur_prime_blueprint.592e684b836593e202891aea8b3a3f6c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/larkspur_prime_blueprint.592e684b836593e202891aea8b3a3f6c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/larkspur_prime_blueprint.592e684b836593e202891aea8b3a3f6c.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1466456704eba6ba2d",
+    "slug": "wisp_prime_chassis_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeChassisBlueprint",
+    "tags": [
+      "prime",
+      "component",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 65,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Wisp Prime Chassis Blueprint",
+      "zh-hans": "Wisp Prime 机体 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/wisp_prime_chassis_blueprint.609bc4e8676a77247cc126ca150cb132.png",
+      "zh-hans": "items/images/en/wisp_prime_chassis_blueprint.609bc4e8676a77247cc126ca150cb132.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/wisp_prime_chassis_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png",
+      "zh-hans": "items/images/en/thumbs/wisp_prime_chassis_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1466456704eba6ba31",
+    "slug": "gunsen_prime_handle",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/GunsenPrimeHandle",
+    "tags": [
+      "prime",
+      "component",
+      "weapon"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gunsen Prime Handle",
+      "zh-hans": "军扇 Prime 握柄"
+    },
+    "icons": {
+      "en": "items/images/en/gunsen_prime_handle.a344dbe97a8e1968c9f04f1f21145edf.png",
+      "zh-hans": "items/images/en/gunsen_prime_handle.a344dbe97a8e1968c9f04f1f21145edf.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gunsen_prime_handle.a344dbe97a8e1968c9f04f1f21145edf.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gunsen_prime_handle.a344dbe97a8e1968c9f04f1f21145edf.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1466456704eba6ba32",
+    "slug": "fulmin_prime_barrel",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/FulminPrimeBarrel",
+    "tags": [
+      "prime",
+      "component",
+      "weapon"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Fulmin Prime Barrel",
+      "zh-hans": "雷霆 Prime 枪管"
+    },
+    "icons": {
+      "en": "items/images/en/fulmin_prime_barrel.a7295ff536f9f735088ebb3adc7c5958.png",
+      "zh-hans": "items/images/en/fulmin_prime_barrel.a7295ff536f9f735088ebb3adc7c5958.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/fulmin_prime_barrel.a7295ff536f9f735088ebb3adc7c5958.128x128.png",
+      "zh-hans": "items/images/en/thumbs/fulmin_prime_barrel.a7295ff536f9f735088ebb3adc7c5958.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1466456704eba6ba35",
+    "slug": "wisp_prime_set",
+    "gameRef": "/Lotus/Powersuits/Wisp/WispPrime",
+    "tags": [
+      "prime",
+      "warframe",
+      "set"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Wisp Prime Set",
+      "zh-hans": "Wisp Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/wisp_prime_set.609bc4e8676a77247cc126ca150cb132.png",
+      "zh-hans": "items/images/en/wisp_prime_set.609bc4e8676a77247cc126ca150cb132.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/wisp_prime_set.609bc4e8676a77247cc126ca150cb132.128x128.png",
+      "zh-hans": "items/images/en/thumbs/wisp_prime_set.609bc4e8676a77247cc126ca150cb132.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1466456704eba6ba37",
+    "slug": "fulmin_prime_stock",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/FulminPrimeStock",
+    "tags": [
+      "prime",
+      "component",
+      "weapon"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Fulmin Prime Stock",
+      "zh-hans": "雷霆 Prime 枪托"
+    },
+    "icons": {
+      "en": "items/images/en/fulmin_prime_stock.a7295ff536f9f735088ebb3adc7c5958.png",
+      "zh-hans": "items/images/en/fulmin_prime_stock.a7295ff536f9f735088ebb3adc7c5958.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/fulmin_prime_stock.a7295ff536f9f735088ebb3adc7c5958.128x128.png",
+      "zh-hans": "items/images/en/thumbs/fulmin_prime_stock.a7295ff536f9f735088ebb3adc7c5958.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1566456704eba6ba38",
+    "slug": "wisp_prime_neuroptics_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeHelmetBlueprint",
+    "tags": [
+      "prime",
+      "component",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Wisp Prime Neuroptics Blueprint",
+      "zh-hans": "Wisp Prime 头部神经光元 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/wisp_prime_neuroptics_blueprint.609bc4e8676a77247cc126ca150cb132.png",
+      "zh-hans": "items/images/en/wisp_prime_neuroptics_blueprint.609bc4e8676a77247cc126ca150cb132.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/wisp_prime_neuroptics_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png",
+      "zh-hans": "items/images/en/thumbs/wisp_prime_neuroptics_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1566456704eba6ba3f",
+    "slug": "gunsen_prime_blade",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/GunsenPrimeBlade",
+    "tags": [
+      "prime",
+      "component",
+      "weapon"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gunsen Prime Blade",
+      "zh-hans": "军扇 Prime 刀刃"
+    },
+    "icons": {
+      "en": "items/images/en/gunsen_prime_blade.a344dbe97a8e1968c9f04f1f21145edf.png",
+      "zh-hans": "items/images/en/gunsen_prime_blade.a344dbe97a8e1968c9f04f1f21145edf.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gunsen_prime_blade.a344dbe97a8e1968c9f04f1f21145edf.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gunsen_prime_blade.a344dbe97a8e1968c9f04f1f21145edf.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1666456704eba6ba44",
+    "slug": "wisp_prime_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeSystemsBlueprint",
+    "tags": [
+      "prime",
+      "component",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Wisp Prime Systems Blueprint",
+      "zh-hans": "Wisp Prime 系统 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/wisp_prime_systems_blueprint.609bc4e8676a77247cc126ca150cb132.png",
+      "zh-hans": "items/images/en/wisp_prime_systems_blueprint.609bc4e8676a77247cc126ca150cb132.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/wisp_prime_systems_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png",
+      "zh-hans": "items/images/en/thumbs/wisp_prime_systems_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1666456704eba6ba46",
+    "slug": "fulmin_prime_receiver",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/FulminPrimeReceiver",
+    "tags": [
+      "prime",
+      "component",
+      "weapon"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Fulmin Prime Receiver",
+      "zh-hans": "雷霆 Prime 枪机"
+    },
+    "icons": {
+      "en": "items/images/en/fulmin_prime_receiver.a7295ff536f9f735088ebb3adc7c5958.png",
+      "zh-hans": "items/images/en/fulmin_prime_receiver.a7295ff536f9f735088ebb3adc7c5958.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/fulmin_prime_receiver.a7295ff536f9f735088ebb3adc7c5958.128x128.png",
+      "zh-hans": "items/images/en/thumbs/fulmin_prime_receiver.a7295ff536f9f735088ebb3adc7c5958.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1666456704eba6ba4a",
+    "slug": "wisp_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeBlueprint",
+    "tags": [
+      "prime",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Wisp Prime Blueprint",
+      "zh-hans": "Wisp Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/wisp_prime_blueprint.609bc4e8676a77247cc126ca150cb132.png",
+      "zh-hans": "items/images/en/wisp_prime_blueprint.609bc4e8676a77247cc126ca150cb132.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/wisp_prime_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png",
+      "zh-hans": "items/images/en/thumbs/wisp_prime_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png"
+    }
+  },
+  {
+    "id": "653060f332327ba8746da744",
+    "slug": "grendel_prime_set",
+    "gameRef": "/Lotus/Powersuits/Devourer/GrendelPrime",
+    "tags": [
+      "prime",
+      "warframe",
+      "set"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Grendel Prime Set",
+      "zh-hans": "Grendel Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/grendel_prime_set.c684407cdaea9bef16f0c7aa97c74369.png",
+      "zh-hans": "items/images/en/grendel_prime_set.c684407cdaea9bef16f0c7aa97c74369.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/grendel_prime_set.c684407cdaea9bef16f0c7aa97c74369.128x128.png",
+      "zh-hans": "items/images/en/thumbs/grendel_prime_set.c684407cdaea9bef16f0c7aa97c74369.128x128.png"
+    }
+  },
+  {
+    "id": "653060f332327ba8746da745",
+    "slug": "grendel_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeBlueprint",
+    "tags": [
+      "prime",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Grendel Prime Blueprint",
+      "zh-hans": "Grendel Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/grendel_prime_blueprint.c684407cdaea9bef16f0c7aa97c74369.png",
+      "zh-hans": "items/images/en/grendel_prime_blueprint.c684407cdaea9bef16f0c7aa97c74369.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/grendel_prime_blueprint.c684407cdaea9bef16f0c7aa97c74369.128x128.png",
+      "zh-hans": "items/images/en/thumbs/grendel_prime_blueprint.c684407cdaea9bef16f0c7aa97c74369.128x128.png"
+    }
+  },
+  {
+    "id": "653060f332327ba8746da746",
+    "slug": "grendel_prime_neuroptics_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeHelmetBlueprint",
+    "tags": [
+      "prime",
+      "component",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Grendel Prime Neuroptics Blueprint",
+      "zh-hans": "Grendel Prime 头部神经光元 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/grendel_prime_neuroptics_blueprint.c684407cdaea9bef16f0c7aa97c74369.png",
+      "zh-hans": "items/images/en/grendel_prime_neuroptics_blueprint.c684407cdaea9bef16f0c7aa97c74369.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/grendel_prime_neuroptics_blueprint.c684407cdaea9bef16f0c7aa97c74369.128x128.png",
+      "zh-hans": "items/images/en/thumbs/grendel_prime_neuroptics_blueprint.c684407cdaea9bef16f0c7aa97c74369.128x128.png"
+    }
+  },
+  {
+    "id": "653060f332327ba8746da747",
+    "slug": "grendel_prime_chassis_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeChassisBlueprint",
+    "tags": [
+      "prime",
+      "component",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Grendel Prime Chassis Blueprint",
+      "zh-hans": "Grendel Prime 机体 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/grendel_prime_chassis_blueprint.c684407cdaea9bef16f0c7aa97c74369.png",
+      "zh-hans": "items/images/en/grendel_prime_chassis_blueprint.c684407cdaea9bef16f0c7aa97c74369.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/grendel_prime_chassis_blueprint.c684407cdaea9bef16f0c7aa97c74369.128x128.png",
+      "zh-hans": "items/images/en/thumbs/grendel_prime_chassis_blueprint.c684407cdaea9bef16f0c7aa97c74369.128x128.png"
+    }
+  },
+  {
+    "id": "653060f332327ba8746da748",
+    "slug": "grendel_prime_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeSystemsBlueprint",
+    "tags": [
+      "prime",
+      "component",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 65,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Grendel Prime Systems Blueprint",
+      "zh-hans": "Grendel Prime 系统 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/grendel_prime_systems_blueprint.c684407cdaea9bef16f0c7aa97c74369.png",
+      "zh-hans": "items/images/en/grendel_prime_systems_blueprint.c684407cdaea9bef16f0c7aa97c74369.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/grendel_prime_systems_blueprint.c684407cdaea9bef16f0c7aa97c74369.128x128.png",
+      "zh-hans": "items/images/en/thumbs/grendel_prime_systems_blueprint.c684407cdaea9bef16f0c7aa97c74369.128x128.png"
+    }
+  },
+  {
+    "id": "6530690f22c7fd9770508544",
+    "slug": "masseter_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeMasseter/PrimeMasseter",
+    "tags": [
+      "prime",
+      "melee",
+      "weapon",
+      "set"
+    ],
+    "ducats": 160,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Masseter Prime Set",
+      "zh-hans": "咀嚼金杖 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/masseter_prime_set.d507aa3bf568e9ca76f7bc9b6d2288c8.png",
+      "zh-hans": "items/images/en/masseter_prime_set.d507aa3bf568e9ca76f7bc9b6d2288c8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/masseter_prime_set.d507aa3bf568e9ca76f7bc9b6d2288c8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/masseter_prime_set.d507aa3bf568e9ca76f7bc9b6d2288c8.128x128.png"
+    }
+  },
+  {
+    "id": "6530690f22c7fd9770508545",
+    "slug": "masseter_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/MasseterPrimeBlueprint",
+    "tags": [
+      "prime",
+      "melee",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Masseter Prime Blueprint",
+      "zh-hans": "咀嚼金杖 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/masseter_prime_blueprint.d507aa3bf568e9ca76f7bc9b6d2288c8.png",
+      "zh-hans": "items/images/en/masseter_prime_blueprint.d507aa3bf568e9ca76f7bc9b6d2288c8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/masseter_prime_blueprint.d507aa3bf568e9ca76f7bc9b6d2288c8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/masseter_prime_blueprint.d507aa3bf568e9ca76f7bc9b6d2288c8.128x128.png"
+    }
+  },
+  {
+    "id": "6530694622c7fd9770508548",
+    "slug": "zylok_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeZylok/ZylokPrimePistol",
+    "tags": [
+      "prime",
+      "secondary",
+      "weapon",
+      "set"
+    ],
+    "ducats": 160,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Zylok Prime Set",
+      "zh-hans": "席尔火枪 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/zylok_prime_set.3e33bc4a5c48f70000b4ad50fa283437.png",
+      "zh-hans": "items/images/en/zylok_prime_set.3e33bc4a5c48f70000b4ad50fa283437.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/zylok_prime_set.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
+      "zh-hans": "items/images/en/thumbs/zylok_prime_set.3e33bc4a5c48f70000b4ad50fa283437.128x128.png"
+    }
+  },
+  {
+    "id": "6530694622c7fd9770508549",
+    "slug": "zylok_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/ZylokPrimeBlueprint",
+    "tags": [
+      "prime",
+      "secondary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Zylok Prime Blueprint",
+      "zh-hans": "席尔火枪 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/zylok_prime_blueprint.3e33bc4a5c48f70000b4ad50fa283437.png",
+      "zh-hans": "items/images/en/zylok_prime_blueprint.3e33bc4a5c48f70000b4ad50fa283437.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/zylok_prime_blueprint.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
+      "zh-hans": "items/images/en/thumbs/zylok_prime_blueprint.3e33bc4a5c48f70000b4ad50fa283437.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fc5aed5b0d2e3eb462b2",
+    "slug": "gauss_prime_set",
+    "gameRef": "/Lotus/Powersuits/Runner/GaussPrime",
+    "tags": [
+      "prime",
+      "warframe",
+      "set"
+    ],
+    "ducats": 185,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gauss Prime Set",
+      "zh-hans": "Gauss Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/gauss_prime_set.df5aa569d863730a4de767fd449c107e.png",
+      "zh-hans": "items/images/en/gauss_prime_set.df5aa569d863730a4de767fd449c107e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gauss_prime_set.df5aa569d863730a4de767fd449c107e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gauss_prime_set.df5aa569d863730a4de767fd449c107e.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fc5aed5b0d2e3eb462b3",
+    "slug": "gauss_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeBlueprint",
+    "tags": [
+      "prime",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 25,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gauss Prime Blueprint",
+      "zh-hans": "Gauss Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/gauss_prime_blueprint.df5aa569d863730a4de767fd449c107e.png",
+      "zh-hans": "items/images/en/gauss_prime_blueprint.df5aa569d863730a4de767fd449c107e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gauss_prime_blueprint.df5aa569d863730a4de767fd449c107e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gauss_prime_blueprint.df5aa569d863730a4de767fd449c107e.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fc5aed5b0d2e3eb462b4",
+    "slug": "gauss_prime_neuroptics_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeHelmetBlueprint",
+    "tags": [
+      "prime",
+      "warframe",
+      "component",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gauss Prime Neuroptics Blueprint",
+      "zh-hans": "Gauss Prime 头部神经光元 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/gauss_prime_neuroptics_blueprint.df5aa569d863730a4de767fd449c107e.png",
+      "zh-hans": "items/images/en/gauss_prime_neuroptics_blueprint.df5aa569d863730a4de767fd449c107e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gauss_prime_neuroptics_blueprint.df5aa569d863730a4de767fd449c107e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gauss_prime_neuroptics_blueprint.df5aa569d863730a4de767fd449c107e.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fc5aed5b0d2e3eb462b5",
+    "slug": "gauss_prime_chassis_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeChassisBlueprint",
+    "tags": [
+      "prime",
+      "warframe",
+      "component",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gauss Prime Chassis Blueprint",
+      "zh-hans": "Gauss Prime 机体 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/gauss_prime_chassis_blueprint.df5aa569d863730a4de767fd449c107e.png",
+      "zh-hans": "items/images/en/gauss_prime_chassis_blueprint.df5aa569d863730a4de767fd449c107e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gauss_prime_chassis_blueprint.df5aa569d863730a4de767fd449c107e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gauss_prime_chassis_blueprint.df5aa569d863730a4de767fd449c107e.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fc5aed5b0d2e3eb462b6",
+    "slug": "gauss_prime_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeSystemsBlueprint",
+    "tags": [
+      "prime",
+      "warframe",
+      "component",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gauss Prime Systems Blueprint",
+      "zh-hans": "Gauss Prime 系统 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/gauss_prime_systems_blueprint.df5aa569d863730a4de767fd449c107e.png",
+      "zh-hans": "items/images/en/gauss_prime_systems_blueprint.df5aa569d863730a4de767fd449c107e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gauss_prime_systems_blueprint.df5aa569d863730a4de767fd449c107e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gauss_prime_systems_blueprint.df5aa569d863730a4de767fd449c107e.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fca4ed5b0d2e3eb462c9",
+    "slug": "akarius_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeAkarius/PrimeAkariusWeapon",
+    "tags": [
+      "prime",
+      "secondary",
+      "weapon",
+      "set"
+    ],
+    "ducats": 305,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Akarius Prime Set",
+      "zh-hans": "阿利乌双枪 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/akarius_prime_set.9e88bceafe14482e1a01672c1c292fe1.png",
+      "zh-hans": "items/images/en/akarius_prime_set.9e88bceafe14482e1a01672c1c292fe1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/akarius_prime_set.9e88bceafe14482e1a01672c1c292fe1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/akarius_prime_set.9e88bceafe14482e1a01672c1c292fe1.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fca4ed5b0d2e3eb462ca",
+    "slug": "akarius_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/AkariusPrimeBlueprint",
+    "tags": [
+      "prime",
+      "secondary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Akarius Prime Blueprint",
+      "zh-hans": "阿利乌双枪 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/akarius_prime_blueprint.9e88bceafe14482e1a01672c1c292fe1.png",
+      "zh-hans": "items/images/en/akarius_prime_blueprint.9e88bceafe14482e1a01672c1c292fe1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/akarius_prime_blueprint.9e88bceafe14482e1a01672c1c292fe1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/akarius_prime_blueprint.9e88bceafe14482e1a01672c1c292fe1.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fca4ed5b0d2e3eb462cb",
+    "slug": "akarius_prime_barrel",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkariusPrimeBarrel",
+    "tags": [
+      "prime",
+      "weapon",
+      "component"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Akarius Prime Barrel",
+      "zh-hans": "阿利乌双枪 Prime 枪管"
+    },
+    "icons": {
+      "en": "items/images/en/akarius_prime_barrel.9e88bceafe14482e1a01672c1c292fe1.png",
+      "zh-hans": "items/images/en/akarius_prime_barrel.9e88bceafe14482e1a01672c1c292fe1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/akarius_prime_barrel.9e88bceafe14482e1a01672c1c292fe1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/akarius_prime_barrel.9e88bceafe14482e1a01672c1c292fe1.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fca4ed5b0d2e3eb462cc",
+    "slug": "akarius_prime_receiver",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkariusPrimeReceiver",
+    "tags": [
+      "prime",
+      "weapon",
+      "component"
+    ],
+    "ducats": 65,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Akarius Prime Receiver",
+      "zh-hans": "阿利乌双枪 Prime 枪机"
+    },
+    "icons": {
+      "en": "items/images/en/akarius_prime_receiver.9e88bceafe14482e1a01672c1c292fe1.png",
+      "zh-hans": "items/images/en/akarius_prime_receiver.9e88bceafe14482e1a01672c1c292fe1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/akarius_prime_receiver.9e88bceafe14482e1a01672c1c292fe1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/akarius_prime_receiver.9e88bceafe14482e1a01672c1c292fe1.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fca4ed5b0d2e3eb462cd",
+    "slug": "akarius_prime_link",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkariusPrimeLink",
+    "tags": [
+      "prime",
+      "weapon",
+      "component"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Akarius Prime Link",
+      "zh-hans": "阿利乌双枪 Prime 连接器"
+    },
+    "icons": {
+      "en": "items/images/en/akarius_prime_link.9e88bceafe14482e1a01672c1c292fe1.png",
+      "zh-hans": "items/images/en/akarius_prime_link.9e88bceafe14482e1a01672c1c292fe1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/akarius_prime_link.9e88bceafe14482e1a01672c1c292fe1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/akarius_prime_link.9e88bceafe14482e1a01672c1c292fe1.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fcc4ed5b0d2e3eb462ce",
+    "slug": "acceltra_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeAcceltra/PrimeAcceltraWeapon",
+    "tags": [
+      "prime",
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Acceltra Prime Set",
+      "zh-hans": "迅发电浆炮 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/acceltra_prime_set.b826cc938ba700ff8d8f07d2b38051f7.png",
+      "zh-hans": "items/images/en/acceltra_prime_set.b826cc938ba700ff8d8f07d2b38051f7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/acceltra_prime_set.b826cc938ba700ff8d8f07d2b38051f7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/acceltra_prime_set.b826cc938ba700ff8d8f07d2b38051f7.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fcc4ed5b0d2e3eb462cf",
+    "slug": "acceltra_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/AcceltraPrimeBlueprint",
+    "tags": [
+      "prime",
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Acceltra Prime Blueprint",
+      "zh-hans": "迅发电浆炮 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/acceltra_prime_blueprint.b826cc938ba700ff8d8f07d2b38051f7.png",
+      "zh-hans": "items/images/en/acceltra_prime_blueprint.b826cc938ba700ff8d8f07d2b38051f7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/acceltra_prime_blueprint.b826cc938ba700ff8d8f07d2b38051f7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/acceltra_prime_blueprint.b826cc938ba700ff8d8f07d2b38051f7.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fcc4ed5b0d2e3eb462d0",
+    "slug": "acceltra_prime_barrel",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AcceltraPrimeBarrel",
+    "tags": [
+      "prime",
+      "weapon",
+      "component"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Acceltra Prime Barrel",
+      "zh-hans": "迅发电浆炮 Prime 枪管"
+    },
+    "icons": {
+      "en": "items/images/en/acceltra_prime_barrel.b826cc938ba700ff8d8f07d2b38051f7.png",
+      "zh-hans": "items/images/en/acceltra_prime_barrel.b826cc938ba700ff8d8f07d2b38051f7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/acceltra_prime_barrel.b826cc938ba700ff8d8f07d2b38051f7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/acceltra_prime_barrel.b826cc938ba700ff8d8f07d2b38051f7.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fcc4ed5b0d2e3eb462d1",
+    "slug": "acceltra_prime_receiver",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AcceltraPrimeReceiver",
+    "tags": [
+      "prime",
+      "weapon",
+      "component"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Acceltra Prime Receiver",
+      "zh-hans": "迅发电浆炮 Prime 枪机"
+    },
+    "icons": {
+      "en": "items/images/en/acceltra_prime_receiver.b826cc938ba700ff8d8f07d2b38051f7.png",
+      "zh-hans": "items/images/en/acceltra_prime_receiver.b826cc938ba700ff8d8f07d2b38051f7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/acceltra_prime_receiver.b826cc938ba700ff8d8f07d2b38051f7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/acceltra_prime_receiver.b826cc938ba700ff8d8f07d2b38051f7.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fcc4ed5b0d2e3eb462d2",
+    "slug": "acceltra_prime_stock",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/AcceltraPrimeStock",
+    "tags": [
+      "prime",
+      "weapon",
+      "component"
+    ],
+    "ducats": 65,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Acceltra Prime Stock",
+      "zh-hans": "迅发电浆炮 Prime 枪托"
+    },
+    "icons": {
+      "en": "items/images/en/acceltra_prime_stock.b826cc938ba700ff8d8f07d2b38051f7.png",
+      "zh-hans": "items/images/en/acceltra_prime_stock.b826cc938ba700ff8d8f07d2b38051f7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/acceltra_prime_stock.b826cc938ba700ff8d8f07d2b38051f7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/acceltra_prime_stock.b826cc938ba700ff8d8f07d2b38051f7.128x128.png"
+    }
+  },
+  {
+    "id": "66a51c8e66bbb2aedca694b0",
+    "slug": "akmagnus_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Akimbo/DualMagnusPrime",
+    "tags": [
+      "prime",
+      "secondary",
+      "weapon",
+      "set"
+    ],
+    "ducats": 60,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Akmagnus Prime Set",
+      "zh-hans": "麦格努斯双枪 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+      "zh-hans": "items/images/en/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/akmagnus_prime.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+    }
+  },
+  {
+    "id": "66a51c8f66bbb2aedca694b1",
+    "slug": "akmagnus_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/AkmagnusPrimeBlueprint",
+    "tags": [
+      "prime",
+      "secondary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Akmagnus Prime Blueprint",
+      "zh-hans": "麦格努斯双枪 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/akmagnus_prime_blueprint.95b6f92e0f3a5b3b82d82195d1778d5d.webp",
+      "zh-hans": "items/images/en/akmagnus_prime_blueprint.95b6f92e0f3a5b3b82d82195d1778d5d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/akmagnus_prime_blueprint.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/akmagnus_prime_blueprint.95b6f92e0f3a5b3b82d82195d1778d5d.128x128.webp"
+    }
+  },
+  {
+    "id": "66c6080266bbb2aedca6957b",
+    "slug": "sevagoth_prime_set",
+    "gameRef": "/Lotus/Powersuits/Wraith/SevagothPrime",
+    "tags": [
+      "prime",
+      "warframe",
+      "set"
+    ],
+    "ducats": 175,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sevagoth Prime Set",
+      "zh-hans": "Sevagoth Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/sevagoth_prime.56633fb39859f758c11e42519c3521fb.webp",
+      "zh-hans": "items/images/en/sevagoth_prime.56633fb39859f758c11e42519c3521fb.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sevagoth_prime.56633fb39859f758c11e42519c3521fb.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/sevagoth_prime.56633fb39859f758c11e42519c3521fb.128x128.webp"
+    }
+  },
+  {
+    "id": "66c6080266bbb2aedca6957c",
+    "slug": "sevagoth_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeBlueprint",
+    "tags": [
+      "prime",
+      "warframe",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sevagoth Prime Blueprint",
+      "zh-hans": "Sevagoth Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/sevagoth_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "zh-hans": "items/images/en/sevagoth_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sevagoth_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/sevagoth_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  },
+  {
+    "id": "66c60c2766bbb2aedca695a3",
+    "slug": "epitaph_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeEpitaph/PrimeEpitaphSidearmWeapon",
+    "tags": [
+      "prime",
+      "secondary",
+      "weapon",
+      "set"
+    ],
+    "ducats": 160,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Epitaph Prime Set",
+      "zh-hans": "葬铭 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/epitaph_prime.7402042b9ff2df97d76b99404f0bb527.webp",
+      "zh-hans": "items/images/en/epitaph_prime.7402042b9ff2df97d76b99404f0bb527.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/epitaph_prime.7402042b9ff2df97d76b99404f0bb527.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/epitaph_prime.7402042b9ff2df97d76b99404f0bb527.128x128.webp"
+    }
+  },
+  {
+    "id": "66c60c2766bbb2aedca695a4",
+    "slug": "epitaph_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/EpitaphPrimeBlueprint",
+    "tags": [
+      "prime",
+      "secondary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Epitaph Prime Blueprint",
+      "zh-hans": "葬铭 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "zh-hans": "items/images/en/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/epitaph_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  },
+  {
+    "id": "66c60c9066bbb2aedca695a8",
+    "slug": "nautilus_prime_set",
+    "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/NautilusPrimeSentinelPowerSuit",
+    "tags": [
+      "prime",
+      "sentinel",
+      "set"
+    ],
+    "ducats": 260,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Nautilus Prime Set",
+      "zh-hans": "鹦鹉螺 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp",
+      "zh-hans": "items/images/en/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/nautilus_prime.64f2680abc41ecdb62943bc1b55be8c4.128x128.webp"
+    }
+  },
+  {
+    "id": "66c60c9066bbb2aedca695a9",
+    "slug": "nautilus_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint",
+    "tags": [
+      "prime",
+      "sentinel",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Nautilus Prime Blueprint",
+      "zh-hans": "鹦鹉螺 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "zh-hans": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  },
+  {
+    "id": "6939aac75d9ebda239125d31",
+    "slug": "kestrel_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/Glaives/PrimeKestrel/PrimeKestrel",
+    "tags": [
+      "prime",
+      "weapon",
+      "melee",
+      "set"
+    ],
+    "ducats": 175,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Kestrel Prime Set",
+      "zh-hans": "红隼 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/kestrel_prime_set.4d27b989c37deb1e2a0ec4499e69c874.webp",
+      "zh-hans": "items/images/en/kestrel_prime_set.4d27b989c37deb1e2a0ec4499e69c874.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/kestrel_prime_set.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/kestrel_prime_set.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+    }
+  },
+  {
+    "id": "6939aac85d9ebda239125d32",
+    "slug": "kestrel_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/KestrelPrimeBlueprint",
+    "tags": [
+      "prime",
+      "weapon",
+      "melee",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Kestrel Prime Blueprint",
+      "zh-hans": "红隼 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp",
+      "zh-hans": "items/images/en/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/kestrel_prime_blueprint.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
+    }
+  }
+]

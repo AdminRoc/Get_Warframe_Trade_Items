@@ -1,0 +1,342 @@
+[
+  {
+    "id": "57dbdc745e334907aa8edb5f",
+    "slug": "elytron_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingSystemsComponent",
+    "tags": [
+      "archwing",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Elytron Systems",
+      "zh-hans": "鞘翅 系统"
+    },
+    "icons": {
+      "en": "items/images/en/elytron_systems_blueprint.971d1e23ad3033ff3af37147302efb8b.png",
+      "zh-hans": "items/images/en/elytron_systems_blueprint.971d1e23ad3033ff3af37147302efb8b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/elytron_systems_blueprint.971d1e23ad3033ff3af37147302efb8b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/elytron_systems_blueprint.971d1e23ad3033ff3af37147302efb8b.128x128.png"
+    }
+  },
+  {
+    "id": "57dbdc685e334907aa8edb5b",
+    "slug": "amesha_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/ArchwingRecipes/SupportArchwing/SupportArchwingSystemsComponent",
+    "tags": [
+      "archwing",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Amesha Systems",
+      "zh-hans": "圣使 系统"
+    },
+    "icons": {
+      "en": "items/images/en/amesha_systems_blueprint.ff297caf790ef259b5715a2510974338.png",
+      "zh-hans": "items/images/en/amesha_systems_blueprint.ff297caf790ef259b5715a2510974338.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/amesha_systems_blueprint.ff297caf790ef259b5715a2510974338.128x128.png",
+      "zh-hans": "items/images/en/thumbs/amesha_systems_blueprint.ff297caf790ef259b5715a2510974338.128x128.png"
+    }
+  },
+  {
+    "id": "57dbdc685e334907aa8edb5c",
+    "slug": "amesha_wings_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/ArchwingRecipes/SupportArchwing/SupportArchwingWingsComponent",
+    "tags": [
+      "archwing",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Amesha Wings",
+      "zh-hans": "圣使 机翼"
+    },
+    "icons": {
+      "en": "items/images/en/amesha_wings_blueprint.ff297caf790ef259b5715a2510974338.png",
+      "zh-hans": "items/images/en/amesha_wings_blueprint.ff297caf790ef259b5715a2510974338.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/amesha_wings_blueprint.ff297caf790ef259b5715a2510974338.128x128.png",
+      "zh-hans": "items/images/en/thumbs/amesha_wings_blueprint.ff297caf790ef259b5715a2510974338.128x128.png"
+    }
+  },
+  {
+    "id": "57dbdc685e334907aa8edb5d",
+    "slug": "amesha_harness_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/ArchwingRecipes/SupportArchwing/SupportArchwingChassisComponent",
+    "tags": [
+      "archwing",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Amesha Harness",
+      "zh-hans": "圣使 外甲"
+    },
+    "icons": {
+      "en": "items/images/en/amesha_harness_blueprint.ff297caf790ef259b5715a2510974338.png",
+      "zh-hans": "items/images/en/amesha_harness_blueprint.ff297caf790ef259b5715a2510974338.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/amesha_harness_blueprint.ff297caf790ef259b5715a2510974338.128x128.png",
+      "zh-hans": "items/images/en/thumbs/amesha_harness_blueprint.ff297caf790ef259b5715a2510974338.128x128.png"
+    }
+  },
+  {
+    "id": "57dbdc745e334907aa8edb61",
+    "slug": "elytron_harness_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingChassisComponent",
+    "tags": [
+      "archwing",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Elytron Harness",
+      "zh-hans": "鞘翅 外甲"
+    },
+    "icons": {
+      "en": "items/images/en/elytron_harness_blueprint.971d1e23ad3033ff3af37147302efb8b.png",
+      "zh-hans": "items/images/en/elytron_harness_blueprint.971d1e23ad3033ff3af37147302efb8b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/elytron_harness_blueprint.971d1e23ad3033ff3af37147302efb8b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/elytron_harness_blueprint.971d1e23ad3033ff3af37147302efb8b.128x128.png"
+    }
+  },
+  {
+    "id": "57dbdc745e334907aa8edb60",
+    "slug": "elytron_wings_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingWingsComponent",
+    "tags": [
+      "archwing",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Elytron Wings",
+      "zh-hans": "鞘翅 机翼"
+    },
+    "icons": {
+      "en": "items/images/en/elytron_wings_blueprint.971d1e23ad3033ff3af37147302efb8b.png",
+      "zh-hans": "items/images/en/elytron_wings_blueprint.971d1e23ad3033ff3af37147302efb8b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/elytron_wings_blueprint.971d1e23ad3033ff3af37147302efb8b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/elytron_wings_blueprint.971d1e23ad3033ff3af37147302efb8b.128x128.png"
+    }
+  },
+  {
+    "id": "5527a26de77989205156b2b7",
+    "slug": "odonata_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingBlueprint",
+    "tags": [
+      "archwing",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Odonata Prime Blueprint",
+      "zh-hans": "陨蜓 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/odonata_prime_blueprint.9087f5267b49dee37c38d36f57387753.png",
+      "zh-hans": "items/images/en/odonata_prime_blueprint.9087f5267b49dee37c38d36f57387753.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/odonata_prime_blueprint.9087f5267b49dee37c38d36f57387753.128x128.png",
+      "zh-hans": "items/images/en/thumbs/odonata_prime_blueprint.9087f5267b49dee37c38d36f57387753.128x128.png"
+    }
+  },
+  {
+    "id": "5fe0ea836db57b0225115013",
+    "slug": "prisma_dual_decurions",
+    "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols",
+    "tags": [
+      "archwing",
+      "weapon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Prisma Dual Decurions",
+      "zh-hans": "棱晶·什长双枪"
+    },
+    "icons": {
+      "en": "items/images/en/prisma_dual_decurion.4ee7041a38ef9ad13e0b56829098d536.png",
+      "zh-hans": "items/images/en/prisma_dual_decurion.4ee7041a38ef9ad13e0b56829098d536.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/prisma_dual_decurion.4ee7041a38ef9ad13e0b56829098d536.128x128.png",
+      "zh-hans": "items/images/en/thumbs/prisma_dual_decurion.4ee7041a38ef9ad13e0b56829098d536.128x128.png"
+    }
+  },
+  {
+    "id": "6242037666a58f0108c3d47a",
+    "slug": "corvas_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeCorvas/PrimeCorvasWeapon",
+    "tags": [
+      "archwing",
+      "primary",
+      "weapon",
+      "prime",
+      "set"
+    ],
+    "ducats": 175,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Corvas Prime Set",
+      "zh-hans": "黑鸦 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/corvas_prime_set.f6bd98b0b4a2491580a40775708b21f4.png",
+      "zh-hans": "items/images/en/corvas_prime_set.f6bd98b0b4a2491580a40775708b21f4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/corvas_prime_set.f6bd98b0b4a2491580a40775708b21f4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/corvas_prime_set.f6bd98b0b4a2491580a40775708b21f4.128x128.png"
+    }
+  },
+  {
+    "id": "6242037666a58f0108c3d480",
+    "slug": "corvas_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/CorvasPrimeBlueprint",
+    "tags": [
+      "archwing",
+      "primary",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Corvas Prime Blueprint",
+      "zh-hans": "黑鸦 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/corvas_prime_blueprint.f6bd98b0b4a2491580a40775708b21f4.png",
+      "zh-hans": "items/images/en/corvas_prime_blueprint.f6bd98b0b4a2491580a40775708b21f4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/corvas_prime_blueprint.f6bd98b0b4a2491580a40775708b21f4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/corvas_prime_blueprint.f6bd98b0b4a2491580a40775708b21f4.128x128.png"
+    }
+  },
+  {
+    "id": "657f14f38820fb8f3c5f4658",
+    "slug": "mandonel_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/TnConcreteArchgun/TnConcreteArchgunWeapon",
+    "tags": [
+      "archwing",
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Mandonel Set",
+      "zh-hans": "辐光弩炮 一套"
+    },
+    "icons": {
+      "en": "items/images/en/mandonel_set.242783b92f4aeadf1270b7012dfa9079.png",
+      "zh-hans": "items/images/en/mandonel_set.242783b92f4aeadf1270b7012dfa9079.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mandonel_set.242783b92f4aeadf1270b7012dfa9079.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mandonel_set.242783b92f4aeadf1270b7012dfa9079.128x128.png"
+    }
+  },
+  {
+    "id": "657f14f38820fb8f3c5f4659",
+    "slug": "mandonel_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/TnConcreteArchgunBlueprint",
+    "tags": [
+      "archwing",
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Mandonel Blueprint",
+      "zh-hans": "辐光弩炮 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/mandonel_blueprint.242783b92f4aeadf1270b7012dfa9079.png",
+      "zh-hans": "items/images/en/mandonel_blueprint.242783b92f4aeadf1270b7012dfa9079.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mandonel_blueprint.242783b92f4aeadf1270b7012dfa9079.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mandonel_blueprint.242783b92f4aeadf1270b7012dfa9079.128x128.png"
+    }
+  },
+  {
+    "id": "65d6509d453a14fbc68e273a",
+    "slug": "critical_meltdown",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventRadiationCritChanceMeleeMod",
+    "tags": [
+      "archwing",
+      "rare",
+      "mod",
+      "melee",
+      "archmelee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Critical Meltdown",
+      "zh-hans": "关键熔毁"
+    },
+    "icons": {
+      "en": "items/images/en/critical_meltdown.72a28e4a4d2a225cf6e1915e469172b0.png",
+      "zh-hans": "items/images/en/critical_meltdown.72a28e4a4d2a225cf6e1915e469172b0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/critical_meltdown.72a28e4a4d2a225cf6e1915e469172b0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/critical_meltdown.72a28e4a4d2a225cf6e1915e469172b0.128x128.png"
+    }
+  }
+]

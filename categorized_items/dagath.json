@@ -1,0 +1,30 @@
+[
+  {
+    "id": "667238d78ba7c81b70d02cbe",
+    "slug": "spectral_spirit",
+    "gameRef": "/Lotus/Powersuits/Dagath/DagathApparitionAugmentCard",
+    "tags": [
+      "dagath",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Spectral Spirit",
+      "zh-hans": "魅影魂灵"
+    },
+    "icons": {
+      "en": "items/images/en/spectral_spirit.46538d5c24f4201461930060ef10fd77.webp",
+      "zh-hans": "items/images/en/spectral_spirit.46538d5c24f4201461930060ef10fd77.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/spectral_spirit.46538d5c24f4201461930060ef10fd77.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/spectral_spirit.46538d5c24f4201461930060ef10fd77.128x128.webp"
+    }
+  }
+]

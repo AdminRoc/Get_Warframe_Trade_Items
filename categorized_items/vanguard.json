@@ -1,0 +1,126 @@
+[
+  {
+    "id": "6944ca272366b4663960aaa4",
+    "slug": "vanguard_c1_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VanguardVaultA",
+    "tags": [
+      "vanguard",
+      "relic",
+      "axi"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Vanguard C1 Relic",
+      "zh-hans": "先锋 C1 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/vanguard_c1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.webp",
+      "zh-hans": "items/images/en/vanguard_c1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vanguard_c1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/vanguard_c1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.128x128.webp"
+    }
+  },
+  {
+    "id": "6944ca352366b4663960aaa6",
+    "slug": "vanguard_p1_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VanguardVaultB",
+    "tags": [
+      "vanguard",
+      "relic",
+      "axi"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Vanguard P1 Relic",
+      "zh-hans": "先锋 P1 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/vanguard_p1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.webp",
+      "zh-hans": "items/images/en/vanguard_p1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vanguard_p1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/vanguard_p1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.128x128.webp"
+    }
+  },
+  {
+    "id": "6944ca3e2366b4663960aaa8",
+    "slug": "vanguard_m1_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VanguardVaultC",
+    "tags": [
+      "vanguard",
+      "relic",
+      "axi"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Vanguard M1 Relic",
+      "zh-hans": "先锋 M1 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/vanguard_m1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.webp",
+      "zh-hans": "items/images/en/vanguard_m1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vanguard_m1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/vanguard_m1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.128x128.webp"
+    }
+  },
+  {
+    "id": "6944ca462366b4663960aaaa",
+    "slug": "vanguard_e1_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VanguardVaultD",
+    "tags": [
+      "vanguard",
+      "relic",
+      "axi"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Vanguard E1 Relic",
+      "zh-hans": "先锋 E1 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/vanguard_e1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.webp",
+      "zh-hans": "items/images/en/vanguard_e1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vanguard_e1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/vanguard_e1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.128x128.webp"
+    }
+  }
+]

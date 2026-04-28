@@ -1,0 +1,308 @@
+[
+  {
+    "id": "54ca431ce779891a1adb4901",
+    "slug": "wyrm_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/SentinelRecipes/PrimeWyrmSentinelBlueprint",
+    "tags": [
+      "sentinel",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Wyrm Prime Blueprint",
+      "zh-hans": "蛟龙 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/wyrm_prime_blueprint.4da3da5cc8eeef554dc3208bbb5a8f26.png",
+      "zh-hans": "items/images/en/wyrm_prime_blueprint.4da3da5cc8eeef554dc3208bbb5a8f26.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/wyrm_prime_blueprint.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png",
+      "zh-hans": "items/images/en/thumbs/wyrm_prime_blueprint.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png"
+    }
+  },
+  {
+    "id": "585a93012c2ada004f1a297e",
+    "slug": "prisma_shade",
+    "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/PrismaShadePowerSuit",
+    "tags": [
+      "sentinel"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Prisma Shade",
+      "zh-hans": "棱晶 阴影"
+    },
+    "icons": {
+      "en": "items/images/en/prisma_shade.cc1c7bc7c621300a6af014b735ec3430.png",
+      "zh-hans": "items/images/en/prisma_shade.cc1c7bc7c621300a6af014b735ec3430.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/prisma_shade.cc1c7bc7c621300a6af014b735ec3430.128x128.png",
+      "zh-hans": "items/images/en/thumbs/prisma_shade.cc1c7bc7c621300a6af014b735ec3430.128x128.png"
+    }
+  },
+  {
+    "id": "559daac1e779897b4253a85e",
+    "slug": "carrier_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/SentinelRecipes/PrimeCarrierSentinelBlueprint",
+    "tags": [
+      "sentinel",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Carrier Prime Blueprint",
+      "zh-hans": "搬运者 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/carrier_prime_blueprint.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
+      "zh-hans": "items/images/en/carrier_prime_blueprint.1f39e6e9ecef0225b0755dd5c89f3cc8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/carrier_prime_blueprint.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/carrier_prime_blueprint.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png"
+    }
+  },
+  {
+    "id": "5be701153ffcc703e462c70b",
+    "slug": "assault_mode",
+    "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/SentinelAttack",
+    "tags": [
+      "sentinel",
+      "mod",
+      "common"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Assault Mode",
+      "zh-hans": "突击模式"
+    },
+    "icons": {
+      "en": "items/images/en/assault_mode.3d12d35a3c4a0e0ba6f22fa09f553fdf.png",
+      "zh-hans": "items/images/en/assault_mode.3d12d35a3c4a0e0ba6f22fa09f553fdf.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/assault_mode.3d12d35a3c4a0e0ba6f22fa09f553fdf.128x128.png",
+      "zh-hans": "items/images/en/thumbs/assault_mode.3d12d35a3c4a0e0ba6f22fa09f553fdf.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd8996",
+    "slug": "carrier_prime_set",
+    "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeCarrierPowerSuit",
+    "tags": [
+      "sentinel",
+      "prime",
+      "set"
+    ],
+    "ducats": 110,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Carrier Prime Set",
+      "zh-hans": "搬运者 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/carrier_prime_set.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
+      "zh-hans": "items/images/en/carrier_prime_set.1f39e6e9ecef0225b0755dd5c89f3cc8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/carrier_prime_set.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/carrier_prime_set.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd89b3",
+    "slug": "wyrm_prime_set",
+    "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeWyrmPowerSuit",
+    "tags": [
+      "sentinel",
+      "prime",
+      "set"
+    ],
+    "ducats": 90,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Wyrm Prime Set",
+      "zh-hans": "蛟龙 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/wyrm_prime_set.4da3da5cc8eeef554dc3208bbb5a8f26.png",
+      "zh-hans": "items/images/en/wyrm_prime_set.4da3da5cc8eeef554dc3208bbb5a8f26.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/wyrm_prime_set.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png",
+      "zh-hans": "items/images/en/thumbs/wyrm_prime_set.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png"
+    }
+  },
+  {
+    "id": "587a15c8c13d58ede882322b",
+    "slug": "primed_regen",
+    "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/PrimedRegen",
+    "tags": [
+      "sentinel",
+      "mod",
+      "legendary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 10,
+    "subtypes": null,
+    "names": {
+      "en": "Primed Regen",
+      "zh-hans": "重生 Prime"
+    },
+    "icons": {
+      "en": "items/images/en/primed_regen.d43312351a7a10acef1b56641029f044.png",
+      "zh-hans": "items/images/en/primed_regen.d43312351a7a10acef1b56641029f044.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/primed_regen.d43312351a7a10acef1b56641029f044.128x128.png",
+      "zh-hans": "items/images/en/thumbs/primed_regen.d43312351a7a10acef1b56641029f044.128x128.png"
+    }
+  },
+  {
+    "id": "6056348090a69e004e862875",
+    "slug": "nautilus_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/SentinelRecipes/EmpyreanSentinelBlueprint",
+    "tags": [
+      "sentinel",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Nautilus Blueprint",
+      "zh-hans": "鹦鹉螺 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/nautilus_blueprint.4d2546740e4772a35db251115721c6b7.png",
+      "zh-hans": "items/images/en/nautilus_blueprint.4d2546740e4772a35db251115721c6b7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/nautilus_blueprint.4d2546740e4772a35db251115721c6b7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/nautilus_blueprint.4d2546740e4772a35db251115721c6b7.128x128.png"
+    }
+  },
+  {
+    "id": "6056348490a69e004e86287d",
+    "slug": "nautilus_set",
+    "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/EmpyreanSentinelPowerSuit",
+    "tags": [
+      "sentinel",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Nautilus Set",
+      "zh-hans": "鹦鹉螺 一套"
+    },
+    "icons": {
+      "en": "items/images/en/nautilus_set.4d2546740e4772a35db251115721c6b7.png",
+      "zh-hans": "items/images/en/nautilus_set.4d2546740e4772a35db251115721c6b7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/nautilus_set.4d2546740e4772a35db251115721c6b7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/nautilus_set.4d2546740e4772a35db251115721c6b7.128x128.png"
+    }
+  },
+  {
+    "id": "62af145c5d2dab0054229039",
+    "slug": "prisma_shade_set",
+    "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/PrismaShadePowerSuit",
+    "tags": [
+      "sentinel",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Prisma Shade Set",
+      "zh-hans": "棱晶 阴影 一套"
+    },
+    "icons": {
+      "en": "items/images/en/prisma_shade_set.cc1c7bc7c621300a6af014b735ec3430.png",
+      "zh-hans": "items/images/en/prisma_shade_set.cc1c7bc7c621300a6af014b735ec3430.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/prisma_shade_set.cc1c7bc7c621300a6af014b735ec3430.128x128.png",
+      "zh-hans": "items/images/en/thumbs/prisma_shade_set.cc1c7bc7c621300a6af014b735ec3430.128x128.png"
+    }
+  },
+  {
+    "id": "62af145d5d2dab005422903f",
+    "slug": "prisma_burst_laser",
+    "gameRef": "/Lotus/Types/Sentinels/SentinelWeapons/PrismaBurstLaserPistol",
+    "tags": [
+      "sentinel",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Prisma Burst Laser",
+      "zh-hans": "棱晶 激光点发"
+    },
+    "icons": {
+      "en": "items/images/en/prisma_burst_laser.f4a86f6ebcd9df7e028c911d259ac431.png",
+      "zh-hans": "items/images/en/prisma_burst_laser.f4a86f6ebcd9df7e028c911d259ac431.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/prisma_burst_laser.f4a86f6ebcd9df7e028c911d259ac431.128x128.png",
+      "zh-hans": "items/images/en/thumbs/prisma_burst_laser.f4a86f6ebcd9df7e028c911d259ac431.128x128.png"
+    }
+  },
+  {
+    "id": "641263e07d179f02100c6d42",
+    "slug": "shade_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/SentinelRecipes/ShadePrimeSentinelBlueprint",
+    "tags": [
+      "sentinel",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Shade Prime Blueprint",
+      "zh-hans": "阴影 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/shade_prime_blueprint.d4376af3d68e873e85f81f456c83b261.png",
+      "zh-hans": "items/images/en/shade_prime_blueprint.d4376af3d68e873e85f81f456c83b261.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shade_prime_blueprint.d4376af3d68e873e85f81f456c83b261.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shade_prime_blueprint.d4376af3d68e873e85f81f456c83b261.128x128.png"
+    }
+  }
+]

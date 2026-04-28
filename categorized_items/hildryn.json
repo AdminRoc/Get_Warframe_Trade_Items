@@ -1,0 +1,86 @@
+[
+  {
+    "id": "5e4145907b0275011bc5b7ce",
+    "slug": "balefire_surge",
+    "gameRef": "/Lotus/Powersuits/IronFrame/IronFrameBlastAugmentCard",
+    "tags": [
+      "hildryn",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Balefire Surge",
+      "zh-hans": "野火涌流"
+    },
+    "icons": {
+      "en": "items/images/en/balefire_surge.494748c2c7a6859593d8438f3522e8b5.png",
+      "zh-hans": "items/images/en/balefire_surge.494748c2c7a6859593d8438f3522e8b5.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/balefire_surge.494748c2c7a6859593d8438f3522e8b5.128x128.png",
+      "zh-hans": "items/images/en/thumbs/balefire_surge.494748c2c7a6859593d8438f3522e8b5.128x128.png"
+    }
+  },
+  {
+    "id": "5ea087d2c160d001303f9ed9",
+    "slug": "blazing_pillage",
+    "gameRef": "/Lotus/Powersuits/IronFrame/IronFrameStripAugmentCard",
+    "tags": [
+      "hildryn",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Blazing Pillage",
+      "zh-hans": "炽燃劫掠"
+    },
+    "icons": {
+      "en": "items/images/en/blazing_pillage.4896fadb52f2709ef2a7a308e33736da.png",
+      "zh-hans": "items/images/en/blazing_pillage.4896fadb52f2709ef2a7a308e33736da.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/blazing_pillage.4896fadb52f2709ef2a7a308e33736da.128x128.png",
+      "zh-hans": "items/images/en/thumbs/blazing_pillage.4896fadb52f2709ef2a7a308e33736da.128x128.png"
+    }
+  },
+  {
+    "id": "66fd67d13a826eccf651cd4d",
+    "slug": "aegis_gale",
+    "gameRef": "/Lotus/Powersuits/IronFrame/IronFrameEruptionAugmentCard",
+    "tags": [
+      "hildryn",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Aegis Gale",
+      "zh-hans": "神盾之风"
+    },
+    "icons": {
+      "en": "items/images/en/aegis_gale.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "zh-hans": "items/images/en/aegis_gale.a81cadf3c1f6e67c92c188534ced77b2.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/aegis_gale.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/aegis_gale.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  }
+]

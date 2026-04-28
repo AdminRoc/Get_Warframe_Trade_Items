@@ -1,0 +1,86 @@
+[
+  {
+    "id": "5e4145917b0275011bc5b7d1",
+    "slug": "endless_lullaby",
+    "gameRef": "/Lotus/Powersuits/Pacifist/PacifistWaveAugmentCard",
+    "tags": [
+      "baruuk",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Endless Lullaby",
+      "zh-hans": "无尽催眠曲"
+    },
+    "icons": {
+      "en": "items/images/en/endless_lullaby.11fb2e84d6b43a9f0f9bb7ec6a821d92.png",
+      "zh-hans": "items/images/en/endless_lullaby.11fb2e84d6b43a9f0f9bb7ec6a821d92.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/endless_lullaby.11fb2e84d6b43a9f0f9bb7ec6a821d92.128x128.png",
+      "zh-hans": "items/images/en/thumbs/endless_lullaby.11fb2e84d6b43a9f0f9bb7ec6a821d92.128x128.png"
+    }
+  },
+  {
+    "id": "5e4145917b0275011bc5b7d2",
+    "slug": "reactive_storm",
+    "gameRef": "/Lotus/Powersuits/Pacifist/PacifistFistAugmentCard",
+    "tags": [
+      "baruuk",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Reactive Storm",
+      "zh-hans": "响应风暴"
+    },
+    "icons": {
+      "en": "items/images/en/reactive_storm.385aa3853a1a7feb274ffa9b207836e8.png",
+      "zh-hans": "items/images/en/reactive_storm.385aa3853a1a7feb274ffa9b207836e8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/reactive_storm.385aa3853a1a7feb274ffa9b207836e8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/reactive_storm.385aa3853a1a7feb274ffa9b207836e8.128x128.png"
+    }
+  },
+  {
+    "id": "6604a640dbdd5c1673781db5",
+    "slug": "elusive_retribution",
+    "gameRef": "/Lotus/Powersuits/Pacifist/PacifistDodgeAugmentCard",
+    "tags": [
+      "baruuk",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Elusive Retribution",
+      "zh-hans": "幻形惩戒"
+    },
+    "icons": {
+      "en": "items/images/en/elusive_retribution.93a4b9b33a04f46986376491691085db.png",
+      "zh-hans": "items/images/en/elusive_retribution.93a4b9b33a04f46986376491691085db.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/elusive_retribution.93a4b9b33a04f46986376491691085db.128x128.png",
+      "zh-hans": "items/images/en/thumbs/elusive_retribution.93a4b9b33a04f46986376491691085db.128x128.png"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5800c901c021d9dc0a9f891a",
+    "slug": "shadow_harvest",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPScytheStanceOne",
+    "tags": [
+      "scythes",
+      "pvp",
+      "uncommon",
+      "stance",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Shadow Harvest",
+      "zh-hans": "暗影收割"
+    },
+    "icons": {
+      "en": "items/images/en/shadow_harvest.168ec1d9aeb51d09579f074739802850.png",
+      "zh-hans": "items/images/en/shadow_harvest.168ec1d9aeb51d09579f074739802850.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shadow_harvest.168ec1d9aeb51d09579f074739802850.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shadow_harvest.168ec1d9aeb51d09579f074739802850.128x128.png"
+    }
+  }
+]

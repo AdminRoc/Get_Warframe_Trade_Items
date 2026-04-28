@@ -1,0 +1,114 @@
+[
+  {
+    "id": "5754a30de701ef5844257da8",
+    "slug": "everlasting_ward",
+    "gameRef": "/Lotus/Powersuits/Dragon/DragonLuckAugmentCard",
+    "tags": [
+      "chroma",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Everlasting Ward",
+      "zh-hans": "永恒之护"
+    },
+    "icons": {
+      "en": "items/images/en/everlasting_ward.30d6d7b879924d1cbaaf6e0c1063f2d7.png",
+      "zh-hans": "items/images/en/everlasting_ward.30d6d7b879924d1cbaaf6e0c1063f2d7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/everlasting_ward.30d6d7b879924d1cbaaf6e0c1063f2d7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/everlasting_ward.30d6d7b879924d1cbaaf6e0c1063f2d7.128x128.png"
+    }
+  },
+  {
+    "id": "5526aec1e779896af9418262",
+    "slug": "afterburn",
+    "gameRef": "/Lotus/Powersuits/Dragon/DragonBreathAugmentCard",
+    "tags": [
+      "chroma",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Afterburn",
+      "zh-hans": "续燃"
+    },
+    "icons": {
+      "en": "items/images/en/afterburn.b80b09df8cb5238b9f09230b76a27d8a.png",
+      "zh-hans": "items/images/en/afterburn.b80b09df8cb5238b9f09230b76a27d8a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/afterburn.b80b09df8cb5238b9f09230b76a27d8a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/afterburn.b80b09df8cb5238b9f09230b76a27d8a.128x128.png"
+    }
+  },
+  {
+    "id": "59385f6716efa3a742b15f61",
+    "slug": "guided_effigy",
+    "gameRef": "/Lotus/Powersuits/Dragon/DragonPeltAugmentCard",
+    "tags": [
+      "chroma",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Guided Effigy",
+      "zh-hans": "导路龙骸"
+    },
+    "icons": {
+      "en": "items/images/en/guided_effigy.c19b00b3672ac4678a87d7d3494ed55a.png",
+      "zh-hans": "items/images/en/guided_effigy.c19b00b3672ac4678a87d7d3494ed55a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/guided_effigy.c19b00b3672ac4678a87d7d3494ed55a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/guided_effigy.c19b00b3672ac4678a87d7d3494ed55a.128x128.png"
+    }
+  },
+  {
+    "id": "554d3b75e77989423ccdf0da",
+    "slug": "vexing_retaliation",
+    "gameRef": "/Lotus/Powersuits/Dragon/DragonScalesAugmentCard",
+    "tags": [
+      "chroma",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Vexing Retaliation",
+      "zh-hans": "怨怒报复"
+    },
+    "icons": {
+      "en": "items/images/en/vexing_retaliation.d5be3839fc5eb654044a32d238c4b176.png",
+      "zh-hans": "items/images/en/vexing_retaliation.d5be3839fc5eb654044a32d238c4b176.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vexing_retaliation.d5be3839fc5eb654044a32d238c4b176.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vexing_retaliation.d5be3839fc5eb654044a32d238c4b176.128x128.png"
+    }
+  }
+]

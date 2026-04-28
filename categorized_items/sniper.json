@@ -1,0 +1,56 @@
+[
+  {
+    "id": "55c154a7e779895e0186c0a4",
+    "slug": "depleted_reload",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedReloadSpeedMaxClipRifle",
+    "tags": [
+      "sniper",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Depleted Reload",
+      "zh-hans": "耗竭装填"
+    },
+    "icons": {
+      "en": "items/images/en/depleted_reload.0eeb2b2d90c62036d54c8121d291b916.png",
+      "zh-hans": "items/images/en/depleted_reload.0eeb2b2d90c62036d54c8121d291b916.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/depleted_reload.0eeb2b2d90c62036d54c8121d291b916.128x128.png",
+      "zh-hans": "items/images/en/thumbs/depleted_reload.0eeb2b2d90c62036d54c8121d291b916.128x128.png"
+    }
+  },
+  {
+    "id": "5729bcf9cb59ed5a9b484e8a",
+    "slug": "harkonar_scope",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/ProjectNightwatch/VulkarNightwatchMod",
+    "tags": [
+      "sniper",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Harkonar Scope",
+      "zh-hans": "哈库那瞄准镜"
+    },
+    "icons": {
+      "en": "items/images/en/harkonar_scope.b28d2b70ffd7bdba26aad0e28c85d955.png",
+      "zh-hans": "items/images/en/harkonar_scope.b28d2b70ffd7bdba26aad0e28c85d955.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/harkonar_scope.b28d2b70ffd7bdba26aad0e28c85d955.128x128.png",
+      "zh-hans": "items/images/en/thumbs/harkonar_scope.b28d2b70ffd7bdba26aad0e28c85d955.128x128.png"
+    }
+  }
+]

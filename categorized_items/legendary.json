@@ -1,0 +1,355 @@
+[
+  {
+    "id": "551085aee77989729e1416d0",
+    "slug": "arcane_barrier",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/InstantShieldOnDamage",
+    "tags": [
+      "legendary",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Barrier",
+      "zh-hans": "赋能·壁垒"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.png",
+      "zh-hans": "items/images/en/arcane_barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_barrier.c4b3b25fcc9c874a4bfc0f8998b9f5bd.128x128.png"
+    }
+  },
+  {
+    "id": "566751295dcbc186f0536bd1",
+    "slug": "arcane_energize",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneRadialEnergyOnEnergyPickup",
+    "tags": [
+      "legendary",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Energize",
+      "zh-hans": "赋能·充沛"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_energize.e5f85590ceb29db89c6753dfdf823485.png",
+      "zh-hans": "items/images/en/arcane_energize.e5f85590ceb29db89c6753dfdf823485.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_energize.e5f85590ceb29db89c6753dfdf823485.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_energize.e5f85590ceb29db89c6753dfdf823485.128x128.png"
+    }
+  },
+  {
+    "id": "55a46a58e77989027c23b89c",
+    "slug": "arcane_grace",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/HealthRegenOnDamage",
+    "tags": [
+      "legendary",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Grace",
+      "zh-hans": "赋能·优雅"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_grace.3e4f746417d977c6ac5f2c9edd71ada0.png",
+      "zh-hans": "items/images/en/arcane_grace.3e4f746417d977c6ac5f2c9edd71ada0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_grace.3e4f746417d977c6ac5f2c9edd71ada0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_grace.3e4f746417d977c6ac5f2c9edd71ada0.128x128.png"
+    }
+  },
+  {
+    "id": "5ef0a62004d55c0c40f06526",
+    "slug": "primed_rubedo_lined_barrel",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleDamageAmountModExpert",
+    "tags": [
+      "legendary",
+      "primary",
+      "mod",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 10,
+    "subtypes": null,
+    "names": {
+      "en": "Primed Rubedo-Lined Barrel",
+      "zh-hans": "红晶枪管 Prime"
+    },
+    "icons": {
+      "en": "items/images/en/primed_rubedo_lined_barrel.f907cff537d893315d623f87d3b700eb.png",
+      "zh-hans": "items/images/en/primed_rubedo_lined_barrel.f907cff537d893315d623f87d3b700eb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/primed_rubedo_lined_barrel.f907cff537d893315d623f87d3b700eb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/primed_rubedo_lined_barrel.f907cff537d893315d623f87d3b700eb.128x128.png"
+    }
+  },
+  {
+    "id": "5a26c31dc2c9e903a8381330",
+    "slug": "exodia_contagion",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneProjectileOnJump",
+    "tags": [
+      "legendary",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Exodia Contagion",
+      "zh-hans": "神威·触染"
+    },
+    "icons": {
+      "en": "items/images/en/exodia_contagion.f1cb19151ee32fa1ee23a778cba612a2.png",
+      "zh-hans": "items/images/en/exodia_contagion.f1cb19151ee32fa1ee23a778cba612a2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/exodia_contagion.f1cb19151ee32fa1ee23a778cba612a2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/exodia_contagion.f1cb19151ee32fa1ee23a778cba612a2.128x128.png"
+    }
+  },
+  {
+    "id": "5a26c320c2c9e903a8381331",
+    "slug": "exodia_epidemic",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneShockwaveOnJump",
+    "tags": [
+      "legendary",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Exodia Epidemic",
+      "zh-hans": "神威·流行病"
+    },
+    "icons": {
+      "en": "items/images/en/exodia_epidemic.3807403ba71019a6186468b251bc1d3a.png",
+      "zh-hans": "items/images/en/exodia_epidemic.3807403ba71019a6186468b251bc1d3a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/exodia_epidemic.3807403ba71019a6186468b251bc1d3a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/exodia_epidemic.3807403ba71019a6186468b251bc1d3a.128x128.png"
+    }
+  },
+  {
+    "id": "644b00227ec1900044b97724",
+    "slug": "secondary_shiver",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryExtraDamagePerFreezeStack",
+    "tags": [
+      "legendary",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Secondary Shiver",
+      "zh-hans": "次要·冷颤"
+    },
+    "icons": {
+      "en": "items/images/en/secondary_shiver.e169db6259133538ca86090ac481840a.png",
+      "zh-hans": "items/images/en/secondary_shiver.e169db6259133538ca86090ac481840a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/secondary_shiver.e169db6259133538ca86090ac481840a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/secondary_shiver.e169db6259133538ca86090ac481840a.128x128.png"
+    }
+  },
+  {
+    "id": "644b00227ec1900044b97727",
+    "slug": "longbow_sharpshot",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongbowDamageOnHeadshot",
+    "tags": [
+      "legendary",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Longbow Sharpshot",
+      "zh-hans": "弓箭·利矢"
+    },
+    "icons": {
+      "en": "items/images/en/longbow_sharpshot.1edd43d82c3b61da2555a2ccb9ba9332.png",
+      "zh-hans": "items/images/en/longbow_sharpshot.1edd43d82c3b61da2555a2ccb9ba9332.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/longbow_sharpshot.1edd43d82c3b61da2555a2ccb9ba9332.128x128.png",
+      "zh-hans": "items/images/en/thumbs/longbow_sharpshot.1edd43d82c3b61da2555a2ccb9ba9332.128x128.png"
+    }
+  },
+  {
+    "id": "644b00247ec1900044b97733",
+    "slug": "arcane_reaper",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthRegenAndArmorOnMeleeKill",
+    "tags": [
+      "legendary",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Reaper",
+      "zh-hans": "赋能·收割"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_reaper.5eaac187d816d010ec44ee1a05979564.png",
+      "zh-hans": "items/images/en/arcane_reaper.5eaac187d816d010ec44ee1a05979564.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_reaper.5eaac187d816d010ec44ee1a05979564.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_reaper.5eaac187d816d010ec44ee1a05979564.128x128.png"
+    }
+  },
+  {
+    "id": "657f2efd8820fb8f3c5f465f",
+    "slug": "melee_crescendo",
+    "gameRef": "",
+    "tags": [
+      "legendary",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Melee Crescendo",
+      "zh-hans": "近战·渐强"
+    },
+    "icons": {
+      "en": "items/images/en/melee_crescendo.fec1a875c68b84f3282a21a82aabdb20.webp",
+      "zh-hans": "items/images/en/melee_crescendo.fec1a875c68b84f3282a21a82aabdb20.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/melee_crescendo.fec1a875c68b84f3282a21a82aabdb20.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/melee_crescendo.fec1a875c68b84f3282a21a82aabdb20.128x128.webp"
+    }
+  },
+  {
+    "id": "657f2efd8820fb8f3c5f4663",
+    "slug": "melee_duplicate",
+    "gameRef": "",
+    "tags": [
+      "legendary",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Melee Duplicate",
+      "zh-hans": "近战·刃影"
+    },
+    "icons": {
+      "en": "items/images/en/melee_duplicate.0ac0137e555cde39902706e96853dff9.webp",
+      "zh-hans": "items/images/en/melee_duplicate.0ac0137e555cde39902706e96853dff9.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/melee_duplicate.0ac0137e555cde39902706e96853dff9.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/melee_duplicate.0ac0137e555cde39902706e96853dff9.128x128.webp"
+    }
+  },
+  {
+    "id": "67db60869cec3e52e62523f4",
+    "slug": "arcane_escapist",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/InvulnerabilityOnDeathOnMercyKill",
+    "tags": [
+      "legendary",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Escapist",
+      "zh-hans": "赋能·脱逃"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp",
+      "zh-hans": "items/images/en/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/arcane_escapist.6cb2df04a06f551dc77235e17ee3d685.128x128.webp"
+    }
+  },
+  {
+    "id": "67db60889cec3e52e62523f5",
+    "slug": "arcane_hot_shot",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AbilityHeatProcsGiveCritChance",
+    "tags": [
+      "legendary",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Hot Shot",
+      "zh-hans": "赋能·热火"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp",
+      "zh-hans": "items/images/en/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/arcane_hot_shot.b488affbc34321e8b1dba284f889d634.128x128.webp"
+    }
+  },
+  {
+    "id": "67db60899cec3e52e62523f6",
+    "slug": "arcane_universal_fallout",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityRadiationProcsCreateUniversalOrbsOnKill",
+    "tags": [
+      "legendary",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Universal Fallout",
+      "zh-hans": "赋能·辐照"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_universal_fallout.a2684caa30e88e5ef81c183acefe3354.webp",
+      "zh-hans": "items/images/en/arcane_universal_fallout.a2684caa30e88e5ef81c183acefe3354.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_universal_fallout.a2684caa30e88e5ef81c183acefe3354.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/arcane_universal_fallout.a2684caa30e88e5ef81c183acefe3354.128x128.webp"
+    }
+  }
+]

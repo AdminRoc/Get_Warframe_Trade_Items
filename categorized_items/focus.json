@@ -1,0 +1,377 @@
+[
+  {
+    "id": "5a9ed835b2b6a80133127c2c",
+    "slug": "eidolon_madurai_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/AttackLensOstron",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Eidolon Madurai Lens",
+      "zh-hans": "夜灵 Madurai 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/eidolon_madurai_lens.93dc4a7c122b9628cd72cee12ac77f3d.png",
+      "zh-hans": "items/images/en/eidolon_madurai_lens.93dc4a7c122b9628cd72cee12ac77f3d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/eidolon_madurai_lens.93dc4a7c122b9628cd72cee12ac77f3d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/eidolon_madurai_lens.93dc4a7c122b9628cd72cee12ac77f3d.128x128.png"
+    }
+  },
+  {
+    "id": "5a9ed835b2b6a80133127c2e",
+    "slug": "eidolon_vazarin_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/DefenseLensOstron",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Eidolon Vazarin Lens",
+      "zh-hans": "夜灵 Vazarin 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/eidolon_vazarin_lens.93dc4a7c122b9628cd72cee12ac77f3d.png",
+      "zh-hans": "items/images/en/eidolon_vazarin_lens.93dc4a7c122b9628cd72cee12ac77f3d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/eidolon_vazarin_lens.93dc4a7c122b9628cd72cee12ac77f3d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/eidolon_vazarin_lens.93dc4a7c122b9628cd72cee12ac77f3d.128x128.png"
+    }
+  },
+  {
+    "id": "5a9ed835b2b6a80133127c2f",
+    "slug": "eidolon_unairu_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/WardLensOstron",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Eidolon Unairu Lens",
+      "zh-hans": "夜灵 Unairu 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/eidolon_unairu_lens.93dc4a7c122b9628cd72cee12ac77f3d.png",
+      "zh-hans": "items/images/en/eidolon_unairu_lens.93dc4a7c122b9628cd72cee12ac77f3d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/eidolon_unairu_lens.93dc4a7c122b9628cd72cee12ac77f3d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/eidolon_unairu_lens.93dc4a7c122b9628cd72cee12ac77f3d.128x128.png"
+    }
+  },
+  {
+    "id": "5667576ddb7c7a568a8d45c2",
+    "slug": "naramon_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/TacticLens",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Naramon Lens",
+      "zh-hans": "Naramon 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/naramon_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png",
+      "zh-hans": "items/images/en/naramon_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/naramon_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png",
+      "zh-hans": "items/images/en/thumbs/naramon_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png"
+    }
+  },
+  {
+    "id": "5a9ed835b2b6a80133127c2d",
+    "slug": "eidolon_zenurik_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/PowerLensOstron",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Eidolon Zenurik Lens",
+      "zh-hans": "夜灵 Zenurik 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/eidolon_zenurik_lens.93dc4a7c122b9628cd72cee12ac77f3d.png",
+      "zh-hans": "items/images/en/eidolon_zenurik_lens.93dc4a7c122b9628cd72cee12ac77f3d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/eidolon_zenurik_lens.93dc4a7c122b9628cd72cee12ac77f3d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/eidolon_zenurik_lens.93dc4a7c122b9628cd72cee12ac77f3d.128x128.png"
+    }
+  },
+  {
+    "id": "5667576ddb7c7a568a8d45c1",
+    "slug": "zenurik_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/PowerLens",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Zenurik Lens",
+      "zh-hans": "Zenurik 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/zenurik_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png",
+      "zh-hans": "items/images/en/zenurik_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/zenurik_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png",
+      "zh-hans": "items/images/en/thumbs/zenurik_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png"
+    }
+  },
+  {
+    "id": "5d6ea67e7ea27b05d929cc04",
+    "slug": "lua_unairu_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/WardLensLua",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Lua Unairu Lens",
+      "zh-hans": "月球 Unairu 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/lua_unairu_lens.e3b2ed7d024b138843320d13d204e020.png",
+      "zh-hans": "items/images/en/lua_unairu_lens.e3b2ed7d024b138843320d13d204e020.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lua_unairu_lens.e3b2ed7d024b138843320d13d204e020.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lua_unairu_lens.e3b2ed7d024b138843320d13d204e020.128x128.png"
+    }
+  },
+  {
+    "id": "5667576ddb7c7a568a8d45bf",
+    "slug": "madurai_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/AttackLens",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Madurai Lens",
+      "zh-hans": "Madurai 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/madurai_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png",
+      "zh-hans": "items/images/en/madurai_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/madurai_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png",
+      "zh-hans": "items/images/en/thumbs/madurai_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png"
+    }
+  },
+  {
+    "id": "5667576ddb7c7a568a8d45c3",
+    "slug": "unairu_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/WardLens",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Unairu Lens",
+      "zh-hans": "Unairu 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/unairu_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png",
+      "zh-hans": "items/images/en/unairu_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/unairu_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png",
+      "zh-hans": "items/images/en/thumbs/unairu_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png"
+    }
+  },
+  {
+    "id": "5667576ddb7c7a568a8d45c0",
+    "slug": "vazarin_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/DefenseLens",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Vazarin Lens",
+      "zh-hans": "Vazarin 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/vazarin_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png",
+      "zh-hans": "items/images/en/vazarin_lens.3a08aee24f8a10e3bf4a0d1e28c34528.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vazarin_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vazarin_lens.3a08aee24f8a10e3bf4a0d1e28c34528.128x128.png"
+    }
+  },
+  {
+    "id": "5a9ed835b2b6a80133127c30",
+    "slug": "eidolon_naramon_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/TacticLensOstron",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Eidolon Naramon Lens",
+      "zh-hans": "夜灵 Naramon 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/eidolon_naramon_lens.93dc4a7c122b9628cd72cee12ac77f3d.png",
+      "zh-hans": "items/images/en/eidolon_naramon_lens.93dc4a7c122b9628cd72cee12ac77f3d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/eidolon_naramon_lens.93dc4a7c122b9628cd72cee12ac77f3d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/eidolon_naramon_lens.93dc4a7c122b9628cd72cee12ac77f3d.128x128.png"
+    }
+  },
+  {
+    "id": "5d6ea6737ea27b05d929cbf7",
+    "slug": "lua_zenurik_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/PowerLensLua",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Lua Zenurik Lens",
+      "zh-hans": "月球 Zenurik 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/lua_zenurik_lens.e3b2ed7d024b138843320d13d204e020.png",
+      "zh-hans": "items/images/en/lua_zenurik_lens.e3b2ed7d024b138843320d13d204e020.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lua_zenurik_lens.e3b2ed7d024b138843320d13d204e020.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lua_zenurik_lens.e3b2ed7d024b138843320d13d204e020.128x128.png"
+    }
+  },
+  {
+    "id": "5d6ea67d7ea27b05d929cc00",
+    "slug": "lua_madurai_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/AttackLensLua",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Lua Madurai Lens",
+      "zh-hans": "月球 Madurai 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/lua_madurai_lens.e3b2ed7d024b138843320d13d204e020.png",
+      "zh-hans": "items/images/en/lua_madurai_lens.e3b2ed7d024b138843320d13d204e020.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lua_madurai_lens.e3b2ed7d024b138843320d13d204e020.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lua_madurai_lens.e3b2ed7d024b138843320d13d204e020.128x128.png"
+    }
+  },
+  {
+    "id": "5d6ea67e7ea27b05d929cc03",
+    "slug": "lua_vazarin_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/DefenseLensLua",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Lua Vazarin Lens",
+      "zh-hans": "月球 Vazarin 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/lua_vazarin_lens.e3b2ed7d024b138843320d13d204e020.png",
+      "zh-hans": "items/images/en/lua_vazarin_lens.e3b2ed7d024b138843320d13d204e020.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lua_vazarin_lens.e3b2ed7d024b138843320d13d204e020.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lua_vazarin_lens.e3b2ed7d024b138843320d13d204e020.128x128.png"
+    }
+  },
+  {
+    "id": "5d6ea6817ea27b05d929cc06",
+    "slug": "lua_naramon_lens",
+    "gameRef": "/Lotus/Upgrades/Focus/TacticLensLua",
+    "tags": [
+      "focus",
+      "lens"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Lua Naramon Lens",
+      "zh-hans": "月球 Naramon 晶体"
+    },
+    "icons": {
+      "en": "items/images/en/lua_naramon_lens.e3b2ed7d024b138843320d13d204e020.png",
+      "zh-hans": "items/images/en/lua_naramon_lens.e3b2ed7d024b138843320d13d204e020.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lua_naramon_lens.e3b2ed7d024b138843320d13d204e020.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lua_naramon_lens.e3b2ed7d024b138843320d13d204e020.128x128.png"
+    }
+  }
+]

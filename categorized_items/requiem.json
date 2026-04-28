@@ -1,0 +1,32 @@
+[
+  {
+    "id": "69c52958bb986142bb6e02bb",
+    "slug": "requiem_eterna_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortalOmniA",
+    "tags": [
+      "requiem",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Requiem Eterna Relic",
+      "zh-hans": "安魂 永恒 遗物"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "items/unknown.thumb.png",
+      "zh-hans": "items/unknown.thumb.png"
+    }
+  }
+]

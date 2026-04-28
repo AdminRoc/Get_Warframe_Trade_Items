@@ -1,0 +1,31 @@
+[
+  {
+    "id": "5c3892672cc6ce00f238139f",
+    "slug": "molecular_fission",
+    "gameRef": "/Lotus/Powersuits/AntiMatter/MolecularPrimeAugmentCard",
+    "tags": [
+      "nova",
+      "mod",
+      "warframe",
+      "prime",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Molecular Fission",
+      "zh-hans": "分子裂变"
+    },
+    "icons": {
+      "en": "items/images/en/molecular_fission.42b30fd1ddac8ac85a2f9cbff2d6cd0e.png",
+      "zh-hans": "items/images/en/molecular_fission.42b30fd1ddac8ac85a2f9cbff2d6cd0e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/molecular_fission.42b30fd1ddac8ac85a2f9cbff2d6cd0e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/molecular_fission.42b30fd1ddac8ac85a2f9cbff2d6cd0e.128x128.png"
+    }
+  }
+]

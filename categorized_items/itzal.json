@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5783908cd9b6753790c89e7f",
+    "slug": "cold_snap",
+    "gameRef": "/Lotus/Powersuits/Archwing/StealthJetPack/GravInstabilityAugmentCard",
+    "tags": [
+      "itzal",
+      "mod",
+      "archwing",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Cold Snap",
+      "zh-hans": "寒流来袭"
+    },
+    "icons": {
+      "en": "items/images/en/cold_snap.1441ca53556ca81b4b6b60c09b02e1d7.png",
+      "zh-hans": "items/images/en/cold_snap.1441ca53556ca81b4b6b60c09b02e1d7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cold_snap.1441ca53556ca81b4b6b60c09b02e1d7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cold_snap.1441ca53556ca81b4b6b60c09b02e1d7.128x128.png"
+    }
+  }
+]

@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "633e2e6cf570d10793afb823",
+    "slug": "axi_t10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionRevenantPrimeB",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi T10 Relic",
+      "zh-hans": "后纪 T10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_t10_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_t10_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_t10_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_t10_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "633e2e6cf570d10793afb825",
+    "slug": "axi_n9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionRevenantPrimeA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi N9 Relic",
+      "zh-hans": "后纪 N9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_n9_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_n9_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_n9_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_n9_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "6364d904f6d2030069a9f91e",
+    "slug": "axi_a15_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionIvaraOberonVaultA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi A15 Relic",
+      "zh-hans": "后纪 A15 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_a15_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_a15_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_a15_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_a15_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "6364d904f6d2030069a9f91f",
+    "slug": "axi_s13_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionIvaraOberonVaultB",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi S13 Relic",
+      "zh-hans": "后纪 S13 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_s13_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_s13_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_s13_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_s13_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "641264a47d179f02190e41e7",
+    "slug": "axi_h6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionHildrynPrimeA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi H6 Relic",
+      "zh-hans": "后纪 H6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_h6_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_h6_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_h6_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_h6_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "641264a57d179f02190e41ec",
+    "slug": "axi_g10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionHildrynPrimeC",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi G10 Relic",
+      "zh-hans": "后纪 G10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_g10_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_g10_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_g10_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_g10_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "641264a57d179f02190e41ed",
+    "slug": "axi_a16_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionHildrynPrimeB",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi A16 Relic",
+      "zh-hans": "后纪 A16 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_a16_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_a16_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_a16_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_a16_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "641264a57d179f02190e41f0",
+    "slug": "axi_b6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionHildrynPrimeD",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi B6 Relic",
+      "zh-hans": "后纪 B6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_b6_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_b6_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_b6_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_b6_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "641264a57d179f02190e41f1",
+    "slug": "axi_k11_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionHildrynPrimeE",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi K11 Relic",
+      "zh-hans": "后纪 K11 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_k11_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_k11_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_k11_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_k11_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1566456704eba6ba3e",
+    "slug": "axi_w3_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionWispPrimeA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi W3 Relic",
+      "zh-hans": "后纪 W3 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_w3_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_w3_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_w3_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_w3_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1666456704eba6ba48",
+    "slug": "axi_h7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionWispPrimeB",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi H7 Relic",
+      "zh-hans": "后纪 H7 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_h7_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_h7_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_h7_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_h7_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "64eda5d5facd4806c393e63a",
+    "slug": "axi_d4_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionFrostMagVaultA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi D4 Relic",
+      "zh-hans": "后纪 D4 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_d4_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_d4_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_d4_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_d4_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "6530537b32327ba8746da730",
+    "slug": "axi_p5_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionNezhaOctaviaVaultA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi P5 Relic",
+      "zh-hans": "后纪 P5 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_p5_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_p5_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_p5_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_p5_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "6530538b32327ba8746da731",
+    "slug": "axi_a17_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeD",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi A17 Relic",
+      "zh-hans": "后纪 A17 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_a17_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_a17_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_a17_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_a17_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "6530539432327ba8746da732",
+    "slug": "axi_l6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeC",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi L6 Relic",
+      "zh-hans": "后纪 L6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_l6_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_l6_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_l6_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_l6_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "6530539632327ba8746da733",
+    "slug": "axi_g12_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeB",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi G12 Relic",
+      "zh-hans": "后纪 G12 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_g12_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_g12_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_g12_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_g12_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "6530539732327ba8746da734",
+    "slug": "axi_g11_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionGrendelPrimeA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi G11 Relic",
+      "zh-hans": "后纪 G11 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_g11_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+      "zh-hans": "items/images/en/axi_g11_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_g11_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/axi_g11_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png"
+    }
+  },
+  {
+    "id": "667ec84759acb6bf03ebc33c",
+    "slug": "axi_r4_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionEmberRhinoVaultA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi R4 Relic",
+      "zh-hans": "后纪 R4 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_r4_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_r4_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_r4_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_r4_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "667ec85159acb6bf03ebc33e",
+    "slug": "axi_t11_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionHarrowNekrosVaultA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi T11 Relic",
+      "zh-hans": "后纪 T11 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_t11_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_t11_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_t11_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_t11_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "667ec85359acb6bf03ebc340",
+    "slug": "axi_s15_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionHarrowNekrosVaultB",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi S15 Relic",
+      "zh-hans": "后纪 S15 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_s15_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_s15_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_s15_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_s15_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "66a3a59b2bca759c7edfc9a6",
+    "slug": "axi_m5_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionBaroAkmagnusPrime",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi M5 Relic",
+      "zh-hans": "后纪 M5 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_m5_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_m5_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_m5_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_m5_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "6735180cdb3ac2cfade14a81",
+    "slug": "axi_a19_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeD",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi A19 Relic",
+      "zh-hans": "后纪 A19 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_a19_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_a19_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_a19_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_a19_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "6735180ddb3ac2cfade14a82",
+    "slug": "axi_g14_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeC",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi G14 Relic",
+      "zh-hans": "后纪 G14 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_g14_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_g14_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_g14_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_g14_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "6735180edb3ac2cfade14a83",
+    "slug": "axi_h8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeB",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi H8 Relic",
+      "zh-hans": "后纪 H8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_h8_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_h8_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_h8_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_h8_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "6735180fdb3ac2cfade14a84",
+    "slug": "axi_t12_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionXakuPrimeA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi T12 Relic",
+      "zh-hans": "后纪 T12 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_t12_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_t12_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_t12_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_t12_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda89125398d92c8bb4f0",
+    "slug": "axi_p9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeE",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi P9 Relic",
+      "zh-hans": "后纪 P9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_p9_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_p9_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_p9_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_p9_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda8a125398d92c8bb4f1",
+    "slug": "axi_m6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeD",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi M6 Relic",
+      "zh-hans": "后纪 M6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_m6_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_m6_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_m6_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_m6_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda8b125398d92c8bb4f2",
+    "slug": "axi_z2_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeC",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi Z2 Relic",
+      "zh-hans": "后纪 Z2 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_z2_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_z2_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_z2_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_z2_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda8b125398d92c8bb4f3",
+    "slug": "axi_f3_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeB",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi F3 Relic",
+      "zh-hans": "后纪 F3 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_f3_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_f3_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_f3_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_f3_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda8c125398d92c8bb4f4",
+    "slug": "axi_p8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionLavosPrimeA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi P8 Relic",
+      "zh-hans": "后纪 P8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_p8_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_p8_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_p8_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_p8_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "67db5f499cec3e52e62523dd",
+    "slug": "axi_n12_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionNidusSarynVaultA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi N12 Relic",
+      "zh-hans": "后纪 N12 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_n12_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_n12_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_n12_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_n12_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "6842dff316f8ae708bcc2507",
+    "slug": "axi_b9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionRevenantBaruukVaultB",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi B9 Relic",
+      "zh-hans": "后纪 B9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_b9_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_b9_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_b9_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_b9_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "6928fc5fec38d5c25abab3ec",
+    "slug": "axi_s19_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionWispHildrynVaultB",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi S19 Relic",
+      "zh-hans": "后纪 S19 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_s19_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_s19_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_s19_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_s19_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "6928fc60ec38d5c25abab3ed",
+    "slug": "axi_w4_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionWispHildrynVaultA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi W4 Relic",
+      "zh-hans": "后纪 W4 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_w4_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_w4_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_w4_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_w4_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "69df8581158c0f2a93756b0b",
+    "slug": "axi_d6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeB",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi D6 Relic",
+      "zh-hans": "后纪 D6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_d6_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_d6_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_d6_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_d6_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "69df8582158c0f2a93756b0c",
+    "slug": "axi_y3_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi Y3 Relic",
+      "zh-hans": "后纪 Y3 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_y3_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_y3_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_y3_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_y3_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  },
+  {
+    "id": "69df8583158c0f2a93756b0d",
+    "slug": "axi_g15_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionGaussGrendelVaultA",
+    "tags": [
+      "axi",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Axi G15 Relic",
+      "zh-hans": "后纪 G15 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/axi_g15_relic.a5484024a9f5498b339499cd10cb825f.webp",
+      "zh-hans": "items/images/en/axi_g15_relic.a5484024a9f5498b339499cd10cb825f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/axi_g15_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/axi_g15_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+    }
+  }
+]

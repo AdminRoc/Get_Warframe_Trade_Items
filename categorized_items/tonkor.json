@@ -1,0 +1,29 @@
+[
+  {
+    "id": "5ecd08d804d55c0806f85351",
+    "slug": "precision_strike",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnGrenadeLauncherArbitrationMod",
+    "tags": [
+      "tonkor",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Precision Strike",
+      "zh-hans": "精准打击"
+    },
+    "icons": {
+      "en": "items/images/en/precision_strike.14f3667f16001c975dea86b16c7fe074.png",
+      "zh-hans": "items/images/en/precision_strike.14f3667f16001c975dea86b16c7fe074.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/precision_strike.14f3667f16001c975dea86b16c7fe074.128x128.png",
+      "zh-hans": "items/images/en/thumbs/precision_strike.14f3667f16001c975dea86b16c7fe074.128x128.png"
+    }
+  }
+]

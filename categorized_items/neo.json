@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "633e2e6af570d10793afb813",
+    "slug": "neo_t6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionRevenantPrimeA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo T6 Relic",
+      "zh-hans": "中纪 T6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_t6_relic.224e87d2d7e5a4e52109429468c8d379.png",
+      "zh-hans": "items/images/en/neo_t6_relic.224e87d2d7e5a4e52109429468c8d379.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_t6_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png",
+      "zh-hans": "items/images/en/thumbs/neo_t6_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png"
+    }
+  },
+  {
+    "id": "63ee00ff10125411da49e6f9",
+    "slug": "neo_r5_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaLimboVaultB",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo R5 Relic",
+      "zh-hans": "中纪 R5 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_r5_relic.224e87d2d7e5a4e52109429468c8d379.png",
+      "zh-hans": "items/images/en/neo_r5_relic.224e87d2d7e5a4e52109429468c8d379.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_r5_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png",
+      "zh-hans": "items/images/en/thumbs/neo_r5_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png"
+    }
+  },
+  {
+    "id": "63ee00ff10125411da49e6fb",
+    "slug": "neo_a9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionMesaLimboVaultA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo A9 Relic",
+      "zh-hans": "中纪 A9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_a9_relic.224e87d2d7e5a4e52109429468c8d379.png",
+      "zh-hans": "items/images/en/neo_a9_relic.224e87d2d7e5a4e52109429468c8d379.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_a9_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png",
+      "zh-hans": "items/images/en/thumbs/neo_a9_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png"
+    }
+  },
+  {
+    "id": "641264a57d179f02190e41ee",
+    "slug": "neo_s17_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionHildrynPrimeA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo S17 Relic",
+      "zh-hans": "中纪 S17 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_s17_relic.224e87d2d7e5a4e52109429468c8d379.png",
+      "zh-hans": "items/images/en/neo_s17_relic.224e87d2d7e5a4e52109429468c8d379.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_s17_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png",
+      "zh-hans": "items/images/en/thumbs/neo_s17_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png"
+    }
+  },
+  {
+    "id": "641264a57d179f02190e41ef",
+    "slug": "neo_n22_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionHildrynPrimeC",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo N22 Relic",
+      "zh-hans": "中纪 N22 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_n22_relic.224e87d2d7e5a4e52109429468c8d379.png",
+      "zh-hans": "items/images/en/neo_n22_relic.224e87d2d7e5a4e52109429468c8d379.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_n22_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png",
+      "zh-hans": "items/images/en/thumbs/neo_n22_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png"
+    }
+  },
+  {
+    "id": "641264a57d179f02190e41f3",
+    "slug": "neo_l2_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionHildrynPrimeB",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo L2 Relic",
+      "zh-hans": "中纪 L2 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_l2_relic.224e87d2d7e5a4e52109429468c8d379.png",
+      "zh-hans": "items/images/en/neo_l2_relic.224e87d2d7e5a4e52109429468c8d379.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_l2_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png",
+      "zh-hans": "items/images/en/thumbs/neo_l2_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png"
+    }
+  },
+  {
+    "id": "644b00237ec1900044b9772b",
+    "slug": "neo_a10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionInarosAshVaultA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo A10 Relic",
+      "zh-hans": "中纪 A10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_a10_relic.224e87d2d7e5a4e52109429468c8d379.png",
+      "zh-hans": "items/images/en/neo_a10_relic.224e87d2d7e5a4e52109429468c8d379.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_a10_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png",
+      "zh-hans": "items/images/en/thumbs/neo_a10_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png"
+    }
+  },
+  {
+    "id": "64eda5d5facd4806c393e63c",
+    "slug": "neo_b8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionFrostMagVaultA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo B8 Relic",
+      "zh-hans": "中纪 B8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_b8_relic.224e87d2d7e5a4e52109429468c8d379.png",
+      "zh-hans": "items/images/en/neo_b8_relic.224e87d2d7e5a4e52109429468c8d379.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_b8_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png",
+      "zh-hans": "items/images/en/thumbs/neo_b8_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png"
+    }
+  },
+  {
+    "id": "65f85b70f51dc116096b6764",
+    "slug": "neo_p5_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionTitaniaGaraVaultA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo P5 Relic",
+      "zh-hans": "中纪 P5 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_p5_relic.224e87d2d7e5a4e52109429468c8d379.png",
+      "zh-hans": "items/images/en/neo_p5_relic.224e87d2d7e5a4e52109429468c8d379.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_p5_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png",
+      "zh-hans": "items/images/en/thumbs/neo_p5_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png"
+    }
+  },
+  {
+    "id": "667ec84159acb6bf03ebc339",
+    "slug": "neo_g5_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionHarrowNekrosVaultA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo G5 Relic",
+      "zh-hans": "中纪 G5 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_g5_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_g5_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_g5_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_g5_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "669bd42a59acb6bf03ebc344",
+    "slug": "neo_g6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionEmberRhinoVaultA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo G6 Relic",
+      "zh-hans": "中纪 G6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_g6_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_g6_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_g6_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_g6_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "66c6097d66bbb2aedca69587",
+    "slug": "neo_p7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeF",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo P7 Relic",
+      "zh-hans": "中纪 P7 遗物"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "items/unknown.thumb.png",
+      "zh-hans": "items/unknown.thumb.png"
+    }
+  },
+  {
+    "id": "66c6097e66bbb2aedca69589",
+    "slug": "neo_b9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeE",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo B9 Relic",
+      "zh-hans": "中纪 B9 遗物"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "items/unknown.thumb.png",
+      "zh-hans": "items/unknown.thumb.png"
+    }
+  },
+  {
+    "id": "66c6098266bbb2aedca6958b",
+    "slug": "neo_z11_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeD",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo Z11 Relic",
+      "zh-hans": "中纪 Z11 遗物"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "items/unknown.thumb.png",
+      "zh-hans": "items/unknown.thumb.png"
+    }
+  },
+  {
+    "id": "66c6098366bbb2aedca6958d",
+    "slug": "neo_g7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeC",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo G7 Relic",
+      "zh-hans": "中纪 G7 遗物"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "items/unknown.thumb.png",
+      "zh-hans": "items/unknown.thumb.png"
+    }
+  },
+  {
+    "id": "66c6098366bbb2aedca6958f",
+    "slug": "neo_a13_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeB",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo A13 Relic",
+      "zh-hans": "中纪 A13 遗物"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "items/unknown.thumb.png",
+      "zh-hans": "items/unknown.thumb.png"
+    }
+  },
+  {
+    "id": "66c6098466bbb2aedca69591",
+    "slug": "neo_e4_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo E4 Relic",
+      "zh-hans": "中纪 E4 遗物"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "items/unknown.thumb.png",
+      "zh-hans": "items/unknown.thumb.png"
+    }
+  },
+  {
+    "id": "67222a101ce4caca2fe9866b",
+    "slug": "neo_c5_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGarudaKhoraVaultA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo C5 Relic",
+      "zh-hans": "中纪 C5 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_c5_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_c5_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_c5_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_c5_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "67222a151ce4caca2fe9866d",
+    "slug": "neo_k8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGarudaKhoraVaultB",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo K8 Relic",
+      "zh-hans": "中纪 K8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_k8_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_k8_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_k8_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_k8_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "67351810db3ac2cfade14a85",
+    "slug": "neo_w2_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeD",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo W2 Relic",
+      "zh-hans": "中纪 W2 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_w2_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_w2_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_w2_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_w2_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "67351810db3ac2cfade14a86",
+    "slug": "neo_g8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeC",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo G8 Relic",
+      "zh-hans": "中纪 G8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_g8_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_g8_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_g8_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_g8_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "67351811db3ac2cfade14a87",
+    "slug": "neo_q1_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeB",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo Q1 Relic",
+      "zh-hans": "中纪 Q1 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_q1_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_q1_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_q1_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_q1_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "67351812db3ac2cfade14a88",
+    "slug": "neo_l4_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionXakuPrimeA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo L4 Relic",
+      "zh-hans": "中纪 L4 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_l4_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_l4_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_l4_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_l4_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda8d125398d92c8bb4f5",
+    "slug": "neo_d9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeD",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo D9 Relic",
+      "zh-hans": "中纪 D9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_d9_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_d9_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_d9_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_d9_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda8e125398d92c8bb4f6",
+    "slug": "neo_t9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeC",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo T9 Relic",
+      "zh-hans": "中纪 T9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_t9_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_t9_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_t9_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_t9_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda8e125398d92c8bb4f7",
+    "slug": "neo_x1_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeB",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo X1 Relic",
+      "zh-hans": "中纪 X1 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_x1_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_x1_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_x1_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_x1_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda8f125398d92c8bb4f8",
+    "slug": "neo_c6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionLavosPrimeA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo C6 Relic",
+      "zh-hans": "中纪 C6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_c6_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_c6_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_c6_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_c6_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "682df3fa35715d4f3e9c64c9",
+    "slug": "neo_a14_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionYareliPrimeA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo A14 Relic",
+      "zh-hans": "中纪 A14 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_a14_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_a14_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_a14_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_a14_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "682df40435715d4f3e9c64cb",
+    "slug": "neo_d10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionYareliPrimeB",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo D10 Relic",
+      "zh-hans": "中纪 D10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_d10_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_d10_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_d10_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_d10_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "682df41035715d4f3e9c64cd",
+    "slug": "neo_g9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionYareliPrimeC",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo G9 Relic",
+      "zh-hans": "中纪 G9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_g9_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_g9_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_g9_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_g9_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "6842dfda16f8ae708bcc2505",
+    "slug": "neo_p8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionRevenantBaruukVaultA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo P8 Relic",
+      "zh-hans": "中纪 P8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_p8_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_p8_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_p8_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_p8_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "68add9a11027572e028db6d1",
+    "slug": "neo_a15_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionCalibanPrimeA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo A15 Relic",
+      "zh-hans": "中纪 A15 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_a15_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_a15_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_a15_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_a15_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b6ff5d9ebda239125d38",
+    "slug": "neo_t10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeE",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo T10 Relic",
+      "zh-hans": "中纪 T10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_t10_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_t10_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_t10_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_t10_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b7005d9ebda239125d39",
+    "slug": "neo_o3_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeD",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo O3 Relic",
+      "zh-hans": "中纪 O3 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_o3_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_o3_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_o3_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_o3_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b7015d9ebda239125d3a",
+    "slug": "neo_c7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeC",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo C7 Relic",
+      "zh-hans": "中纪 C7 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_c7_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_c7_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_c7_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_c7_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b7025d9ebda239125d3b",
+    "slug": "neo_p9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeB",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo P9 Relic",
+      "zh-hans": "中纪 P9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_p9_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_p9_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_p9_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_p9_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b7025d9ebda239125d3c",
+    "slug": "neo_k9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo K9 Relic",
+      "zh-hans": "中纪 K9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_k9_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_k9_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_k9_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_k9_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "69df8584158c0f2a93756b0e",
+    "slug": "neo_n24_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo N24 Relic",
+      "zh-hans": "中纪 N24 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_n24_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_n24_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_n24_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_n24_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "69df8585158c0f2a93756b0f",
+    "slug": "neo_m6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultB",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo M6 Relic",
+      "zh-hans": "中纪 M6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_m6_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_m6_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_m6_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_m6_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  },
+  {
+    "id": "69df8586158c0f2a93756b10",
+    "slug": "neo_g10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultA",
+    "tags": [
+      "neo",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Neo G10 Relic",
+      "zh-hans": "中纪 G10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/neo_g10_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+      "zh-hans": "items/images/en/neo_g10_relic.08a3b3471bad10b739bd40b1236505c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neo_g10_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/neo_g10_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+    }
+  }
+]

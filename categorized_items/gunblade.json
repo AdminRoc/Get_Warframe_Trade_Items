@@ -1,0 +1,29 @@
+[
+  {
+    "id": "57b86950315399578ef1a6bd",
+    "slug": "bullet_dance",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/GunbladeCmbTwoMeleeTree",
+    "tags": [
+      "gunblade",
+      "mod",
+      "rare",
+      "stance"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Bullet Dance",
+      "zh-hans": "刀锋弹舞"
+    },
+    "icons": {
+      "en": "items/images/en/bullet_dance.fe9f7dce282e60438ffc589647890577.png",
+      "zh-hans": "items/images/en/bullet_dance.fe9f7dce282e60438ffc589647890577.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/bullet_dance.fe9f7dce282e60438ffc589647890577.128x128.png",
+      "zh-hans": "items/images/en/thumbs/bullet_dance.fe9f7dce282e60438ffc589647890577.128x128.png"
+    }
+  }
+]

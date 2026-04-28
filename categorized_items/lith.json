@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "63229385dd457f0096113c3d",
+    "slug": "lith_n13_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionWukongEquinoxVaultA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith N13 Relic",
+      "zh-hans": "古纪 N13 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_n13_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_n13_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_n13_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_n13_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "63229386dd457f0096113c46",
+    "slug": "lith_s13_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionWukongEquinoxVaultB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith S13 Relic",
+      "zh-hans": "古纪 S13 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_s13_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_s13_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_s13_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_s13_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "6364d904f6d2030069a9f91d",
+    "slug": "lith_b9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionIvaraOberonVaultA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith B9 Relic",
+      "zh-hans": "古纪 B9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_b9_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_b9_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_b9_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_b9_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "63ee00fd10125411da49e6ec",
+    "slug": "lith_d5_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionMesaLimboVaultB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith D5 Relic",
+      "zh-hans": "古纪 D5 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_d5_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_d5_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_d5_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_d5_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "63ee00fe10125411da49e6f3",
+    "slug": "lith_p7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionMesaLimboVaultA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith P7 Relic",
+      "zh-hans": "古纪 P7 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_p7_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_p7_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_p7_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_p7_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "641264a47d179f02190e41e3",
+    "slug": "lith_s15_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionHildrynPrimeB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith S15 Relic",
+      "zh-hans": "古纪 S15 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_s15_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_s15_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_s15_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_s15_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "641264a47d179f02190e41e5",
+    "slug": "lith_r3_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionHildrynPrimeE",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith R3 Relic",
+      "zh-hans": "古纪 R3 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_r3_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_r3_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_r3_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_r3_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "641264a47d179f02190e41e8",
+    "slug": "lith_b11_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionHildrynPrimeC",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith B11 Relic",
+      "zh-hans": "古纪 B11 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_b11_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_b11_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_b11_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_b11_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "641264a57d179f02190e41ea",
+    "slug": "lith_h8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionHildrynPrimeA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith H8 Relic",
+      "zh-hans": "古纪 H8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_h8_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_h8_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_h8_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_h8_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "641264a57d179f02190e41f2",
+    "slug": "lith_k10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionHildrynPrimeD",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith K10 Relic",
+      "zh-hans": "古纪 K10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_k10_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_k10_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_k10_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_k10_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "644b00227ec1900044b97725",
+    "slug": "lith_v10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionInarosAshVaultA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith V10 Relic",
+      "zh-hans": "古纪 V10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_v10_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_v10_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_v10_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_v10_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "64eda5d4facd4806c393e638",
+    "slug": "lith_l4_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionFrostMagVaultB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith L4 Relic",
+      "zh-hans": "古纪 L4 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_l4_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_l4_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_l4_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_l4_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "64eda5d5facd4806c393e63d",
+    "slug": "lith_m8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionFrostMagVaultA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith M8 Relic",
+      "zh-hans": "古纪 M8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_m8_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_m8_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_m8_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_m8_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "6530537732327ba8746da72c",
+    "slug": "lith_o3_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaOctaviaVaultA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith O3 Relic",
+      "zh-hans": "古纪 O3 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_o3_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_o3_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_o3_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_o3_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "6530537832327ba8746da72d",
+    "slug": "lith_g7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaOctaviaVaultB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith G7 Relic",
+      "zh-hans": "古纪 G7 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_g7_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_g7_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_g7_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_g7_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "653053a932327ba8746da73f",
+    "slug": "lith_n14_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGrendelPrimeE",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith N14 Relic",
+      "zh-hans": "古纪 N14 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_n14_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_n14_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_n14_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_n14_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "653053ae32327ba8746da740",
+    "slug": "lith_t10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGrendelPrimeD",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith T10 Relic",
+      "zh-hans": "古纪 T10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_t10_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_t10_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_t10_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_t10_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "653053b032327ba8746da741",
+    "slug": "lith_c10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGrendelPrimeC",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith C10 Relic",
+      "zh-hans": "古纪 C10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_c10_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_c10_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_c10_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_c10_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "653053b132327ba8746da742",
+    "slug": "lith_r4_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGrendelPrimeB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith R4 Relic",
+      "zh-hans": "古纪 R4 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_r4_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_r4_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_r4_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_r4_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "653053b332327ba8746da743",
+    "slug": "lith_g8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGrendelPrimeA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith G8 Relic",
+      "zh-hans": "古纪 G8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_g8_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_g8_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_g8_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_g8_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fc7fed5b0d2e3eb462c3",
+    "slug": "lith_g10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussPrimeF",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith G10 Relic",
+      "zh-hans": "古纪 G10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_g10_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_g10_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_g10_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_g10_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fc7fed5b0d2e3eb462c4",
+    "slug": "lith_p8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussPrimeE",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith P8 Relic",
+      "zh-hans": "古纪 P8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_p8_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_p8_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_p8_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_p8_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fc7fed5b0d2e3eb462c5",
+    "slug": "lith_g9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussPrimeD",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith G9 Relic",
+      "zh-hans": "古纪 G9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_g9_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_g9_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_g9_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_g9_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fc7fed5b0d2e3eb462c6",
+    "slug": "lith_r5_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussPrimeC",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith R5 Relic",
+      "zh-hans": "古纪 R5 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_r5_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_r5_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_r5_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_r5_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fc7fed5b0d2e3eb462c7",
+    "slug": "lith_a6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussPrimeB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith A6 Relic",
+      "zh-hans": "古纪 A6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_a6_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_a6_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_a6_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_a6_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "65a7fc7fed5b0d2e3eb462c8",
+    "slug": "lith_c11_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGaussPrimeA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith C11 Relic",
+      "zh-hans": "古纪 C11 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_c11_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_c11_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_c11_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_c11_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "65f85b70f51dc116096b6767",
+    "slug": "lith_g11_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionTitaniaGaraVaultB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith G11 Relic",
+      "zh-hans": "古纪 G11 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_g11_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_g11_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_g11_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_g11_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "65f85b70f51dc116096b6768",
+    "slug": "lith_t11_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionTitaniaGaraVaultA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith T11 Relic",
+      "zh-hans": "古纪 T11 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_t11_relic.b9883727b21e25d81bc115605254460a.png",
+      "zh-hans": "items/images/en/lith_t11_relic.b9883727b21e25d81bc115605254460a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_t11_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lith_t11_relic.b9883727b21e25d81bc115605254460a.128x128.png"
+    }
+  },
+  {
+    "id": "667ec83159acb6bf03ebc32b",
+    "slug": "lith_e1_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionEmberRhinoVaultA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith E1 Relic",
+      "zh-hans": "古纪 E1 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_e1_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_e1_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_e1_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_e1_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "667ec83459acb6bf03ebc32d",
+    "slug": "lith_k11_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionHarrowNekrosVaultA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith K11 Relic",
+      "zh-hans": "古纪 K11 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_k11_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_k11_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_k11_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_k11_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "667ec83659acb6bf03ebc32f",
+    "slug": "lith_h10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionHarrowNekrosVaultB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith H10 Relic",
+      "zh-hans": "古纪 H10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_h10_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_h10_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_h10_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_h10_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "672229f51ce4caca2fe98667",
+    "slug": "lith_d6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGarudaKhoraVaultA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith D6 Relic",
+      "zh-hans": "古纪 D6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_d6_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_d6_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_d6_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_d6_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "67351816db3ac2cfade14a8d",
+    "slug": "lith_m9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeD",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith M9 Relic",
+      "zh-hans": "古纪 M9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_m9_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_m9_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_m9_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_m9_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "67351817db3ac2cfade14a8e",
+    "slug": "lith_g13_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeC",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith G13 Relic",
+      "zh-hans": "古纪 G13 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_g13_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_g13_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_g13_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_g13_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "6735194edb3ac2cfade14a90",
+    "slug": "lith_n16_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith N16 Relic",
+      "zh-hans": "古纪 N16 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_n16_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_n16_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_n16_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_n16_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "6735194edb3ac2cfade14a91",
+    "slug": "lith_x1_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith X1 Relic",
+      "zh-hans": "古纪 X1 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_x1_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_x1_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_x1_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_x1_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda91125398d92c8bb4fa",
+    "slug": "lith_s16_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeD",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith S16 Relic",
+      "zh-hans": "古纪 S16 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_s16_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_s16_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_s16_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_s16_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda92125398d92c8bb4fb",
+    "slug": "lith_a7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeC",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith A7 Relic",
+      "zh-hans": "古纪 A7 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_a7_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_a7_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_a7_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_a7_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda93125398d92c8bb4fc",
+    "slug": "lith_q1_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith Q1 Relic",
+      "zh-hans": "古纪 Q1 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_q1_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_q1_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_q1_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_q1_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda93125398d92c8bb4fd",
+    "slug": "lith_l5_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionLavosPrimeA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith L5 Relic",
+      "zh-hans": "古纪 L5 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_l5_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_l5_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_l5_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_l5_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "67db5f459cec3e52e62523d8",
+    "slug": "lith_s17_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionNidusSarynVaultA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith S17 Relic",
+      "zh-hans": "古纪 S17 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_s17_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_s17_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_s17_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_s17_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "6842df9e16f8ae708bcc24ff",
+    "slug": "lith_t13_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionRevenantBaruukVaultA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith T13 Relic",
+      "zh-hans": "古纪 T13 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_t13_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_t13_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_t13_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_t13_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "6842dfc016f8ae708bcc2501",
+    "slug": "lith_a9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionRevenantBaruukVaultB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith A9 Relic",
+      "zh-hans": "古纪 A9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_a9_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_a9_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_a9_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_a9_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "6842e26816f8ae708bcc250b",
+    "slug": "lith_m10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionYareliPrimeA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith M10 Relic",
+      "zh-hans": "古纪 M10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_m10_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_m10_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_m10_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_m10_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "68add9ac1027572e028db6db",
+    "slug": "lith_k12_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeF",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith K12 Relic",
+      "zh-hans": "古纪 K12 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_k12_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_k12_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_k12_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_k12_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "68add9b11027572e028db6dd",
+    "slug": "lith_a10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeE",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith A10 Relic",
+      "zh-hans": "古纪 A10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_a10_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_a10_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_a10_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_a10_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "68add9b31027572e028db6df",
+    "slug": "lith_e2_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeD",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith E2 Relic",
+      "zh-hans": "古纪 E2 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_e2_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_e2_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_e2_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_e2_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "68add9b61027572e028db6e1",
+    "slug": "lith_o4_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeC",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith O4 Relic",
+      "zh-hans": "古纪 O4 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_o4_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_o4_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_o4_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_o4_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "68add9bb1027572e028db6e3",
+    "slug": "lith_n17_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith N17 Relic",
+      "zh-hans": "古纪 N17 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_n17_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_n17_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_n17_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_n17_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "68add9bd1027572e028db6e5",
+    "slug": "lith_c13_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith C13 Relic",
+      "zh-hans": "古纪 C13 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_c13_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_c13_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_c13_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_c13_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "6928fc63ec38d5c25abab3f0",
+    "slug": "lith_f3_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionWispHildrynVaultB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith F3 Relic",
+      "zh-hans": "古纪 F3 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_f3_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_f3_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_f3_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_f3_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "6928fc63ec38d5c25abab3f1",
+    "slug": "lith_l6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionWispHildrynVaultA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith L6 Relic",
+      "zh-hans": "古纪 L6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_l6_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_l6_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_l6_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_l6_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b7095d9ebda239125d43",
+    "slug": "lith_g14_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeD",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith G14 Relic",
+      "zh-hans": "古纪 G14 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_g14_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_g14_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_g14_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_g14_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b70a5d9ebda239125d44",
+    "slug": "lith_n18_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeC",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith N18 Relic",
+      "zh-hans": "古纪 N18 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_n18_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_n18_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_n18_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_n18_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b70b5d9ebda239125d45",
+    "slug": "lith_d7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith D7 Relic",
+      "zh-hans": "古纪 D7 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_d7_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_d7_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_d7_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_d7_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "69d67830b3984cc97e241766",
+    "slug": "lith_n19_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionVorunaPrimeB",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith N19 Relic",
+      "zh-hans": "古纪 N19 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_n19_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_n19_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_n19_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_n19_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  },
+  {
+    "id": "69d67831b3984cc97e241767",
+    "slug": "lith_c14_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionVorunaPrimeA",
+    "tags": [
+      "lith",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Lith C14 Relic",
+      "zh-hans": "古纪 C14 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/lith_c14_relic.78903ffe750d335f05034144948ad67d.webp",
+      "zh-hans": "items/images/en/lith_c14_relic.78903ffe750d335f05034144948ad67d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lith_c14_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lith_c14_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+    }
+  }
+]

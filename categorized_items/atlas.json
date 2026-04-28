@@ -1,0 +1,170 @@
+[
+  {
+    "id": "56b656d1ef0390c7e4006381",
+    "slug": "tectonic_fracture",
+    "gameRef": "/Lotus/Powersuits/Brawler/BrawlerBarrierAugmentCard",
+    "tags": [
+      "atlas",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Tectonic Fracture",
+      "zh-hans": "构造裂缝"
+    },
+    "icons": {
+      "en": "items/images/en/tectonic_fracture.7c38025ee84d0e86175625030dd0a712.png",
+      "zh-hans": "items/images/en/tectonic_fracture.7c38025ee84d0e86175625030dd0a712.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tectonic_fracture.7c38025ee84d0e86175625030dd0a712.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tectonic_fracture.7c38025ee84d0e86175625030dd0a712.128x128.png"
+    }
+  },
+  {
+    "id": "57c20990022d3f62c0d81aa9",
+    "slug": "path_of_statues",
+    "gameRef": "/Lotus/Powersuits/Brawler/BrawlerPunchAugmentCard",
+    "tags": [
+      "atlas",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Path Of Statues",
+      "zh-hans": "化像之道"
+    },
+    "icons": {
+      "en": "items/images/en/path_of_statues.56d82cf8e4dad50d1fe7dc748f03df1d.png",
+      "zh-hans": "items/images/en/path_of_statues.56d82cf8e4dad50d1fe7dc748f03df1d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/path_of_statues.56d82cf8e4dad50d1fe7dc748f03df1d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/path_of_statues.56d82cf8e4dad50d1fe7dc748f03df1d.128x128.png"
+    }
+  },
+  {
+    "id": "5ecd08d804d55c0806f85350",
+    "slug": "rubble_heap",
+    "gameRef": "/Lotus/Powersuits/Brawler/BrawlerPassiveAugmentCard",
+    "tags": [
+      "atlas",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Rubble Heap",
+      "zh-hans": "碎石堆叠"
+    },
+    "icons": {
+      "en": "items/images/en/rubble_heap.7f5b7428c97adf59f74b621da8543e7d.png",
+      "zh-hans": "items/images/en/rubble_heap.7f5b7428c97adf59f74b621da8543e7d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/rubble_heap.7f5b7428c97adf59f74b621da8543e7d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/rubble_heap.7f5b7428c97adf59f74b621da8543e7d.128x128.png"
+    }
+  },
+  {
+    "id": "56b656d9ef0390c7e4006382",
+    "slug": "titanic_rumbler",
+    "gameRef": "/Lotus/Powersuits/Brawler/BrawlerSummonAugmentCard",
+    "tags": [
+      "atlas",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Titanic Rumbler",
+      "zh-hans": "巨大石者"
+    },
+    "icons": {
+      "en": "items/images/en/titanic_rumbler.6a8bbd8149ae32220e27a4d5f95d1958.png",
+      "zh-hans": "items/images/en/titanic_rumbler.6a8bbd8149ae32220e27a4d5f95d1958.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/titanic_rumbler.6a8bbd8149ae32220e27a4d5f95d1958.128x128.png",
+      "zh-hans": "items/images/en/thumbs/titanic_rumbler.6a8bbd8149ae32220e27a4d5f95d1958.128x128.png"
+    }
+  },
+  {
+    "id": "56dac5705cc639de0a45c51c",
+    "slug": "rumbled",
+    "gameRef": "/Lotus/Powersuits/Brawler/BrawlerSummonPvPAugmentCard",
+    "tags": [
+      "atlas",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Rumbled",
+      "zh-hans": "轰隆石者"
+    },
+    "icons": {
+      "en": "items/images/en/rumbled.d74e43fab8d802bc1fa379104817a302.png",
+      "zh-hans": "items/images/en/rumbled.d74e43fab8d802bc1fa379104817a302.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/rumbled.d74e43fab8d802bc1fa379104817a302.128x128.png",
+      "zh-hans": "items/images/en/thumbs/rumbled.d74e43fab8d802bc1fa379104817a302.128x128.png"
+    }
+  },
+  {
+    "id": "56b656cbef0390c7e4006380",
+    "slug": "ore_gaze",
+    "gameRef": "/Lotus/Powersuits/Brawler/BrawlerGazeAugmentCard",
+    "tags": [
+      "atlas",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Ore Gaze",
+      "zh-hans": "矿石凝视"
+    },
+    "icons": {
+      "en": "items/images/en/ore_gaze.b00450a6b07791dcdbace16e888159c6.png",
+      "zh-hans": "items/images/en/ore_gaze.b00450a6b07791dcdbace16e888159c6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ore_gaze.b00450a6b07791dcdbace16e888159c6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ore_gaze.b00450a6b07791dcdbace16e888159c6.128x128.png"
+    }
+  }
+]

@@ -1,0 +1,2927 @@
+[
+  {
+    "id": "567af35fcbfa8f05d076a521",
+    "slug": "soaring_strike",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterChargeInAirBowMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "bow",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Soaring Strike",
+      "zh-hans": "上升打击"
+    },
+    "icons": {
+      "en": "items/images/en/soaring_strike.48fce1e9da8153d46db2bfa41fa245bc.png",
+      "zh-hans": "items/images/en/soaring_strike.48fce1e9da8153d46db2bfa41fa245bc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/soaring_strike.48fce1e9da8153d46db2bfa41fa245bc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/soaring_strike.48fce1e9da8153d46db2bfa41fa245bc.128x128.png"
+    }
+  },
+  {
+    "id": "5d21ce47f4604c012d1e0c15",
+    "slug": "zhuge_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/ZhugePrimeBlueprint",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Zhuge Prime Blueprint",
+      "zh-hans": "诸葛连弩 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/zhuge_prime_blueprint.38e0e6189f1a333b382507a117b194a9.png",
+      "zh-hans": "items/images/en/zhuge_prime_blueprint.38e0e6189f1a333b382507a117b194a9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/zhuge_prime_blueprint.38e0e6189f1a333b382507a117b194a9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/zhuge_prime_blueprint.38e0e6189f1a333b382507a117b194a9.128x128.png"
+    }
+  },
+  {
+    "id": "5d21ce49f4604c012d1e0c19",
+    "slug": "zhuge_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeZhuge/PrimeZhugeCrossbow",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "set"
+    ],
+    "ducats": 220,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Zhuge Prime Set",
+      "zh-hans": "诸葛连弩 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/zhuge_prime_set.38e0e6189f1a333b382507a117b194a9.png",
+      "zh-hans": "items/images/en/zhuge_prime_set.38e0e6189f1a333b382507a117b194a9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/zhuge_prime_set.38e0e6189f1a333b382507a117b194a9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/zhuge_prime_set.38e0e6189f1a333b382507a117b194a9.128x128.png"
+    }
+  },
+  {
+    "id": "5667568bf9001cd2824a6828",
+    "slug": "karak_wraith_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/KarakWraithBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Karak Wraith Blueprint",
+      "zh-hans": "卡拉克·亡魂 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/karak_wraith_blueprint.b26c71305a536b33e469bc4a8866adea.png",
+      "zh-hans": "items/images/en/karak_wraith_blueprint.b26c71305a536b33e469bc4a8866adea.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/karak_wraith_blueprint.b26c71305a536b33e469bc4a8866adea.128x128.png",
+      "zh-hans": "items/images/en/thumbs/karak_wraith_blueprint.b26c71305a536b33e469bc4a8866adea.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a51d",
+    "slug": "measured_burst",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/TiberonLowRoFAiming",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "tiberon",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Measured Burst",
+      "zh-hans": "精准爆发"
+    },
+    "icons": {
+      "en": "items/images/en/measured_burst.f125aa52c465d97d41f165fdc431d297.png",
+      "zh-hans": "items/images/en/measured_burst.f125aa52c465d97d41f165fdc431d297.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/measured_burst.f125aa52c465d97d41f165fdc431d297.128x128.png",
+      "zh-hans": "items/images/en/thumbs/measured_burst.f125aa52c465d97d41f165fdc431d297.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4f5",
+    "slug": "snap_shot",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/FasterMovementWhileAimingShotgunlMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "shotgun",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Snap Shot",
+      "zh-hans": "速射"
+    },
+    "icons": {
+      "en": "items/images/en/snap_shot.ded807ee6efd377b27bd06c2a61453fb.png",
+      "zh-hans": "items/images/en/snap_shot.ded807ee6efd377b27bd06c2a61453fb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/snap_shot.ded807ee6efd377b27bd06c2a61453fb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/snap_shot.ded807ee6efd377b27bd06c2a61453fb.128x128.png"
+    }
+  },
+  {
+    "id": "58d8f22a11efe42a5e5231ff",
+    "slug": "vulkar_wraith",
+    "gameRef": "/Lotus/Weapons/Grineer/LongGuns/GrineerSniperRifle/VulkarWraith",
+    "tags": [
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Vulkar Wraith",
+      "zh-hans": "金工火神·亡魂"
+    },
+    "icons": {
+      "en": "items/images/en/vulkar_wraith.f8429a3c0e4db52e800fae7bc4aa19ea.png",
+      "zh-hans": "items/images/en/vulkar_wraith.f8429a3c0e4db52e800fae7bc4aa19ea.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vulkar_wraith.f8429a3c0e4db52e800fae7bc4aa19ea.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vulkar_wraith.f8429a3c0e4db52e800fae7bc4aa19ea.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4d8",
+    "slug": "gun_glide",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MoreAccuracyLessRecoilSlidingMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "mod",
+      "assault_rifle"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Gun Glide",
+      "zh-hans": "恒稳枪杆"
+    },
+    "icons": {
+      "en": "items/images/en/gun_glide.2dd3e5bb22e91fae14f1b78aaa764d5d.png",
+      "zh-hans": "items/images/en/gun_glide.2dd3e5bb22e91fae14f1b78aaa764d5d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gun_glide.2dd3e5bb22e91fae14f1b78aaa764d5d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gun_glide.2dd3e5bb22e91fae14f1b78aaa764d5d.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a501",
+    "slug": "vanquished_prey",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/RestoreShieldsOnKillMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "mod",
+      "assault_rifle"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Vanquished Prey",
+      "zh-hans": "战无不克"
+    },
+    "icons": {
+      "en": "items/images/en/vanquished_prey.14414e6361957d4741225cb9606adf8a.png",
+      "zh-hans": "items/images/en/vanquished_prey.14414e6361957d4741225cb9606adf8a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vanquished_prey.14414e6361957d4741225cb9606adf8a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vanquished_prey.14414e6361957d4741225cb9606adf8a.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a506",
+    "slug": "deft_tempo",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterBulletJumponHeadshotRifleMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "mod",
+      "assault_rifle"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Deft Tempo",
+      "zh-hans": "灵快节拍"
+    },
+    "icons": {
+      "en": "items/images/en/deft_tempo.e50c0487ca72d93242873e1248b9f06f.png",
+      "zh-hans": "items/images/en/deft_tempo.e50c0487ca72d93242873e1248b9f06f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/deft_tempo.e50c0487ca72d93242873e1248b9f06f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/deft_tempo.e50c0487ca72d93242873e1248b9f06f.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a508",
+    "slug": "double_tap",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MoreDamageonTripleTapRifleMod",
+    "tags": [
+      "primary",
+      "latron",
+      "pvp",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Double Tap",
+      "zh-hans": "双重连击"
+    },
+    "icons": {
+      "en": "items/images/en/double_tap.11175026394e8ecf711f55a5d9d3933f.png",
+      "zh-hans": "items/images/en/double_tap.11175026394e8ecf711f55a5d9d3933f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/double_tap.11175026394e8ecf711f55a5d9d3933f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/double_tap.11175026394e8ecf711f55a5d9d3933f.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a50b",
+    "slug": "final_tap",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HindDamageonFifthHit",
+    "tags": [
+      "primary",
+      "hind",
+      "pvp",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Final Tap",
+      "zh-hans": "最终一击"
+    },
+    "icons": {
+      "en": "items/images/en/final_tap.e06ec710b97bbbe0a82278fc7bcdca2b.png",
+      "zh-hans": "items/images/en/final_tap.e06ec710b97bbbe0a82278fc7bcdca2b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/final_tap.e06ec710b97bbbe0a82278fc7bcdca2b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/final_tap.e06ec710b97bbbe0a82278fc7bcdca2b.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a514",
+    "slug": "hydraulic_chamber",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/LessRecoilSmallerMagShotgunMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "shotgun",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Hydraulic Chamber",
+      "zh-hans": "液压枪膛"
+    },
+    "icons": {
+      "en": "items/images/en/hydraulic_chamber.7da4fc38106cfacf117579b3605e02a6.png",
+      "zh-hans": "items/images/en/hydraulic_chamber.7da4fc38106cfacf117579b3605e02a6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hydraulic_chamber.7da4fc38106cfacf117579b3605e02a6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hydraulic_chamber.7da4fc38106cfacf117579b3605e02a6.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a515",
+    "slug": "hydraulic_gauge",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/LessRecoilSmallerMagRifleMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "mod",
+      "assault_rifle"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Hydraulic Gauge",
+      "zh-hans": "液压弹药"
+    },
+    "icons": {
+      "en": "items/images/en/hydraulic_gauge.dd072c8d4744b9a456008a7f2adbee13.png",
+      "zh-hans": "items/images/en/hydraulic_gauge.dd072c8d4744b9a456008a7f2adbee13.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hydraulic_gauge.dd072c8d4744b9a456008a7f2adbee13.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hydraulic_gauge.dd072c8d4744b9a456008a7f2adbee13.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a50f",
+    "slug": "grinloked",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MoreAccuracyOnHitGrinlokMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "grinlok",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Grinloked",
+      "zh-hans": "精准火枪"
+    },
+    "icons": {
+      "en": "items/images/en/grinloked.a9052cbab7dc1518e74b3e5c2e3abf14.png",
+      "zh-hans": "items/images/en/grinloked.a9052cbab7dc1518e74b3e5c2e3abf14.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/grinloked.a9052cbab7dc1518e74b3e5c2e3abf14.128x128.png",
+      "zh-hans": "items/images/en/thumbs/grinloked.a9052cbab7dc1518e74b3e5c2e3abf14.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4dc",
+    "slug": "lie_in_wait",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherAimedDamageMoreRecoilSniperMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "sniper",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Lie In Wait",
+      "zh-hans": "埋伏射击"
+    },
+    "icons": {
+      "en": "items/images/en/lie_in_wait.eafb08669c7ca6c57e97f52f7888d002.png",
+      "zh-hans": "items/images/en/lie_in_wait.eafb08669c7ca6c57e97f52f7888d002.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lie_in_wait.eafb08669c7ca6c57e97f52f7888d002.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lie_in_wait.eafb08669c7ca6c57e97f52f7888d002.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a51f",
+    "slug": "plan_b",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterPistolRoFOnHitBowMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "bow",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Plan B",
+      "zh-hans": "应急备案"
+    },
+    "icons": {
+      "en": "items/images/en/plan_b.987847916d518013b6d23ea79367e65c.png",
+      "zh-hans": "items/images/en/plan_b.987847916d518013b6d23ea79367e65c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/plan_b.987847916d518013b6d23ea79367e65c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/plan_b.987847916d518013b6d23ea79367e65c.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4ee",
+    "slug": "ripper_rounds",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/DamageBiasPunctureRifleMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "rifle",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Ripper Rounds",
+      "zh-hans": "撕裂弹头"
+    },
+    "icons": {
+      "en": "items/images/en/ripper_rounds.b14591b6f15dcf7aba2a721201fd706e.png",
+      "zh-hans": "items/images/en/ripper_rounds.b14591b6f15dcf7aba2a721201fd706e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ripper_rounds.b14591b6f15dcf7aba2a721201fd706e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ripper_rounds.b14591b6f15dcf7aba2a721201fd706e.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4cf",
+    "slug": "comet_rounds",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/DamageBiasImpactRifleMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "rifle",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Comet Rounds",
+      "zh-hans": "彗星弹头"
+    },
+    "icons": {
+      "en": "items/images/en/comet_rounds.241aed9e2ba36e591104eda496da7cda.png",
+      "zh-hans": "items/images/en/comet_rounds.241aed9e2ba36e591104eda496da7cda.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/comet_rounds.241aed9e2ba36e591104eda496da7cda.128x128.png",
+      "zh-hans": "items/images/en/thumbs/comet_rounds.241aed9e2ba36e591104eda496da7cda.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4d1",
+    "slug": "crash_shot",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/DamageBiasImpactShotgunMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "shotgun",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Crash Shot",
+      "zh-hans": "溃散射击"
+    },
+    "icons": {
+      "en": "items/images/en/crash_shot.8de3e7c1f08433a767ab31af52864e06.png",
+      "zh-hans": "items/images/en/crash_shot.8de3e7c1f08433a767ab31af52864e06.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/crash_shot.8de3e7c1f08433a767ab31af52864e06.128x128.png",
+      "zh-hans": "items/images/en/thumbs/crash_shot.8de3e7c1f08433a767ab31af52864e06.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a507",
+    "slug": "directed_convergence",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/SupraHigherAccuracyAiming",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "supra",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Directed Convergence",
+      "zh-hans": "定向汇聚"
+    },
+    "icons": {
+      "en": "items/images/en/directed_convergence.ca17ef6a0640dfc5803f732ef085c49f.png",
+      "zh-hans": "items/images/en/directed_convergence.ca17ef6a0640dfc5803f732ef085c49f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/directed_convergence.ca17ef6a0640dfc5803f732ef085c49f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/directed_convergence.ca17ef6a0640dfc5803f732ef085c49f.128x128.png"
+    }
+  },
+  {
+    "id": "56675641f9001cd2824a6824",
+    "slug": "dera_vandal_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/DeraVandalBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Dera Vandal Blueprint",
+      "zh-hans": "德拉·破坏者 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/dera_vandal_blueprint.15c5a1f8b62ab0520cf7394563f73aea.png",
+      "zh-hans": "items/images/en/dera_vandal_blueprint.15c5a1f8b62ab0520cf7394563f73aea.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/dera_vandal_blueprint.15c5a1f8b62ab0520cf7394563f73aea.128x128.png",
+      "zh-hans": "items/images/en/thumbs/dera_vandal_blueprint.15c5a1f8b62ab0520cf7394563f73aea.128x128.png"
+    }
+  },
+  {
+    "id": "5adf872a931bcf00574adc15",
+    "slug": "braton_vandal_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Rifle/VIPRifle",
+    "tags": [
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Braton Vandal Set",
+      "zh-hans": "布莱顿·破坏者 一套"
+    },
+    "icons": {
+      "en": "items/images/en/braton_vandal_set.91c532bcac702702bf7d259bd5d4d553.png",
+      "zh-hans": "items/images/en/braton_vandal_set.91c532bcac702702bf7d259bd5d4d553.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/braton_vandal_set.91c532bcac702702bf7d259bd5d4d553.128x128.png",
+      "zh-hans": "items/images/en/thumbs/braton_vandal_set.91c532bcac702702bf7d259bd5d4d553.128x128.png"
+    }
+  },
+  {
+    "id": "56dac5b85cc639de0a45c529",
+    "slug": "thundermiter",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/ExplodingMiterBlades",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "mod",
+      "miter"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Thundermiter",
+      "zh-hans": "雷电米特尔"
+    },
+    "icons": {
+      "en": "items/images/en/thundermiter_(miter).238b4e97a7f06da1447b393de0611e9b.png",
+      "zh-hans": "items/images/en/thundermiter_(miter).238b4e97a7f06da1447b393de0611e9b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/thundermiter_(miter).238b4e97a7f06da1447b393de0611e9b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/thundermiter_(miter).238b4e97a7f06da1447b393de0611e9b.128x128.png"
+    }
+  },
+  {
+    "id": "57bc9c84e506eb45ea251459",
+    "slug": "tigris_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/PrimeTigrisBlueprint",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Tigris Prime Blueprint",
+      "zh-hans": "猛虎 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/tigris_prime_blueprint.5f82721ea78697c95208b9bceb72c4a4.png",
+      "zh-hans": "items/images/en/tigris_prime_blueprint.5f82721ea78697c95208b9bceb72c4a4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tigris_prime_blueprint.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tigris_prime_blueprint.5f82721ea78697c95208b9bceb72c4a4.128x128.png"
+    }
+  },
+  {
+    "id": "56dac5c05cc639de0a45c52b",
+    "slug": "emergent_aftermath",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterReloadOnKillSniperMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "sniper",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Emergent Aftermath",
+      "zh-hans": "紧急后果"
+    },
+    "icons": {
+      "en": "items/images/en/emergent_aftermath.b9f1c6ba08998f29184821d26fc6ae84.png",
+      "zh-hans": "items/images/en/emergent_aftermath.b9f1c6ba08998f29184821d26fc6ae84.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/emergent_aftermath.b9f1c6ba08998f29184821d26fc6ae84.128x128.png",
+      "zh-hans": "items/images/en/thumbs/emergent_aftermath.b9f1c6ba08998f29184821d26fc6ae84.128x128.png"
+    }
+  },
+  {
+    "id": "55a46992e77989023be347fe",
+    "slug": "prisma_grakata",
+    "gameRef": "/Lotus/Weapons/VoidTrader/PrismaGrakata",
+    "tags": [
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Prisma Grakata",
+      "zh-hans": "棱晶·葛拉卡达"
+    },
+    "icons": {
+      "en": "items/images/en/prisma_grakata.9a7efdc99822c298dc4ad06517450482.png",
+      "zh-hans": "items/images/en/prisma_grakata.9a7efdc99822c298dc4ad06517450482.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/prisma_grakata.9a7efdc99822c298dc4ad06517450482.128x128.png",
+      "zh-hans": "items/images/en/thumbs/prisma_grakata.9a7efdc99822c298dc4ad06517450482.128x128.png"
+    }
+  },
+  {
+    "id": "56153f21b66f83707a67c0b4",
+    "slug": "prisma_tetra",
+    "gameRef": "/Lotus/Weapons/Corpus/LongGuns/CorpusUMP/PrismaCorpusUMP",
+    "tags": [
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Prisma Tetra",
+      "zh-hans": "棱晶·特拉"
+    },
+    "icons": {
+      "en": "items/images/en/prisma_tetra.e1e516760ccd856f2a66a1992d7e98e1.png",
+      "zh-hans": "items/images/en/prisma_tetra.e1e516760ccd856f2a66a1992d7e98e1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/prisma_tetra.e1e516760ccd856f2a66a1992d7e98e1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/prisma_tetra.e1e516760ccd856f2a66a1992d7e98e1.128x128.png"
+    }
+  },
+  {
+    "id": "592dd262011e88f094afec82",
+    "slug": "sybaris_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/SybarisPrimeBlueprint",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sybaris Prime Blueprint",
+      "zh-hans": "席芭莉丝 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/sybaris_prime_blueprint.39d7dc4a904f7db7e7c78901976aa5fa.png",
+      "zh-hans": "items/images/en/sybaris_prime_blueprint.39d7dc4a904f7db7e7c78901976aa5fa.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sybaris_prime_blueprint.39d7dc4a904f7db7e7c78901976aa5fa.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sybaris_prime_blueprint.39d7dc4a904f7db7e7c78901976aa5fa.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a51b",
+    "slug": "lucky_shot",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherVelocityLessAccurateRifleMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "rifle",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Lucky Shot",
+      "zh-hans": "幸运射击"
+    },
+    "icons": {
+      "en": "items/images/en/lucky_shot.7e508641f4f2b24459547f38d9361de8.png",
+      "zh-hans": "items/images/en/lucky_shot.7e508641f4f2b24459547f38d9361de8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lucky_shot.7e508641f4f2b24459547f38d9361de8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lucky_shot.7e508641f4f2b24459547f38d9361de8.128x128.png"
+    }
+  },
+  {
+    "id": "570e384396c62ba9d1795d21",
+    "slug": "quanta_vandal",
+    "gameRef": "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/QuantaVandal",
+    "tags": [
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Quanta Vandal",
+      "zh-hans": "量子切割器·破坏者"
+    },
+    "icons": {
+      "en": "items/images/en/quanta_vandal.4cc8f8946b8f07fe991eb81c4c2efafc.png",
+      "zh-hans": "items/images/en/quanta_vandal.4cc8f8946b8f07fe991eb81c4c2efafc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/quanta_vandal.4cc8f8946b8f07fe991eb81c4c2efafc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/quanta_vandal.4cc8f8946b8f07fe991eb81c4c2efafc.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4f6",
+    "slug": "soft_hands",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/HolsterSpeedBonusMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "shotgun",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Soft Hands",
+      "zh-hans": "精湛快手"
+    },
+    "icons": {
+      "en": "items/images/en/soft_hands.c38e7bc163dea7c5c99a2213b1433ea9.png",
+      "zh-hans": "items/images/en/soft_hands.c38e7bc163dea7c5c99a2213b1433ea9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/soft_hands.c38e7bc163dea7c5c99a2213b1433ea9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/soft_hands.c38e7bc163dea7c5c99a2213b1433ea9.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4f7",
+    "slug": "spring_loaded_broadhead",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/DaikyuMoreDamageOverDistanceMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "daikyu",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Spring-Loaded Broadhead",
+      "zh-hans": "簧压猎箭"
+    },
+    "icons": {
+      "en": "items/images/en/spring_loaded_broadhead.8457bdc8b1bcad57c7c22fb94bd5bebd.png",
+      "zh-hans": "items/images/en/spring_loaded_broadhead.8457bdc8b1bcad57c7c22fb94bd5bebd.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/spring_loaded_broadhead.8457bdc8b1bcad57c7c22fb94bd5bebd.128x128.png",
+      "zh-hans": "items/images/en/thumbs/spring_loaded_broadhead.8457bdc8b1bcad57c7c22fb94bd5bebd.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4fd",
+    "slug": "tactical_reload",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/PassiveReloadMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "mod",
+      "assault_rifle"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Tactical Reload",
+      "zh-hans": "机动装填"
+    },
+    "icons": {
+      "en": "items/images/en/tactical_reload.277ffd090355ce8536f1401ce5024f96.png",
+      "zh-hans": "items/images/en/tactical_reload.277ffd090355ce8536f1401ce5024f96.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tactical_reload.277ffd090355ce8536f1401ce5024f96.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tactical_reload.277ffd090355ce8536f1401ce5024f96.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd8998",
+    "slug": "dera_vandal_set",
+    "gameRef": "/Lotus/Weapons/ClanTech/Energy/DeraVandal",
+    "tags": [
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Dera Vandal Set",
+      "zh-hans": "德拉·破坏者 一套"
+    },
+    "icons": {
+      "en": "items/images/en/dera_vandal_set.15c5a1f8b62ab0520cf7394563f73aea.png",
+      "zh-hans": "items/images/en/dera_vandal_set.15c5a1f8b62ab0520cf7394563f73aea.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/dera_vandal_set.15c5a1f8b62ab0520cf7394563f73aea.128x128.png",
+      "zh-hans": "items/images/en/thumbs/dera_vandal_set.15c5a1f8b62ab0520cf7394563f73aea.128x128.png"
+    }
+  },
+  {
+    "id": "57962daf19aaba0b00a9b1b1",
+    "slug": "latron_wraith_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/LatronWraithBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Latron Wraith Blueprint",
+      "zh-hans": "拉特昂·亡魂 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/latron_wraith_blueprint.57295b3f36571ea8ea47471d7a70caea.png",
+      "zh-hans": "items/images/en/latron_wraith_blueprint.57295b3f36571ea8ea47471d7a70caea.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/latron_wraith_blueprint.57295b3f36571ea8ea47471d7a70caea.128x128.png",
+      "zh-hans": "items/images/en/thumbs/latron_wraith_blueprint.57295b3f36571ea8ea47471d7a70caea.128x128.png"
+    }
+  },
+  {
+    "id": "57962daf19aaba0b00a9b1b4",
+    "slug": "latron_wraith_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/WraithLatron/WraithLatron",
+    "tags": [
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Latron Wraith Set",
+      "zh-hans": "拉特昂·亡魂 一套"
+    },
+    "icons": {
+      "en": "items/images/en/latron_wraith_set.57295b3f36571ea8ea47471d7a70caea.png",
+      "zh-hans": "items/images/en/latron_wraith_set.57295b3f36571ea8ea47471d7a70caea.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/latron_wraith_set.57295b3f36571ea8ea47471d7a70caea.128x128.png",
+      "zh-hans": "items/images/en/thumbs/latron_wraith_set.57295b3f36571ea8ea47471d7a70caea.128x128.png"
+    }
+  },
+  {
+    "id": "5df955121456970150510f21",
+    "slug": "baza_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/BazaPrimeBlueprint",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 65,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Baza Prime Blueprint",
+      "zh-hans": "苍鹰 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/baza_prime_blueprint.a5f9c94cee410a5af7726ee6b2fca2b5.png",
+      "zh-hans": "items/images/en/baza_prime_blueprint.a5f9c94cee410a5af7726ee6b2fca2b5.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/baza_prime_blueprint.a5f9c94cee410a5af7726ee6b2fca2b5.128x128.png",
+      "zh-hans": "items/images/en/thumbs/baza_prime_blueprint.a5f9c94cee410a5af7726ee6b2fca2b5.128x128.png"
+    }
+  },
+  {
+    "id": "5df955121456970150510f22",
+    "slug": "baza_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeBaza/PrimeBazaGun",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "set"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Baza Prime Set",
+      "zh-hans": "苍鹰 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/baza_prime_set.a5f9c94cee410a5af7726ee6b2fca2b5.png",
+      "zh-hans": "items/images/en/baza_prime_set.a5f9c94cee410a5af7726ee6b2fca2b5.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/baza_prime_set.a5f9c94cee410a5af7726ee6b2fca2b5.128x128.png",
+      "zh-hans": "items/images/en/thumbs/baza_prime_set.a5f9c94cee410a5af7726ee6b2fca2b5.128x128.png"
+    }
+  },
+  {
+    "id": "585a93312c2ada00552edf0f",
+    "slug": "precision_munition",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/TonkorAccuracySmallerMag",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "mod",
+      "tonkor"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Precision Munition",
+      "zh-hans": "精准弹药"
+    },
+    "icons": {
+      "en": "items/images/en/precision_munition.5b990064481b381619c8aba968f7c176.png",
+      "zh-hans": "items/images/en/precision_munition.5b990064481b381619c8aba968f7c176.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/precision_munition.5b990064481b381619c8aba968f7c176.128x128.png",
+      "zh-hans": "items/images/en/thumbs/precision_munition.5b990064481b381619c8aba968f7c176.128x128.png"
+    }
+  },
+  {
+    "id": "54c686fee7798913eda0615b",
+    "slug": "prisma_gorgon",
+    "gameRef": "/Lotus/Weapons/Grineer/LongGuns/VoidTraderGorgon/VTGorgon",
+    "tags": [
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Prisma Gorgon",
+      "zh-hans": "棱晶·蛇发女妖"
+    },
+    "icons": {
+      "en": "items/images/en/prisma_gorgon.3d4fdb4c17592d735ccdad21868d3019.png",
+      "zh-hans": "items/images/en/prisma_gorgon.3d4fdb4c17592d735ccdad21868d3019.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/prisma_gorgon.3d4fdb4c17592d735ccdad21868d3019.128x128.png",
+      "zh-hans": "items/images/en/thumbs/prisma_gorgon.3d4fdb4c17592d735ccdad21868d3019.128x128.png"
+    }
+  },
+  {
+    "id": "56dac5ac5cc639de0a45c526",
+    "slug": "brain_storm",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/GrakataUnlimitedAmmo",
+    "tags": [
+      "primary",
+      "pvp",
+      "grakata",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Brain Storm",
+      "zh-hans": "头脑风暴"
+    },
+    "icons": {
+      "en": "items/images/en/brain_storm.85cc50bf4d62733e3b35cd2f0e3c7b7b.png",
+      "zh-hans": "items/images/en/brain_storm.85cc50bf4d62733e3b35cd2f0e3c7b7b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/brain_storm.85cc50bf4d62733e3b35cd2f0e3c7b7b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/brain_storm.85cc50bf4d62733e3b35cd2f0e3c7b7b.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4d6",
+    "slug": "flak_shot",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/DamageBiasSlashShotgunMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "shotgun",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Flak Shot",
+      "zh-hans": "高射炮击"
+    },
+    "icons": {
+      "en": "items/images/en/flak_shot.be4117525d415460b856b5c75c0582c2.png",
+      "zh-hans": "items/images/en/flak_shot.be4117525d415460b856b5c75c0582c2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/flak_shot.be4117525d415460b856b5c75c0582c2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/flak_shot.be4117525d415460b856b5c75c0582c2.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4dd",
+    "slug": "lock_and_load",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/PassiveReloadMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "shotgun",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Lock And Load",
+      "zh-hans": "填弹上膛"
+    },
+    "icons": {
+      "en": "items/images/en/lock_and_load.1aaa76e73ac149aa2a8ee0a8c3307f80.png",
+      "zh-hans": "items/images/en/lock_and_load.1aaa76e73ac149aa2a8ee0a8c3307f80.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lock_and_load.1aaa76e73ac149aa2a8ee0a8c3307f80.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lock_and_load.1aaa76e73ac149aa2a8ee0a8c3307f80.128x128.png"
+    }
+  },
+  {
+    "id": "592dd262011e88f094afec86",
+    "slug": "sybaris_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeSybaris/PrimeSybarisRifle",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "set"
+    ],
+    "ducats": 175,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sybaris Prime Set",
+      "zh-hans": "席芭莉丝 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/sybaris_prime_set.39d7dc4a904f7db7e7c78901976aa5fa.png",
+      "zh-hans": "items/images/en/sybaris_prime_set.39d7dc4a904f7db7e7c78901976aa5fa.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sybaris_prime_set.39d7dc4a904f7db7e7c78901976aa5fa.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sybaris_prime_set.39d7dc4a904f7db7e7c78901976aa5fa.128x128.png"
+    }
+  },
+  {
+    "id": "5dfea1481456970294aff3a3",
+    "slug": "shedu_set",
+    "gameRef": "/Lotus/Weapons/Sentients/Shedu/SheduHeavyWeapon",
+    "tags": [
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Shedu Set",
+      "zh-hans": "舍杜 一套"
+    },
+    "icons": {
+      "en": "items/images/en/shedu_set.765c016812e915e1e06ceb5e3820ae48.png",
+      "zh-hans": "items/images/en/shedu_set.765c016812e915e1e06ceb5e3820ae48.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shedu_set.765c016812e915e1e06ceb5e3820ae48.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shedu_set.765c016812e915e1e06ceb5e3820ae48.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a50e",
+    "slug": "gorgon_frenzy",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterRoFonKillGorgonMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "mod",
+      "gorgon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Gorgon Frenzy",
+      "zh-hans": "蛇发女妖的狂热"
+    },
+    "icons": {
+      "en": "items/images/en/gorgon_frenzy.0993e71e3c052de71d6bfe993c4076f7.png",
+      "zh-hans": "items/images/en/gorgon_frenzy.0993e71e3c052de71d6bfe993c4076f7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gorgon_frenzy.0993e71e3c052de71d6bfe993c4076f7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gorgon_frenzy.0993e71e3c052de71d6bfe993c4076f7.128x128.png"
+    }
+  },
+  {
+    "id": "57bc9c84e506eb45ea251455",
+    "slug": "tigris_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeTigris/PrimeTigris",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Tigris Prime Set",
+      "zh-hans": "猛虎 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/tigris_prime_set.5f82721ea78697c95208b9bceb72c4a4.png",
+      "zh-hans": "items/images/en/tigris_prime_set.5f82721ea78697c95208b9bceb72c4a4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tigris_prime_set.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tigris_prime_set.5f82721ea78697c95208b9bceb72c4a4.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4d2",
+    "slug": "double_barrel_drift",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/MoreAccuracyLessRecoilSlidingShotgunMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "shotgun",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Double-Barrel Drift",
+      "zh-hans": "游离双管"
+    },
+    "icons": {
+      "en": "items/images/en/double_barrel_drift.a4030814b2aeb34e8629164f2a96c5b0.png",
+      "zh-hans": "items/images/en/double_barrel_drift.a4030814b2aeb34e8629164f2a96c5b0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/double_barrel_drift.a4030814b2aeb34e8629164f2a96c5b0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/double_barrel_drift.a4030814b2aeb34e8629164f2a96c5b0.128x128.png"
+    }
+  },
+  {
+    "id": "591844575c170664fbd37eb3",
+    "slug": "gorgon_wraith_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/GorgonWraithBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gorgon Wraith Blueprint",
+      "zh-hans": "蛇发女妖·亡魂 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/gorgon_wraith_blueprint.2fe2c6cae89adbecbba049aafcd664d7.png",
+      "zh-hans": "items/images/en/gorgon_wraith_blueprint.2fe2c6cae89adbecbba049aafcd664d7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gorgon_wraith_blueprint.2fe2c6cae89adbecbba049aafcd664d7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gorgon_wraith_blueprint.2fe2c6cae89adbecbba049aafcd664d7.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd899f",
+    "slug": "karak_wraith_set",
+    "gameRef": "/Lotus/Weapons/Grineer/LongGuns/GrineerM16Homage/KarakWraith",
+    "tags": [
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Karak Wraith Set",
+      "zh-hans": "卡拉克·亡魂 一套"
+    },
+    "icons": {
+      "en": "items/images/en/karak_wraith_set.b26c71305a536b33e469bc4a8866adea.png",
+      "zh-hans": "items/images/en/karak_wraith_set.b26c71305a536b33e469bc4a8866adea.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/karak_wraith_set.b26c71305a536b33e469bc4a8866adea.128x128.png",
+      "zh-hans": "items/images/en/thumbs/karak_wraith_set.b26c71305a536b33e469bc4a8866adea.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a524",
+    "slug": "triple_tap",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MoreDamageonMultiHitRifleMod",
+    "tags": [
+      "primary",
+      "burston",
+      "pvp",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Triple Tap",
+      "zh-hans": "三重连击"
+    },
+    "icons": {
+      "en": "items/images/en/triple_tap.76f19f65c3581449abc56f3d8d743b6e.png",
+      "zh-hans": "items/images/en/triple_tap.76f19f65c3581449abc56f3d8d743b6e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/triple_tap.76f19f65c3581449abc56f3d8d743b6e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/triple_tap.76f19f65c3581449abc56f3d8d743b6e.128x128.png"
+    }
+  },
+  {
+    "id": "5c8693d22cc6ce0bbc095d9c",
+    "slug": "prisma_grinlok",
+    "gameRef": "/Lotus/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/PrismaGrinlokWeapon",
+    "tags": [
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Prisma Grinlok",
+      "zh-hans": "棱晶·葛恩火枪"
+    },
+    "icons": {
+      "en": "items/images/en/prisma_grinlok.eebf106cbbb7b962f75b00ce34cb4d20.png",
+      "zh-hans": "items/images/en/prisma_grinlok.eebf106cbbb7b962f75b00ce34cb4d20.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/prisma_grinlok.eebf106cbbb7b962f75b00ce34cb4d20.128x128.png",
+      "zh-hans": "items/images/en/thumbs/prisma_grinlok.eebf106cbbb7b962f75b00ce34cb4d20.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4f2",
+    "slug": "serrated_rounds",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/DamageBiasSlashRifleMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "rifle",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Serrated Rounds",
+      "zh-hans": "锯刃弹头"
+    },
+    "icons": {
+      "en": "items/images/en/serrated_rounds.e2d6ee028dbe85ce258f142b8fc9b072.png",
+      "zh-hans": "items/images/en/serrated_rounds.e2d6ee028dbe85ce258f142b8fc9b072.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/serrated_rounds.e2d6ee028dbe85ce258f142b8fc9b072.128x128.png",
+      "zh-hans": "items/images/en/thumbs/serrated_rounds.e2d6ee028dbe85ce258f142b8fc9b072.128x128.png"
+    }
+  },
+  {
+    "id": "583580d52c2ada003badef85",
+    "slug": "cernos_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/PrimeCernosBlueprint",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cernos Prime Blueprint",
+      "zh-hans": "西诺斯 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/cernos_prime_blueprint.b3ac02e80ee17cc0756348f1d04b69cc.png",
+      "zh-hans": "items/images/en/cernos_prime_blueprint.b3ac02e80ee17cc0756348f1d04b69cc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cernos_prime_blueprint.b3ac02e80ee17cc0756348f1d04b69cc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cernos_prime_blueprint.b3ac02e80ee17cc0756348f1d04b69cc.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4c7",
+    "slug": "agile_aim",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterMovementWhileAimingRifleMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "rifle",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Agile Aim",
+      "zh-hans": "机动瞄准"
+    },
+    "icons": {
+      "en": "items/images/en/agile_aim.2c304bc0bd60d75ec6a92325f71692fb.png",
+      "zh-hans": "items/images/en/agile_aim.2c304bc0bd60d75ec6a92325f71692fb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/agile_aim.2c304bc0bd60d75ec6a92325f71692fb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/agile_aim.2c304bc0bd60d75ec6a92325f71692fb.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4f4",
+    "slug": "shred_shot",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/DamageBiasPunctureShotgunMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "shotgun",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Shred Shot",
+      "zh-hans": "撕碎射击"
+    },
+    "icons": {
+      "en": "items/images/en/shred_shot.6c54abde2f2a72ce7c5b88ac37500cc3.png",
+      "zh-hans": "items/images/en/shred_shot.6c54abde2f2a72ce7c5b88ac37500cc3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shred_shot.6c54abde2f2a72ce7c5b88ac37500cc3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shred_shot.6c54abde2f2a72ce7c5b88ac37500cc3.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4ca",
+    "slug": "apex_predator",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MarkTargetRifleMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "rifle",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Apex Predator",
+      "zh-hans": "顶级掠食者"
+    },
+    "icons": {
+      "en": "items/images/en/apex_predator.2d037a2722b651e3cb5e86c1cc234a6e.png",
+      "zh-hans": "items/images/en/apex_predator.2d037a2722b651e3cb5e86c1cc234a6e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/apex_predator.2d037a2722b651e3cb5e86c1cc234a6e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/apex_predator.2d037a2722b651e3cb5e86c1cc234a6e.128x128.png"
+    }
+  },
+  {
+    "id": "5ee76f4b04d55c0a81972435",
+    "slug": "stahlta_set",
+    "gameRef": "/Lotus/Weapons/Corpus/LongGuns/CrpRubanRifle/CrpRubanRifle",
+    "tags": [
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Stahlta Set",
+      "zh-hans": "钢刃步枪 一套"
+    },
+    "icons": {
+      "en": "items/images/en/stahlta_set.30d7537c3158976f86998e5b9fa05f96.png",
+      "zh-hans": "items/images/en/stahlta_set.30d7537c3158976f86998e5b9fa05f96.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/stahlta_set.30d7537c3158976f86998e5b9fa05f96.128x128.png",
+      "zh-hans": "items/images/en/thumbs/stahlta_set.30d7537c3158976f86998e5b9fa05f96.128x128.png"
+    }
+  },
+  {
+    "id": "5ef0a62004d55c0c40f06525",
+    "slug": "glaxion_vandal",
+    "gameRef": "/Lotus/Weapons/Corpus/LongGuns/CrpFreezeRay/Vandal/CrpFreezeRayVandalRifle",
+    "tags": [
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Glaxion Vandal",
+      "zh-hans": "冷冻光束步枪·破坏者"
+    },
+    "icons": {
+      "en": "items/images/en/glaxion_vandal.6014173d9027f07df11bf4bd68f5eeb8.png",
+      "zh-hans": "items/images/en/glaxion_vandal.6014173d9027f07df11bf4bd68f5eeb8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/glaxion_vandal.6014173d9027f07df11bf4bd68f5eeb8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/glaxion_vandal.6014173d9027f07df11bf4bd68f5eeb8.128x128.png"
+    }
+  },
+  {
+    "id": "583580ff2c2ada003badef8a",
+    "slug": "cernos_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Bows/PrimeCernos/PrimeCernos",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "set"
+    ],
+    "ducats": 200,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cernos Prime Set",
+      "zh-hans": "西诺斯 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/cernos_prime_set.b3ac02e80ee17cc0756348f1d04b69cc.png",
+      "zh-hans": "items/images/en/cernos_prime_set.b3ac02e80ee17cc0756348f1d04b69cc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cernos_prime_set.b3ac02e80ee17cc0756348f1d04b69cc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cernos_prime_set.b3ac02e80ee17cc0756348f1d04b69cc.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4cb",
+    "slug": "bounty_hunter",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/MarkTargetShotgunMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "shotgun",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Bounty Hunter",
+      "zh-hans": "赏金猎人"
+    },
+    "icons": {
+      "en": "items/images/en/bounty_hunter.748fa255fcfa70d0344501250c5e01e2.png",
+      "zh-hans": "items/images/en/bounty_hunter.748fa255fcfa70d0344501250c5e01e2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/bounty_hunter.748fa255fcfa70d0344501250c5e01e2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/bounty_hunter.748fa255fcfa70d0344501250c5e01e2.128x128.png"
+    }
+  },
+  {
+    "id": "5adf872b931bcf00574adc17",
+    "slug": "braton_vandal_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/BratonVandalBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Braton Vandal Blueprint",
+      "zh-hans": "布莱顿·破坏者 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/braton_vandal_blueprint.91c532bcac702702bf7d259bd5d4d553.png",
+      "zh-hans": "items/images/en/braton_vandal_blueprint.91c532bcac702702bf7d259bd5d4d553.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/braton_vandal_blueprint.91c532bcac702702bf7d259bd5d4d553.128x128.png",
+      "zh-hans": "items/images/en/thumbs/braton_vandal_blueprint.91c532bcac702702bf7d259bd5d4d553.128x128.png"
+    }
+  },
+  {
+    "id": "591844575c170664fbd37eb2",
+    "slug": "gorgon_wraith_set",
+    "gameRef": "/Lotus/Weapons/Grineer/LongGuns/WraithGorgon/WraithGorgon",
+    "tags": [
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gorgon Wraith Set",
+      "zh-hans": "蛇发女妖·亡魂 一套"
+    },
+    "icons": {
+      "en": "items/images/en/gorgon_wraith_set.2fe2c6cae89adbecbba049aafcd664d7.png",
+      "zh-hans": "items/images/en/gorgon_wraith_set.2fe2c6cae89adbecbba049aafcd664d7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gorgon_wraith_set.2fe2c6cae89adbecbba049aafcd664d7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gorgon_wraith_set.2fe2c6cae89adbecbba049aafcd664d7.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a50c",
+    "slug": "focused_acceleration",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/TetraFasterProjAiming",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "mod",
+      "tetra"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Focused Acceleration",
+      "zh-hans": "聚焦加速"
+    },
+    "icons": {
+      "en": "items/images/en/focused_acceleration.57d5093216cb556eaa9275e6f8b69eb7.png",
+      "zh-hans": "items/images/en/focused_acceleration.57d5093216cb556eaa9275e6f8b69eb7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/focused_acceleration.57d5093216cb556eaa9275e6f8b69eb7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/focused_acceleration.57d5093216cb556eaa9275e6f8b69eb7.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4cc",
+    "slug": "broad_eye",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/HigherAirAimFoVShotgunMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "shotgun",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Broad Eye",
+      "zh-hans": "广域之视"
+    },
+    "icons": {
+      "en": "items/images/en/broad_eye.fa3689964ba1794a59a3c0acbcf53747.png",
+      "zh-hans": "items/images/en/broad_eye.fa3689964ba1794a59a3c0acbcf53747.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/broad_eye.fa3689964ba1794a59a3c0acbcf53747.128x128.png",
+      "zh-hans": "items/images/en/thumbs/broad_eye.fa3689964ba1794a59a3c0acbcf53747.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a509",
+    "slug": "feathered_arrows",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherVelocityLessDamageBowMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "bow",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Feathered Arrows",
+      "zh-hans": "轻羽箭"
+    },
+    "icons": {
+      "en": "items/images/en/feathered_arrows.c024ea4e02bfe81e74a987d71e60c886.png",
+      "zh-hans": "items/images/en/feathered_arrows.c024ea4e02bfe81e74a987d71e60c886.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/feathered_arrows.c024ea4e02bfe81e74a987d71e60c886.128x128.png",
+      "zh-hans": "items/images/en/thumbs/feathered_arrows.c024ea4e02bfe81e74a987d71e60c886.128x128.png"
+    }
+  },
+  {
+    "id": "5fb84767c34da3004797d53c",
+    "slug": "sporothrix_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/InfSniperRifleBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sporothrix Blueprint",
+      "zh-hans": "孢丝感染枪 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/sporothrix_blueprint.d9a3fe663f9fee156958a698e597a6bb.png",
+      "zh-hans": "items/images/en/sporothrix_blueprint.d9a3fe663f9fee156958a698e597a6bb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sporothrix_blueprint.d9a3fe663f9fee156958a698e597a6bb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sporothrix_blueprint.d9a3fe663f9fee156958a698e597a6bb.128x128.png"
+    }
+  },
+  {
+    "id": "5fb84768c34da3004797d546",
+    "slug": "sporothrix_set",
+    "gameRef": "/Lotus/Weapons/Infested/LongGuns/InfSniperRifle/InfSniperRifle",
+    "tags": [
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sporothrix Set",
+      "zh-hans": "孢丝感染枪 一套"
+    },
+    "icons": {
+      "en": "items/images/en/sporothrix_set.d9a3fe663f9fee156958a698e597a6bb.png",
+      "zh-hans": "items/images/en/sporothrix_set.d9a3fe663f9fee156958a698e597a6bb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sporothrix_set.d9a3fe663f9fee156958a698e597a6bb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sporothrix_set.d9a3fe663f9fee156958a698e597a6bb.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c66db57b0185b39084",
+    "slug": "cortege_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchGun/ThanoTechArchGun",
+    "tags": [
+      "primary",
+      "archwing",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cortege Set",
+      "zh-hans": "送葬者 一套"
+    },
+    "icons": {
+      "en": "items/images/en/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.png",
+      "zh-hans": "items/images/en/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.128x128.png"
+    }
+  },
+  {
+    "id": "5fe0ea836db57b0225115018",
+    "slug": "cedo_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/TnAlchemistShotgun/TnAlchemistShotgun",
+    "tags": [
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cedo Set",
+      "zh-hans": "塞多 一套"
+    },
+    "icons": {
+      "en": "items/images/en/cedo_set.beb0319f93c38fe11119204a3ed47614.png",
+      "zh-hans": "items/images/en/cedo_set.beb0319f93c38fe11119204a3ed47614.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cedo_set.beb0319f93c38fe11119204a3ed47614.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cedo_set.beb0319f93c38fe11119204a3ed47614.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a500",
+    "slug": "twitch",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HolsterSpeedBonusMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "rifle",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Twitch",
+      "zh-hans": "迅速抽换"
+    },
+    "icons": {
+      "en": "items/images/en/twitch.68504ad3e5c72b7885dbdb4f0a99ee0c.png",
+      "zh-hans": "items/images/en/twitch.68504ad3e5c72b7885dbdb4f0a99ee0c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/twitch.68504ad3e5c72b7885dbdb4f0a99ee0c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/twitch.68504ad3e5c72b7885dbdb4f0a99ee0c.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a516",
+    "slug": "kill_switch",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/FasterReloadOnKillShotgunMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "shotgun",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Kill Switch",
+      "zh-hans": "屠戮换弹"
+    },
+    "icons": {
+      "en": "items/images/en/kill_switch.96ca67221bbb27cb0da2566ac276b735.png",
+      "zh-hans": "items/images/en/kill_switch.96ca67221bbb27cb0da2566ac276b735.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/kill_switch.96ca67221bbb27cb0da2566ac276b735.128x128.png",
+      "zh-hans": "items/images/en/thumbs/kill_switch.96ca67221bbb27cb0da2566ac276b735.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4e1",
+    "slug": "momentary_pause",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/RestoreHealthOnKillMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "shotgun",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Momentary Pause",
+      "zh-hans": "片刻喘息"
+    },
+    "icons": {
+      "en": "items/images/en/momentary_pause.cfa0810112f6ea7122d776e57552bbaf.png",
+      "zh-hans": "items/images/en/momentary_pause.cfa0810112f6ea7122d776e57552bbaf.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/momentary_pause.cfa0810112f6ea7122d776e57552bbaf.128x128.png",
+      "zh-hans": "items/images/en/thumbs/momentary_pause.cfa0810112f6ea7122d776e57552bbaf.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4e5",
+    "slug": "overview",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherAirAimFoVRifleMod",
+    "tags": [
+      "primary",
+      "uncommon",
+      "pvp",
+      "mod",
+      "assault_rifle"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Overview",
+      "zh-hans": "纵观全局"
+    },
+    "icons": {
+      "en": "items/images/en/overview.2d89486e7020c045703b6c3624c845ee.png",
+      "zh-hans": "items/images/en/overview.2d89486e7020c045703b6c3624c845ee.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/overview.2d89486e7020c045703b6c3624c845ee.128x128.png",
+      "zh-hans": "items/images/en/thumbs/overview.2d89486e7020c045703b6c3624c845ee.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4e6",
+    "slug": "prize_kill",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/RestoreShieldsOnKillMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "shotgun",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Prize Kill",
+      "zh-hans": "杀戮奖励"
+    },
+    "icons": {
+      "en": "items/images/en/prize_kill.c5cb3aebb3242b81dcc1231bb461ec92.png",
+      "zh-hans": "items/images/en/prize_kill.c5cb3aebb3242b81dcc1231bb461ec92.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/prize_kill.c5cb3aebb3242b81dcc1231bb461ec92.128x128.png",
+      "zh-hans": "items/images/en/thumbs/prize_kill.c5cb3aebb3242b81dcc1231bb461ec92.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4e9",
+    "slug": "recover",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/RestoreHealthOnKillMod",
+    "tags": [
+      "primary",
+      "pvp",
+      "rare",
+      "mod",
+      "assault_rifle"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Recover",
+      "zh-hans": "痊愈"
+    },
+    "icons": {
+      "en": "items/images/en/recover.c9a08b3ae365a5dd429a2ea357cb8c91.png",
+      "zh-hans": "items/images/en/recover.c9a08b3ae365a5dd429a2ea357cb8c91.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/recover.c9a08b3ae365a5dd429a2ea357cb8c91.128x128.png",
+      "zh-hans": "items/images/en/thumbs/recover.c9a08b3ae365a5dd429a2ea357cb8c91.128x128.png"
+    }
+  },
+  {
+    "id": "5ada1ab3b2b6a80bb33793f4",
+    "slug": "supra_vandal",
+    "gameRef": "/Lotus/Weapons/Corpus/LongGuns/Machinegun/SupraVandal",
+    "tags": [
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Supra Vandal",
+      "zh-hans": "苏普拉·破坏者"
+    },
+    "icons": {
+      "en": "items/images/en/supra_vandal.f8186c7314e1599aeb861fce024e701d.png",
+      "zh-hans": "items/images/en/supra_vandal.f8186c7314e1599aeb861fce024e701d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/supra_vandal.f8186c7314e1599aeb861fce024e701d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/supra_vandal.f8186c7314e1599aeb861fce024e701d.128x128.png"
+    }
+  },
+  {
+    "id": "5dff6e111456970316674a20",
+    "slug": "quellor_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/RailjackRifleGunBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Quellor Blueprint",
+      "zh-hans": "压制者 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/quellor_blueprint.4a72101e1ef7e50287d619e68a44d97e.png",
+      "zh-hans": "items/images/en/quellor_blueprint.4a72101e1ef7e50287d619e68a44d97e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/quellor_blueprint.4a72101e1ef7e50287d619e68a44d97e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/quellor_blueprint.4a72101e1ef7e50287d619e68a44d97e.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c36db57b0185b39078",
+    "slug": "morgha_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechGrenadeLaunch/ThanoTechGrenadeLauncher",
+    "tags": [
+      "primary",
+      "archwing",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Morgha Set",
+      "zh-hans": "置灵者 一套"
+    },
+    "icons": {
+      "en": "items/images/en/morgha_set.f2cd71d06c4e7d5c63b1d66a986bfdd8.png",
+      "zh-hans": "items/images/en/morgha_set.f2cd71d06c4e7d5c63b1d66a986bfdd8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/morgha_set.f2cd71d06c4e7d5c63b1d66a986bfdd8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/morgha_set.f2cd71d06c4e7d5c63b1d66a986bfdd8.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c56db57b0185b3907f",
+    "slug": "basmu_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/SentRifleNewWarGunBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Basmu Blueprint",
+      "zh-hans": "巴什穆 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/basmu_blueprint.ab36934ae211962ea583e628c1a5cfbb.png",
+      "zh-hans": "items/images/en/basmu_blueprint.ab36934ae211962ea583e628c1a5cfbb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/basmu_blueprint.ab36934ae211962ea583e628c1a5cfbb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/basmu_blueprint.ab36934ae211962ea583e628c1a5cfbb.128x128.png"
+    }
+  },
+  {
+    "id": "5fe0ea836db57b0225115014",
+    "slug": "cedo_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/TnAlchemistShotgunBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cedo Blueprint",
+      "zh-hans": "塞多 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/cedo_blueprint.beb0319f93c38fe11119204a3ed47614.png",
+      "zh-hans": "items/images/en/cedo_blueprint.beb0319f93c38fe11119204a3ed47614.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cedo_blueprint.beb0319f93c38fe11119204a3ed47614.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cedo_blueprint.beb0319f93c38fe11119204a3ed47614.128x128.png"
+    }
+  },
+  {
+    "id": "60df162816999300b9dd13c1",
+    "slug": "opticor_vandal",
+    "gameRef": "/Lotus/Weapons/Corpus/LongGuns/CrpBFG/Vandal/VandalCrpBFG",
+    "tags": [
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Opticor Vandal",
+      "zh-hans": "奥堤克光子枪·破坏者"
+    },
+    "icons": {
+      "en": "items/images/en/opticor_vandal.c01ce09e43ba41dae7478179ee3c229d.png",
+      "zh-hans": "items/images/en/opticor_vandal.c01ce09e43ba41dae7478179ee3c229d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/opticor_vandal.c01ce09e43ba41dae7478179ee3c229d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/opticor_vandal.c01ce09e43ba41dae7478179ee3c229d.128x128.png"
+    }
+  },
+  {
+    "id": "60f3feb1b64404003f0bf5fb",
+    "slug": "ambassador_set",
+    "gameRef": "/Lotus/Weapons/Corpus/LongGuns/CrpArSniper/CrpArSniperRifle",
+    "tags": [
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "blueprint",
+      "crafted"
+    ],
+    "names": {
+      "en": "Ambassador Set",
+      "zh-hans": "使节 一套"
+    },
+    "icons": {
+      "en": "items/images/en/ambassador_set.7ccc0f5c1047f5a0cd9f02de8d40b06f.png",
+      "zh-hans": "items/images/en/ambassador_set.7ccc0f5c1047f5a0cd9f02de8d40b06f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ambassador_set.7ccc0f5c1047f5a0cd9f02de8d40b06f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ambassador_set.7ccc0f5c1047f5a0cd9f02de8d40b06f.128x128.png"
+    }
+  },
+  {
+    "id": "60f3feb1b64404003f0bf5fe",
+    "slug": "ambassador_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/CrpArSniperBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ambassador Blueprint",
+      "zh-hans": "使节 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/ambassador_blueprint.7ccc0f5c1047f5a0cd9f02de8d40b06f.png",
+      "zh-hans": "items/images/en/ambassador_blueprint.7ccc0f5c1047f5a0cd9f02de8d40b06f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ambassador_blueprint.7ccc0f5c1047f5a0cd9f02de8d40b06f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ambassador_blueprint.7ccc0f5c1047f5a0cd9f02de8d40b06f.128x128.png"
+    }
+  },
+  {
+    "id": "6139101830dd5b004b7f9096",
+    "slug": "strun_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeStrun/PrimeStrunWeapon",
+    "tags": [
+      "primary",
+      "weapon",
+      "prime",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Strun Prime Set",
+      "zh-hans": "斯特朗 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/strun_prime_set.e7f858160a34886c105633deab6b343e.png",
+      "zh-hans": "items/images/en/strun_prime_set.e7f858160a34886c105633deab6b343e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/strun_prime_set.e7f858160a34886c105633deab6b343e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/strun_prime_set.e7f858160a34886c105633deab6b343e.128x128.png"
+    }
+  },
+  {
+    "id": "6139101930dd5b004b7f909f",
+    "slug": "strun_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/StrunPrimeBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Strun Prime Blueprint",
+      "zh-hans": "斯特朗 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/strun_prime_blueprint.e7f858160a34886c105633deab6b343e.png",
+      "zh-hans": "items/images/en/strun_prime_blueprint.e7f858160a34886c105633deab6b343e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/strun_prime_blueprint.e7f858160a34886c105633deab6b343e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/strun_prime_blueprint.e7f858160a34886c105633deab6b343e.128x128.png"
+    }
+  },
+  {
+    "id": "61bb64fe3132ff00482b5fcf",
+    "slug": "scourge_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeScourge/PrimeScourgeWeapon",
+    "tags": [
+      "primary",
+      "weapon",
+      "prime",
+      "set"
+    ],
+    "ducats": 260,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Scourge Prime Set",
+      "zh-hans": "祸根 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/scourge_prime_set.0a3ad76487e9722f613f6e57e3983cbd.png",
+      "zh-hans": "items/images/en/scourge_prime_set.0a3ad76487e9722f613f6e57e3983cbd.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/scourge_prime_set.0a3ad76487e9722f613f6e57e3983cbd.128x128.png",
+      "zh-hans": "items/images/en/thumbs/scourge_prime_set.0a3ad76487e9722f613f6e57e3983cbd.128x128.png"
+    }
+  },
+  {
+    "id": "61bb64fe3132ff00482b5fd6",
+    "slug": "scourge_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/ScourgePrimeBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Scourge Prime Blueprint",
+      "zh-hans": "祸根 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/scourge_prime_blueprint.0a3ad76487e9722f613f6e57e3983cbd.png",
+      "zh-hans": "items/images/en/scourge_prime_blueprint.0a3ad76487e9722f613f6e57e3983cbd.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/scourge_prime_blueprint.0a3ad76487e9722f613f6e57e3983cbd.128x128.png",
+      "zh-hans": "items/images/en/thumbs/scourge_prime_blueprint.0a3ad76487e9722f613f6e57e3983cbd.128x128.png"
+    }
+  },
+  {
+    "id": "6242037666a58f0108c3d47c",
+    "slug": "nagantaka_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeNagantaka/PrimeNagantakaWeapon",
+    "tags": [
+      "primary",
+      "weapon",
+      "prime",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Nagantaka Prime Set",
+      "zh-hans": "噬蛇弩 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/nagantaka_prime_set.f1af5a1cf53058c86df2c4969f37ea27.png",
+      "zh-hans": "items/images/en/nagantaka_prime_set.f1af5a1cf53058c86df2c4969f37ea27.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/nagantaka_prime_set.f1af5a1cf53058c86df2c4969f37ea27.128x128.png",
+      "zh-hans": "items/images/en/thumbs/nagantaka_prime_set.f1af5a1cf53058c86df2c4969f37ea27.128x128.png"
+    }
+  },
+  {
+    "id": "6242037666a58f0108c3d482",
+    "slug": "nagantaka_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/NagantakaPrimeBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Nagantaka Prime Blueprint",
+      "zh-hans": "噬蛇弩 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/nagantaka_prime_blueprint.f1af5a1cf53058c86df2c4969f37ea27.png",
+      "zh-hans": "items/images/en/nagantaka_prime_blueprint.f1af5a1cf53058c86df2c4969f37ea27.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/nagantaka_prime_blueprint.f1af5a1cf53058c86df2c4969f37ea27.128x128.png",
+      "zh-hans": "items/images/en/thumbs/nagantaka_prime_blueprint.f1af5a1cf53058c86df2c4969f37ea27.128x128.png"
+    }
+  },
+  {
+    "id": "626ca573f40db600829c9d0e",
+    "slug": "aeolak_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/TnRifleErsatz/TnRifleErsatzWeapon",
+    "tags": [
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Aeolak Set",
+      "zh-hans": "风鸣 一套"
+    },
+    "icons": {
+      "en": "items/images/en/aeolak_set.6bea718eeee31f702d625029e035b646.png",
+      "zh-hans": "items/images/en/aeolak_set.6bea718eeee31f702d625029e035b646.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/aeolak_set.6bea718eeee31f702d625029e035b646.128x128.png",
+      "zh-hans": "items/images/en/thumbs/aeolak_set.6bea718eeee31f702d625029e035b646.128x128.png"
+    }
+  },
+  {
+    "id": "626ca573f40db600829c9d12",
+    "slug": "phenmor_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/Evolving/ZarimanSemiAutoRifleBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Phenmor Blueprint",
+      "zh-hans": "凤殁 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/phenmor_blueprint.4fa10f6dededc5af9b3515370302432a.png",
+      "zh-hans": "items/images/en/phenmor_blueprint.4fa10f6dededc5af9b3515370302432a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/phenmor_blueprint.4fa10f6dededc5af9b3515370302432a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/phenmor_blueprint.4fa10f6dededc5af9b3515370302432a.128x128.png"
+    }
+  },
+  {
+    "id": "62a2baeafbd62c00450b71d7",
+    "slug": "felarx_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/Evolving/ZarimanPumpShotgunBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Felarx Blueprint",
+      "zh-hans": "逐枭 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/felarx_blueprint.053e1cdbccea41a95d0e3db9964665ff.png",
+      "zh-hans": "items/images/en/felarx_blueprint.053e1cdbccea41a95d0e3db9964665ff.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/felarx_blueprint.053e1cdbccea41a95d0e3db9964665ff.128x128.png",
+      "zh-hans": "items/images/en/thumbs/felarx_blueprint.053e1cdbccea41a95d0e3db9964665ff.128x128.png"
+    }
+  },
+  {
+    "id": "633e2e6bf570d10793afb820",
+    "slug": "phantasma_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/PhantasmaPrimeBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Phantasma Prime Blueprint",
+      "zh-hans": "幻离子 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/phantasma_prime_blueprint.a296718b56d5a40b6df80bbedeeb4b75.png",
+      "zh-hans": "items/images/en/phantasma_prime_blueprint.a296718b56d5a40b6df80bbedeeb4b75.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/phantasma_prime_blueprint.a296718b56d5a40b6df80bbedeeb4b75.128x128.png",
+      "zh-hans": "items/images/en/thumbs/phantasma_prime_blueprint.a296718b56d5a40b6df80bbedeeb4b75.128x128.png"
+    }
+  },
+  {
+    "id": "63886516e7c988007b5bd50c",
+    "slug": "perigale_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/TnQuadSniper/TnQuadSniper",
+    "tags": [
+      "primary",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Perigale Set",
+      "zh-hans": "月面狂风 一套"
+    },
+    "icons": {
+      "en": "items/images/en/perigale_set.679b0e40d7651d8a117e07d1c7039886.png",
+      "zh-hans": "items/images/en/perigale_set.679b0e40d7651d8a117e07d1c7039886.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/perigale_set.679b0e40d7651d8a117e07d1c7039886.128x128.png",
+      "zh-hans": "items/images/en/thumbs/perigale_set.679b0e40d7651d8a117e07d1c7039886.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1466456704eba6ba30",
+    "slug": "fulmin_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/FulminPrimeBlueprint",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Fulmin Prime Blueprint",
+      "zh-hans": "雷霆 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/fulmin_prime_blueprint.a7295ff536f9f735088ebb3adc7c5958.png",
+      "zh-hans": "items/images/en/fulmin_prime_blueprint.a7295ff536f9f735088ebb3adc7c5958.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/fulmin_prime_blueprint.a7295ff536f9f735088ebb3adc7c5958.128x128.png",
+      "zh-hans": "items/images/en/thumbs/fulmin_prime_blueprint.a7295ff536f9f735088ebb3adc7c5958.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1466456704eba6ba36",
+    "slug": "fulmin_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeFulmin/PrimeFulmin",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Fulmin Prime Set",
+      "zh-hans": "雷霆 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/fulmin_prime_set.a7295ff536f9f735088ebb3adc7c5958.png",
+      "zh-hans": "items/images/en/fulmin_prime_set.a7295ff536f9f735088ebb3adc7c5958.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/fulmin_prime_set.a7295ff536f9f735088ebb3adc7c5958.128x128.png",
+      "zh-hans": "items/images/en/thumbs/fulmin_prime_set.a7295ff536f9f735088ebb3adc7c5958.128x128.png"
+    }
+  },
+  {
+    "id": "667ebc4259acb6bf03ebc329",
+    "slug": "primed_dual_rounds",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/PrimedArchwingRifleFireIterationsMod",
+    "tags": [
+      "primary",
+      "mod",
+      "legendary",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 10,
+    "subtypes": null,
+    "names": {
+      "en": "Primed Dual Rounds",
+      "zh-hans": "双重弹头 Prime"
+    },
+    "icons": {
+      "en": "items/images/en/primed_dual_rounds.c21d07162fabf6e4065f99038a1fa25a.webp",
+      "zh-hans": "items/images/en/primed_dual_rounds.c21d07162fabf6e4065f99038a1fa25a.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/primed_dual_rounds.c21d07162fabf6e4065f99038a1fa25a.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/primed_dual_rounds.c21d07162fabf6e4065f99038a1fa25a.128x128.webp"
+    }
+  },
+  {
+    "id": "66912e8259acb6bf03ebc342",
+    "slug": "primed_deadly_efficiency",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/PrimedArchwingDamageOnReloadMod",
+    "tags": [
+      "primary",
+      "mod",
+      "legendary",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 10,
+    "subtypes": null,
+    "names": {
+      "en": "Primed Deadly Efficiency",
+      "zh-hans": "致命效率 Prime"
+    },
+    "icons": {
+      "en": "items/images/en/primed_deadly_efficiency.6c4ef2232a90ec25f8c82a40602a21eb.webp",
+      "zh-hans": "items/images/en/primed_deadly_efficiency.6c4ef2232a90ec25f8c82a40602a21eb.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/primed_deadly_efficiency.6c4ef2232a90ec25f8c82a40602a21eb.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/primed_deadly_efficiency.6c4ef2232a90ec25f8c82a40602a21eb.128x128.webp"
+    }
+  },
+  {
+    "id": "673516c5db3ac2cfade14a76",
+    "slug": "trumna_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeTrumna/PrimeTrumnaWeapon",
+    "tags": [
+      "primary",
+      "weapon",
+      "prime",
+      "set"
+    ],
+    "ducats": 260,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Trumna Prime Set",
+      "zh-hans": "灭杀者 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/trumna_prime.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+      "zh-hans": "items/images/en/trumna_prime.ccbe6544b4b41bb246fee4f68fe4d371.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/trumna_prime.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/trumna_prime.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+    }
+  },
+  {
+    "id": "673516c6db3ac2cfade14a77",
+    "slug": "trumna_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/TrumnaPrimeBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Trumna Prime Blueprint",
+      "zh-hans": "灭杀者 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/trumna_prime_blueprint.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+      "zh-hans": "items/images/en/trumna_prime_blueprint.ccbe6544b4b41bb246fee4f68fe4d371.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/trumna_prime_blueprint.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/trumna_prime_blueprint.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp"
+    }
+  },
+  {
+    "id": "67acd8fa125398d92c8bb4df",
+    "slug": "cedo_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeCedo/PrimeCedoWeapon",
+    "tags": [
+      "primary",
+      "weapon",
+      "prime",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cedo Prime Set",
+      "zh-hans": "塞多 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp",
+      "zh-hans": "items/images/en/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/cedo_prime_set.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+    }
+  },
+  {
+    "id": "67acd8fb125398d92c8bb4e0",
+    "slug": "cedo_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/CedoPrimeBlueprint",
+    "tags": [
+      "primary",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cedo Prime Blueprint",
+      "zh-hans": "塞多 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/cedo_prime_blueprint.0c958533f82b78967afb8394ec7c9af9.webp",
+      "zh-hans": "items/images/en/cedo_prime_blueprint.0c958533f82b78967afb8394ec7c9af9.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cedo_prime_blueprint.0c958533f82b78967afb8394ec7c9af9.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/cedo_prime_blueprint.0c958533f82b78967afb8394ec7c9af9.128x128.webp"
+    }
+  },
+  {
+    "id": "6939aa885d9ebda239125d2b",
+    "slug": "alternox_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimeAlternox/PrimeAlternoxWeapon",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "set"
+    ],
+    "ducats": 260,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Alternox Prime Set",
+      "zh-hans": "电幻步枪 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/alternox_prime_set.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+      "zh-hans": "items/images/en/alternox_prime_set.ca0e1c78e73fbc6edd38586b28ef82d1.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/alternox_prime_set.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/alternox_prime_set.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+    }
+  },
+  {
+    "id": "6939aa8a5d9ebda239125d2c",
+    "slug": "alternox_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/AlternoxPrimeBlueprint",
+    "tags": [
+      "primary",
+      "prime",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Alternox Prime Blueprint",
+      "zh-hans": "电幻步枪 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+      "zh-hans": "items/images/en/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/alternox_prime_blueprint.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp"
+    }
+  },
+  {
+    "id": "694ec216f384e9a134cf4f47",
+    "slug": "primed_venomous_clip",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingWeaponToxinDamageModExpert",
+    "tags": [
+      "primary",
+      "archwing",
+      "legendary",
+      "mod",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 10,
+    "subtypes": null,
+    "names": {
+      "en": "Primed Venomous Clip",
+      "zh-hans": "恶毒弹匣 Prime"
+    },
+    "icons": {
+      "en": "items/images/en/primed_venomous_clip.3da375b43efdcdc065e4f8d060ab3968.webp",
+      "zh-hans": "items/images/en/primed_venomous_clip.3da375b43efdcdc065e4f8d060ab3968.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/primed_venomous_clip.3da375b43efdcdc065e4f8d060ab3968.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/primed_venomous_clip.3da375b43efdcdc065e4f8d060ab3968.128x128.webp"
+    }
+  },
+  {
+    "id": "69988d58bdd67bd33c02704b",
+    "slug": "primed_ammo_chain",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleAmmoMaxModExpert",
+    "tags": [
+      "primary",
+      "archwing",
+      "legendary",
+      "mod",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 10,
+    "subtypes": null,
+    "names": {
+      "en": "Primed Ammo Chain",
+      "zh-hans": "弹链 Prime"
+    },
+    "icons": {
+      "en": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+      "zh-hans": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
+    }
+  }
+]

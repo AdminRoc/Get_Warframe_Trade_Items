@@ -1,0 +1,146 @@
+[
+  {
+    "id": "5d6ea67f7ea27b05d929cc05",
+    "slug": "citrine_antitoxin",
+    "gameRef": "/Lotus/Types/Restoratives/Consumable/Toxins/DayUnCommonAntitoxin",
+    "tags": [
+      "consumable"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Citrine Antitoxin",
+      "zh-hans": "黄水晶解毒剂"
+    },
+    "icons": {
+      "en": "items/images/en/citrine_antitoxin.effed3d566b5a242f37dc82985cbc83c.png",
+      "zh-hans": "items/images/en/citrine_antitoxin.effed3d566b5a242f37dc82985cbc83c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/citrine_antitoxin.effed3d566b5a242f37dc82985cbc83c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/citrine_antitoxin.effed3d566b5a242f37dc82985cbc83c.128x128.png"
+    }
+  },
+  {
+    "id": "5d6ea6757ea27b05d929cbf8",
+    "slug": "lapis_antitoxin",
+    "gameRef": "/Lotus/Types/Restoratives/Consumable/Toxins/RareAntitoxin",
+    "tags": [
+      "consumable"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Lapis Antitoxin",
+      "zh-hans": "天青石解毒剂"
+    },
+    "icons": {
+      "en": "items/images/en/lapis_antitoxin.fd5028ba889b4dcec74fda9c924ed8f3.png",
+      "zh-hans": "items/images/en/lapis_antitoxin.fd5028ba889b4dcec74fda9c924ed8f3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lapis_antitoxin.fd5028ba889b4dcec74fda9c924ed8f3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lapis_antitoxin.fd5028ba889b4dcec74fda9c924ed8f3.128x128.png"
+    }
+  },
+  {
+    "id": "5d6ea6757ea27b05d929cbf9",
+    "slug": "vermillion_antitoxin",
+    "gameRef": "/Lotus/Types/Restoratives/Consumable/Toxins/SoloRareAntitoxin",
+    "tags": [
+      "consumable"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Vermillion Antitoxin",
+      "zh-hans": "辰砂解毒剂"
+    },
+    "icons": {
+      "en": "items/images/en/vermillion_antitoxin.6ec1479a51b6f761b5e6e6673db4a578.png",
+      "zh-hans": "items/images/en/vermillion_antitoxin.6ec1479a51b6f761b5e6e6673db4a578.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vermillion_antitoxin.6ec1479a51b6f761b5e6e6673db4a578.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vermillion_antitoxin.6ec1479a51b6f761b5e6e6673db4a578.128x128.png"
+    }
+  },
+  {
+    "id": "5d6ea67a7ea27b05d929cbfd",
+    "slug": "beryl_antitoxin",
+    "gameRef": "/Lotus/Types/Restoratives/Consumable/Toxins/DayCommonAntitoxin",
+    "tags": [
+      "consumable"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Beryl Antitoxin",
+      "zh-hans": "绿宝石解毒剂"
+    },
+    "icons": {
+      "en": "items/images/en/beryl_antitoxin.d47e1fee3d4febb10914272694be914b.png",
+      "zh-hans": "items/images/en/beryl_antitoxin.d47e1fee3d4febb10914272694be914b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/beryl_antitoxin.d47e1fee3d4febb10914272694be914b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/beryl_antitoxin.d47e1fee3d4febb10914272694be914b.128x128.png"
+    }
+  },
+  {
+    "id": "5d6ea67d7ea27b05d929cc01",
+    "slug": "topaz_antitoxin",
+    "gameRef": "/Lotus/Types/Restoratives/Consumable/Toxins/NightUnCommonAntitoxin",
+    "tags": [
+      "consumable"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Topaz Antitoxin",
+      "zh-hans": "黄玉解毒剂"
+    },
+    "icons": {
+      "en": "items/images/en/topaz_antitoxin.059998459db9749a8b0e25e51b86e4d1.png",
+      "zh-hans": "items/images/en/topaz_antitoxin.059998459db9749a8b0e25e51b86e4d1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/topaz_antitoxin.059998459db9749a8b0e25e51b86e4d1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/topaz_antitoxin.059998459db9749a8b0e25e51b86e4d1.128x128.png"
+    }
+  },
+  {
+    "id": "5d6ea67d7ea27b05d929cc02",
+    "slug": "amethyst_antitoxin",
+    "gameRef": "/Lotus/Types/Restoratives/Consumable/Toxins/NightCommonAntitoxin",
+    "tags": [
+      "consumable"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Amethyst Antitoxin",
+      "zh-hans": "紫水晶解毒剂"
+    },
+    "icons": {
+      "en": "items/images/en/amethyst_antitoxin.98127374f471b7184779047fefa9d105.png",
+      "zh-hans": "items/images/en/amethyst_antitoxin.98127374f471b7184779047fefa9d105.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/amethyst_antitoxin.98127374f471b7184779047fefa9d105.128x128.png",
+      "zh-hans": "items/images/en/thumbs/amethyst_antitoxin.98127374f471b7184779047fefa9d105.128x128.png"
+    }
+  }
+]

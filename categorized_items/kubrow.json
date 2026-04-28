@@ -1,0 +1,392 @@
+[
+  {
+    "id": "5ba9f2044567de01415f638d",
+    "slug": "sunika_kubrow_imprint",
+    "gameRef": "/Lotus/Types/Game/KubrowPet/HunterKubrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sunika Kubrow Imprint",
+      "zh-hans": "猎杀型库狛 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/sunika_kubrow_imprint.72f95cb9fc93f997efa0510120b0197c.png",
+      "zh-hans": "items/images/en/sunika_kubrow_imprint.72f95cb9fc93f997efa0510120b0197c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sunika_kubrow_imprint.72f95cb9fc93f997efa0510120b0197c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sunika_kubrow_imprint.72f95cb9fc93f997efa0510120b0197c.128x128.png"
+    }
+  },
+  {
+    "id": "5ba9f2054567de01415f6391",
+    "slug": "adarza_kavat_imprint",
+    "gameRef": "/Lotus/Types/Game/CatbrowPet/MirrorCatbrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Adarza Kavat Imprint",
+      "zh-hans": "镜像型库娃 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/adarza_kavat_imprint.cd718330ac1d7e42ba6eaddf777f73f0.png",
+      "zh-hans": "items/images/en/adarza_kavat_imprint.cd718330ac1d7e42ba6eaddf777f73f0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/adarza_kavat_imprint.cd718330ac1d7e42ba6eaddf777f73f0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/adarza_kavat_imprint.cd718330ac1d7e42ba6eaddf777f73f0.128x128.png"
+    }
+  },
+  {
+    "id": "5ba9f2044567de01415f638f",
+    "slug": "raksa_kubrow_imprint",
+    "gameRef": "/Lotus/Types/Game/KubrowPet/GuardKubrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Raksa Kubrow Imprint",
+      "zh-hans": "防护型库狛 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/raksa_kubrow_imprint.e64d6ce9309296cba5a4ad71a1dde192.png",
+      "zh-hans": "items/images/en/raksa_kubrow_imprint.e64d6ce9309296cba5a4ad71a1dde192.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/raksa_kubrow_imprint.e64d6ce9309296cba5a4ad71a1dde192.128x128.png",
+      "zh-hans": "items/images/en/thumbs/raksa_kubrow_imprint.e64d6ce9309296cba5a4ad71a1dde192.128x128.png"
+    }
+  },
+  {
+    "id": "5ba9f2034567de01415f638c",
+    "slug": "smeeta_kavat_imprint",
+    "gameRef": "/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Smeeta Kavat Imprint",
+      "zh-hans": "笑面型库娃 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/smeeta_kavat_imprint.0e793612eeed6e1d39d98a8f4835c3d2.png",
+      "zh-hans": "items/images/en/smeeta_kavat_imprint.0e793612eeed6e1d39d98a8f4835c3d2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/smeeta_kavat_imprint.0e793612eeed6e1d39d98a8f4835c3d2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/smeeta_kavat_imprint.0e793612eeed6e1d39d98a8f4835c3d2.128x128.png"
+    }
+  },
+  {
+    "id": "5ba9f2034567de01415f638a",
+    "slug": "sahasa_kubrow_imprint",
+    "gameRef": "/Lotus/Types/Game/KubrowPet/AdventurerKubrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sahasa Kubrow Imprint",
+      "zh-hans": "突击型库狛 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/sahasa_kubrow_imprint.77c4f5ff8ad09ff371df40bd83b828f9.png",
+      "zh-hans": "items/images/en/sahasa_kubrow_imprint.77c4f5ff8ad09ff371df40bd83b828f9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sahasa_kubrow_imprint.77c4f5ff8ad09ff371df40bd83b828f9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sahasa_kubrow_imprint.77c4f5ff8ad09ff371df40bd83b828f9.128x128.png"
+    }
+  },
+  {
+    "id": "5ba9f2044567de01415f638e",
+    "slug": "huras_kubrow_imprint",
+    "gameRef": "/Lotus/Types/Game/KubrowPet/FurtiveKubrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Huras Kubrow Imprint",
+      "zh-hans": "匿踪型库狛 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/huras_kubrow_imprint.410e212ff69a4ac14a64bbab561e7f43.png",
+      "zh-hans": "items/images/en/huras_kubrow_imprint.410e212ff69a4ac14a64bbab561e7f43.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/huras_kubrow_imprint.410e212ff69a4ac14a64bbab561e7f43.128x128.png",
+      "zh-hans": "items/images/en/thumbs/huras_kubrow_imprint.410e212ff69a4ac14a64bbab561e7f43.128x128.png"
+    }
+  },
+  {
+    "id": "5dfea1441456970294aff38b",
+    "slug": "vasca_kavat_imprint",
+    "gameRef": "/Lotus/Types/Game/CatbrowPet/VampireCatbrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Vasca Kavat Imprint",
+      "zh-hans": "噬血型库娃 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/vasca_kavat_imprint.b8980e37ef61c2e997a8d93bdea8ceb7.png",
+      "zh-hans": "items/images/en/vasca_kavat_imprint.b8980e37ef61c2e997a8d93bdea8ceb7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vasca_kavat_imprint.b8980e37ef61c2e997a8d93bdea8ceb7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vasca_kavat_imprint.b8980e37ef61c2e997a8d93bdea8ceb7.128x128.png"
+    }
+  },
+  {
+    "id": "5ba9f2054567de01415f6392",
+    "slug": "chesa_kubrow_imprint",
+    "gameRef": "/Lotus/Types/Game/KubrowPet/RetrieverKubrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Chesa Kubrow Imprint",
+      "zh-hans": "寻猎型库狛 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/chesa_kubrow_imprint.8848a6f725133c4b2a1394414a443bc8.png",
+      "zh-hans": "items/images/en/chesa_kubrow_imprint.8848a6f725133c4b2a1394414a443bc8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/chesa_kubrow_imprint.8848a6f725133c4b2a1394414a443bc8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/chesa_kubrow_imprint.8848a6f725133c4b2a1394414a443bc8.128x128.png"
+    }
+  },
+  {
+    "id": "62d3078580f54c00b5ddf5cc",
+    "slug": "crescent_vulpaphyla_imprint",
+    "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/HornedInfestedCatbrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Crescent Vulpaphyla Imprint",
+      "zh-hans": "月刃狐帕菲拉 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/crescent_vulpaphyla_imprint.2fe775933f0220d758828ecc7e04cc3f.png",
+      "zh-hans": "items/images/en/crescent_vulpaphyla_imprint.2fe775933f0220d758828ecc7e04cc3f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/crescent_vulpaphyla_imprint.2fe775933f0220d758828ecc7e04cc3f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/crescent_vulpaphyla_imprint.2fe775933f0220d758828ecc7e04cc3f.128x128.png"
+    }
+  },
+  {
+    "id": "62d3078580f54c00b5ddf5cd",
+    "slug": "sly_vulpaphyla_imprint",
+    "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/VulpineInfestedCatbrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sly Vulpaphyla Imprint",
+      "zh-hans": "狡黠狐帕菲拉 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/sly_vulpaphyla_imprint.34f6989d4510346445a34ddd2d6bdb84.png",
+      "zh-hans": "items/images/en/sly_vulpaphyla_imprint.34f6989d4510346445a34ddd2d6bdb84.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sly_vulpaphyla_imprint.34f6989d4510346445a34ddd2d6bdb84.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sly_vulpaphyla_imprint.34f6989d4510346445a34ddd2d6bdb84.128x128.png"
+    }
+  },
+  {
+    "id": "62d3078580f54c00b5ddf5ce",
+    "slug": "medjay_predasite_imprint",
+    "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/MedjayPredatorKubrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Medjay Predasite Imprint",
+      "zh-hans": "守卫扑猎达赛 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/medjay_predasite_imprint.8897027ffce368a72168cac8fe1a0aa0.png",
+      "zh-hans": "items/images/en/medjay_predasite_imprint.8897027ffce368a72168cac8fe1a0aa0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/medjay_predasite_imprint.8897027ffce368a72168cac8fe1a0aa0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/medjay_predasite_imprint.8897027ffce368a72168cac8fe1a0aa0.128x128.png"
+    }
+  },
+  {
+    "id": "62d3078680f54c00b5ddf5cf",
+    "slug": "vizier_predasite_imprint",
+    "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/VizierPredatorKubrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Vizier Predasite Imprint",
+      "zh-hans": "宰相扑猎达赛 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/vizier_predasite_imprint.c1b460f3819b94a8bd5f18ff72361361.png",
+      "zh-hans": "items/images/en/vizier_predasite_imprint.c1b460f3819b94a8bd5f18ff72361361.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vizier_predasite_imprint.c1b460f3819b94a8bd5f18ff72361361.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vizier_predasite_imprint.c1b460f3819b94a8bd5f18ff72361361.128x128.png"
+    }
+  },
+  {
+    "id": "62d3078680f54c00b5ddf5d0",
+    "slug": "panzer_vulpaphyla_imprint",
+    "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/ArmoredInfestedCatbrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Panzer Vulpaphyla Imprint",
+      "zh-hans": "铁甲狐帕菲拉 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/panzer_vulpaphyla_imprint.4619c7c40efcd74ec4b8c29ff9f52b4a.png",
+      "zh-hans": "items/images/en/panzer_vulpaphyla_imprint.4619c7c40efcd74ec4b8c29ff9f52b4a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/panzer_vulpaphyla_imprint.4619c7c40efcd74ec4b8c29ff9f52b4a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/panzer_vulpaphyla_imprint.4619c7c40efcd74ec4b8c29ff9f52b4a.128x128.png"
+    }
+  },
+  {
+    "id": "62d3078680f54c00b5ddf5d1",
+    "slug": "pharaoh_predasite_imprint",
+    "gameRef": "/Lotus/Types/Friendly/Pets/CreaturePets/PharaohPredatorKubrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Pharaoh Predasite Imprint",
+      "zh-hans": "法老扑猎达赛 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/pharaoh_predasite_imprint.bbae682e5bcf50e30380da7b9be7945e.png",
+      "zh-hans": "items/images/en/pharaoh_predasite_imprint.bbae682e5bcf50e30380da7b9be7945e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/pharaoh_predasite_imprint.bbae682e5bcf50e30380da7b9be7945e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/pharaoh_predasite_imprint.bbae682e5bcf50e30380da7b9be7945e.128x128.png"
+    }
+  },
+  {
+    "id": "68baeafbe800bed01fa3482c",
+    "slug": "helminth_charger_imprint",
+    "gameRef": "/Lotus/Types/Game/KubrowPet/ChargerKubrowPetPowerSuit",
+    "tags": [
+      "kubrow",
+      "pet",
+      "imprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Helminth Charger Imprint",
+      "zh-hans": "Helminth 疾冲者 基因印记"
+    },
+    "icons": {
+      "en": "items/images/en/helminth_charger_imprint.4bcf08ca92ad0ce66c3331319a84c5d6.webp",
+      "zh-hans": "items/images/en/helminth_charger_imprint.4bcf08ca92ad0ce66c3331319a84c5d6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/helminth_charger_imprint.4bcf08ca92ad0ce66c3331319a84c5d6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/helminth_charger_imprint.4bcf08ca92ad0ce66c3331319a84c5d6.128x128.webp"
+    }
+  }
+]

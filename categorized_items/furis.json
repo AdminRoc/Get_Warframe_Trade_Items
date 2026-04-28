@@ -1,0 +1,30 @@
+[
+  {
+    "id": "54a74455e779892d5e51569a",
+    "slug": "winds_of_purity",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/FurisMod",
+    "tags": [
+      "furis",
+      "syndicate",
+      "secondary",
+      "mod",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Winds Of Purity",
+      "zh-hans": "纯净之风"
+    },
+    "icons": {
+      "en": "items/images/en/winds_of_purity.1ddc46bdcc0721c654edf27fe0e430cb.png",
+      "zh-hans": "items/images/en/winds_of_purity.1ddc46bdcc0721c654edf27fe0e430cb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/winds_of_purity.1ddc46bdcc0721c654edf27fe0e430cb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/winds_of_purity.1ddc46bdcc0721c654edf27fe0e430cb.128x128.png"
+    }
+  }
+]

@@ -1,0 +1,1742 @@
+[
+  {
+    "id": "62d3493f75156700ce450dea",
+    "slug": "meso_o5_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionKhoraPrimeE",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso O5 Relic",
+      "zh-hans": "前纪 O5 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_o5_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_o5_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_o5_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_o5_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "62d3493f75156700ce450deb",
+    "slug": "meso_p8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionKhoraPrimeD",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso P8 Relic",
+      "zh-hans": "前纪 P8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_p8_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_p8_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_p8_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_p8_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494075156700ce450df2",
+    "slug": "meso_h3_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionKhoraPrimeB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso H3 Relic",
+      "zh-hans": "前纪 H3 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_h3_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_h3_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_h3_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_h3_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494175156700ce450dfc",
+    "slug": "meso_h2_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionKhoraPrimeA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso H2 Relic",
+      "zh-hans": "前纪 H2 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_h2_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_h2_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_h2_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_h2_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494175156700ce450dfe",
+    "slug": "meso_v7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionKhoraPrimeC",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso V7 Relic",
+      "zh-hans": "前纪 V7 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_v7_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_v7_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_v7_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_v7_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "63229385dd457f0096113c40",
+    "slug": "meso_w2_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionWukongEquinoxVaultA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso W2 Relic",
+      "zh-hans": "前纪 W2 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_w2_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_w2_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_w2_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_w2_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "633e2e6af570d10793afb814",
+    "slug": "meso_p10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionRevenantPrimeC",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso P10 Relic",
+      "zh-hans": "前纪 P10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_p10_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_p10_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_p10_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_p10_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "633e2e6af570d10793afb819",
+    "slug": "meso_n13_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionRevenantPrimeB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso N13 Relic",
+      "zh-hans": "前纪 N13 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_n13_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_n13_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_n13_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_n13_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "633e2e6bf570d10793afb81f",
+    "slug": "meso_k4_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionRevenantPrimeD",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso K4 Relic",
+      "zh-hans": "前纪 K4 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_k4_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_k4_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_k4_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_k4_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "633e2e6cf570d10793afb828",
+    "slug": "meso_p9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionRevenantPrimeA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso P9 Relic",
+      "zh-hans": "前纪 P9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_p9_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_p9_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_p9_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_p9_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "6364d904f6d2030069a9f922",
+    "slug": "meso_o6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionIvaraOberonVaultA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso O6 Relic",
+      "zh-hans": "前纪 O6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_o6_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_o6_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_o6_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_o6_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "63ee00ff10125411da49e6fc",
+    "slug": "meso_l2_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionMesaLimboVaultA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso L2 Relic",
+      "zh-hans": "前纪 L2 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_l2_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_l2_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_l2_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_l2_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "641264a47d179f02190e41e4",
+    "slug": "meso_n14_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionHildrynPrimeC",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso N14 Relic",
+      "zh-hans": "前纪 N14 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_n14_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_n14_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_n14_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_n14_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "641264a47d179f02190e41e6",
+    "slug": "meso_d7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionHildrynPrimeD",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso D7 Relic",
+      "zh-hans": "前纪 D7 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_d7_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_d7_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_d7_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_d7_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "641264a57d179f02190e41e9",
+    "slug": "meso_s12_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionHildrynPrimeE",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso S12 Relic",
+      "zh-hans": "前纪 S12 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_s12_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_s12_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_s12_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_s12_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "641264a57d179f02190e41eb",
+    "slug": "meso_h4_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionHildrynPrimeB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso H4 Relic",
+      "zh-hans": "前纪 H4 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_h4_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_h4_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_h4_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_h4_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "641264a57d179f02190e41f4",
+    "slug": "meso_p11_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionHildrynPrimeA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso P11 Relic",
+      "zh-hans": "前纪 P11 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_p11_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_p11_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_p11_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_p11_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "644b00227ec1900044b97726",
+    "slug": "meso_p12_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionInarosAshVaultA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso P12 Relic",
+      "zh-hans": "前纪 P12 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_p12_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_p12_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_p12_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_p12_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "644b00237ec1900044b9772f",
+    "slug": "meso_c7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionInarosAshVaultB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso C7 Relic",
+      "zh-hans": "前纪 C7 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_c7_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_c7_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_c7_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_c7_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1466456704eba6ba2c",
+    "slug": "meso_c8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionWispPrimeD",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso C8 Relic",
+      "zh-hans": "前纪 C8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_c8_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_c8_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_c8_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_c8_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1566456704eba6ba3c",
+    "slug": "meso_g5_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionWispPrimeA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso G5 Relic",
+      "zh-hans": "前纪 G5 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_g5_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_g5_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_g5_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_g5_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1566456704eba6ba42",
+    "slug": "meso_p13_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionWispPrimeC",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso P13 Relic",
+      "zh-hans": "前纪 P13 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_p13_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_p13_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_p13_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_p13_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1666456704eba6ba47",
+    "slug": "meso_k6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionWispPrimeB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso K6 Relic",
+      "zh-hans": "前纪 K6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_k6_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_k6_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_k6_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_k6_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "64eda5d5facd4806c393e63b",
+    "slug": "meso_f4_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionFrostMagVaultA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso F4 Relic",
+      "zh-hans": "前纪 F4 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_f4_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_f4_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_f4_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_f4_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "6530537932327ba8746da72e",
+    "slug": "meso_n15_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionNezhaOctaviaVaultA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso N15 Relic",
+      "zh-hans": "前纪 N15 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_n15_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_n15_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_n15_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_n15_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "6530537a32327ba8746da72f",
+    "slug": "meso_z5_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionNezhaOctaviaVaultB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso Z5 Relic",
+      "zh-hans": "前纪 Z5 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_z5_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_z5_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_z5_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_z5_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "653053a332327ba8746da73a",
+    "slug": "meso_w3_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGrendelPrimeE",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso W3 Relic",
+      "zh-hans": "前纪 W3 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_w3_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_w3_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_w3_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_w3_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "653053a532327ba8746da73b",
+    "slug": "meso_c9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGrendelPrimeD",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso C9 Relic",
+      "zh-hans": "前纪 C9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_c9_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_c9_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_c9_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_c9_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "653053a632327ba8746da73c",
+    "slug": "meso_p14_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGrendelPrimeC",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso P14 Relic",
+      "zh-hans": "前纪 P14 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_p14_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_p14_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_p14_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_p14_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "653053a732327ba8746da73d",
+    "slug": "meso_b8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGrendelPrimeB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso B8 Relic",
+      "zh-hans": "前纪 B8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_b8_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_b8_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_b8_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_b8_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "653053a832327ba8746da73e",
+    "slug": "meso_m4_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGrendelPrimeA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso M4 Relic",
+      "zh-hans": "前纪 M4 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_m4_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+      "zh-hans": "items/images/en/meso_m4_relic.a19d00c7586541c7fb6717fa2e27b7ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_m4_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meso_m4_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png"
+    }
+  },
+  {
+    "id": "667ec83959acb6bf03ebc331",
+    "slug": "meso_s14_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionEmberRhinosVaultA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso S14 Relic",
+      "zh-hans": "前纪 S14 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_s14_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_s14_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_s14_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_s14_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "667ec83b59acb6bf03ebc333",
+    "slug": "meso_b10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionEmberRhinosVaultB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso B10 Relic",
+      "zh-hans": "前纪 B10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_b10_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_b10_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_b10_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_b10_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "667ec83e59acb6bf03ebc335",
+    "slug": "meso_n16_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionHarrowNekrosVaultA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso N16 Relic",
+      "zh-hans": "前纪 N16 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_n16_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_n16_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_n16_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_n16_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "667ec83f59acb6bf03ebc337",
+    "slug": "meso_s13_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionHarrowNekrosVaultB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso S13 Relic",
+      "zh-hans": "前纪 S13 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_s13_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_s13_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_s13_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_s13_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "66c6098566bbb2aedca69593",
+    "slug": "meso_f5_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothPrimeD",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso F5 Relic",
+      "zh-hans": "前纪 F5 遗物"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "items/unknown.thumb.png",
+      "zh-hans": "items/unknown.thumb.png"
+    }
+  },
+  {
+    "id": "66c6098666bbb2aedca69595",
+    "slug": "meso_a7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothPrimeC",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso A7 Relic",
+      "zh-hans": "前纪 A7 遗物"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "items/unknown.thumb.png",
+      "zh-hans": "items/unknown.thumb.png"
+    }
+  },
+  {
+    "id": "66c6098666bbb2aedca69597",
+    "slug": "meso_h7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothPrimeB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso H7 Relic",
+      "zh-hans": "前纪 H7 遗物"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "items/unknown.thumb.png",
+      "zh-hans": "items/unknown.thumb.png"
+    }
+  },
+  {
+    "id": "66c6098766bbb2aedca69599",
+    "slug": "meso_n17_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothPrimeA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso N17 Relic",
+      "zh-hans": "前纪 N17 遗物"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "items/unknown.thumb.png",
+      "zh-hans": "items/unknown.thumb.png"
+    }
+  },
+  {
+    "id": "672229fc1ce4caca2fe98669",
+    "slug": "meso_h8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGarudaKhoraVaultA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso H8 Relic",
+      "zh-hans": "前纪 H8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_h8_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_h8_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_h8_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_h8_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "67351813db3ac2cfade14a89",
+    "slug": "meso_v10_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeD",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso V10 Relic",
+      "zh-hans": "前纪 V10 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_v10_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_v10_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_v10_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_v10_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "67351814db3ac2cfade14a8a",
+    "slug": "meso_t7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeC",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso T7 Relic",
+      "zh-hans": "前纪 T7 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_t7_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_t7_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_t7_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_t7_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "67351815db3ac2cfade14a8b",
+    "slug": "meso_e6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso E6 Relic",
+      "zh-hans": "前纪 E6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_e6_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_e6_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_e6_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_e6_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "67351815db3ac2cfade14a8c",
+    "slug": "meso_g8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionXakuPrimeA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso G8 Relic",
+      "zh-hans": "前纪 G8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_g8_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_g8_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_g8_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_g8_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "67acda90125398d92c8bb4f9",
+    "slug": "meso_a8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionLavosPrimeA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso A8 Relic",
+      "zh-hans": "前纪 A8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_a8_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_a8_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_a8_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_a8_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "682df3e135715d4f3e9c64c5",
+    "slug": "meso_k7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionYareliPrimeB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso K7 Relic",
+      "zh-hans": "前纪 K7 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_k7_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_k7_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_k7_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_k7_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "682df3ea35715d4f3e9c64c7",
+    "slug": "meso_p16_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionYareliPrimeA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso P16 Relic",
+      "zh-hans": "前纪 P16 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_p16_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_p16_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_p16_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_p16_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "6842dfca16f8ae708bcc2503",
+    "slug": "meso_r6_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionRevenantBaruukVaultA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso R6 Relic",
+      "zh-hans": "前纪 R6 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_r6_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_r6_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_r6_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_r6_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "6842e26516f8ae708bcc2509",
+    "slug": "meso_t8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionYareliPrimeC",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso T8 Relic",
+      "zh-hans": "前纪 T8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_t8_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_t8_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_t8_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_t8_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b7035d9ebda239125d3d",
+    "slug": "meso_x1_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeF",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso X1 Relic",
+      "zh-hans": "前纪 X1 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_x1_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_x1_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_x1_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_x1_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b7045d9ebda239125d3e",
+    "slug": "meso_a9_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeE",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso A9 Relic",
+      "zh-hans": "前纪 A9 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_a9_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_a9_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_a9_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_a9_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b7055d9ebda239125d3f",
+    "slug": "meso_y1_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeD",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso Y1 Relic",
+      "zh-hans": "前纪 Y1 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_y1_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_y1_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_y1_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_y1_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b7065d9ebda239125d40",
+    "slug": "meso_v14_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeC",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso V14 Relic",
+      "zh-hans": "前纪 V14 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_v14_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_v14_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_v14_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_v14_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b7075d9ebda239125d41",
+    "slug": "meso_p17_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso P17 Relic",
+      "zh-hans": "前纪 P17 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_p17_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_p17_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_p17_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_p17_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "6939b7085d9ebda239125d42",
+    "slug": "meso_v13_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso V13 Relic",
+      "zh-hans": "前纪 V13 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_v13_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_v13_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_v13_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_v13_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "69d6782db3984cc97e241763",
+    "slug": "meso_d8_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeC",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso D8 Relic",
+      "zh-hans": "前纪 D8 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_d8_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_d8_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_d8_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_d8_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "69d6782eb3984cc97e241764",
+    "slug": "meso_e7_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeB",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso E7 Relic",
+      "zh-hans": "前纪 E7 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_e7_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_e7_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_e7_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_e7_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  },
+  {
+    "id": "69d6782fb3984cc97e241765",
+    "slug": "meso_l4_relic",
+    "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeA",
+    "tags": [
+      "meso",
+      "relic"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "intact",
+      "exceptional",
+      "flawless",
+      "radiant"
+    ],
+    "names": {
+      "en": "Meso L4 Relic",
+      "zh-hans": "前纪 L4 遗物"
+    },
+    "icons": {
+      "en": "items/images/en/meso_l4_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+      "zh-hans": "items/images/en/meso_l4_relic.a2f3850abeecafbbe3369af2aaf253ff.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meso_l4_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meso_l4_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+    }
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "5dff6e1014569703166749fd",
+    "slug": "section_density",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarGunnerWeaponCritDamage",
+    "tags": [
+      "railjack",
+      "uncommon",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Section Density",
+      "zh-hans": "截面密度"
+    },
+    "icons": {
+      "en": "items/images/en/section_density.06364c3a4445dcfff9525d825617fd46.png",
+      "zh-hans": "items/images/en/section_density.06364c3a4445dcfff9525d825617fd46.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/section_density.06364c3a4445dcfff9525d825617fd46.128x128.png",
+      "zh-hans": "items/images/en/thumbs/section_density.06364c3a4445dcfff9525d825617fd46.128x128.png"
+    }
+  },
+  {
+    "id": "5dff6e111456970316674a0c",
+    "slug": "warhead",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanOrdnanceDamage",
+    "tags": [
+      "railjack",
+      "uncommon",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 10,
+    "subtypes": null,
+    "names": {
+      "en": "Warhead",
+      "zh-hans": "湮灭弹头"
+    },
+    "icons": {
+      "en": "items/images/en/warhead.e72c4c662e69a1340c98b841dad7ae70.png",
+      "zh-hans": "items/images/en/warhead.e72c4c662e69a1340c98b841dad7ae70.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/warhead.e72c4c662e69a1340c98b841dad7ae70.128x128.png",
+      "zh-hans": "items/images/en/thumbs/warhead.e72c4c662e69a1340c98b841dad7ae70.128x128.png"
+    }
+  },
+  {
+    "id": "5e02154e14569703bf43e54e",
+    "slug": "countermeasures",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipFlaresAbilityCard",
+    "tags": [
+      "railjack",
+      "common",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Countermeasures",
+      "zh-hans": "反制系统"
+    },
+    "icons": {
+      "en": "items/images/en/countermeasures.42ebc16d772da18cc7fdf72d811b320a.png",
+      "zh-hans": "items/images/en/countermeasures.42ebc16d772da18cc7fdf72d811b320a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/countermeasures.42ebc16d772da18cc7fdf72d811b320a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/countermeasures.42ebc16d772da18cc7fdf72d811b320a.128x128.png"
+    }
+  },
+  {
+    "id": "5eadc6bc04d55c027d23a6dd",
+    "slug": "cruising_speed",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Piloting/ZektiNonCombatSpeed",
+    "tags": [
+      "railjack",
+      "uncommon",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 10,
+    "subtypes": null,
+    "names": {
+      "en": "Cruising Speed",
+      "zh-hans": "巡航速度"
+    },
+    "icons": {
+      "en": "items/images/en/cruising_speed.8567467878d56c61f49ec814271f4b4e.png",
+      "zh-hans": "items/images/en/cruising_speed.8567467878d56c61f49ec814271f4b4e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cruising_speed.8567467878d56c61f49ec814271f4b4e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cruising_speed.8567467878d56c61f49ec814271f4b4e.128x128.png"
+    }
+  },
+  {
+    "id": "5eadc6c604d55c027d23a6e3",
+    "slug": "quicklock",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanFastOrdnanceLock",
+    "tags": [
+      "railjack",
+      "common",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Quicklock",
+      "zh-hans": "快速锁定"
+    },
+    "icons": {
+      "en": "items/images/en/quicklock.6f7b830f3af18ed289b9507e709cef5c.png",
+      "zh-hans": "items/images/en/quicklock.6f7b830f3af18ed289b9507e709cef5c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/quicklock.6f7b830f3af18ed289b9507e709cef5c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/quicklock.6f7b830f3af18ed289b9507e709cef5c.128x128.png"
+    }
+  },
+  {
+    "id": "5dff6e1014569703166749dd",
+    "slug": "shatter_burst",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipThumperAbilityCard",
+    "tags": [
+      "railjack",
+      "common",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Shatter Burst",
+      "zh-hans": "碎裂爆破"
+    },
+    "icons": {
+      "en": "items/images/en/shatter_burst.65f146cd0258dd404603fc13d2f0b3dc.png",
+      "zh-hans": "items/images/en/shatter_burst.65f146cd0258dd404603fc13d2f0b3dc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shatter_burst.65f146cd0258dd404603fc13d2f0b3dc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shatter_burst.65f146cd0258dd404603fc13d2f0b3dc.128x128.png"
+    }
+  },
+  {
+    "id": "5dff6e1014569703166749f6",
+    "slug": "tether",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipTetherAbilityCard",
+    "tags": [
+      "railjack",
+      "uncommon",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Tether",
+      "zh-hans": "束缚力场"
+    },
+    "icons": {
+      "en": "items/images/en/tether.022198c6a9829914063f990be599513d.png",
+      "zh-hans": "items/images/en/tether.022198c6a9829914063f990be599513d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tether.022198c6a9829914063f990be599513d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tether.022198c6a9829914063f990be599513d.128x128.png"
+    }
+  },
+  {
+    "id": "5dff6e1014569703166749d9",
+    "slug": "fire_suppression",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Tactical/FireExtinguish",
+    "tags": [
+      "railjack",
+      "common",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Fire Suppression",
+      "zh-hans": "火势抑制"
+    },
+    "icons": {
+      "en": "items/images/en/fire_suppression.5ef836f9d18a067403875aa44b7f6394.png",
+      "zh-hans": "items/images/en/fire_suppression.5ef836f9d18a067403875aa44b7f6394.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/fire_suppression.5ef836f9d18a067403875aa44b7f6394.128x128.png",
+      "zh-hans": "items/images/en/thumbs/fire_suppression.5ef836f9d18a067403875aa44b7f6394.128x128.png"
+    }
+  },
+  {
+    "id": "5dff6e1014569703166749ee",
+    "slug": "ion_burn",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Piloting/ZektiBoostSpeed",
+    "tags": [
+      "railjack",
+      "common",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Ion Burn",
+      "zh-hans": "离子燃烧"
+    },
+    "icons": {
+      "en": "items/images/en/ion_burn.89135105caf28d092f7990aedfdf8e81.png",
+      "zh-hans": "items/images/en/ion_burn.89135105caf28d092f7990aedfdf8e81.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ion_burn.89135105caf28d092f7990aedfdf8e81.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ion_burn.89135105caf28d092f7990aedfdf8e81.128x128.png"
+    }
+  },
+  {
+    "id": "5dff6e111456970316674a12",
+    "slug": "hyperstrike",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarGunnerWeaponDamage",
+    "tags": [
+      "railjack",
+      "common",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Hyperstrike",
+      "zh-hans": "超量打击"
+    },
+    "icons": {
+      "en": "items/images/en/hyperstrike.8e979c19582e3918a672ae72cf61f5ac.png",
+      "zh-hans": "items/images/en/hyperstrike.8e979c19582e3918a672ae72cf61f5ac.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hyperstrike.8e979c19582e3918a672ae72cf61f5ac.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hyperstrike.8e979c19582e3918a672ae72cf61f5ac.128x128.png"
+    }
+  },
+  {
+    "id": "5dff6e111456970316674a15",
+    "slug": "predator",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarGunnerWeaponCritChance",
+    "tags": [
+      "railjack",
+      "uncommon",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Predator",
+      "zh-hans": "捕食者"
+    },
+    "icons": {
+      "en": "items/images/en/predator.00d9a614bca0ce0b665e89d76de93023.png",
+      "zh-hans": "items/images/en/predator.00d9a614bca0ce0b665e89d76de93023.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/predator.00d9a614bca0ce0b665e89d76de93023.128x128.png",
+      "zh-hans": "items/images/en/thumbs/predator.00d9a614bca0ce0b665e89d76de93023.128x128.png"
+    }
+  },
+  {
+    "id": "5dff6e111456970316674a1b",
+    "slug": "ripload",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanReducedOrdnanceReload",
+    "tags": [
+      "railjack",
+      "common",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Ripload",
+      "zh-hans": "撕裂装填"
+    },
+    "icons": {
+      "en": "items/images/en/ripload.70daa4ae617586f07a3332842df779ac.png",
+      "zh-hans": "items/images/en/ripload.70daa4ae617586f07a3332842df779ac.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ripload.70daa4ae617586f07a3332842df779ac.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ripload.70daa4ae617586f07a3332842df779ac.128x128.png"
+    }
+  },
+  {
+    "id": "5dff7487145697033dc61a04",
+    "slug": "seeker_volley",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipAttackAbilityCard",
+    "tags": [
+      "railjack",
+      "uncommon",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 10,
+    "subtypes": null,
+    "names": {
+      "en": "Seeker Volley",
+      "zh-hans": "追踪齐射"
+    },
+    "icons": {
+      "en": "items/images/en/seeker_volley.b87fe16b36c53020b354a0b2e1642f9d.png",
+      "zh-hans": "items/images/en/seeker_volley.b87fe16b36c53020b354a0b2e1642f9d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/seeker_volley.b87fe16b36c53020b354a0b2e1642f9d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/seeker_volley.b87fe16b36c53020b354a0b2e1642f9d.128x128.png"
+    }
+  },
+  {
+    "id": "5dff6e1014569703166749ef",
+    "slug": "munitions_vortex",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipAttractorAbilityCard",
+    "tags": [
+      "railjack",
+      "uncommon",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Munitions Vortex",
+      "zh-hans": "弹药漩涡"
+    },
+    "icons": {
+      "en": "items/images/en/munitions_vortex.b52cf2d8091bf90d2b635aca706c2991.png",
+      "zh-hans": "items/images/en/munitions_vortex.b52cf2d8091bf90d2b635aca706c2991.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/munitions_vortex.b52cf2d8091bf90d2b635aca706c2991.128x128.png",
+      "zh-hans": "items/images/en/thumbs/munitions_vortex.b52cf2d8091bf90d2b635aca706c2991.128x128.png"
+    }
+  },
+  {
+    "id": "5e839494267539077b0dd6b1",
+    "slug": "overloader",
+    "gameRef": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanMaxOrdnanceMunitions",
+    "tags": [
+      "railjack",
+      "common",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Overloader",
+      "zh-hans": "超量载弹"
+    },
+    "icons": {
+      "en": "items/images/en/overloader.f1adfd8533786d59432ade8a2c6e5898.png",
+      "zh-hans": "items/images/en/overloader.f1adfd8533786d59432ade8a2c6e5898.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/overloader.f1adfd8533786d59432ade8a2c6e5898.128x128.png",
+      "zh-hans": "items/images/en/thumbs/overloader.f1adfd8533786d59432ade8a2c6e5898.128x128.png"
+    }
+  }
+]

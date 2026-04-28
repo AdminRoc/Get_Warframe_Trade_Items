@@ -1,0 +1,158 @@
+[
+  {
+    "id": "5a04750c6c4655012038ddcb",
+    "slug": "virtuos_strike",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedCriticalDamageOnCriticalStrike",
+    "tags": [
+      "operator",
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Virtuos Strike",
+      "zh-hans": "正直·打击"
+    },
+    "icons": {
+      "en": "items/images/en/virtuos_strike.9bb469736054bb8b5c4d55628d49e83e.png",
+      "zh-hans": "items/images/en/virtuos_strike.9bb469736054bb8b5c4d55628d49e83e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/virtuos_strike.9bb469736054bb8b5c4d55628d49e83e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/virtuos_strike.9bb469736054bb8b5c4d55628d49e83e.128x128.png"
+    }
+  },
+  {
+    "id": "5a04750a6c4655012038ddc6",
+    "slug": "virtuos_fury",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedDamageOnStatusProc",
+    "tags": [
+      "operator",
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Virtuos Fury",
+      "zh-hans": "正直·狂怒"
+    },
+    "icons": {
+      "en": "items/images/en/virtuos_fury.f71902bf678d290ad03b625dc35834ca.png",
+      "zh-hans": "items/images/en/virtuos_fury.f71902bf678d290ad03b625dc35834ca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/virtuos_fury.f71902bf678d290ad03b625dc35834ca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/virtuos_fury.f71902bf678d290ad03b625dc35834ca.128x128.png"
+    }
+  },
+  {
+    "id": "5a04750e6c4655012038ddd0",
+    "slug": "virtuos_ghost",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/StatusChanceOnHeadshot",
+    "tags": [
+      "operator",
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Virtuos Ghost",
+      "zh-hans": "正直·鬼魅"
+    },
+    "icons": {
+      "en": "items/images/en/virtuos_ghost.1bf1c1292e89b66f607c9955ea78b1cb.png",
+      "zh-hans": "items/images/en/virtuos_ghost.1bf1c1292e89b66f607c9955ea78b1cb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/virtuos_ghost.1bf1c1292e89b66f607c9955ea78b1cb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/virtuos_ghost.1bf1c1292e89b66f607c9955ea78b1cb.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bda1914a8e4006b1dad8c",
+    "slug": "virtuos_forge",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToHeatDamage",
+    "tags": [
+      "operator",
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Virtuos Forge",
+      "zh-hans": "正直·熔炉"
+    },
+    "icons": {
+      "en": "items/images/en/virtuos_forge.51355a12fdc05c779f027af6caa6f157.png",
+      "zh-hans": "items/images/en/virtuos_forge.51355a12fdc05c779f027af6caa6f157.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/virtuos_forge.51355a12fdc05c779f027af6caa6f157.128x128.png",
+      "zh-hans": "items/images/en/thumbs/virtuos_forge.51355a12fdc05c779f027af6caa6f157.128x128.png"
+    }
+  },
+  {
+    "id": "5a04750a6c4655012038ddc5",
+    "slug": "virtuos_shadow",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/CriticalChanceOnHeadshot",
+    "tags": [
+      "operator",
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Virtuos Shadow",
+      "zh-hans": "正直·暗影"
+    },
+    "icons": {
+      "en": "items/images/en/virtuos_shadow.b6be77f2f40f28d66c86674233faea4d.png",
+      "zh-hans": "items/images/en/virtuos_shadow.b6be77f2f40f28d66c86674233faea4d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/virtuos_shadow.b6be77f2f40f28d66c86674233faea4d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/virtuos_shadow.b6be77f2f40f28d66c86674233faea4d.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bd9fd14a8e4006b1dad51",
+    "slug": "virtuos_trojan",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToViralDamage",
+    "tags": [
+      "operator",
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Virtuos Trojan",
+      "zh-hans": "正直·特洛伊"
+    },
+    "icons": {
+      "en": "items/images/en/virtuos_trojan.9273040f27641c3064a2ad5933bbfe75.png",
+      "zh-hans": "items/images/en/virtuos_trojan.9273040f27641c3064a2ad5933bbfe75.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/virtuos_trojan.9273040f27641c3064a2ad5933bbfe75.128x128.png",
+      "zh-hans": "items/images/en/thumbs/virtuos_trojan.9273040f27641c3064a2ad5933bbfe75.128x128.png"
+    }
+  }
+]

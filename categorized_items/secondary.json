@@ -1,0 +1,771 @@
+[
+  {
+    "id": "567af35fcbfa8f05d076a520",
+    "slug": "secondary_wind",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HealthRegenonKillPistolMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "rare",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Secondary Wind",
+      "zh-hans": "回气再起"
+    },
+    "icons": {
+      "en": "items/images/en/secondary_wind.25beb8a667f2ed313f55350fcda1620c.png",
+      "zh-hans": "items/images/en/secondary_wind.25beb8a667f2ed313f55350fcda1620c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/secondary_wind.25beb8a667f2ed313f55350fcda1620c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/secondary_wind.25beb8a667f2ed313f55350fcda1620c.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4e2",
+    "slug": "night_stalker",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/MarkTargetPistolMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "uncommon",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Night Stalker",
+      "zh-hans": "暗夜追迹者"
+    },
+    "icons": {
+      "en": "items/images/en/night_stalker.e3f83458b9a79243df2613bf3d334861.png",
+      "zh-hans": "items/images/en/night_stalker.e3f83458b9a79243df2613bf3d334861.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/night_stalker.e3f83458b9a79243df2613bf3d334861.128x128.png",
+      "zh-hans": "items/images/en/thumbs/night_stalker.e3f83458b9a79243df2613bf3d334861.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4d3",
+    "slug": "eject_magazine",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/PassiveReloadMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "rare",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Eject Magazine",
+      "zh-hans": "弹匣置换"
+    },
+    "icons": {
+      "en": "items/images/en/eject_magazine.6044d09b0f7c71b1e6b676be8c288636.png",
+      "zh-hans": "items/images/en/eject_magazine.6044d09b0f7c71b1e6b676be8c288636.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/eject_magazine.6044d09b0f7c71b1e6b676be8c288636.128x128.png",
+      "zh-hans": "items/images/en/thumbs/eject_magazine.6044d09b0f7c71b1e6b676be8c288636.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4fa",
+    "slug": "strafing_slide",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/MoreAccuracyLessRecoilSlidingPistolMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "rare",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Strafing Slide",
+      "zh-hans": "滑行扫射"
+    },
+    "icons": {
+      "en": "items/images/en/strafing_slide.7c339df1175de65544fdabd98bad1310.png",
+      "zh-hans": "items/images/en/strafing_slide.7c339df1175de65544fdabd98bad1310.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/strafing_slide.7c339df1175de65544fdabd98bad1310.128x128.png",
+      "zh-hans": "items/images/en/thumbs/strafing_slide.7c339df1175de65544fdabd98bad1310.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4c8",
+    "slug": "air_recon",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HigherAirAimFoVPistolMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "uncommon",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Air Recon",
+      "zh-hans": "空中侦察"
+    },
+    "icons": {
+      "en": "items/images/en/air_recon.73a5b4319a32387372dc2c693b18ebcc.png",
+      "zh-hans": "items/images/en/air_recon.73a5b4319a32387372dc2c693b18ebcc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/air_recon.73a5b4319a32387372dc2c693b18ebcc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/air_recon.73a5b4319a32387372dc2c693b18ebcc.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4f8",
+    "slug": "spry_sights",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/FasterMovementWhileAimingPistolMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "uncommon",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Spry Sights",
+      "zh-hans": "迅敏视觉"
+    },
+    "icons": {
+      "en": "items/images/en/spry_sights.df4f0a716978ef9f0d8d28c7b2022b72.png",
+      "zh-hans": "items/images/en/spry_sights.df4f0a716978ef9f0d8d28c7b2022b72.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/spry_sights.df4f0a716978ef9f0d8d28c7b2022b72.128x128.png",
+      "zh-hans": "items/images/en/thumbs/spry_sights.df4f0a716978ef9f0d8d28c7b2022b72.128x128.png"
+    }
+  },
+  {
+    "id": "585a925a2c2ada004285df01",
+    "slug": "draining_gloom",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/DespairEnergyDrainAoE",
+    "tags": [
+      "secondary",
+      "pvp",
+      "rare",
+      "despair",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Draining Gloom",
+      "zh-hans": "幽暗枯竭"
+    },
+    "icons": {
+      "en": "items/images/en/draining_gloom.4d6890c07e01806ae034fd391d0a721c.png",
+      "zh-hans": "items/images/en/draining_gloom.4d6890c07e01806ae034fd391d0a721c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/draining_gloom.4d6890c07e01806ae034fd391d0a721c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/draining_gloom.4d6890c07e01806ae034fd391d0a721c.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a511",
+    "slug": "heavy_warhead",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/BiggerRadiusSlowerVelocityPistolMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "rare",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Heavy Warhead",
+      "zh-hans": "重型弹头"
+    },
+    "icons": {
+      "en": "items/images/en/heavy_warhead.f6463d740768ab98091869aa34de1698.png",
+      "zh-hans": "items/images/en/heavy_warhead.f6463d740768ab98091869aa34de1698.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/heavy_warhead.f6463d740768ab98091869aa34de1698.128x128.png",
+      "zh-hans": "items/images/en/thumbs/heavy_warhead.f6463d740768ab98091869aa34de1698.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4ce",
+    "slug": "calculated_victory",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/RestoreShieldsOnKillMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "rare",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Calculated Victory",
+      "zh-hans": "算计赢家"
+    },
+    "icons": {
+      "en": "items/images/en/calculated_victory.81ed757051bacbeae81aab2e70e1a65a.png",
+      "zh-hans": "items/images/en/calculated_victory.81ed757051bacbeae81aab2e70e1a65a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/calculated_victory.81ed757051bacbeae81aab2e70e1a65a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/calculated_victory.81ed757051bacbeae81aab2e70e1a65a.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4eb",
+    "slug": "reflex_draw",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HolsterSpeedBonusMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "uncommon",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Reflex Draw",
+      "zh-hans": "反射拔枪"
+    },
+    "icons": {
+      "en": "items/images/en/reflex_draw.c8118e6a8c6396c0f9e8a2fda0ef93fe.png",
+      "zh-hans": "items/images/en/reflex_draw.c8118e6a8c6396c0f9e8a2fda0ef93fe.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/reflex_draw.c8118e6a8c6396c0f9e8a2fda0ef93fe.128x128.png",
+      "zh-hans": "items/images/en/thumbs/reflex_draw.c8118e6a8c6396c0f9e8a2fda0ef93fe.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4da",
+    "slug": "impaler_munitions",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/DamageBiasPuncturePistolMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "uncommon",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Impaler Munitions",
+      "zh-hans": "穿刺弹药"
+    },
+    "icons": {
+      "en": "items/images/en/impaler_munitions.5bbb1a625def945ac6d5ca590f947fd6.png",
+      "zh-hans": "items/images/en/impaler_munitions.5bbb1a625def945ac6d5ca590f947fd6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/impaler_munitions.5bbb1a625def945ac6d5ca590f947fd6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/impaler_munitions.5bbb1a625def945ac6d5ca590f947fd6.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a513",
+    "slug": "hydraulic_barrel",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/LessRecoilSmallerMagPistolMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "rare",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Hydraulic Barrel",
+      "zh-hans": "液压枪管"
+    },
+    "icons": {
+      "en": "items/images/en/hydraulic_barrel.da450e1b969a5753524bc821cf3709e8.png",
+      "zh-hans": "items/images/en/hydraulic_barrel.da450e1b969a5753524bc821cf3709e8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hydraulic_barrel.da450e1b969a5753524bc821cf3709e8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hydraulic_barrel.da450e1b969a5753524bc821cf3709e8.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4ea",
+    "slug": "recuperate",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/RestoreHealthOnKillMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "rare",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Recuperate",
+      "zh-hans": "复元"
+    },
+    "icons": {
+      "en": "items/images/en/recuperate.2ea103ce905a7fe31472049be189dbdb.png",
+      "zh-hans": "items/images/en/recuperate.2ea103ce905a7fe31472049be189dbdb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/recuperate.2ea103ce905a7fe31472049be189dbdb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/recuperate.2ea103ce905a7fe31472049be189dbdb.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a505",
+    "slug": "blind_shot",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HigherVelocityLessAccuratePistolMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "rare",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Blind Shot",
+      "zh-hans": "盲目射击"
+    },
+    "icons": {
+      "en": "items/images/en/blind_shot.5d5b866f41a1395ae506007edefbd5d8.png",
+      "zh-hans": "items/images/en/blind_shot.5d5b866f41a1395ae506007edefbd5d8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/blind_shot.5d5b866f41a1395ae506007edefbd5d8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/blind_shot.5d5b866f41a1395ae506007edefbd5d8.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4e0",
+    "slug": "meteor_munitions",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/DamageBiasImpactPistolMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "uncommon",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Meteor Munitions",
+      "zh-hans": "流星弹药"
+    },
+    "icons": {
+      "en": "items/images/en/meteor_munitions.93034601ec766a5946560ad0f4822653.png",
+      "zh-hans": "items/images/en/meteor_munitions.93034601ec766a5946560ad0f4822653.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meteor_munitions.93034601ec766a5946560ad0f4822653.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meteor_munitions.93034601ec766a5946560ad0f4822653.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4e8",
+    "slug": "razor_munitions",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/DamageBiasSlashPistolMod",
+    "tags": [
+      "secondary",
+      "pvp",
+      "uncommon",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Razor Munitions",
+      "zh-hans": "剃刀弹药"
+    },
+    "icons": {
+      "en": "items/images/en/razor_munitions.83cd92fcf1aa1ca8eaccb6f27d28f30b.png",
+      "zh-hans": "items/images/en/razor_munitions.83cd92fcf1aa1ca8eaccb6f27d28f30b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/razor_munitions.83cd92fcf1aa1ca8eaccb6f27d28f30b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/razor_munitions.83cd92fcf1aa1ca8eaccb6f27d28f30b.128x128.png"
+    }
+  },
+  {
+    "id": "5c196fae96037800ddadac15",
+    "slug": "akjagara_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeAkjagara/AkJagaraPrime",
+    "tags": [
+      "secondary",
+      "weapon",
+      "prime",
+      "set"
+    ],
+    "ducats": 350,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Akjagara Prime Set",
+      "zh-hans": "觉醒双枪 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.png",
+      "zh-hans": "items/images/en/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.128x128.png"
+    }
+  },
+  {
+    "id": "5c196fad96037800ddadac13",
+    "slug": "akjagara_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/AkjagaraPrimeBlueprint",
+    "tags": [
+      "secondary",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Akjagara Prime Blueprint",
+      "zh-hans": "觉醒双枪 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/akjagara_prime_blueprint.5ed111e5dcb3df5d57c5411849c113e4.png",
+      "zh-hans": "items/images/en/akjagara_prime_blueprint.5ed111e5dcb3df5d57c5411849c113e4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/akjagara_prime_blueprint.5ed111e5dcb3df5d57c5411849c113e4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/akjagara_prime_blueprint.5ed111e5dcb3df5d57c5411849c113e4.128x128.png"
+    }
+  },
+  {
+    "id": "60e5b8fd4794450053e9994b",
+    "slug": "hinta_stabilizer",
+    "gameRef": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailB",
+    "tags": [
+      "secondary",
+      "hound"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hinta Stabilizer",
+      "zh-hans": "辛塔稳定器"
+    },
+    "icons": {
+      "en": "items/images/en/hinta_stabilizer.788fd43cb395faacf145f8ed45aad5a1.png",
+      "zh-hans": "items/images/en/hinta_stabilizer.788fd43cb395faacf145f8ed45aad5a1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hinta_stabilizer.788fd43cb395faacf145f8ed45aad5a1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hinta_stabilizer.788fd43cb395faacf145f8ed45aad5a1.128x128.png"
+    }
+  },
+  {
+    "id": "6139101930dd5b004b7f909b",
+    "slug": "magnus_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeMagnus/PrimeMagnusWeapon",
+    "tags": [
+      "secondary",
+      "weapon",
+      "prime",
+      "set"
+    ],
+    "ducats": 160,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Magnus Prime Set",
+      "zh-hans": "麦格努斯 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/magnus_prime_set.0a344c24cc5add7707d6bb7c65e585b2.png",
+      "zh-hans": "items/images/en/magnus_prime_set.0a344c24cc5add7707d6bb7c65e585b2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magnus_prime_set.0a344c24cc5add7707d6bb7c65e585b2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magnus_prime_set.0a344c24cc5add7707d6bb7c65e585b2.128x128.png"
+    }
+  },
+  {
+    "id": "6139101a30dd5b004b7f90a2",
+    "slug": "magnus_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/MagnusPrimeBlueprint",
+    "tags": [
+      "secondary",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Magnus Prime Blueprint",
+      "zh-hans": "麦格努斯 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/magnus_prime_blueprint.0a344c24cc5add7707d6bb7c65e585b2.png",
+      "zh-hans": "items/images/en/magnus_prime_blueprint.0a344c24cc5add7707d6bb7c65e585b2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magnus_prime_blueprint.0a344c24cc5add7707d6bb7c65e585b2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magnus_prime_blueprint.0a344c24cc5add7707d6bb7c65e585b2.128x128.png"
+    }
+  },
+  {
+    "id": "61bb64fb3132ff00482b5fb2",
+    "slug": "knell_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeKnell/PrimeKnellWeapon",
+    "tags": [
+      "secondary",
+      "weapon",
+      "prime",
+      "set"
+    ],
+    "ducats": 160,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Knell Prime Set",
+      "zh-hans": "丧钟 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.png",
+      "zh-hans": "items/images/en/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.128x128.png"
+    }
+  },
+  {
+    "id": "61bb64fd3132ff00482b5fc6",
+    "slug": "knell_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/KnellPrimeBlueprint",
+    "tags": [
+      "secondary",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Knell Prime Blueprint",
+      "zh-hans": "丧钟 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/knell_prime_blueprint.bde803a974cb2f30577f31b4b2961efb.png",
+      "zh-hans": "items/images/en/knell_prime_blueprint.bde803a974cb2f30577f31b4b2961efb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/knell_prime_blueprint.bde803a974cb2f30577f31b4b2961efb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/knell_prime_blueprint.bde803a974cb2f30577f31b4b2961efb.128x128.png"
+    }
+  },
+  {
+    "id": "626ca573f40db600829c9d09",
+    "slug": "laetum_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/Evolving/ZarimanHeavyPistolBlueprint",
+    "tags": [
+      "secondary",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Laetum Blueprint",
+      "zh-hans": "奏凯 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/laetum_blueprint.7d096a802a809499e0ce83f41f712f78.png",
+      "zh-hans": "items/images/en/laetum_blueprint.7d096a802a809499e0ce83f41f712f78.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/laetum_blueprint.7d096a802a809499e0ce83f41f712f78.128x128.png",
+      "zh-hans": "items/images/en/thumbs/laetum_blueprint.7d096a802a809499e0ce83f41f712f78.128x128.png"
+    }
+  },
+  {
+    "id": "62d3493f75156700ce450de7",
+    "slug": "hystrix_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/HystrixPrimeBlueprint",
+    "tags": [
+      "secondary",
+      "prime",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hystrix Prime Blueprint",
+      "zh-hans": "豪猪 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/hystrix_prime_blueprint.1ac7d440197ca107e3df6646cb58a43d.png",
+      "zh-hans": "items/images/en/hystrix_prime_blueprint.1ac7d440197ca107e3df6646cb58a43d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hystrix_prime_blueprint.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hystrix_prime_blueprint.1ac7d440197ca107e3df6646cb58a43d.128x128.png"
+    }
+  },
+  {
+    "id": "62d3494075156700ce450df0",
+    "slug": "hystrix_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeHystrix/PrimeHystrixWeapon",
+    "tags": [
+      "secondary",
+      "prime",
+      "weapon",
+      "set"
+    ],
+    "ducats": 160,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hystrix Prime Set",
+      "zh-hans": "豪猪 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/hystrix_prime_set.1ac7d440197ca107e3df6646cb58a43d.png",
+      "zh-hans": "items/images/en/hystrix_prime_set.1ac7d440197ca107e3df6646cb58a43d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hystrix_prime_set.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hystrix_prime_set.1ac7d440197ca107e3df6646cb58a43d.128x128.png"
+    }
+  },
+  {
+    "id": "682dfb8835715d4f3e9c64f3",
+    "slug": "kompressa_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Pistols/PrimeKompressa/PrimeKompressa",
+    "tags": [
+      "secondary",
+      "weapon",
+      "prime",
+      "set"
+    ],
+    "ducats": 160,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Kompressa Prime Set",
+      "zh-hans": "卡帕压力枪 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/kompressa_prime_set.5a08eed489a41bc8482f21bdabea7637.webp",
+      "zh-hans": "items/images/en/kompressa_prime_set.5a08eed489a41bc8482f21bdabea7637.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/kompressa_prime_set.5a08eed489a41bc8482f21bdabea7637.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/kompressa_prime_set.5a08eed489a41bc8482f21bdabea7637.128x128.webp"
+    }
+  },
+  {
+    "id": "682dfb8835715d4f3e9c64f4",
+    "slug": "kompressa_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/KompressaPrimeBlueprint",
+    "tags": [
+      "secondary",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Kompressa Prime Blueprint",
+      "zh-hans": "卡帕压力枪 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/kompressa_prime_blueprint.5a08eed489a41bc8482f21bdabea7637.webp",
+      "zh-hans": "items/images/en/kompressa_prime_blueprint.5a08eed489a41bc8482f21bdabea7637.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/kompressa_prime_blueprint.5a08eed489a41bc8482f21bdabea7637.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/kompressa_prime_blueprint.5a08eed489a41bc8482f21bdabea7637.128x128.webp"
+    }
+  }
+]

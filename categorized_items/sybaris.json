@@ -1,0 +1,30 @@
+[
+  {
+    "id": "567af35fcbfa8f05d076a522",
+    "slug": "sudden_justice",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/SybarisIncreaseRoFonHit",
+    "tags": [
+      "sybaris",
+      "primary",
+      "pvp",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Sudden Justice",
+      "zh-hans": "骤然正义"
+    },
+    "icons": {
+      "en": "items/images/en/sudden_justice.da82a75c334bd02464893ca9a7a39ee0.png",
+      "zh-hans": "items/images/en/sudden_justice.da82a75c334bd02464893ca9a7a39ee0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sudden_justice.da82a75c334bd02464893ca9a7a39ee0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sudden_justice.da82a75c334bd02464893ca9a7a39ee0.128x128.png"
+    }
+  }
+]

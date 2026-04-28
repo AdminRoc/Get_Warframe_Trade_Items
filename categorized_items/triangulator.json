@@ -1,0 +1,27 @@
+[
+  {
+    "id": "598b06b4ab6b61be6fec0fb6",
+    "slug": "vay_hek_frequency_triangulator",
+    "gameRef": "",
+    "tags": [
+      "triangulator",
+      "collectible"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Vay Hek Frequency Triangulator",
+      "zh-hans": "Vay Hek 坐标频率三角仪"
+    },
+    "icons": {
+      "en": "items/images/en/vay_hek_frequency_triangulator.525164bf6dc3fccdfcfaa2ffff40da58.webp",
+      "zh-hans": "items/images/en/vay_hek_frequency_triangulator.525164bf6dc3fccdfcfaa2ffff40da58.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vay_hek_frequency_triangulator.525164bf6dc3fccdfcfaa2ffff40da58.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/vay_hek_frequency_triangulator.525164bf6dc3fccdfcfaa2ffff40da58.128x128.webp"
+    }
+  }
+]

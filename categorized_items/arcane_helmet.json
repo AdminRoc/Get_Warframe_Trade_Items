@@ -1,0 +1,677 @@
+[
+  {
+    "id": "54aaf153e779892a1bb42966",
+    "slug": "arcane_thrak_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmetAlt",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Thrak Helmet",
+      "zh-hans": "震击 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_thrak_rhino_helmet.b4ecbae748043d7c5b1105e6d7184115.png",
+      "zh-hans": "items/images/en/arcane_thrak_rhino_helmet.b4ecbae748043d7c5b1105e6d7184115.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_thrak_rhino_helmet.b4ecbae748043d7c5b1105e6d7184115.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_thrak_rhino_helmet.b4ecbae748043d7c5b1105e6d7184115.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf1d2e77989786a5f748b",
+    "slug": "arcane_avalon_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAlt",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Avalon Helmet",
+      "zh-hans": "阿瓦隆 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_avalon_excalibur_helmet.6402c0034a70874b863f42099eb9b3a1.png",
+      "zh-hans": "items/images/en/arcane_avalon_excalibur_helmet.6402c0034a70874b863f42099eb9b3a1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_avalon_excalibur_helmet.6402c0034a70874b863f42099eb9b3a1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_avalon_excalibur_helmet.6402c0034a70874b863f42099eb9b3a1.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf1dde779897eebeee19d",
+    "slug": "arcane_flux_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/AntiMatter/AntiAltHelmet",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Flux Helmet",
+      "zh-hans": "通量 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_flux_nova_helmet.f84f4629549d4c35f148e310aa029e9f.png",
+      "zh-hans": "items/images/en/arcane_flux_nova_helmet.f84f4629549d4c35f148e310aa029e9f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_flux_nova_helmet.f84f4629549d4c35f148e310aa029e9f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_flux_nova_helmet.f84f4629549d4c35f148e310aa029e9f.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf1eee779890a8654131d",
+    "slug": "arcane_aura_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAlt",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Aura Helmet",
+      "zh-hans": "预言 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_aura_trinity_helmet.d2b86ccdef9653830055ab389ef0d577.png",
+      "zh-hans": "items/images/en/arcane_aura_trinity_helmet.d2b86ccdef9653830055ab389ef0d577.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_aura_trinity_helmet.d2b86ccdef9653830055ab389ef0d577.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_aura_trinity_helmet.d2b86ccdef9653830055ab389ef0d577.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf209e7798917c67289d4",
+    "slug": "arcane_gambit_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAltB",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Gambit Helmet",
+      "zh-hans": "策略 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_gambit_vauban_helmet.92eb7019eef72efa063361bdf487a262.png",
+      "zh-hans": "items/images/en/arcane_gambit_vauban_helmet.92eb7019eef72efa063361bdf487a262.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_gambit_vauban_helmet.92eb7019eef72efa063361bdf487a262.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_gambit_vauban_helmet.92eb7019eef72efa063361bdf487a262.128x128.png"
+    }
+  },
+  {
+    "id": "54aaefd0e77989436b138405",
+    "slug": "arcane_chlora_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Asp/AspAltHelmetB",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Chlora Helmet",
+      "zh-hans": "氯毒 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_chlora_saryn_helmet.142e97dacf6f8ea77e8f325358cef0d0.png",
+      "zh-hans": "items/images/en/arcane_chlora_saryn_helmet.142e97dacf6f8ea77e8f325358cef0d0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_chlora_saryn_helmet.142e97dacf6f8ea77e8f325358cef0d0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_chlora_saryn_helmet.142e97dacf6f8ea77e8f325358cef0d0.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf231e77989307d9accb2",
+    "slug": "arcane_esprit_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAlt",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Esprit Helmet",
+      "zh-hans": "机敏 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_esprit_vauban_helmet.7705daeedc343eb44487a0e1f3af360e.png",
+      "zh-hans": "items/images/en/arcane_esprit_vauban_helmet.7705daeedc343eb44487a0e1f3af360e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_esprit_vauban_helmet.7705daeedc343eb44487a0e1f3af360e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_esprit_vauban_helmet.7705daeedc343eb44487a0e1f3af360e.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf265e779895081b99385",
+    "slug": "arcane_phoenix_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Ember/EmberHelmetAlt",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Phoenix Helmet",
+      "zh-hans": "凤凰 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_phoenix_ember_helmet.60c4c41457b1b29347dfd74551684366.png",
+      "zh-hans": "items/images/en/arcane_phoenix_ember_helmet.60c4c41457b1b29347dfd74551684366.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_phoenix_ember_helmet.60c4c41457b1b29347dfd74551684366.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_phoenix_ember_helmet.60c4c41457b1b29347dfd74551684366.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf284e77989627dc20627",
+    "slug": "arcane_reverb_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmet",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Reverb Helmet",
+      "zh-hans": "返响 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_reverb_banshee_helmet.c543a6ee57a307736eb58cb31df74935.png",
+      "zh-hans": "items/images/en/arcane_reverb_banshee_helmet.c543a6ee57a307736eb58cb31df74935.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_reverb_banshee_helmet.c543a6ee57a307736eb58cb31df74935.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_reverb_banshee_helmet.c543a6ee57a307736eb58cb31df74935.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf29ce7798971c40870b8",
+    "slug": "arcane_hemlock_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Asp/AspAltHelmet",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Hemlock Helmet",
+      "zh-hans": "铁杉 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_hemlock_saryn_helmet.e640dccfb81244ae52998f9a44ed1a0c.png",
+      "zh-hans": "items/images/en/arcane_hemlock_saryn_helmet.e640dccfb81244ae52998f9a44ed1a0c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_hemlock_saryn_helmet.e640dccfb81244ae52998f9a44ed1a0c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_hemlock_saryn_helmet.e640dccfb81244ae52998f9a44ed1a0c.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf2ade779897b41e2872c",
+    "slug": "arcane_pulse_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAltB",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Pulse Helmet",
+      "zh-hans": "脉冲 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_pulse_volt_helmet.bd03065877b19dee59e84a9861b9a3df.png",
+      "zh-hans": "items/images/en/arcane_pulse_volt_helmet.bd03065877b19dee59e84a9861b9a3df.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_pulse_volt_helmet.bd03065877b19dee59e84a9861b9a3df.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_pulse_volt_helmet.bd03065877b19dee59e84a9861b9a3df.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf2f8e779892b01b42391",
+    "slug": "arcane_mag_gauss_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Mag/MagHelmetAltB",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Mag Gauss Helmet",
+      "zh-hans": "Mag 高斯 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_gauss_mag_helmet.d3fc3ff3ef176167b43cfd7c47a3b323.png",
+      "zh-hans": "items/images/en/arcane_gauss_mag_helmet.d3fc3ff3ef176167b43cfd7c47a3b323.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_gauss_mag_helmet.d3fc3ff3ef176167b43cfd7c47a3b323.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_gauss_mag_helmet.d3fc3ff3ef176167b43cfd7c47a3b323.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf130e7798916d6f20025",
+    "slug": "arcane_swindle_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Loki/LokiHelmetAltB",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Swindle Helmet",
+      "zh-hans": "诈欺 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_swindle_loki_helmet.d1ff45b29b64a4e9bc064a251146a5cc.png",
+      "zh-hans": "items/images/en/arcane_swindle_loki_helmet.d1ff45b29b64a4e9bc064a251146a5cc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_swindle_loki_helmet.d1ff45b29b64a4e9bc064a251146a5cc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_swindle_loki_helmet.d1ff45b29b64a4e9bc064a251146a5cc.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf2e9e779892185a51ef4",
+    "slug": "arcane_meridian_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Trinity/TrinityHelmetAltB",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Meridian Helmet",
+      "zh-hans": "经络 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_meridian_trinity_helmet.bc33ca5ac4092fbc126c40e9997c0213.png",
+      "zh-hans": "items/images/en/arcane_meridian_trinity_helmet.bc33ca5ac4092fbc126c40e9997c0213.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_meridian_trinity_helmet.bc33ca5ac4092fbc126c40e9997c0213.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_meridian_trinity_helmet.bc33ca5ac4092fbc126c40e9997c0213.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf170e779893cfbd8ec50",
+    "slug": "arcane_menticide_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAlt",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Menticide Helmet",
+      "zh-hans": "灭神 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_menticide_nyx_helmet.9ed49fb0a6adc0edf1b75ea960c2ce2e.png",
+      "zh-hans": "items/images/en/arcane_menticide_nyx_helmet.9ed49fb0a6adc0edf1b75ea960c2ce2e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_menticide_nyx_helmet.9ed49fb0a6adc0edf1b75ea960c2ce2e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_menticide_nyx_helmet.9ed49fb0a6adc0edf1b75ea960c2ce2e.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf182e77989468dbe1add",
+    "slug": "arcane_aurora_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAlt",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Aurora Helmet",
+      "zh-hans": "极光 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_aurora_frost_helmet.9e1e1c4ce3bb5f13f9ca125a7d90c51f.png",
+      "zh-hans": "items/images/en/arcane_aurora_frost_helmet.9e1e1c4ce3bb5f13f9ca125a7d90c51f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_aurora_frost_helmet.9e1e1c4ce3bb5f13f9ca125a7d90c51f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_aurora_frost_helmet.9e1e1c4ce3bb5f13f9ca125a7d90c51f.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf18be779894c7c9308d3",
+    "slug": "arcane_chorus_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmetB",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Chorus Helmet",
+      "zh-hans": "合音 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_chorus_banshee_helmet.77feb6495c839bdc977d61a22f02bbcc.png",
+      "zh-hans": "items/images/en/arcane_chorus_banshee_helmet.77feb6495c839bdc977d61a22f02bbcc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_chorus_banshee_helmet.77feb6495c839bdc977d61a22f02bbcc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_chorus_banshee_helmet.77feb6495c839bdc977d61a22f02bbcc.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf196e77989526dcfba2d",
+    "slug": "arcane_squall_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAltB",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Squall Helmet",
+      "zh-hans": "飑风 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_squall_frost_helmet.c74f74a1c9f245336a25cf9786dbf44e.png",
+      "zh-hans": "items/images/en/arcane_squall_frost_helmet.c74f74a1c9f245336a25cf9786dbf44e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_squall_frost_helmet.c74f74a1c9f245336a25cf9786dbf44e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_squall_frost_helmet.c74f74a1c9f245336a25cf9786dbf44e.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf28ee7798969777a27a9",
+    "slug": "arcane_vespa_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAltB",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Vespa Helmet",
+      "zh-hans": "黄蜂 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_vespa_nyx_helmet.a37db070518d6e37e74bf59692dff155.png",
+      "zh-hans": "items/images/en/arcane_vespa_nyx_helmet.a37db070518d6e37e74bf59692dff155.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_vespa_nyx_helmet.a37db070518d6e37e74bf59692dff155.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_vespa_nyx_helmet.a37db070518d6e37e74bf59692dff155.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf2dfe779891cc44486b8",
+    "slug": "arcane_coil_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Mag/MagHelmetAlt",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Coil Helmet",
+      "zh-hans": "线圈 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_coil_mag_helmet.3851f27fceaf9d1e083d67d05b8f846c.png",
+      "zh-hans": "items/images/en/arcane_coil_mag_helmet.3851f27fceaf9d1e083d67d05b8f846c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_coil_mag_helmet.3851f27fceaf9d1e083d67d05b8f846c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_coil_mag_helmet.3851f27fceaf9d1e083d67d05b8f846c.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf312e779893b99bd67bd",
+    "slug": "arcane_backdraft_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Ember/EmberHelmetAltB",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Backdraft Helmet",
+      "zh-hans": "复燃 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_backdraft_ember_helmet.043ac2179a516fbb8f39e1da426f6855.png",
+      "zh-hans": "items/images/en/arcane_backdraft_ember_helmet.043ac2179a516fbb8f39e1da426f6855.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_backdraft_ember_helmet.043ac2179a516fbb8f39e1da426f6855.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_backdraft_ember_helmet.043ac2179a516fbb8f39e1da426f6855.128x128.png"
+    }
+  },
+  {
+    "id": "54aaefabe779892ce54c8980",
+    "slug": "arcane_vanguard_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Rhino/RhinoHelmetAltB",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Vanguard Helmet",
+      "zh-hans": "先锋 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_vanguard_rhino_helmet.fca8955cebd179b29aa59a74400340b9.png",
+      "zh-hans": "items/images/en/arcane_vanguard_rhino_helmet.fca8955cebd179b29aa59a74400340b9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_vanguard_rhino_helmet.fca8955cebd179b29aa59a74400340b9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_vanguard_rhino_helmet.fca8955cebd179b29aa59a74400340b9.128x128.png"
+    }
+  },
+  {
+    "id": "54aaefc3e779893b1ffe451d",
+    "slug": "arcane_pendragon_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAltB",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Pendragon Helmet",
+      "zh-hans": "潘德拉冈 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_pendragon_excalibur_helmet.3559c9930fe03efffda9f190abb33e61.png",
+      "zh-hans": "items/images/en/arcane_pendragon_excalibur_helmet.3559c9930fe03efffda9f190abb33e61.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_pendragon_excalibur_helmet.3559c9930fe03efffda9f190abb33e61.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_pendragon_excalibur_helmet.3559c9930fe03efffda9f190abb33e61.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf259e7798948f1b718c7",
+    "slug": "arcane_scorpion_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Ninja/NinjaHelmetAlt",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Scorpion Helmet",
+      "zh-hans": "毒蝎 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_scorpion_ash_helmet.0a0e5b3e904af873aaefa4b876a343b9.png",
+      "zh-hans": "items/images/en/arcane_scorpion_ash_helmet.0a0e5b3e904af873aaefa4b876a343b9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_scorpion_ash_helmet.0a0e5b3e904af873aaefa4b876a343b9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_scorpion_ash_helmet.0a0e5b3e904af873aaefa4b876a343b9.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf21ee7798925c9182cee",
+    "slug": "arcane_storm_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAlt",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Storm Helmet",
+      "zh-hans": "风暴 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_storm_volt_helmet.08c146490c95048b62f0f9575b1b2d19.png",
+      "zh-hans": "items/images/en/arcane_storm_volt_helmet.08c146490c95048b62f0f9575b1b2d19.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_storm_volt_helmet.08c146490c95048b62f0f9575b1b2d19.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_storm_volt_helmet.08c146490c95048b62f0f9575b1b2d19.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf140e779891f6ee18f9c",
+    "slug": "arcane_essence_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Loki/LokiHelmetAlt",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Essence Helmet",
+      "zh-hans": "本质 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_essence_loki_helmet.8225ea44057eed0b4d74d6859a369976.png",
+      "zh-hans": "items/images/en/arcane_essence_loki_helmet.8225ea44057eed0b4d74d6859a369976.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_essence_loki_helmet.8225ea44057eed0b4d74d6859a369976.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_essence_loki_helmet.8225ea44057eed0b4d74d6859a369976.128x128.png"
+    }
+  },
+  {
+    "id": "54aaf1a2e77989598d22c782",
+    "slug": "arcane_locust_helmet",
+    "gameRef": "/Lotus/Upgrades/Skins/Ninja/NinjaHelmetAltB",
+    "tags": [
+      "arcane_helmet",
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Locust Helmet",
+      "zh-hans": "飞蝗 秘奥头盔"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_locust_ash_helmet.313ff34abae66671da2978f2325a3dd8.png",
+      "zh-hans": "items/images/en/arcane_locust_ash_helmet.313ff34abae66671da2978f2325a3dd8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_locust_ash_helmet.313ff34abae66671da2978f2325a3dd8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_locust_ash_helmet.313ff34abae66671da2978f2325a3dd8.128x128.png"
+    }
+  }
+]

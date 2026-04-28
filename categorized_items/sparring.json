@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5be5f5a13ffcc7038857f110",
+    "slug": "vicious_approach",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPPunchKickStanceOne",
+    "tags": [
+      "sparring",
+      "uncommon",
+      "stance",
+      "pvp",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Vicious Approach",
+      "zh-hans": "凶途恶径"
+    },
+    "icons": {
+      "en": "items/images/en/vicious_approach.4ed4f3c55e9a8ec701ce0b61c7424de6.png",
+      "zh-hans": "items/images/en/vicious_approach.4ed4f3c55e9a8ec701ce0b61c7424de6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vicious_approach.4ed4f3c55e9a8ec701ce0b61c7424de6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vicious_approach.4ed4f3c55e9a8ec701ce0b61c7424de6.128x128.png"
+    }
+  }
+]

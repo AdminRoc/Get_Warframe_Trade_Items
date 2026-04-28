@@ -1,0 +1,114 @@
+[
+  {
+    "id": "5ea087d1c160d001303f9ed8",
+    "slug": "catapult",
+    "gameRef": "/Lotus/Powersuits/Devourer/DevourerBowlAugmentCard",
+    "tags": [
+      "grendel",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Catapult",
+      "zh-hans": "肉弹发射"
+    },
+    "icons": {
+      "en": "items/images/en/catapult.8f97b9f8513251cfc346f1fc514da45c.png",
+      "zh-hans": "items/images/en/catapult.8f97b9f8513251cfc346f1fc514da45c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/catapult.8f97b9f8513251cfc346f1fc514da45c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/catapult.8f97b9f8513251cfc346f1fc514da45c.128x128.png"
+    }
+  },
+  {
+    "id": "60cca19152f60b004dfea051",
+    "slug": "hearty_nourishment",
+    "gameRef": "/Lotus/Powersuits/Devourer/DevourerConsumeAugmentCard",
+    "tags": [
+      "grendel",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Hearty Nourishment",
+      "zh-hans": "丰盛滋养"
+    },
+    "icons": {
+      "en": "items/images/en/hearty_nourishment.c6553554c1443c8bf0778ed714061871.png",
+      "zh-hans": "items/images/en/hearty_nourishment.c6553554c1443c8bf0778ed714061871.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hearty_nourishment.c6553554c1443c8bf0778ed714061871.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hearty_nourishment.c6553554c1443c8bf0778ed714061871.128x128.png"
+    }
+  },
+  {
+    "id": "6214e890e3c4660048a8b980",
+    "slug": "gourmand",
+    "gameRef": "/Lotus/Powersuits/Devourer/DevourerDevourAugmentCard",
+    "tags": [
+      "grendel",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Gourmand",
+      "zh-hans": "美食家"
+    },
+    "icons": {
+      "en": "items/images/en/gourmand.299ab0e425a33165565271a30f38ccc3.png",
+      "zh-hans": "items/images/en/gourmand.299ab0e425a33165565271a30f38ccc3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gourmand.299ab0e425a33165565271a30f38ccc3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gourmand.299ab0e425a33165565271a30f38ccc3.128x128.png"
+    }
+  },
+  {
+    "id": "66fd67e93a826eccf651cd51",
+    "slug": "gastro",
+    "gameRef": "/Lotus/Powersuits/Devourer/DevourerRegurgitateAugmentCard",
+    "tags": [
+      "grendel",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Gastro",
+      "zh-hans": "剧毒饱嗝"
+    },
+    "icons": {
+      "en": "items/images/en/gastro.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "zh-hans": "items/images/en/gastro.a81cadf3c1f6e67c92c188534ced77b2.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gastro.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/gastro.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  }
+]

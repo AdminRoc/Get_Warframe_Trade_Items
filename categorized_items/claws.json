@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5be5f5a03ffcc7038857f108",
+    "slug": "scarlet_hurricane",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPClawStanceOne",
+    "tags": [
+      "claws",
+      "pvp",
+      "uncommon",
+      "stance",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Scarlet Hurricane",
+      "zh-hans": "深红飓风"
+    },
+    "icons": {
+      "en": "items/images/en/scarlet_hurricane.1f4c763aa9db4ebbb599b301614a9f4f.png",
+      "zh-hans": "items/images/en/scarlet_hurricane.1f4c763aa9db4ebbb599b301614a9f4f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/scarlet_hurricane.1f4c763aa9db4ebbb599b301614a9f4f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/scarlet_hurricane.1f4c763aa9db4ebbb599b301614a9f4f.128x128.png"
+    }
+  }
+]

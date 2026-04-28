@@ -1,0 +1,56 @@
+[
+  {
+    "id": "5c93e3b8fc2db20121591320",
+    "slug": "napalm_grenades",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/GrenadeLauncherProjectileMod",
+    "tags": [
+      "penta",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Napalm Grenades",
+      "zh-hans": "凝固汽油榴弹"
+    },
+    "icons": {
+      "en": "items/images/en/napalm_grenades.f2ef75913e36cd9c4dfb041e1345c334.png",
+      "zh-hans": "items/images/en/napalm_grenades.f2ef75913e36cd9c4dfb041e1345c334.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/napalm_grenades.f2ef75913e36cd9c4dfb041e1345c334.128x128.png",
+      "zh-hans": "items/images/en/thumbs/napalm_grenades.f2ef75913e36cd9c4dfb041e1345c334.128x128.png"
+    }
+  },
+  {
+    "id": "5870156c937cde2c9d378ac1",
+    "slug": "tether_grenades",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/CorpusArena/PentaCorpusArenaMod",
+    "tags": [
+      "penta",
+      "mod",
+      "primary",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Tether Grenades",
+      "zh-hans": "系绳榴弹"
+    },
+    "icons": {
+      "en": "items/images/en/tether_grenades.47343337c68b796ee58053004079dfe2.png",
+      "zh-hans": "items/images/en/tether_grenades.47343337c68b796ee58053004079dfe2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tether_grenades.47343337c68b796ee58053004079dfe2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tether_grenades.47343337c68b796ee58053004079dfe2.128x128.png"
+    }
+  }
+]

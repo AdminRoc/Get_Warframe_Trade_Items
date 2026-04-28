@@ -1,0 +1,314 @@
+[
+  {
+    "id": "667237638ba7c81b70d02c98",
+    "slug": "the_ballroom_simulacrum",
+    "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileArena",
+    "tags": [
+      "simulacrum"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "The Ballroom Simulacrum",
+      "zh-hans": "舞厅幻影装置"
+    },
+    "icons": {
+      "en": "items/images/en/the_ballroom_simulacrum.cca043d892013c1f63c3860cada48266.webp",
+      "zh-hans": "items/images/en/the_ballroom_simulacrum.cca043d892013c1f63c3860cada48266.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/the_ballroom_simulacrum.cca043d892013c1f63c3860cada48266.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/the_ballroom_simulacrum.cca043d892013c1f63c3860cada48266.128x128.webp"
+    }
+  },
+  {
+    "id": "667237698ba7c81b70d02c9a",
+    "slug": "the_citadel_simulacrum",
+    "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileDefault",
+    "tags": [
+      "simulacrum"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "The Citadel Simulacrum",
+      "zh-hans": "城堡幻影装置"
+    },
+    "icons": {
+      "en": "items/images/en/the_citadel_simulacrum.34a7e0e806f8f49d73dd9688633c4938.webp",
+      "zh-hans": "items/images/en/the_citadel_simulacrum.34a7e0e806f8f49d73dd9688633c4938.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/the_citadel_simulacrum.34a7e0e806f8f49d73dd9688633c4938.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/the_citadel_simulacrum.34a7e0e806f8f49d73dd9688633c4938.128x128.webp"
+    }
+  },
+  {
+    "id": "6672376b8ba7c81b70d02c9c",
+    "slug": "orowyrm_arena_simulacrum",
+    "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileDuviriDragonArena",
+    "tags": [
+      "simulacrum"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Orowyrm Arena Simulacrum",
+      "zh-hans": "奥金魇龙角斗场幻影装置"
+    },
+    "icons": {
+      "en": "items/images/en/orowyrm_arena_simulacrum.e2d4d93ea272050431fe792538d49028.webp",
+      "zh-hans": "items/images/en/orowyrm_arena_simulacrum.e2d4d93ea272050431fe792538d49028.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/orowyrm_arena_simulacrum.e2d4d93ea272050431fe792538d49028.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/orowyrm_arena_simulacrum.e2d4d93ea272050431fe792538d49028.128x128.webp"
+    }
+  },
+  {
+    "id": "6672376e8ba7c81b70d02c9e",
+    "slug": "sanctum_simulacrum",
+    "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileEntrati",
+    "tags": [
+      "simulacrum"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sanctum Simulacrum",
+      "zh-hans": "圣所幻影装置"
+    },
+    "icons": {
+      "en": "items/images/en/sanctum_simulacrum.f49b2e2f21e4e5f4236d537fb427e8ba.webp",
+      "zh-hans": "items/images/en/sanctum_simulacrum.f49b2e2f21e4e5f4236d537fb427e8ba.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sanctum_simulacrum.f49b2e2f21e4e5f4236d537fb427e8ba.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/sanctum_simulacrum.f49b2e2f21e4e5f4236d537fb427e8ba.128x128.webp"
+    }
+  },
+  {
+    "id": "667237708ba7c81b70d02ca0",
+    "slug": "zanuka_arena_simulacrum",
+    "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileGasCityBossRoom",
+    "tags": [
+      "simulacrum"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Zanuka Arena Simulacrum",
+      "zh-hans": "Zanuka 竞技场幻影装置"
+    },
+    "icons": {
+      "en": "items/images/en/zanuka_arena_simulacrum.bc80d848785a9dda6ccd72117e69b28d.webp",
+      "zh-hans": "items/images/en/zanuka_arena_simulacrum.bc80d848785a9dda6ccd72117e69b28d.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/zanuka_arena_simulacrum.bc80d848785a9dda6ccd72117e69b28d.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/zanuka_arena_simulacrum.bc80d848785a9dda6ccd72117e69b28d.128x128.webp"
+    }
+  },
+  {
+    "id": "667237748ba7c81b70d02ca2",
+    "slug": "grineer_asteroid_simulacrum",
+    "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileGrineerBossRoom",
+    "tags": [
+      "simulacrum"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Grineer Asteroid Simulacrum",
+      "zh-hans": "Grineer 小行星幻影装置"
+    },
+    "icons": {
+      "en": "items/images/en/grineer_asteroid_simulacrum.046fd5cfa19b660727fda451b76c2063.webp",
+      "zh-hans": "items/images/en/grineer_asteroid_simulacrum.046fd5cfa19b660727fda451b76c2063.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/grineer_asteroid_simulacrum.046fd5cfa19b660727fda451b76c2063.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/grineer_asteroid_simulacrum.046fd5cfa19b660727fda451b76c2063.128x128.webp"
+    }
+  },
+  {
+    "id": "667237778ba7c81b70d02ca4",
+    "slug": "orokin_derelict_simulacrum",
+    "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileOrokinDerelictArtifactRoom",
+    "tags": [
+      "simulacrum"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Orokin Derelict Simulacrum",
+      "zh-hans": "奥罗金遗迹幻影装置"
+    },
+    "icons": {
+      "en": "items/images/en/orokin_derelict_simulacrum.affcd8740b649be488900433ed055705.webp",
+      "zh-hans": "items/images/en/orokin_derelict_simulacrum.affcd8740b649be488900433ed055705.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/orokin_derelict_simulacrum.affcd8740b649be488900433ed055705.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/orokin_derelict_simulacrum.affcd8740b649be488900433ed055705.128x128.webp"
+    }
+  },
+  {
+    "id": "6672377c8ba7c81b70d02ca6",
+    "slug": "ambulas_arena_simulacrum",
+    "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileOutpostAmbulasArena",
+    "tags": [
+      "simulacrum"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ambulas Arena Simulacrum",
+      "zh-hans": "Ambulas 竞技场幻影装置"
+    },
+    "icons": {
+      "en": "items/images/en/ambulas_arena_simulacrum.22dec5a427ef68feb920b5415eeacf46.webp",
+      "zh-hans": "items/images/en/ambulas_arena_simulacrum.22dec5a427ef68feb920b5415eeacf46.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ambulas_arena_simulacrum.22dec5a427ef68feb920b5415eeacf46.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/ambulas_arena_simulacrum.22dec5a427ef68feb920b5415eeacf46.128x128.webp"
+    }
+  },
+  {
+    "id": "667237838ba7c81b70d02ca8",
+    "slug": "red_veil_temple_simulacrum",
+    "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileRedVeilTemple",
+    "tags": [
+      "simulacrum"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Red Veil Temple Simulacrum",
+      "zh-hans": "血色面纱神庙幻影装置"
+    },
+    "icons": {
+      "en": "items/images/en/red_veil_temple_simulacrum.dc1224584acda35cdf03b6287618c655.webp",
+      "zh-hans": "items/images/en/red_veil_temple_simulacrum.dc1224584acda35cdf03b6287618c655.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/red_veil_temple_simulacrum.dc1224584acda35cdf03b6287618c655.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/red_veil_temple_simulacrum.dc1224584acda35cdf03b6287618c655.128x128.webp"
+    }
+  },
+  {
+    "id": "667237878ba7c81b70d02caa",
+    "slug": "moonlit_courtyard_simulacrum",
+    "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileUmbraShrine",
+    "tags": [
+      "simulacrum"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Moonlit Courtyard Simulacrum",
+      "zh-hans": "月光庭院幻影装置"
+    },
+    "icons": {
+      "en": "items/images/en/moonlit_courtyard_simulacrum.413fde4939923f3a2102ed8bb31c94d4.webp",
+      "zh-hans": "items/images/en/moonlit_courtyard_simulacrum.413fde4939923f3a2102ed8bb31c94d4.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/moonlit_courtyard_simulacrum.413fde4939923f3a2102ed8bb31c94d4.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/moonlit_courtyard_simulacrum.413fde4939923f3a2102ed8bb31c94d4.128x128.webp"
+    }
+  },
+  {
+    "id": "675c610e7b18977f6e6453f8",
+    "slug": "mall_rotunda_simulacrum",
+    "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999MallRotunda",
+    "tags": [
+      "simulacrum"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Mall Rotunda Simulacrum",
+      "zh-hans": "商场穹顶幻影装置"
+    },
+    "icons": {
+      "en": "items/images/en/mall_rotunda_simulacrum.13f34cfe2dffff3549cf5736f75c06cf.webp",
+      "zh-hans": "items/images/en/mall_rotunda_simulacrum.13f34cfe2dffff3549cf5736f75c06cf.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mall_rotunda_simulacrum.13f34cfe2dffff3549cf5736f75c06cf.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/mall_rotunda_simulacrum.13f34cfe2dffff3549cf5736f75c06cf.128x128.webp"
+    }
+  },
+  {
+    "id": "675c61117b18977f6e6453fa",
+    "slug": "höllvanian_courtyard_simulacrum",
+    "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTile1999StreetCourtyard",
+    "tags": [
+      "simulacrum"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Höllvanian Courtyard Simulacrum",
+      "zh-hans": "霍瓦尼亚庭院幻影装置"
+    },
+    "icons": {
+      "en": "items/images/en/höllvanian_courtyard_simulacrum.c751ef83bdcf555f3c5c7aa15c413d90.webp",
+      "zh-hans": "items/images/en/höllvanian_courtyard_simulacrum.c751ef83bdcf555f3c5c7aa15c413d90.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/höllvanian_courtyard_simulacrum.c751ef83bdcf555f3c5c7aa15c413d90.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/höllvanian_courtyard_simulacrum.c751ef83bdcf555f3c5c7aa15c413d90.128x128.webp"
+    }
+  },
+  {
+    "id": "693e62c903903ae8993ffad8",
+    "slug": "roathes_oblivion_arena",
+    "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileDevilTowerUrielArena",
+    "tags": [
+      "simulacrum"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Roathe's Oblivion Arena",
+      "zh-hans": "罗瑟的遗忘竞技场"
+    },
+    "icons": {
+      "en": "items/images/en/roathes_oblivion_arena.6fd83e987d608e83e7c2c74a16002915.webp",
+      "zh-hans": "items/images/en/roathes_oblivion_arena.6fd83e987d608e83e7c2c74a16002915.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/roathes_oblivion_arena.6fd83e987d608e83e7c2c74a16002915.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/roathes_oblivion_arena.6fd83e987d608e83e7c2c74a16002915.128x128.webp"
+    }
+  }
+]

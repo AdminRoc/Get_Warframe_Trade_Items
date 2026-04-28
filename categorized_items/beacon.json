@@ -1,0 +1,27 @@
+[
+  {
+    "id": "653833d6123a401b2563081d",
+    "slug": "abyssal_beacon",
+    "gameRef": "",
+    "tags": [
+      "beacon",
+      "syndicate"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Abyssal Beacon",
+      "zh-hans": "深渊信标"
+    },
+    "icons": {
+      "en": "items/images/en/abyssal_beacon.3154873da9b57ef6b1fa9878f7c0bec5.webp",
+      "zh-hans": "items/images/en/abyssal_beacon.3154873da9b57ef6b1fa9878f7c0bec5.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/abyssal_beacon.3154873da9b57ef6b1fa9878f7c0bec5.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/abyssal_beacon.3154873da9b57ef6b1fa9878f7c0bec5.128x128.webp"
+    }
+  }
+]

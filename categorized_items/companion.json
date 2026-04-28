@@ -1,0 +1,29 @@
+[
+  {
+    "id": "580e38faca550948410af0a6",
+    "slug": "medi_pet_kit",
+    "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Events/Index/CompanionMedipetKitMod",
+    "tags": [
+      "companion",
+      "mod",
+      "rare",
+      "sentinel"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Medi-Pet Kit",
+      "zh-hans": "宠物治疗套件"
+    },
+    "icons": {
+      "en": "items/images/en/medi_pet_kit.0bb8979ddfec3be2177dd52fca2d1797.png",
+      "zh-hans": "items/images/en/medi_pet_kit.0bb8979ddfec3be2177dd52fca2d1797.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/medi_pet_kit.0bb8979ddfec3be2177dd52fca2d1797.128x128.png",
+      "zh-hans": "items/images/en/thumbs/medi_pet_kit.0bb8979ddfec3be2177dd52fca2d1797.128x128.png"
+    }
+  }
+]

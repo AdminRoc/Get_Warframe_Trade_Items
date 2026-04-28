@@ -1,0 +1,1469 @@
+[
+  {
+    "id": "551085c9e7798972b4a2b206",
+    "slug": "arcane_ice",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FireProcResist",
+    "tags": [
+      "common",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Ice",
+      "zh-hans": "赋能·冰冷"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_ice.d3cb62ba9923dcf396c854fb857e5718.png",
+      "zh-hans": "items/images/en/arcane_ice.d3cb62ba9923dcf396c854fb857e5718.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_ice.d3cb62ba9923dcf396c854fb857e5718.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_ice.d3cb62ba9923dcf396c854fb857e5718.128x128.png"
+    }
+  },
+  {
+    "id": "56a7b2a51133f656cb085d93",
+    "slug": "catalyzer_link",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/StatusProcWhileAimingRifleMod",
+    "tags": [
+      "common",
+      "mod",
+      "rifle",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Catalyzer Link",
+      "zh-hans": "触媒连动"
+    },
+    "icons": {
+      "en": "items/images/en/catalyzer_link.8ffa520e67c52e10b51ccc1cec6b7f88.png",
+      "zh-hans": "items/images/en/catalyzer_link.8ffa520e67c52e10b51ccc1cec6b7f88.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/catalyzer_link.8ffa520e67c52e10b51ccc1cec6b7f88.128x128.png",
+      "zh-hans": "items/images/en/thumbs/catalyzer_link.8ffa520e67c52e10b51ccc1cec6b7f88.128x128.png"
+    }
+  },
+  {
+    "id": "5a0ef3fb10bc40007cce1c89",
+    "slug": "hunter_adrenaline",
+    "gameRef": "/Lotus/Upgrades/Mods/Sets/Hunter/WarframeHunterAdrenalineMod",
+    "tags": [
+      "common",
+      "mod",
+      "warframe"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Hunter Adrenaline",
+      "zh-hans": "猎人 肾上腺素"
+    },
+    "icons": {
+      "en": "items/images/en/hunter_adrenaline.4aa86a8459126574f6f7191a08cbeb84.png",
+      "zh-hans": "items/images/en/hunter_adrenaline.4aa86a8459126574f6f7191a08cbeb84.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hunter_adrenaline.4aa86a8459126574f6f7191a08cbeb84.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hunter_adrenaline.4aa86a8459126574f6f7191a08cbeb84.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515665",
+    "slug": "fast_hands",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponReloadSpeedMod",
+    "tags": [
+      "common",
+      "mod",
+      "rifle",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Fast Hands",
+      "zh-hans": "爆发装填"
+    },
+    "icons": {
+      "en": "items/images/en/fast_hands.3c06265d8ae1caa404ae7b20d394301b.png",
+      "zh-hans": "items/images/en/fast_hands.3c06265d8ae1caa404ae7b20d394301b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/fast_hands.3c06265d8ae1caa404ae7b20d394301b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/fast_hands.3c06265d8ae1caa404ae7b20d394301b.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155f4",
+    "slug": "point_strike",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponCritChanceMod",
+    "tags": [
+      "common",
+      "mod",
+      "rifle",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Point Strike",
+      "zh-hans": "致命一击"
+    },
+    "icons": {
+      "en": "items/images/en/point_strike.daf4a843bb0b729029dcf70c64647cca.png",
+      "zh-hans": "items/images/en/point_strike.daf4a843bb0b729029dcf70c64647cca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/point_strike.daf4a843bb0b729029dcf70c64647cca.128x128.png",
+      "zh-hans": "items/images/en/thumbs/point_strike.daf4a843bb0b729029dcf70c64647cca.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515679",
+    "slug": "shredder",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponSlashDamageMod",
+    "tags": [
+      "common",
+      "shotgun",
+      "mod",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Shredder",
+      "zh-hans": "粉碎器"
+    },
+    "icons": {
+      "en": "items/images/en/shredder.7818adce2fe9cd94d57d98b2e2f80b60.png",
+      "zh-hans": "items/images/en/shredder.7818adce2fe9cd94d57d98b2e2f80b60.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shredder.7818adce2fe9cd94d57d98b2e2f80b60.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shredder.7818adce2fe9cd94d57d98b2e2f80b60.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156f3",
+    "slug": "continuous_misery",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponProcTimeMod",
+    "tags": [
+      "common",
+      "mod",
+      "rifle",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Continuous Misery",
+      "zh-hans": "无尽苦难"
+    },
+    "icons": {
+      "en": "items/images/en/continuous_misery.d7dcb952ea18898c89c0a04c83213b8c.png",
+      "zh-hans": "items/images/en/continuous_misery.d7dcb952ea18898c89c0a04c83213b8c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/continuous_misery.d7dcb952ea18898c89c0a04c83213b8c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/continuous_misery.d7dcb952ea18898c89c0a04c83213b8c.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155ca",
+    "slug": "pistol_gambit",
+    "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponCritChanceMod",
+    "tags": [
+      "common",
+      "mod",
+      "pistol",
+      "secondary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Pistol Gambit",
+      "zh-hans": "手枪精通"
+    },
+    "icons": {
+      "en": "items/images/en/pistol_gambit.b7912cda548f169c61b0102350caa3ad.png",
+      "zh-hans": "items/images/en/pistol_gambit.b7912cda548f169c61b0102350caa3ad.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/pistol_gambit.b7912cda548f169c61b0102350caa3ad.128x128.png",
+      "zh-hans": "items/images/en/thumbs/pistol_gambit.b7912cda548f169c61b0102350caa3ad.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156ad",
+    "slug": "lingering_torment",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponProcTimeMod",
+    "tags": [
+      "common",
+      "shotgun",
+      "mod",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Lingering Torment",
+      "zh-hans": "恒久折磨"
+    },
+    "icons": {
+      "en": "items/images/en/lingering_torment.e63fea80ff3cb599d0840090716ad730.png",
+      "zh-hans": "items/images/en/lingering_torment.e63fea80ff3cb599d0840090716ad730.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lingering_torment.e63fea80ff3cb599d0840090716ad730.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lingering_torment.e63fea80ff3cb599d0840090716ad730.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155b9",
+    "slug": "magazine_extension",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleClipMaxMod",
+    "tags": [
+      "common",
+      "primary",
+      "mod",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magazine Extension",
+      "zh-hans": "扩充弹匣"
+    },
+    "icons": {
+      "en": "items/images/en/magazine_extension.29c617cc777be81858f3dee8a905a199.png",
+      "zh-hans": "items/images/en/magazine_extension.29c617cc777be81858f3dee8a905a199.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magazine_extension.29c617cc777be81858f3dee8a905a199.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magazine_extension.29c617cc777be81858f3dee8a905a199.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e51561d",
+    "slug": "magazine_warp",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponClipMaxMod",
+    "tags": [
+      "common",
+      "mod",
+      "rifle",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magazine Warp",
+      "zh-hans": "弹匣增幅"
+    },
+    "icons": {
+      "en": "items/images/en/magazine_warp.e2700e1b5c6c0028cab3b6a249068f69.png",
+      "zh-hans": "items/images/en/magazine_warp.e2700e1b5c6c0028cab3b6a249068f69.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magazine_warp.e2700e1b5c6c0028cab3b6a249068f69.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magazine_warp.e2700e1b5c6c0028cab3b6a249068f69.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e51562f",
+    "slug": "ammo_drum",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponAmmoMaxMod",
+    "tags": [
+      "common",
+      "mod",
+      "rifle",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Ammo Drum",
+      "zh-hans": "弹鼓"
+    },
+    "icons": {
+      "en": "items/images/en/ammo_drum.2c5e508c9c2f5b8d199bccbc8dde9491.png",
+      "zh-hans": "items/images/en/ammo_drum.2c5e508c9c2f5b8d199bccbc8dde9491.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ammo_drum.2c5e508c9c2f5b8d199bccbc8dde9491.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ammo_drum.2c5e508c9c2f5b8d199bccbc8dde9491.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156b3",
+    "slug": "flechette",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponArmorPiercingDamageMod",
+    "tags": [
+      "common",
+      "shotgun",
+      "mod",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Flechette",
+      "zh-hans": "箭型弹头"
+    },
+    "icons": {
+      "en": "items/images/en/flechette.d861855060f3cffa9baa7a9157d9169a.png",
+      "zh-hans": "items/images/en/flechette.d861855060f3cffa9baa7a9157d9169a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/flechette.d861855060f3cffa9baa7a9157d9169a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/flechette.d861855060f3cffa9baa7a9157d9169a.128x128.png"
+    }
+  },
+  {
+    "id": "56a7b28a1133f656cb085d8e",
+    "slug": "shrapnel_shot",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Event/CritDamageWhileAimingShotgunMod",
+    "tags": [
+      "common",
+      "shotgun",
+      "mod",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Shrapnel Shot",
+      "zh-hans": "破片射击"
+    },
+    "icons": {
+      "en": "items/images/en/shrapnel_shot.1683a43d4d96837610006fcd1de3bdb2.png",
+      "zh-hans": "items/images/en/shrapnel_shot.1683a43d4d96837610006fcd1de3bdb2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shrapnel_shot.1683a43d4d96837610006fcd1de3bdb2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shrapnel_shot.1683a43d4d96837610006fcd1de3bdb2.128x128.png"
+    }
+  },
+  {
+    "id": "5a0475086c4655012038ddbf",
+    "slug": "magus_vigor",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthOnOperatorMode",
+    "tags": [
+      "common",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magus Vigor",
+      "zh-hans": "魔导·活力"
+    },
+    "icons": {
+      "en": "items/images/en/magus_vigor.473998d768bd420877df79cdd55c6188.png",
+      "zh-hans": "items/images/en/magus_vigor.473998d768bd420877df79cdd55c6188.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magus_vigor.473998d768bd420877df79cdd55c6188.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magus_vigor.473998d768bd420877df79cdd55c6188.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bda0814a8e4006b1dad63",
+    "slug": "magus_overload",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/RobotStunOnBlast",
+    "tags": [
+      "common",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magus Overload",
+      "zh-hans": "魔导·超载"
+    },
+    "icons": {
+      "en": "items/images/en/magus_overload.c575b29c15d999083923ee609dcda264.png",
+      "zh-hans": "items/images/en/magus_overload.c575b29c15d999083923ee609dcda264.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magus_overload.c575b29c15d999083923ee609dcda264.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magus_overload.c575b29c15d999083923ee609dcda264.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155f0",
+    "slug": "trick_mag",
+    "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponAmmoMaxMod",
+    "tags": [
+      "common",
+      "mod",
+      "pistol",
+      "secondary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Trick Mag",
+      "zh-hans": "戏法增幅"
+    },
+    "icons": {
+      "en": "items/images/en/trick_mag.17992c866f1b256de786611bb2e8c7b2.png",
+      "zh-hans": "items/images/en/trick_mag.17992c866f1b256de786611bb2e8c7b2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/trick_mag.17992c866f1b256de786611bb2e8c7b2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/trick_mag.17992c866f1b256de786611bb2e8c7b2.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515655",
+    "slug": "sudden_impact",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeStatusChanceMod",
+    "tags": [
+      "common",
+      "melee",
+      "mod",
+      "archwing",
+      "archmelee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Sudden Impact",
+      "zh-hans": "瞬间冲击"
+    },
+    "icons": {
+      "en": "items/images/en/sudden_impact.86fff87fc89ac8f586597cdc4f7eed96.png",
+      "zh-hans": "items/images/en/sudden_impact.86fff87fc89ac8f586597cdc4f7eed96.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sudden_impact.86fff87fc89ac8f586597cdc4f7eed96.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sudden_impact.86fff87fc89ac8f586597cdc4f7eed96.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515659",
+    "slug": "tempered_blade",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeCritChanceMod",
+    "tags": [
+      "common",
+      "melee",
+      "mod",
+      "archwing",
+      "archmelee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Tempered Blade",
+      "zh-hans": "强化刀片"
+    },
+    "icons": {
+      "en": "items/images/en/tempered_blade.665882d312c78280d541f026a6f86393.png",
+      "zh-hans": "items/images/en/tempered_blade.665882d312c78280d541f026a6f86393.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tempered_blade.665882d312c78280d541f026a6f86393.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tempered_blade.665882d312c78280d541f026a6f86393.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515686",
+    "slug": "blunderbuss",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponCritChanceMod",
+    "tags": [
+      "common",
+      "shotgun",
+      "mod",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Blunderbuss",
+      "zh-hans": "雷筒"
+    },
+    "icons": {
+      "en": "items/images/en/blunderbuss.f8df9459d8032ae3006453260a938a77.png",
+      "zh-hans": "items/images/en/blunderbuss.f8df9459d8032ae3006453260a938a77.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/blunderbuss.f8df9459d8032ae3006453260a938a77.128x128.png",
+      "zh-hans": "items/images/en/thumbs/blunderbuss.f8df9459d8032ae3006453260a938a77.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a519",
+    "slug": "loose_hatch",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterReloadMoreRecoilRifleMod",
+    "tags": [
+      "common",
+      "primary",
+      "pvp",
+      "mod",
+      "assault_rifle"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Loose Hatch",
+      "zh-hans": "松弛枪盖"
+    },
+    "icons": {
+      "en": "items/images/en/loose_hatch.f05f812b3c159e455963f9857e4db68d.png",
+      "zh-hans": "items/images/en/loose_hatch.f05f812b3c159e455963f9857e4db68d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/loose_hatch.f05f812b3c159e455963f9857e4db68d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/loose_hatch.f05f812b3c159e455963f9857e4db68d.128x128.png"
+    }
+  },
+  {
+    "id": "5ce7fd89d23a3b00908c4217",
+    "slug": "motus_signal",
+    "gameRef": "/Lotus/Upgrades/Mods/Sets/Raptor/RaptorModA",
+    "tags": [
+      "common",
+      "mod",
+      "warframe"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Motus Signal",
+      "zh-hans": "跃动 信号"
+    },
+    "icons": {
+      "en": "items/images/en/motus_signal.82e3d6747a47f0aed2d30057d39d7cec.png",
+      "zh-hans": "items/images/en/motus_signal.82e3d6747a47f0aed2d30057d39d7cec.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/motus_signal.82e3d6747a47f0aed2d30057d39d7cec.128x128.png",
+      "zh-hans": "items/images/en/thumbs/motus_signal.82e3d6747a47f0aed2d30057d39d7cec.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155f8",
+    "slug": "parallax_scope",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritChanceMod",
+    "tags": [
+      "common",
+      "primary",
+      "mod",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Parallax Scope",
+      "zh-hans": "视差瞄具"
+    },
+    "icons": {
+      "en": "items/images/en/parallax_scope.733e5e6c2f4ae0dd23263865e11fafa5.png",
+      "zh-hans": "items/images/en/parallax_scope.733e5e6c2f4ae0dd23263865e11fafa5.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/parallax_scope.733e5e6c2f4ae0dd23263865e11fafa5.128x128.png",
+      "zh-hans": "items/images/en/thumbs/parallax_scope.733e5e6c2f4ae0dd23263865e11fafa5.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bda1314a8e4006b1dad81",
+    "slug": "magus_anomaly",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/PullOnTransferenceIn",
+    "tags": [
+      "common",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magus Anomaly",
+      "zh-hans": "魔导·近点"
+    },
+    "icons": {
+      "en": "items/images/en/magus_anomaly.3f06b6fc67779e08e0f55c9d04db0da2.png",
+      "zh-hans": "items/images/en/magus_anomaly.3f06b6fc67779e08e0f55c9d04db0da2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magus_anomaly.3f06b6fc67779e08e0f55c9d04db0da2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magus_anomaly.3f06b6fc67779e08e0f55c9d04db0da2.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bda1414a8e4006b1dad83",
+    "slug": "virtuos_surge",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToElectricDamage",
+    "tags": [
+      "common",
+      "arcane_enhancement",
+      "operator"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Virtuos Surge",
+      "zh-hans": "正直·突波"
+    },
+    "icons": {
+      "en": "items/images/en/virtuos_surge.1047626f95c989bdd5ee977d1eca05d5.png",
+      "zh-hans": "items/images/en/virtuos_surge.1047626f95c989bdd5ee977d1eca05d5.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/virtuos_surge.1047626f95c989bdd5ee977d1eca05d5.128x128.png",
+      "zh-hans": "items/images/en/thumbs/virtuos_surge.1047626f95c989bdd5ee977d1eca05d5.128x128.png"
+    }
+  },
+  {
+    "id": "554d3af4e77989420d3de2a4",
+    "slug": "perpetual_agony",
+    "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponProcTimeMod",
+    "tags": [
+      "common",
+      "mod",
+      "pistol",
+      "secondary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Perpetual Agony",
+      "zh-hans": "永恒苦痛"
+    },
+    "icons": {
+      "en": "items/images/en/perpetual_agony.544534318a687be2710174e2c8826f96.png",
+      "zh-hans": "items/images/en/perpetual_agony.544534318a687be2710174e2c8826f96.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/perpetual_agony.544534318a687be2710174e2c8826f96.128x128.png",
+      "zh-hans": "items/images/en/thumbs/perpetual_agony.544534318a687be2710174e2c8826f96.128x128.png"
+    }
+  },
+  {
+    "id": "56a7b2661133f656cb085d89",
+    "slug": "hydraulic_crosshairs",
+    "gameRef": "/Lotus/Upgrades/Mods/Pistol/Event/CritChanceWhileAimingPistolMod",
+    "tags": [
+      "common",
+      "mod",
+      "pistol",
+      "secondary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Hydraulic Crosshairs",
+      "zh-hans": "液压准心"
+    },
+    "icons": {
+      "en": "items/images/en/hydraulic_crosshairs.818cf18013b567c4bbe4379f9608df56.png",
+      "zh-hans": "items/images/en/hydraulic_crosshairs.818cf18013b567c4bbe4379f9608df56.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hydraulic_crosshairs.818cf18013b567c4bbe4379f9608df56.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hydraulic_crosshairs.818cf18013b567c4bbe4379f9608df56.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155b1",
+    "slug": "slip_magazine",
+    "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponClipMaxMod",
+    "tags": [
+      "common",
+      "mod",
+      "pistol",
+      "secondary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Slip Magazine",
+      "zh-hans": "串联弹匣"
+    },
+    "icons": {
+      "en": "items/images/en/slip_magazine.c72bb3d9a2f6bd363c43f32dc1f81572.png",
+      "zh-hans": "items/images/en/slip_magazine.c72bb3d9a2f6bd363c43f32dc1f81572.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/slip_magazine.c72bb3d9a2f6bd363c43f32dc1f81572.128x128.png",
+      "zh-hans": "items/images/en/thumbs/slip_magazine.c72bb3d9a2f6bd363c43f32dc1f81572.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e51563c",
+    "slug": "disruptor",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponImpactDamageMod",
+    "tags": [
+      "common",
+      "shotgun",
+      "mod",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Disruptor",
+      "zh-hans": "冲击干扰"
+    },
+    "icons": {
+      "en": "items/images/en/disruptor.059fd9d2db6d766925cad2ca29234cb3.png",
+      "zh-hans": "items/images/en/disruptor.059fd9d2db6d766925cad2ca29234cb3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/disruptor.059fd9d2db6d766925cad2ca29234cb3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/disruptor.059fd9d2db6d766925cad2ca29234cb3.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e51563e",
+    "slug": "piercing_hit",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponArmorPiercingDamageMod",
+    "tags": [
+      "common",
+      "mod",
+      "rifle",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Piercing Hit",
+      "zh-hans": "穿甲伤害"
+    },
+    "icons": {
+      "en": "items/images/en/piercing_hit.f2c3f27b03f5a40d3e8a6b6f7d8cfafe.png",
+      "zh-hans": "items/images/en/piercing_hit.f2c3f27b03f5a40d3e8a6b6f7d8cfafe.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/piercing_hit.f2c3f27b03f5a40d3e8a6b6f7d8cfafe.128x128.png",
+      "zh-hans": "items/images/en/thumbs/piercing_hit.f2c3f27b03f5a40d3e8a6b6f7d8cfafe.128x128.png"
+    }
+  },
+  {
+    "id": "5a04750a6c4655012038ddc7",
+    "slug": "virtuos_null",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/OperatorAmmoRegenOnKill",
+    "tags": [
+      "common",
+      "arcane_enhancement",
+      "operator"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Virtuos Null",
+      "zh-hans": "正直·空无"
+    },
+    "icons": {
+      "en": "items/images/en/virtuos_null.e3f5a968f4b41d236acad8c9efb8cfef.png",
+      "zh-hans": "items/images/en/virtuos_null.e3f5a968f4b41d236acad8c9efb8cfef.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/virtuos_null.e3f5a968f4b41d236acad8c9efb8cfef.128x128.png",
+      "zh-hans": "items/images/en/thumbs/virtuos_null.e3f5a968f4b41d236acad8c9efb8cfef.128x128.png"
+    }
+  },
+  {
+    "id": "5a04750b6c4655012038ddc8",
+    "slug": "virtuos_tempo",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/AttackSpeedOnKill",
+    "tags": [
+      "common",
+      "arcane_enhancement",
+      "operator"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Virtuos Tempo",
+      "zh-hans": "正直·节奏"
+    },
+    "icons": {
+      "en": "items/images/en/virtuos_tempo.6e63273510b1ba372aa7eaccfce695e2.png",
+      "zh-hans": "items/images/en/virtuos_tempo.6e63273510b1ba372aa7eaccfce695e2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/virtuos_tempo.6e63273510b1ba372aa7eaccfce695e2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/virtuos_tempo.6e63273510b1ba372aa7eaccfce695e2.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156c2",
+    "slug": "suppress",
+    "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponNoiseReductionMod",
+    "tags": [
+      "common",
+      "mod",
+      "pistol",
+      "secondary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Suppress",
+      "zh-hans": "消音"
+    },
+    "icons": {
+      "en": "items/images/en/suppress.4fe191bbd38ac388a7e39b805b0bec95.png",
+      "zh-hans": "items/images/en/suppress.4fe191bbd38ac388a7e39b805b0bec95.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/suppress.4fe191bbd38ac388a7e39b805b0bec95.128x128.png",
+      "zh-hans": "items/images/en/thumbs/suppress.4fe191bbd38ac388a7e39b805b0bec95.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a51a",
+    "slug": "loose_magazine",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/FasterReloadMoreRecoilPistolMod",
+    "tags": [
+      "common",
+      "secondary",
+      "pvp",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Loose Magazine",
+      "zh-hans": "松弛弹匣"
+    },
+    "icons": {
+      "en": "items/images/en/loose_magazine.0428fe78b8c7fa59ecd2861e1c3711b7.png",
+      "zh-hans": "items/images/en/loose_magazine.0428fe78b8c7fa59ecd2861e1c3711b7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/loose_magazine.0428fe78b8c7fa59ecd2861e1c3711b7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/loose_magazine.0428fe78b8c7fa59ecd2861e1c3711b7.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a51c",
+    "slug": "maximum_capacity",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/LargerMagLongerReloadRifleMod",
+    "tags": [
+      "common",
+      "primary",
+      "pvp",
+      "mod",
+      "assault_rifle"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Maximum Capacity",
+      "zh-hans": "极限弹容"
+    },
+    "icons": {
+      "en": "items/images/en/maximum_capacity.622ba4b0a9f284006d04dc5784e8f8af.png",
+      "zh-hans": "items/images/en/maximum_capacity.622ba4b0a9f284006d04dc5784e8f8af.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/maximum_capacity.622ba4b0a9f284006d04dc5784e8f8af.128x128.png",
+      "zh-hans": "items/images/en/thumbs/maximum_capacity.622ba4b0a9f284006d04dc5784e8f8af.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515593",
+    "slug": "bleeding_edge",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeCritDamageMod",
+    "tags": [
+      "common",
+      "melee",
+      "mod",
+      "archwing",
+      "archmelee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 10,
+    "subtypes": null,
+    "names": {
+      "en": "Bleeding Edge",
+      "zh-hans": "血色刃缘"
+    },
+    "icons": {
+      "en": "items/images/en/bleeding_edge.20bbcd5307f3d62b42c687470591ba49.png",
+      "zh-hans": "items/images/en/bleeding_edge.20bbcd5307f3d62b42c687470591ba49.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/bleeding_edge.20bbcd5307f3d62b42c687470591ba49.128x128.png",
+      "zh-hans": "items/images/en/thumbs/bleeding_edge.20bbcd5307f3d62b42c687470591ba49.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bda0d14a8e4006b1dad6e",
+    "slug": "virtuos_spike",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToPunctureDamage",
+    "tags": [
+      "common",
+      "arcane_enhancement",
+      "operator"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Virtuos Spike",
+      "zh-hans": "正直·尖刺"
+    },
+    "icons": {
+      "en": "items/images/en/virtuos_spike.8e4996323b5d41abf0354b39741c0dad.png",
+      "zh-hans": "items/images/en/virtuos_spike.8e4996323b5d41abf0354b39741c0dad.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/virtuos_spike.8e4996323b5d41abf0354b39741c0dad.128x128.png",
+      "zh-hans": "items/images/en/thumbs/virtuos_spike.8e4996323b5d41abf0354b39741c0dad.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515671",
+    "slug": "rupture",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponImpactDamageMod",
+    "tags": [
+      "common",
+      "mod",
+      "rifle",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Rupture",
+      "zh-hans": "破裂"
+    },
+    "icons": {
+      "en": "items/images/en/rupture.630bd87001b46e7542217517d61eb74f.png",
+      "zh-hans": "items/images/en/rupture.630bd87001b46e7542217517d61eb74f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/rupture.630bd87001b46e7542217517d61eb74f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/rupture.630bd87001b46e7542217517d61eb74f.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bda2014a8e4006b1dad98",
+    "slug": "magus_drive",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HoverboardSpeedOnTransferenceIn",
+    "tags": [
+      "common",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magus Drive",
+      "zh-hans": "魔导·驱动"
+    },
+    "icons": {
+      "en": "items/images/en/magus_drive.618edddcaa1b6d427526a4fe89063deb.png",
+      "zh-hans": "items/images/en/magus_drive.618edddcaa1b6d427526a4fe89063deb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magus_drive.618edddcaa1b6d427526a4fe89063deb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magus_drive.618edddcaa1b6d427526a4fe89063deb.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e51566a",
+    "slug": "sawtooth_clip",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponSlashDamageMod",
+    "tags": [
+      "common",
+      "mod",
+      "rifle",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Sawtooth Clip",
+      "zh-hans": "锯齿弹链"
+    },
+    "icons": {
+      "en": "items/images/en/sawtooth_clip.830e46abe286063df243932fa45de311.png",
+      "zh-hans": "items/images/en/sawtooth_clip.830e46abe286063df243932fa45de311.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sawtooth_clip.830e46abe286063df243932fa45de311.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sawtooth_clip.830e46abe286063df243932fa45de311.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155cb",
+    "slug": "quickdraw",
+    "gameRef": "/Lotus/Upgrades/Mods/Pistol/WeaponReloadSpeedMod",
+    "tags": [
+      "common",
+      "mod",
+      "pistol",
+      "secondary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Quickdraw",
+      "zh-hans": "持续火力"
+    },
+    "icons": {
+      "en": "items/images/en/quickdraw.ce5b3a81c96d6ce353b3541627bad28a.png",
+      "zh-hans": "items/images/en/quickdraw.ce5b3a81c96d6ce353b3541627bad28a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/quickdraw.ce5b3a81c96d6ce353b3541627bad28a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/quickdraw.ce5b3a81c96d6ce353b3541627bad28a.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a50d",
+    "slug": "full_capacity",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Pistol/LargerMagLongerReloadPistolMod",
+    "tags": [
+      "common",
+      "secondary",
+      "pvp",
+      "mod",
+      "pistol"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Full Capacity",
+      "zh-hans": "充量弹容"
+    },
+    "icons": {
+      "en": "items/images/en/full_capacity.3487f8c1a516c44d36d4655604875586.png",
+      "zh-hans": "items/images/en/full_capacity.3487f8c1a516c44d36d4655604875586.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/full_capacity.3487f8c1a516c44d36d4655604875586.128x128.png",
+      "zh-hans": "items/images/en/thumbs/full_capacity.3487f8c1a516c44d36d4655604875586.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bda1114a8e4006b1dad78",
+    "slug": "magus_accelerant",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HeatResistOnBlast",
+    "tags": [
+      "common",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magus Accelerant",
+      "zh-hans": "魔导·触媒"
+    },
+    "icons": {
+      "en": "items/images/en/magus_accelerant.3d50149a79c8ec5ab2a2499da47244e2.png",
+      "zh-hans": "items/images/en/magus_accelerant.3d50149a79c8ec5ab2a2499da47244e2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magus_accelerant.3d50149a79c8ec5ab2a2499da47244e2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magus_accelerant.3d50149a79c8ec5ab2a2499da47244e2.128x128.png"
+    }
+  },
+  {
+    "id": "5ce7fd85d23a3b00908c4204",
+    "slug": "proton_pulse",
+    "gameRef": "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModA",
+    "tags": [
+      "common",
+      "mod",
+      "warframe"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Proton Pulse",
+      "zh-hans": "质子 脉动"
+    },
+    "icons": {
+      "en": "items/images/en/proton_pulse.1421f759fe461d981591d55621cba142.png",
+      "zh-hans": "items/images/en/proton_pulse.1421f759fe461d981591d55621cba142.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/proton_pulse.1421f759fe461d981591d55621cba142.128x128.png",
+      "zh-hans": "items/images/en/thumbs/proton_pulse.1421f759fe461d981591d55621cba142.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a517",
+    "slug": "loaded_capacity",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/LargerMagLongerReloadShotgunMod",
+    "tags": [
+      "common",
+      "primary",
+      "pvp",
+      "shotgun",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Loaded Capacity",
+      "zh-hans": "加载弹容"
+    },
+    "icons": {
+      "en": "items/images/en/loaded_capacity.9a437854153a40b04909bd36b19dc036.png",
+      "zh-hans": "items/images/en/loaded_capacity.9a437854153a40b04909bd36b19dc036.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/loaded_capacity.9a437854153a40b04909bd36b19dc036.128x128.png",
+      "zh-hans": "items/images/en/thumbs/loaded_capacity.9a437854153a40b04909bd36b19dc036.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a518",
+    "slug": "loose_chamber",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/FasterReloadMoreRecoilShotgunMod",
+    "tags": [
+      "common",
+      "primary",
+      "pvp",
+      "shotgun",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Loose Chamber",
+      "zh-hans": "松弛枪膛"
+    },
+    "icons": {
+      "en": "items/images/en/loose_chamber.f9ed43a1b642506e5a9851aff8c04614.png",
+      "zh-hans": "items/images/en/loose_chamber.f9ed43a1b642506e5a9851aff8c04614.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/loose_chamber.f9ed43a1b642506e5a9851aff8c04614.128x128.png",
+      "zh-hans": "items/images/en/thumbs/loose_chamber.f9ed43a1b642506e5a9851aff8c04614.128x128.png"
+    }
+  },
+  {
+    "id": "56a7b2b21133f656cb085d96",
+    "slug": "focused_defense",
+    "gameRef": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelArmourMod",
+    "tags": [
+      "common",
+      "mod",
+      "melee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Focused Defense",
+      "zh-hans": "重点防御"
+    },
+    "icons": {
+      "en": "items/images/en/focused_defense.1afc7dee960645e6988770142ddf3cdd.png",
+      "zh-hans": "items/images/en/focused_defense.1afc7dee960645e6988770142ddf3cdd.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/focused_defense.1afc7dee960645e6988770142ddf3cdd.128x128.png",
+      "zh-hans": "items/images/en/thumbs/focused_defense.1afc7dee960645e6988770142ddf3cdd.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515683",
+    "slug": "extend",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeRangeIncMod",
+    "tags": [
+      "common",
+      "melee",
+      "mod",
+      "archwing",
+      "archmelee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Extend",
+      "zh-hans": "延展"
+    },
+    "icons": {
+      "en": "items/images/en/extend.12e6d7c851dc98d1acee4856d59efa51.png",
+      "zh-hans": "items/images/en/extend.12e6d7c851dc98d1acee4856d59efa51.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/extend.12e6d7c851dc98d1acee4856d59efa51.128x128.png",
+      "zh-hans": "items/images/en/thumbs/extend.12e6d7c851dc98d1acee4856d59efa51.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515621",
+    "slug": "hush",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponNoiseReductionMod",
+    "tags": [
+      "common",
+      "mod",
+      "rifle",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Hush",
+      "zh-hans": "消音器"
+    },
+    "icons": {
+      "en": "items/images/en/hush.59b2133ac35cd53a445a9fe50fd7b164.png",
+      "zh-hans": "items/images/en/hush.59b2133ac35cd53a445a9fe50fd7b164.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hush.59b2133ac35cd53a445a9fe50fd7b164.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hush.59b2133ac35cd53a445a9fe50fd7b164.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bda1014a8e4006b1dad75",
+    "slug": "magus_firewall",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/DamageReductionOnVoidMode",
+    "tags": [
+      "common",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magus Firewall",
+      "zh-hans": "魔导·防火墙"
+    },
+    "icons": {
+      "en": "items/images/en/magus_firewall.76ccbdc51cd207a32782be2bebe3b849.png",
+      "zh-hans": "items/images/en/magus_firewall.76ccbdc51cd207a32782be2bebe3b849.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magus_firewall.76ccbdc51cd207a32782be2bebe3b849.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magus_firewall.76ccbdc51cd207a32782be2bebe3b849.128x128.png"
+    }
+  },
+  {
+    "id": "5ce7fd84d23a3b00908c4203",
+    "slug": "repair_kit",
+    "gameRef": "/Lotus/Upgrades/Mods/Sentinel/SentinelRepairKitMod",
+    "tags": [
+      "common",
+      "mod",
+      "sentinel"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Repair Kit",
+      "zh-hans": "修补套件"
+    },
+    "icons": {
+      "en": "items/images/en/repair_kit.fd671126fd4051e8e3addc13ae56d1f0.png",
+      "zh-hans": "items/images/en/repair_kit.fd671126fd4051e8e3addc13ae56d1f0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/repair_kit.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/repair_kit.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+    }
+  },
+  {
+    "id": "5ce7fd86d23a3b00908c4208",
+    "slug": "aero_periphery",
+    "gameRef": "/Lotus/Upgrades/Mods/Sets/Hawk/HawkModC",
+    "tags": [
+      "common",
+      "mod",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Aero Periphery",
+      "zh-hans": "空飞 边际"
+    },
+    "icons": {
+      "en": "items/images/en/aero_periphery.280ffce82d790195fc27db52948715c4.png",
+      "zh-hans": "items/images/en/aero_periphery.280ffce82d790195fc27db52948715c4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/aero_periphery.280ffce82d790195fc27db52948715c4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/aero_periphery.280ffce82d790195fc27db52948715c4.128x128.png"
+    }
+  },
+  {
+    "id": "5a04750c6c4655012038ddca",
+    "slug": "magus_husk",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ArmourOnOperatorMode",
+    "tags": [
+      "common",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magus Husk",
+      "zh-hans": "魔导·外壳"
+    },
+    "icons": {
+      "en": "items/images/en/magus_husk.e06a95548913c871fb0bd03a1691f917.png",
+      "zh-hans": "items/images/en/magus_husk.e06a95548913c871fb0bd03a1691f917.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magus_husk.e06a95548913c871fb0bd03a1691f917.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magus_husk.e06a95548913c871fb0bd03a1691f917.128x128.png"
+    }
+  },
+  {
+    "id": "657f2efd8820fb8f3c5f465e",
+    "slug": "melee_retaliation",
+    "gameRef": "",
+    "tags": [
+      "common",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Melee Retaliation",
+      "zh-hans": "近战·报复"
+    },
+    "icons": {
+      "en": "items/images/en/melee_retaliation.bb1d89feb4393d3681c495372d8c3531.webp",
+      "zh-hans": "items/images/en/melee_retaliation.bb1d89feb4393d3681c495372d8c3531.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/melee_retaliation.bb1d89feb4393d3681c495372d8c3531.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/melee_retaliation.bb1d89feb4393d3681c495372d8c3531.128x128.webp"
+    }
+  },
+  {
+    "id": "657f2efd8820fb8f3c5f4664",
+    "slug": "melee_fortification",
+    "gameRef": "",
+    "tags": [
+      "common",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Melee Fortification",
+      "zh-hans": "近战·坚壁"
+    },
+    "icons": {
+      "en": "items/images/en/melee_fortification.546e560aff6676bf550b0de38f14f280.webp",
+      "zh-hans": "items/images/en/melee_fortification.546e560aff6676bf550b0de38f14f280.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/melee_fortification.546e560aff6676bf550b0de38f14f280.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/melee_fortification.546e560aff6676bf550b0de38f14f280.128x128.webp"
+    }
+  }
+]

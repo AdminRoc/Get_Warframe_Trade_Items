@@ -1,0 +1,50 @@
+[
+  {
+    "id": "57e91e5cc76eb74c087f492c",
+    "slug": "ayatan_cyan_star",
+    "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexOrnamentA",
+    "tags": [
+      "ayatan_star"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ayatan Cyan Star",
+      "zh-hans": "阿耶檀识青蓝星"
+    },
+    "icons": {
+      "en": "items/images/en/ayatan_cyan_star.89fae8de34c9b16b9f5a9c6acb84e8d9.png",
+      "zh-hans": "items/images/en/ayatan_cyan_star.89fae8de34c9b16b9f5a9c6acb84e8d9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ayatan_cyan_star.89fae8de34c9b16b9f5a9c6acb84e8d9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ayatan_cyan_star.89fae8de34c9b16b9f5a9c6acb84e8d9.128x128.png"
+    }
+  },
+  {
+    "id": "57e91e5cc76eb74c087f492d",
+    "slug": "ayatan_amber_star",
+    "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexOrnamentB",
+    "tags": [
+      "ayatan_star"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ayatan Amber Star",
+      "zh-hans": "阿耶檀识琥珀星"
+    },
+    "icons": {
+      "en": "items/images/en/ayatan_amber_star.9657dbb79cc82338d5b3caa62da3e934.png",
+      "zh-hans": "items/images/en/ayatan_amber_star.9657dbb79cc82338d5b3caa62da3e934.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ayatan_amber_star.9657dbb79cc82338d5b3caa62da3e934.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ayatan_amber_star.9657dbb79cc82338d5b3caa62da3e934.128x128.png"
+    }
+  }
+]

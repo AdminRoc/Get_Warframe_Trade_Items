@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "59a48b625cd9938cfede703c",
+    "slug": "hydroid_prime_set",
+    "gameRef": "/Lotus/Powersuits/Pirate/HydroidPrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hydroid Prime Set",
+      "zh-hans": "Hydroid Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/hydroid_prime_set.5f1abb4ef137bf0dd41565a913f5232a.png",
+      "zh-hans": "items/images/en/hydroid_prime_set.5f1abb4ef137bf0dd41565a913f5232a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hydroid_prime_set.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hydroid_prime_set.5f1abb4ef137bf0dd41565a913f5232a.128x128.png"
+    }
+  },
+  {
+    "id": "592dd262011e88f094afec7e",
+    "slug": "oberon_prime_neuroptics_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/OberonPrimeHelmetBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Oberon Prime Neuroptics Blueprint",
+      "zh-hans": "Oberon Prime 头部神经光元 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/oberon_prime_neuroptics.d7f1623552bce11f166b715679e27022.png",
+      "zh-hans": "items/images/en/oberon_prime_neuroptics.d7f1623552bce11f166b715679e27022.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/oberon_prime_neuroptics.d7f1623552bce11f166b715679e27022.128x128.png",
+      "zh-hans": "items/images/en/thumbs/oberon_prime_neuroptics.d7f1623552bce11f166b715679e27022.128x128.png"
+    }
+  },
+  {
+    "id": "58b57068eb26db5c3119210c",
+    "slug": "banshee_prime_chassis_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeChassisBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Banshee Prime Chassis Blueprint",
+      "zh-hans": "Banshee Prime 机体 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/banshee_prime_chassis.a0956816beb733841bce57e69a568cd6.png",
+      "zh-hans": "items/images/en/banshee_prime_chassis.a0956816beb733841bce57e69a568cd6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/banshee_prime_chassis.a0956816beb733841bce57e69a568cd6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/banshee_prime_chassis.a0956816beb733841bce57e69a568cd6.128x128.png"
+    }
+  },
+  {
+    "id": "59a48b625cd9938cfede7039",
+    "slug": "hydroid_prime_neuroptics_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeHelmetBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hydroid Prime Neuroptics Blueprint",
+      "zh-hans": "Hydroid Prime 头部神经光元 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/hydroid_prime_neuroptics.5f1abb4ef137bf0dd41565a913f5232a.png",
+      "zh-hans": "items/images/en/hydroid_prime_neuroptics.5f1abb4ef137bf0dd41565a913f5232a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hydroid_prime_neuroptics.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hydroid_prime_neuroptics.5f1abb4ef137bf0dd41565a913f5232a.128x128.png"
+    }
+  },
+  {
+    "id": "59a48b625cd9938cfede703a",
+    "slug": "hydroid_prime_chassis_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeChassisBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hydroid Prime Chassis Blueprint",
+      "zh-hans": "Hydroid Prime 机体 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/hydroid_prime_chassis.5f1abb4ef137bf0dd41565a913f5232a.png",
+      "zh-hans": "items/images/en/hydroid_prime_chassis.5f1abb4ef137bf0dd41565a913f5232a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hydroid_prime_chassis.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hydroid_prime_chassis.5f1abb4ef137bf0dd41565a913f5232a.128x128.png"
+    }
+  },
+  {
+    "id": "592dd262011e88f094afec81",
+    "slug": "oberon_prime_set",
+    "gameRef": "/Lotus/Powersuits/Paladin/PaladinPrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Oberon Prime Set",
+      "zh-hans": "Oberon Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/oberon_prime_set.d7f1623552bce11f166b715679e27022.png",
+      "zh-hans": "items/images/en/oberon_prime_set.d7f1623552bce11f166b715679e27022.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/oberon_prime_set.d7f1623552bce11f166b715679e27022.128x128.png",
+      "zh-hans": "items/images/en/thumbs/oberon_prime_set.d7f1623552bce11f166b715679e27022.128x128.png"
+    }
+  },
+  {
+    "id": "5ab1570db2b6a8044d5137c2",
+    "slug": "zephyr_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/ZephyrPrimeBlueprint",
+    "tags": [
+      "warframe",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 65,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Zephyr Prime Blueprint",
+      "zh-hans": "Zephyr Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/zephyr_prime_blueprint.4ffc19dd100b3c182beef5f1ef3d337e.png",
+      "zh-hans": "items/images/en/zephyr_prime_blueprint.4ffc19dd100b3c182beef5f1ef3d337e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/zephyr_prime_blueprint.4ffc19dd100b3c182beef5f1ef3d337e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/zephyr_prime_blueprint.4ffc19dd100b3c182beef5f1ef3d337e.128x128.png"
+    }
+  },
+  {
+    "id": "58358a062c2ada0047b386f7",
+    "slug": "valkyr_prime_neuroptics_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/ValkyrPrimeHelmetBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Valkyr Prime Neuroptics Blueprint",
+      "zh-hans": "Valkyr Prime 头部神经光元 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/valkyr_prime_neuroptics.a5c906d66a11ff70158f0ffad0c628e8.png",
+      "zh-hans": "items/images/en/valkyr_prime_neuroptics.a5c906d66a11ff70158f0ffad0c628e8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/valkyr_prime_neuroptics.a5c906d66a11ff70158f0ffad0c628e8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/valkyr_prime_neuroptics.a5c906d66a11ff70158f0ffad0c628e8.128x128.png"
+    }
+  },
+  {
+    "id": "58b57068eb26db5c3119210d",
+    "slug": "banshee_prime_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeSystemsBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 65,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Banshee Prime Systems Blueprint",
+      "zh-hans": "Banshee Prime 系统 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/banshee_prime_systems.a0956816beb733841bce57e69a568cd6.png",
+      "zh-hans": "items/images/en/banshee_prime_systems.a0956816beb733841bce57e69a568cd6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/banshee_prime_systems.a0956816beb733841bce57e69a568cd6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/banshee_prime_systems.a0956816beb733841bce57e69a568cd6.128x128.png"
+    }
+  },
+  {
+    "id": "59a48b625cd9938cfede7038",
+    "slug": "hydroid_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeBlueprint",
+    "tags": [
+      "warframe",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hydroid Prime Blueprint",
+      "zh-hans": "Hydroid Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/hydroid_prime_blueprint.5f1abb4ef137bf0dd41565a913f5232a.png",
+      "zh-hans": "items/images/en/hydroid_prime_blueprint.5f1abb4ef137bf0dd41565a913f5232a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hydroid_prime_blueprint.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hydroid_prime_blueprint.5f1abb4ef137bf0dd41565a913f5232a.128x128.png"
+    }
+  },
+  {
+    "id": "592dd262011e88f094afec7f",
+    "slug": "oberon_prime_chassis_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/OberonPrimeChassisBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Oberon Prime Chassis Blueprint",
+      "zh-hans": "Oberon Prime 机体 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/oberon_prime_chassis.d7f1623552bce11f166b715679e27022.png",
+      "zh-hans": "items/images/en/oberon_prime_chassis.d7f1623552bce11f166b715679e27022.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/oberon_prime_chassis.d7f1623552bce11f166b715679e27022.128x128.png",
+      "zh-hans": "items/images/en/thumbs/oberon_prime_chassis.d7f1623552bce11f166b715679e27022.128x128.png"
+    }
+  },
+  {
+    "id": "592dd262011e88f094afec80",
+    "slug": "oberon_prime_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/OberonPrimeSystemsBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 65,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Oberon Prime Systems Blueprint",
+      "zh-hans": "Oberon Prime 系统 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/oberon_prime_systems.d7f1623552bce11f166b715679e27022.png",
+      "zh-hans": "items/images/en/oberon_prime_systems.d7f1623552bce11f166b715679e27022.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/oberon_prime_systems.d7f1623552bce11f166b715679e27022.128x128.png",
+      "zh-hans": "items/images/en/thumbs/oberon_prime_systems.d7f1623552bce11f166b715679e27022.128x128.png"
+    }
+  },
+  {
+    "id": "58b57068eb26db5c3119210b",
+    "slug": "banshee_prime_neuroptics_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeHelmetBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Banshee Prime Neuroptics Blueprint",
+      "zh-hans": "Banshee Prime 头部神经光元 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/banshee_prime_neuroptics.a0956816beb733841bce57e69a568cd6.png",
+      "zh-hans": "items/images/en/banshee_prime_neuroptics.a0956816beb733841bce57e69a568cd6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/banshee_prime_neuroptics.a0956816beb733841bce57e69a568cd6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/banshee_prime_neuroptics.a0956816beb733841bce57e69a568cd6.128x128.png"
+    }
+  },
+  {
+    "id": "58b57068eb26db5c3119210a",
+    "slug": "banshee_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeBlueprint",
+    "tags": [
+      "warframe",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Banshee Prime Blueprint",
+      "zh-hans": "Banshee Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/banshee_prime_blueprint.a0956816beb733841bce57e69a568cd6.png",
+      "zh-hans": "items/images/en/banshee_prime_blueprint.a0956816beb733841bce57e69a568cd6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/banshee_prime_blueprint.a0956816beb733841bce57e69a568cd6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/banshee_prime_blueprint.a0956816beb733841bce57e69a568cd6.128x128.png"
+    }
+  },
+  {
+    "id": "58358a092c2ada0047b386f8",
+    "slug": "valkyr_prime_chassis_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/ValkyrPrimeChassisBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Valkyr Prime Chassis Blueprint",
+      "zh-hans": "Valkyr Prime 机体 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/valkyr_prime_chassis.a5c906d66a11ff70158f0ffad0c628e8.png",
+      "zh-hans": "items/images/en/valkyr_prime_chassis.a5c906d66a11ff70158f0ffad0c628e8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/valkyr_prime_chassis.a5c906d66a11ff70158f0ffad0c628e8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/valkyr_prime_chassis.a5c906d66a11ff70158f0ffad0c628e8.128x128.png"
+    }
+  },
+  {
+    "id": "59a48b625cd9938cfede703b",
+    "slug": "hydroid_prime_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeSystemsBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hydroid Prime Systems Blueprint",
+      "zh-hans": "Hydroid Prime 系统 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/hydroid_prime_systems.5f1abb4ef137bf0dd41565a913f5232a.png",
+      "zh-hans": "items/images/en/hydroid_prime_systems.5f1abb4ef137bf0dd41565a913f5232a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hydroid_prime_systems.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hydroid_prime_systems.5f1abb4ef137bf0dd41565a913f5232a.128x128.png"
+    }
+  },
+  {
+    "id": "592dd262011e88f094afec7d",
+    "slug": "oberon_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/OberonPrimeBlueprint",
+    "tags": [
+      "warframe",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Oberon Prime Blueprint",
+      "zh-hans": "Oberon Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/oberon_prime_blueprint.d7f1623552bce11f166b715679e27022.png",
+      "zh-hans": "items/images/en/oberon_prime_blueprint.d7f1623552bce11f166b715679e27022.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/oberon_prime_blueprint.d7f1623552bce11f166b715679e27022.128x128.png",
+      "zh-hans": "items/images/en/thumbs/oberon_prime_blueprint.d7f1623552bce11f166b715679e27022.128x128.png"
+    }
+  },
+  {
+    "id": "58358a0c2c2ada0047b386f9",
+    "slug": "valkyr_prime_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/ValkyrPrimeSystemsBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 65,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Valkyr Prime Systems Blueprint",
+      "zh-hans": "Valkyr Prime 系统 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/valkyr_prime_systems.a5c906d66a11ff70158f0ffad0c628e8.png",
+      "zh-hans": "items/images/en/valkyr_prime_systems.a5c906d66a11ff70158f0ffad0c628e8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/valkyr_prime_systems.a5c906d66a11ff70158f0ffad0c628e8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/valkyr_prime_systems.a5c906d66a11ff70158f0ffad0c628e8.128x128.png"
+    }
+  },
+  {
+    "id": "5a2feeb1c2c9e90cbdaa23d2",
+    "slug": "mirage_prime_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/MiragePrimeSystemsBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Mirage Prime Systems Blueprint",
+      "zh-hans": "Mirage Prime 系统 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/mirage_prime_systems.e7f8f484dd6ae6c35f0767fff35a5109.png",
+      "zh-hans": "items/images/en/mirage_prime_systems.e7f8f484dd6ae6c35f0767fff35a5109.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mirage_prime_systems.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mirage_prime_systems.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png"
+    }
+  },
+  {
+    "id": "5a2feeb2c2c9e90cbdaa23d4",
+    "slug": "mirage_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/MiragePrimeBlueprint",
+    "tags": [
+      "warframe",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Mirage Prime Blueprint",
+      "zh-hans": "Mirage Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/mirage_prime_blueprint.e7f8f484dd6ae6c35f0767fff35a5109.png",
+      "zh-hans": "items/images/en/mirage_prime_blueprint.e7f8f484dd6ae6c35f0767fff35a5109.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mirage_prime_blueprint.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mirage_prime_blueprint.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png"
+    }
+  },
+  {
+    "id": "5a2feeb2c2c9e90cbdaa23d5",
+    "slug": "mirage_prime_chassis_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/MiragePrimeChassisBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Mirage Prime Chassis Blueprint",
+      "zh-hans": "Mirage Prime 机体 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/mirage_prime_chassis.e7f8f484dd6ae6c35f0767fff35a5109.png",
+      "zh-hans": "items/images/en/mirage_prime_chassis.e7f8f484dd6ae6c35f0767fff35a5109.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mirage_prime_chassis.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mirage_prime_chassis.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png"
+    }
+  },
+  {
+    "id": "58b57068eb26db5c3119210e",
+    "slug": "banshee_prime_set",
+    "gameRef": "/Lotus/Powersuits/Banshee/BansheePrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Banshee Prime Set",
+      "zh-hans": "Banshee Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/banshee_prime_set.a0956816beb733841bce57e69a568cd6.png",
+      "zh-hans": "items/images/en/banshee_prime_set.a0956816beb733841bce57e69a568cd6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/banshee_prime_set.a0956816beb733841bce57e69a568cd6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/banshee_prime_set.a0956816beb733841bce57e69a568cd6.128x128.png"
+    }
+  },
+  {
+    "id": "5a2feeb2c2c9e90cbdaa23d6",
+    "slug": "mirage_prime_neuroptics_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/MiragePrimeHelmetBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Mirage Prime Neuroptics Blueprint",
+      "zh-hans": "Mirage Prime 头部神经光元 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/mirage_prime_neuroptics.e7f8f484dd6ae6c35f0767fff35a5109.png",
+      "zh-hans": "items/images/en/mirage_prime_neuroptics.e7f8f484dd6ae6c35f0767fff35a5109.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mirage_prime_neuroptics.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mirage_prime_neuroptics.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png"
+    }
+  },
+  {
+    "id": "5a2feeb2c2c9e90cbdaa23d3",
+    "slug": "mirage_prime_set",
+    "gameRef": "/Lotus/Powersuits/Harlequin/MiragePrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 175,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Mirage Prime Set",
+      "zh-hans": "Mirage Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/mirage_prime_set.e7f8f484dd6ae6c35f0767fff35a5109.png",
+      "zh-hans": "items/images/en/mirage_prime_set.e7f8f484dd6ae6c35f0767fff35a5109.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mirage_prime_set.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mirage_prime_set.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png"
+    }
+  },
+  {
+    "id": "603621500a372600fd5614dc",
+    "slug": "octavia_prime_set",
+    "gameRef": "/Lotus/Powersuits/Bard/OctaviaPrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 175,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Octavia Prime Set",
+      "zh-hans": "Octavia Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/octavia_prime_set.4e24ab1ec9ff333596952d391e69b397.png",
+      "zh-hans": "items/images/en/octavia_prime_set.4e24ab1ec9ff333596952d391e69b397.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/octavia_prime_set.4e24ab1ec9ff333596952d391e69b397.128x128.png",
+      "zh-hans": "items/images/en/thumbs/octavia_prime_set.4e24ab1ec9ff333596952d391e69b397.128x128.png"
+    }
+  },
+  {
+    "id": "60ad4a1bf1904300d012c701",
+    "slug": "gara_prime_set",
+    "gameRef": "/Lotus/Powersuits/Glass/GaraPrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gara Prime Set",
+      "zh-hans": "Gara Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/gara_prime_set.e0359bcb2d3e747c46edd23083f39de8.png",
+      "zh-hans": "items/images/en/gara_prime_set.e0359bcb2d3e747c46edd23083f39de8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gara_prime_set.e0359bcb2d3e747c46edd23083f39de8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gara_prime_set.e0359bcb2d3e747c46edd23083f39de8.128x128.png"
+    }
+  },
+  {
+    "id": "6139101930dd5b004b7f909e",
+    "slug": "nidus_prime_set",
+    "gameRef": "/Lotus/Powersuits/Infestation/InfestationPrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Nidus Prime Set",
+      "zh-hans": "Nidus Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/nidus_prime_set.1cf479b37c98ce42340156c9c005e91e.png",
+      "zh-hans": "items/images/en/nidus_prime_set.1cf479b37c98ce42340156c9c005e91e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/nidus_prime_set.1cf479b37c98ce42340156c9c005e91e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/nidus_prime_set.1cf479b37c98ce42340156c9c005e91e.128x128.png"
+    }
+  },
+  {
+    "id": "61bb64fc3132ff00482b5fba",
+    "slug": "harrow_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeBlueprint",
+    "tags": [
+      "warframe",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Harrow Prime Blueprint",
+      "zh-hans": "Harrow Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/harrow_prime_blueprint.532d5a9a035beaca81c15bbaa4001a1d.png",
+      "zh-hans": "items/images/en/harrow_prime_blueprint.532d5a9a035beaca81c15bbaa4001a1d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/harrow_prime_blueprint.532d5a9a035beaca81c15bbaa4001a1d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/harrow_prime_blueprint.532d5a9a035beaca81c15bbaa4001a1d.128x128.png"
+    }
+  },
+  {
+    "id": "61bb64fc3132ff00482b5fbb",
+    "slug": "harrow_prime_set",
+    "gameRef": "/Lotus/Powersuits/Priest/HarrowPrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Harrow Prime Set",
+      "zh-hans": "Harrow Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/harrow_prime_set.532d5a9a035beaca81c15bbaa4001a1d.png",
+      "zh-hans": "items/images/en/harrow_prime_set.532d5a9a035beaca81c15bbaa4001a1d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/harrow_prime_set.532d5a9a035beaca81c15bbaa4001a1d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/harrow_prime_set.532d5a9a035beaca81c15bbaa4001a1d.128x128.png"
+    }
+  },
+  {
+    "id": "61bb64fd3132ff00482b5fc4",
+    "slug": "harrow_prime_neuroptics_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeHelmetBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Harrow Prime Neuroptics Blueprint",
+      "zh-hans": "Harrow Prime 头部神经光元 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/harrow_prime_neuroptics.532d5a9a035beaca81c15bbaa4001a1d.png",
+      "zh-hans": "items/images/en/harrow_prime_neuroptics.532d5a9a035beaca81c15bbaa4001a1d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/harrow_prime_neuroptics.532d5a9a035beaca81c15bbaa4001a1d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/harrow_prime_neuroptics.532d5a9a035beaca81c15bbaa4001a1d.128x128.png"
+    }
+  },
+  {
+    "id": "61bb64fe3132ff00482b5fce",
+    "slug": "harrow_prime_chassis_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeChassisBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Harrow Prime Chassis Blueprint",
+      "zh-hans": "Harrow Prime 机体 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/harrow_prime_chassis.532d5a9a035beaca81c15bbaa4001a1d.png",
+      "zh-hans": "items/images/en/harrow_prime_chassis.532d5a9a035beaca81c15bbaa4001a1d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/harrow_prime_chassis.532d5a9a035beaca81c15bbaa4001a1d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/harrow_prime_chassis.532d5a9a035beaca81c15bbaa4001a1d.128x128.png"
+    }
+  },
+  {
+    "id": "61bb64fe3132ff00482b5fd2",
+    "slug": "harrow_prime_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeSystemsBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "blueprint",
+      "prime"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Harrow Prime Systems Blueprint",
+      "zh-hans": "Harrow Prime 系统 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/harrow_prime_systems.532d5a9a035beaca81c15bbaa4001a1d.png",
+      "zh-hans": "items/images/en/harrow_prime_systems.532d5a9a035beaca81c15bbaa4001a1d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/harrow_prime_systems.532d5a9a035beaca81c15bbaa4001a1d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/harrow_prime_systems.532d5a9a035beaca81c15bbaa4001a1d.128x128.png"
+    }
+  },
+  {
+    "id": "6242037766a58f0108c3d490",
+    "slug": "garuda_prime_set",
+    "gameRef": "/Lotus/Powersuits/Garuda/GarudaPrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Garuda Prime Set",
+      "zh-hans": "Garuda Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/garuda_prime_set.283072e865cfc5da28d322b15a2065fa.png",
+      "zh-hans": "items/images/en/garuda_prime_set.283072e865cfc5da28d322b15a2065fa.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/garuda_prime_set.283072e865cfc5da28d322b15a2065fa.128x128.png",
+      "zh-hans": "items/images/en/thumbs/garuda_prime_set.283072e865cfc5da28d322b15a2065fa.128x128.png"
+    }
+  },
+  {
+    "id": "633e2e6cf570d10793afb827",
+    "slug": "revenant_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/RevenantPrimeBlueprint",
+    "tags": [
+      "warframe",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Revenant Prime Blueprint",
+      "zh-hans": "Revenant Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/revenant_prime_blueprint.469f99b4183a5dda7769b78b2cde6658.png",
+      "zh-hans": "items/images/en/revenant_prime_blueprint.469f99b4183a5dda7769b78b2cde6658.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/revenant_prime_blueprint.469f99b4183a5dda7769b78b2cde6658.128x128.png",
+      "zh-hans": "items/images/en/thumbs/revenant_prime_blueprint.469f99b4183a5dda7769b78b2cde6658.128x128.png"
+    }
+  },
+  {
+    "id": "641263e07d179f02100c6d43",
+    "slug": "hildryn_prime_set",
+    "gameRef": "/Lotus/Powersuits/IronFrame/IronFramePrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hildryn Prime Set",
+      "zh-hans": "Hildryn Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/hildryn_prime_set.7e3f1cd4b94baa590dde37cd0ad0ba9e.png",
+      "zh-hans": "items/images/en/hildryn_prime_set.7e3f1cd4b94baa590dde37cd0ad0ba9e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hildryn_prime_set.7e3f1cd4b94baa590dde37cd0ad0ba9e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hildryn_prime_set.7e3f1cd4b94baa590dde37cd0ad0ba9e.128x128.png"
+    }
+  },
+  {
+    "id": "66325ca7e85cac3856c86cbc",
+    "slug": "protea_prime_set",
+    "gameRef": "/Lotus/Powersuits/Odalisk/ProteaPrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 260,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Protea Prime Set",
+      "zh-hans": "Protea Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/protea_prime_set.c4d0269d10f68228b05510982f06e58b.png",
+      "zh-hans": "items/images/zh-hans/protea_prime_set.c4d0269d10f68228b05510982f06e58b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/protea_prime_set.c4d0269d10f68228b05510982f06e58b.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/protea_prime_set.c4d0269d10f68228b05510982f06e58b.128x128.png"
+    }
+  },
+  {
+    "id": "66325caae85cac3856c86cbe",
+    "slug": "protea_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/ProteaPrimeBlueprint",
+    "tags": [
+      "warframe",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Protea Prime Blueprint",
+      "zh-hans": "Protea Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/protea_prime_blueprint.c4d0269d10f68228b05510982f06e58b.png",
+      "zh-hans": "items/images/zh-hans/protea_prime_blueprint.c4d0269d10f68228b05510982f06e58b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/protea_prime_blueprint.c4d0269d10f68228b05510982f06e58b.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/protea_prime_blueprint.c4d0269d10f68228b05510982f06e58b.128x128.png"
+    }
+  },
+  {
+    "id": "673516a9db3ac2cfade14a70",
+    "slug": "xaku_prime_set",
+    "gameRef": "/Lotus/Powersuits/BrokenFrame/XakuPrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Xaku Prime Set",
+      "zh-hans": "Xaku Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/xaku_prime.caeeda2f9eec158d19fd76d7631fa5de.webp",
+      "zh-hans": "items/images/en/xaku_prime.caeeda2f9eec158d19fd76d7631fa5de.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/xaku_prime.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/xaku_prime.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp"
+    }
+  },
+  {
+    "id": "673516aadb3ac2cfade14a71",
+    "slug": "xaku_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeBlueprint",
+    "tags": [
+      "warframe",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Xaku Prime Blueprint",
+      "zh-hans": "Xaku Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/xaku_prime_blueprint.caeeda2f9eec158d19fd76d7631fa5de.webp",
+      "zh-hans": "items/images/en/xaku_prime_blueprint.caeeda2f9eec158d19fd76d7631fa5de.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/xaku_prime_blueprint.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/xaku_prime_blueprint.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp"
+    }
+  },
+  {
+    "id": "673516abdb3ac2cfade14a72",
+    "slug": "xaku_prime_neuroptics_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeHelmetBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Xaku Prime Neuroptics Blueprint",
+      "zh-hans": "Xaku Prime 头部神经光元 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/xaku_prime_neuroptics_blueprint.caeeda2f9eec158d19fd76d7631fa5de.webp",
+      "zh-hans": "items/images/en/xaku_prime_neuroptics_blueprint.caeeda2f9eec158d19fd76d7631fa5de.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/xaku_prime_neuroptics_blueprint.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/xaku_prime_neuroptics_blueprint.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp"
+    }
+  },
+  {
+    "id": "673516acdb3ac2cfade14a73",
+    "slug": "xaku_prime_chassis_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeChassisBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Xaku Prime Chassis Blueprint",
+      "zh-hans": "Xaku Prime 机体 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/xaku_prime_chassis_blueprint.caeeda2f9eec158d19fd76d7631fa5de.webp",
+      "zh-hans": "items/images/en/xaku_prime_chassis_blueprint.caeeda2f9eec158d19fd76d7631fa5de.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/xaku_prime_chassis_blueprint.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/xaku_prime_chassis_blueprint.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp"
+    }
+  },
+  {
+    "id": "673516addb3ac2cfade14a74",
+    "slug": "xaku_prime_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeSystemsBlueprint",
+    "tags": [
+      "warframe",
+      "component",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Xaku Prime Systems Blueprint",
+      "zh-hans": "Xaku Prime 系统 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/xaku_prime_systems_blueprint.caeeda2f9eec158d19fd76d7631fa5de.webp",
+      "zh-hans": "items/images/en/xaku_prime_systems_blueprint.caeeda2f9eec158d19fd76d7631fa5de.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/xaku_prime_systems_blueprint.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/xaku_prime_systems_blueprint.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp"
+    }
+  },
+  {
+    "id": "67acd93f125398d92c8bb4ea",
+    "slug": "lavos_prime_set",
+    "gameRef": "/Lotus/Powersuits/Alchemist/LavosPrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Lavos Prime Set",
+      "zh-hans": "Lavos Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/lavos_prime_set.b50879ee28eb0c9effda56dadca76c86.webp",
+      "zh-hans": "items/images/en/lavos_prime_set.b50879ee28eb0c9effda56dadca76c86.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lavos_prime_set.b50879ee28eb0c9effda56dadca76c86.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lavos_prime_set.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+    }
+  },
+  {
+    "id": "67acd941125398d92c8bb4eb",
+    "slug": "lavos_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/LavosPrimeBlueprint",
+    "tags": [
+      "warframe",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Lavos Prime Blueprint",
+      "zh-hans": "Lavos Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/lavos_prime_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+      "zh-hans": "items/images/en/lavos_prime_blueprint.b50879ee28eb0c9effda56dadca76c86.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lavos_prime_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lavos_prime_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp"
+    }
+  },
+  {
+    "id": "682dfa9835715d4f3e9c64e6",
+    "slug": "yareli_prime_set",
+    "gameRef": "/Lotus/Powersuits/Yareli/YareliPrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 260,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Yareli Prime Set",
+      "zh-hans": "Yareli Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/yareli_prime_set.80badf98bdde8e0c47cac61aa6149ea0.webp",
+      "zh-hans": "items/images/en/yareli_prime_set.80badf98bdde8e0c47cac61aa6149ea0.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/yareli_prime_set.80badf98bdde8e0c47cac61aa6149ea0.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/yareli_prime_set.80badf98bdde8e0c47cac61aa6149ea0.128x128.webp"
+    }
+  },
+  {
+    "id": "682dfa9835715d4f3e9c64e7",
+    "slug": "yareli_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/YareliPrimeBlueprint",
+    "tags": [
+      "warframe",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Yareli Prime Blueprint",
+      "zh-hans": "Yareli Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/yareli_prime_blueprint.80badf98bdde8e0c47cac61aa6149ea0.webp",
+      "zh-hans": "items/images/en/yareli_prime_blueprint.80badf98bdde8e0c47cac61aa6149ea0.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/yareli_prime_blueprint.80badf98bdde8e0c47cac61aa6149ea0.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/yareli_prime_blueprint.80badf98bdde8e0c47cac61aa6149ea0.128x128.webp"
+    }
+  },
+  {
+    "id": "68adcffe731e63abe79a5d0f",
+    "slug": "caliban_prime_set",
+    "gameRef": "/Lotus/Powersuits/Sentient/CalibanPrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 260,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Caliban Prime Set",
+      "zh-hans": "Caliban Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/caliban_prime_set.cae2f667bfae7c3ae9f5089760f9f090.webp",
+      "zh-hans": "items/images/en/caliban_prime_set.cae2f667bfae7c3ae9f5089760f9f090.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/caliban_prime_set.cae2f667bfae7c3ae9f5089760f9f090.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/caliban_prime_set.cae2f667bfae7c3ae9f5089760f9f090.128x128.webp"
+    }
+  },
+  {
+    "id": "68adcffe731e63abe79a5d10",
+    "slug": "caliban_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeBlueprint",
+    "tags": [
+      "warframe",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Caliban Prime Blueprint",
+      "zh-hans": "Caliban Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "",
+      "zh-hans": ""
+    }
+  },
+  {
+    "id": "68efba8d89984fb97a33aa31",
+    "slug": "lingering_transmutation",
+    "gameRef": "/Lotus/Powersuits/Alchemist/AlchemistTransmuteAugmentCard",
+    "tags": [
+      "warframe",
+      "rare",
+      "lavos",
+      "augment",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Lingering Transmutation",
+      "zh-hans": "流连忘返"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "",
+      "zh-hans": ""
+    }
+  },
+  {
+    "id": "68efba9a89984fb97a33aa33",
+    "slug": "untime_rift",
+    "gameRef": "/Lotus/Powersuits/BrokenFrame/BrokenDestructAugmentCard",
+    "tags": [
+      "warframe",
+      "rare",
+      "augment",
+      "mod",
+      "xaku"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Untime Rift",
+      "zh-hans": "炼狱裂隙"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "",
+      "zh-hans": ""
+    }
+  },
+  {
+    "id": "68efbaa589984fb97a33aa35",
+    "slug": "tharros_lethality",
+    "gameRef": "/Lotus/Powersuits/Hoplite/HopliteBashAugmentCard",
+    "tags": [
+      "warframe",
+      "styanax",
+      "rare",
+      "augment",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Tharros Lethality",
+      "zh-hans": "致命豪勇"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "",
+      "zh-hans": ""
+    }
+  },
+  {
+    "id": "68efbab189984fb97a33aa37",
+    "slug": "reverse_rotorswell",
+    "gameRef": "/Lotus/Powersuits/Gyre/GyreOverchargedAugmentCard",
+    "tags": [
+      "warframe",
+      "gyre",
+      "rare",
+      "augment",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Reverse Rotorswell",
+      "zh-hans": "反弹链波"
+    },
+    "icons": {
+      "en": "items/unknown.png",
+      "zh-hans": "items/unknown.png"
+    },
+    "thumbs": {
+      "en": "",
+      "zh-hans": ""
+    }
+  },
+  {
+    "id": "6939aa405d9ebda239125d25",
+    "slug": "gyre_prime_set",
+    "gameRef": "/Lotus/Powersuits/Gyre/GyrePrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gyre Prime Set",
+      "zh-hans": "Gyre Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+      "zh-hans": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+    }
+  },
+  {
+    "id": "6939aa415d9ebda239125d26",
+    "slug": "gyre_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeBlueprint",
+    "tags": [
+      "warframe",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gyre Prime Blueprint",
+      "zh-hans": "Gyre Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/gyre_prime_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+      "zh-hans": "items/images/en/gyre_prime_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gyre_prime_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/gyre_prime_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+    }
+  },
+  {
+    "id": "6939aa435d9ebda239125d27",
+    "slug": "gyre_prime_neuroptics_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeHelmetBlueprint",
+    "tags": [
+      "warframe",
+      "prime",
+      "component",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gyre Prime Neuroptics Blueprint",
+      "zh-hans": "Gyre Prime 头部神经光元 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/gyre_prime_neuroptics_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+      "zh-hans": "items/images/en/gyre_prime_neuroptics_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gyre_prime_neuroptics_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/gyre_prime_neuroptics_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+    }
+  },
+  {
+    "id": "6939aa445d9ebda239125d28",
+    "slug": "gyre_prime_chassis_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeChassisBlueprint",
+    "tags": [
+      "warframe",
+      "prime",
+      "component",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gyre Prime Chassis Blueprint",
+      "zh-hans": "Gyre Prime 机体 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/gyre_prime_chassis_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+      "zh-hans": "items/images/en/gyre_prime_chassis_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gyre_prime_chassis_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/gyre_prime_chassis_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+    }
+  },
+  {
+    "id": "6939aa455d9ebda239125d29",
+    "slug": "gyre_prime_systems_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeSystemsBlueprint",
+    "tags": [
+      "warframe",
+      "prime",
+      "component",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gyre Prime Systems Blueprint",
+      "zh-hans": "Gyre Prime 系统 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/gyre_prime_systems_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+      "zh-hans": "items/images/en/gyre_prime_systems_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gyre_prime_systems_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/gyre_prime_systems_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+    }
+  },
+  {
+    "id": "69d6763bb3984cc97e24174b",
+    "slug": "voruna_prime_set",
+    "gameRef": "/Lotus/Powersuits/Werewolf/VorunaPrime",
+    "tags": [
+      "warframe",
+      "prime",
+      "set"
+    ],
+    "ducats": 290,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Voruna Prime Set",
+      "zh-hans": "Voruna Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/voruna_prime_set.6a82ab2971991cfa9ff8b92df7ed8547.webp",
+      "zh-hans": "items/images/en/voruna_prime_set.6a82ab2971991cfa9ff8b92df7ed8547.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/voruna_prime_set.6a82ab2971991cfa9ff8b92df7ed8547.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/voruna_prime_set.6a82ab2971991cfa9ff8b92df7ed8547.128x128.webp"
+    }
+  },
+  {
+    "id": "69d6766fb3984cc97e24174d",
+    "slug": "voruna_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeBlueprint",
+    "tags": [
+      "warframe",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 100,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Voruna Prime Blueprint",
+      "zh-hans": "Voruna Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/voruna_prime_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.webp",
+      "zh-hans": "items/images/en/voruna_prime_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/voruna_prime_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/voruna_prime_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.128x128.webp"
+    }
+  }
+]

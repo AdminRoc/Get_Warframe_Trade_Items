@@ -1,0 +1,86 @@
+[
+  {
+    "id": "54e644ffe779897594fa68cc",
+    "slug": "repelling_bastille",
+    "gameRef": "/Lotus/Powersuits/Trapper/LevTrapAugmentCard",
+    "tags": [
+      "vauban",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Enduring Bastille",
+      "zh-hans": "永续力场"
+    },
+    "icons": {
+      "en": "items/images/en/repelling_bastille.342178f3f8cdb716c8545e5d4fa03227.png",
+      "zh-hans": "items/images/en/repelling_bastille.342178f3f8cdb716c8545e5d4fa03227.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/repelling_bastille.342178f3f8cdb716c8545e5d4fa03227.128x128.png",
+      "zh-hans": "items/images/en/thumbs/repelling_bastille.342178f3f8cdb716c8545e5d4fa03227.128x128.png"
+    }
+  },
+  {
+    "id": "55397302e77989047f88411c",
+    "slug": "photon_repeater",
+    "gameRef": "/Lotus/Powersuits/Trapper/MagHoleAugmentCard",
+    "tags": [
+      "vauban",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Photon Repeater",
+      "zh-hans": "光子续能器"
+    },
+    "icons": {
+      "en": "items/images/en/photon_repeater.6a629b63941e30384976211533c6d0d6.png",
+      "zh-hans": "items/images/en/photon_repeater.6a629b63941e30384976211533c6d0d6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/photon_repeater.6a629b63941e30384976211533c6d0d6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/photon_repeater.6a629b63941e30384976211533c6d0d6.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e51562b",
+    "slug": "tesla_bank",
+    "gameRef": "/Lotus/Powersuits/Trapper/ZapTrapAugmentCard",
+    "tags": [
+      "vauban",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Tesla Bank",
+      "zh-hans": "特斯拉电容"
+    },
+    "icons": {
+      "en": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png",
+      "zh-hans": "items/images/en/tesla_bank.f55d9eb6180c649e83758017866cac43.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tesla_bank.f55d9eb6180c649e83758017866cac43.128x128.png"
+    }
+  }
+]

@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "595567c18e34b5ed3cb3d9bd",
+    "slug": "cleanse_corrupted",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageCorrupted",
+    "tags": [
+      "shotgun",
+      "mod",
+      "primary",
+      "uncommon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Cleanse Orokin",
+      "zh-hans": "净化奥罗金"
+    },
+    "icons": {
+      "en": "items/images/en/cleanse_corrupted.6d978baa53cf69b50a72e4128b2e0b4d.png",
+      "zh-hans": "items/images/en/cleanse_corrupted.6d978baa53cf69b50a72e4128b2e0b4d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cleanse_corrupted.6d978baa53cf69b50a72e4128b2e0b4d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cleanse_corrupted.6d978baa53cf69b50a72e4128b2e0b4d.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e51560c",
+    "slug": "vicious_spread",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedDamageAccuracyShotgun",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Vicious Spread",
+      "zh-hans": "恶性扩散"
+    },
+    "icons": {
+      "en": "items/images/en/vicious_spread.19c08f4fbc9b85fa04676afc1331f63b.png",
+      "zh-hans": "items/images/en/vicious_spread.19c08f4fbc9b85fa04676afc1331f63b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vicious_spread.19c08f4fbc9b85fa04676afc1331f63b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vicious_spread.19c08f4fbc9b85fa04676afc1331f63b.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155de",
+    "slug": "shotgun_savvy",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponStunChanceMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Shotgun Savvy",
+      "zh-hans": "通晓霰弹枪"
+    },
+    "icons": {
+      "en": "items/images/en/shotgun_savvy.ab720d50e1f812fdd35cd695701e31b6.png",
+      "zh-hans": "items/images/en/shotgun_savvy.ab720d50e1f812fdd35cd695701e31b6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shotgun_savvy.ab720d50e1f812fdd35cd695701e31b6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shotgun_savvy.ab720d50e1f812fdd35cd695701e31b6.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155fb",
+    "slug": "shell_compression",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponAmmoMaxMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Shell Compression",
+      "zh-hans": "压缩弹药"
+    },
+    "icons": {
+      "en": "items/images/en/shell_compression.e9dcc6c51d9f2b5fdeeb03a539b5cfea.png",
+      "zh-hans": "items/images/en/shell_compression.e9dcc6c51d9f2b5fdeeb03a539b5cfea.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shell_compression.e9dcc6c51d9f2b5fdeeb03a539b5cfea.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shell_compression.e9dcc6c51d9f2b5fdeeb03a539b5cfea.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515644",
+    "slug": "hells_chamber",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireIterationsMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Hell's Chamber",
+      "zh-hans": "地狱弹膛"
+    },
+    "icons": {
+      "en": "items/images/en/hells_chamber.eb3ff423fe41efafd3b7f7565a0c4d59.png",
+      "zh-hans": "items/images/en/hells_chamber.eb3ff423fe41efafd3b7f7565a0c4d59.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hells_chamber.eb3ff423fe41efafd3b7f7565a0c4d59.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hells_chamber.eb3ff423fe41efafd3b7f7565a0c4d59.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156f1",
+    "slug": "shotgun_barrage",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireRateMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Shotgun Barrage",
+      "zh-hans": "霰弹弹幕"
+    },
+    "icons": {
+      "en": "items/images/en/shotgun_spazz.447f21a32bb091abf33aede1d2f32295.png",
+      "zh-hans": "items/images/en/shotgun_spazz.447f21a32bb091abf33aede1d2f32295.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shotgun_spazz.447f21a32bb091abf33aede1d2f32295.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shotgun_spazz.447f21a32bb091abf33aede1d2f32295.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e51568c",
+    "slug": "tactical_pump",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponReloadSpeedMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Tactical Pump",
+      "zh-hans": "战术上膛"
+    },
+    "icons": {
+      "en": "items/images/en/tactical_pump.20356a918f1ff578e35e1443a5026b65.png",
+      "zh-hans": "items/images/en/tactical_pump.20356a918f1ff578e35e1443a5026b65.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tactical_pump.20356a918f1ff578e35e1443a5026b65.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tactical_pump.20356a918f1ff578e35e1443a5026b65.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e51561e",
+    "slug": "charged_shell",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponElectricityDamageMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Charged Shell",
+      "zh-hans": "充电弹头"
+    },
+    "icons": {
+      "en": "items/images/en/charged_shell.5e627f996728de50e552e7f82fce18a1.png",
+      "zh-hans": "items/images/en/charged_shell.5e627f996728de50e552e7f82fce18a1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/charged_shell.5e627f996728de50e552e7f82fce18a1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/charged_shell.5e627f996728de50e552e7f82fce18a1.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515620",
+    "slug": "cleanse_corpus",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageCorpus",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Cleanse Corpus",
+      "zh-hans": "净化 Corpus"
+    },
+    "icons": {
+      "en": "items/images/en/cleanse_corpus.c6ef317773f4c04d080ce3fe21f41df5.png",
+      "zh-hans": "items/images/en/cleanse_corpus.c6ef317773f4c04d080ce3fe21f41df5.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cleanse_corpus.c6ef317773f4c04d080ce3fe21f41df5.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cleanse_corpus.c6ef317773f4c04d080ce3fe21f41df5.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515651",
+    "slug": "frail_momentum",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedFireRateDamageShotgun",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Frail Momentum",
+      "zh-hans": "虚弱动能"
+    },
+    "icons": {
+      "en": "items/images/en/frail_momentum.8495568df9bed9b94564b2b882a57317.png",
+      "zh-hans": "items/images/en/frail_momentum.8495568df9bed9b94564b2b882a57317.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/frail_momentum.8495568df9bed9b94564b2b882a57317.128x128.png",
+      "zh-hans": "items/images/en/thumbs/frail_momentum.8495568df9bed9b94564b2b882a57317.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155bf",
+    "slug": "chilling_grasp",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponFreezeDamageMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Chilling Grasp",
+      "zh-hans": "急冻控场"
+    },
+    "icons": {
+      "en": "items/images/en/chilling_grasp.7dfb6e5744d0c7356011ad64c0e2d039.png",
+      "zh-hans": "items/images/en/chilling_grasp.7dfb6e5744d0c7356011ad64c0e2d039.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/chilling_grasp.7dfb6e5744d0c7356011ad64c0e2d039.128x128.png",
+      "zh-hans": "items/images/en/thumbs/chilling_grasp.7dfb6e5744d0c7356011ad64c0e2d039.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156af",
+    "slug": "cleanse_infested",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageInfested",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Cleanse Infested",
+      "zh-hans": "净化 Infested"
+    },
+    "icons": {
+      "en": "items/images/en/cleanse_infested.e6aacd608ac9598fc9a3ad117ca10b11.png",
+      "zh-hans": "items/images/en/cleanse_infested.e6aacd608ac9598fc9a3ad117ca10b11.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cleanse_infested.e6aacd608ac9598fc9a3ad117ca10b11.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cleanse_infested.e6aacd608ac9598fc9a3ad117ca10b11.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156b1",
+    "slug": "blaze",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/BlazeMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Blaze",
+      "zh-hans": "烈焰"
+    },
+    "icons": {
+      "en": "items/images/en/blaze.273c8ee4490ace959257a4b9015f4237.png",
+      "zh-hans": "items/images/en/blaze.273c8ee4490ace959257a4b9015f4237.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/blaze.273c8ee4490ace959257a4b9015f4237.128x128.png",
+      "zh-hans": "items/images/en/thumbs/blaze.273c8ee4490ace959257a4b9015f4237.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e51558f",
+    "slug": "seeking_force",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponPunctureDepthMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Seeking Force",
+      "zh-hans": "穿透力"
+    },
+    "icons": {
+      "en": "items/images/en/seeking_force.9efcc6f0d43c53ca9a57a65d753de6f3.png",
+      "zh-hans": "items/images/en/seeking_force.9efcc6f0d43c53ca9a57a65d753de6f3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/seeking_force.9efcc6f0d43c53ca9a57a65d753de6f3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/seeking_force.9efcc6f0d43c53ca9a57a65d753de6f3.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156bc",
+    "slug": "incendiary_coat",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireDamageMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Incendiary Coat",
+      "zh-hans": "燃烧外壳"
+    },
+    "icons": {
+      "en": "items/images/en/incendiary_coat.08c60b348153dcf1a33305345e93cc79.png",
+      "zh-hans": "items/images/en/incendiary_coat.08c60b348153dcf1a33305345e93cc79.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/incendiary_coat.08c60b348153dcf1a33305345e93cc79.128x128.png",
+      "zh-hans": "items/images/en/thumbs/incendiary_coat.08c60b348153dcf1a33305345e93cc79.128x128.png"
+    }
+  },
+  {
+    "id": "554d3f0ce779894445a848f6",
+    "slug": "breach_loader",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponEventPunctureDamageMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Breach Loader",
+      "zh-hans": "破裂填装"
+    },
+    "icons": {
+      "en": "items/images/en/breach_loader.ac1c6544ae28057ae47e86ef8ceceff5.png",
+      "zh-hans": "items/images/en/breach_loader.ac1c6544ae28057ae47e86ef8ceceff5.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/breach_loader.ac1c6544ae28057ae47e86ef8ceceff5.128x128.png",
+      "zh-hans": "items/images/en/thumbs/breach_loader.ac1c6544ae28057ae47e86ef8ceceff5.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e51567d",
+    "slug": "sweeping_serration",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponEventSlashDamageMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Sweeping Serration",
+      "zh-hans": "扫荡锯齿"
+    },
+    "icons": {
+      "en": "items/images/en/sweeping_serration.4b3c010db4dbd87d01acd779b861506f.png",
+      "zh-hans": "items/images/en/sweeping_serration.4b3c010db4dbd87d01acd779b861506f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sweeping_serration.4b3c010db4dbd87d01acd779b861506f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sweeping_serration.4b3c010db4dbd87d01acd779b861506f.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155c1",
+    "slug": "point_blank",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponDamageAmountMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Point Blank",
+      "zh-hans": "抵近射击"
+    },
+    "icons": {
+      "en": "items/images/en/point_blank.a8dd22b4703c52a9ec327ce18c973b8c.png",
+      "zh-hans": "items/images/en/point_blank.a8dd22b4703c52a9ec327ce18c973b8c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/point_blank.a8dd22b4703c52a9ec327ce18c973b8c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/point_blank.a8dd22b4703c52a9ec327ce18c973b8c.128x128.png"
+    }
+  },
+  {
+    "id": "56a7b27a1133f656cb085d8b",
+    "slug": "laser_sight",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Event/CritChanceWhileAimingShotgunMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Laser Sight",
+      "zh-hans": "雷射瞄具"
+    },
+    "icons": {
+      "en": "items/images/en/laser_sight.856fb0b93fb9bd6cc8bbd68041666039.png",
+      "zh-hans": "items/images/en/laser_sight.856fb0b93fb9bd6cc8bbd68041666039.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/laser_sight.856fb0b93fb9bd6cc8bbd68041666039.128x128.png",
+      "zh-hans": "items/images/en/thumbs/laser_sight.856fb0b93fb9bd6cc8bbd68041666039.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e515698",
+    "slug": "critical_deceleration",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedCritChanceFireRateShotgun",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Critical Deceleration",
+      "zh-hans": "降速暴击"
+    },
+    "icons": {
+      "en": "items/images/en/critical_deceleration.1e6f0389e96ef70a93f09667ac7282a4.png",
+      "zh-hans": "items/images/en/critical_deceleration.1e6f0389e96ef70a93f09667ac7282a4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/critical_deceleration.1e6f0389e96ef70a93f09667ac7282a4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/critical_deceleration.1e6f0389e96ef70a93f09667ac7282a4.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155df",
+    "slug": "cleanse_grineer",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageGrineer",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Cleanse Grineer",
+      "zh-hans": "净化 Grineer"
+    },
+    "icons": {
+      "en": "items/images/en/cleanse_grineer.6272080967d415c1b552b9e824df3cdf.png",
+      "zh-hans": "items/images/en/cleanse_grineer.6272080967d415c1b552b9e824df3cdf.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cleanse_grineer.6272080967d415c1b552b9e824df3cdf.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cleanse_grineer.6272080967d415c1b552b9e824df3cdf.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e51569d",
+    "slug": "frigid_blast",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/IceEventShotgunMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Frigid Blast",
+      "zh-hans": "冰冷疾风"
+    },
+    "icons": {
+      "en": "items/images/en/frigid_blast.0b918ce4eea7e629fbde24ad88de852e.png",
+      "zh-hans": "items/images/en/frigid_blast.0b918ce4eea7e629fbde24ad88de852e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/frigid_blast.0b918ce4eea7e629fbde24ad88de852e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/frigid_blast.0b918ce4eea7e629fbde24ad88de852e.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155da",
+    "slug": "contagious_spread",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponToxinDamageMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Contagious Spread",
+      "zh-hans": "传染蔓延"
+    },
+    "icons": {
+      "en": "items/images/en/contagious_spread.e2853d158134319b74677c8a17ffa80d.png",
+      "zh-hans": "items/images/en/contagious_spread.e2853d158134319b74677c8a17ffa80d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/contagious_spread.e2853d158134319b74677c8a17ffa80d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/contagious_spread.e2853d158134319b74677c8a17ffa80d.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156ba",
+    "slug": "ammo_stock",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponClipMaxMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Ammo Stock",
+      "zh-hans": "霰弹扩充"
+    },
+    "icons": {
+      "en": "items/images/en/ammo_stock.f8a0f59f9f16bf21f5e70c45a03d62a9.png",
+      "zh-hans": "items/images/en/ammo_stock.f8a0f59f9f16bf21f5e70c45a03d62a9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ammo_stock.f8a0f59f9f16bf21f5e70c45a03d62a9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ammo_stock.f8a0f59f9f16bf21f5e70c45a03d62a9.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156bd",
+    "slug": "accelerated_blast",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/AcceleratedBlastMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Accelerated Blast",
+      "zh-hans": "加速冲击"
+    },
+    "icons": {
+      "en": "items/images/en/accelerated_blast.11868e0d3de7aa13ec22647b3d0d3230.png",
+      "zh-hans": "items/images/en/accelerated_blast.11868e0d3de7aa13ec22647b3d0d3230.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/accelerated_blast.11868e0d3de7aa13ec22647b3d0d3230.128x128.png",
+      "zh-hans": "items/images/en/thumbs/accelerated_blast.11868e0d3de7aa13ec22647b3d0d3230.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156d0",
+    "slug": "tainted_shell",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedAccuracyFireRateShotgun",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 10,
+    "subtypes": null,
+    "names": {
+      "en": "Tainted Shell",
+      "zh-hans": "污秽弹药"
+    },
+    "icons": {
+      "en": "items/images/en/tainted_shell.ead13d95b9f2da054c3bf69f799d4028.png",
+      "zh-hans": "items/images/en/tainted_shell.ead13d95b9f2da054c3bf69f799d4028.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tainted_shell.ead13d95b9f2da054c3bf69f799d4028.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tainted_shell.ead13d95b9f2da054c3bf69f799d4028.128x128.png"
+    }
+  },
+  {
+    "id": "56a7b2991133f656cb085d91",
+    "slug": "repeater_clip",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Event/FireRateWhileAimingShotgunMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Repeater Clip",
+      "zh-hans": "转轮弹匣"
+    },
+    "icons": {
+      "en": "items/images/en/repeater_clip.83e327e168e4c91bc7d9c5ed0fbe1604.png",
+      "zh-hans": "items/images/en/repeater_clip.83e327e168e4c91bc7d9c5ed0fbe1604.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/repeater_clip.83e327e168e4c91bc7d9c5ed0fbe1604.128x128.png",
+      "zh-hans": "items/images/en/thumbs/repeater_clip.83e327e168e4c91bc7d9c5ed0fbe1604.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155bc",
+    "slug": "fatal_acceleration",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponProjectileSpeedMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Fatal Acceleration",
+      "zh-hans": "致死加速"
+    },
+    "icons": {
+      "en": "items/images/en/fatal_acceleration.cb3c34161c56cbf17bae039fcdccd2ed.png",
+      "zh-hans": "items/images/en/fatal_acceleration.cb3c34161c56cbf17bae039fcdccd2ed.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/fatal_acceleration.cb3c34161c56cbf17bae039fcdccd2ed.128x128.png",
+      "zh-hans": "items/images/en/thumbs/fatal_acceleration.cb3c34161c56cbf17bae039fcdccd2ed.128x128.png"
+    }
+  },
+  {
+    "id": "5814b1f2ca550948410af0ae",
+    "slug": "chilling_reload",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/ColdDmgReloadSpeedMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Chilling Reload",
+      "zh-hans": "激冷装填"
+    },
+    "icons": {
+      "en": "items/images/en/chilling_reload.92fc3f47e6bbe5bd696d4cdb7abf9f40.png",
+      "zh-hans": "items/images/en/chilling_reload.92fc3f47e6bbe5bd696d4cdb7abf9f40.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/chilling_reload.92fc3f47e6bbe5bd696d4cdb7abf9f40.128x128.png",
+      "zh-hans": "items/images/en/thumbs/chilling_reload.92fc3f47e6bbe5bd696d4cdb7abf9f40.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156e8",
+    "slug": "toxic_barrage",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/PoisonEventShotgunMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Toxic Barrage",
+      "zh-hans": "毒素弹幕"
+    },
+    "icons": {
+      "en": "items/images/en/toxic_barrage.47b3693994df124d36bc7525be30b374.png",
+      "zh-hans": "items/images/en/toxic_barrage.47b3693994df124d36bc7525be30b374.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/toxic_barrage.47b3693994df124d36bc7525be30b374.128x128.png",
+      "zh-hans": "items/images/en/thumbs/toxic_barrage.47b3693994df124d36bc7525be30b374.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156e9",
+    "slug": "shotgun_ammo_mutation",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunConvertAmmoMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Shotgun Ammo Mutation",
+      "zh-hans": "霰弹枪弹药转换"
+    },
+    "icons": {
+      "en": "items/images/en/shotgun_ammo_mutation.2a2c46f64e6533beab652081bde6b5b4.png",
+      "zh-hans": "items/images/en/shotgun_ammo_mutation.2a2c46f64e6533beab652081bde6b5b4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shotgun_ammo_mutation.2a2c46f64e6533beab652081bde6b5b4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shotgun_ammo_mutation.2a2c46f64e6533beab652081bde6b5b4.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515638",
+    "slug": "shell_shock",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/ElectEventShotgunMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Shell Shock",
+      "zh-hans": "电冲弹药"
+    },
+    "icons": {
+      "en": "items/images/en/shell_shock.35bf2750cb8660baea04267adab60b34.png",
+      "zh-hans": "items/images/en/shell_shock.35bf2750cb8660baea04267adab60b34.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shell_shock.35bf2750cb8660baea04267adab60b34.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shell_shock.35bf2750cb8660baea04267adab60b34.128x128.png"
+    }
+  },
+  {
+    "id": "554d3f0ce779894445a848f0",
+    "slug": "full_contact",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponEventShotgunImpactDamageMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Full Contact",
+      "zh-hans": "全面接触"
+    },
+    "icons": {
+      "en": "items/images/en/full_contact.1cead3f23fdf3edb28589758f25d73d6.png",
+      "zh-hans": "items/images/en/full_contact.1cead3f23fdf3edb28589758f25d73d6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/full_contact.1cead3f23fdf3edb28589758f25d73d6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/full_contact.1cead3f23fdf3edb28589758f25d73d6.128x128.png"
+    }
+  },
+  {
+    "id": "577010aec79e68a7a8038fba",
+    "slug": "silent_battery",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Event/ProjectNightwatch/WeaponNoiseReductionMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Silent Battery",
+      "zh-hans": "寂静炮组"
+    },
+    "icons": {
+      "en": "items/images/en/silent_battery.ada38cfce270e47d0cb77789c016bf97.png",
+      "zh-hans": "items/images/en/silent_battery.ada38cfce270e47d0cb77789c016bf97.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/silent_battery.ada38cfce270e47d0cb77789c016bf97.128x128.png",
+      "zh-hans": "items/images/en/thumbs/silent_battery.ada38cfce270e47d0cb77789c016bf97.128x128.png"
+    }
+  },
+  {
+    "id": "56a7b2a91133f656cb085d94",
+    "slug": "nano_applicator",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Event/StatusProcWhileAimingShotgunMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Nano-Applicator",
+      "zh-hans": "纳米涂覆"
+    },
+    "icons": {
+      "en": "items/images/en/nano_applicator.ec520af73a56f8c1db97dafface96ddc.png",
+      "zh-hans": "items/images/en/nano_applicator.ec520af73a56f8c1db97dafface96ddc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/nano_applicator.ec520af73a56f8c1db97dafface96ddc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/nano_applicator.ec520af73a56f8c1db97dafface96ddc.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515623",
+    "slug": "scattering_inferno",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/FireEventShotgunMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Scattering Inferno",
+      "zh-hans": "炼狱轰击"
+    },
+    "icons": {
+      "en": "items/images/en/scattering_inferno.0d2bd26b4df8e46933575d5f9e3ebb3f.png",
+      "zh-hans": "items/images/en/scattering_inferno.0d2bd26b4df8e46933575d5f9e3ebb3f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/scattering_inferno.0d2bd26b4df8e46933575d5f9e3ebb3f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/scattering_inferno.0d2bd26b4df8e46933575d5f9e3ebb3f.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515630",
+    "slug": "burdened_magazine",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedMaxClipReloadSpeedShotgun",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Burdened Magazine",
+      "zh-hans": "过载弹匣"
+    },
+    "icons": {
+      "en": "items/images/en/burdened_magazine.cd8210ab3b0045b270997e1df53f210c.png",
+      "zh-hans": "items/images/en/burdened_magazine.cd8210ab3b0045b270997e1df53f210c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/burdened_magazine.cd8210ab3b0045b270997e1df53f210c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/burdened_magazine.cd8210ab3b0045b270997e1df53f210c.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156a1",
+    "slug": "ravage",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/WeaponCritDamageMod",
+    "tags": [
+      "shotgun",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Ravage",
+      "zh-hans": "破灭"
+    },
+    "icons": {
+      "en": "items/images/en/ravage.2d2e570ce05bd26a256cb9ba253f7ce8.png",
+      "zh-hans": "items/images/en/ravage.2d2e570ce05bd26a256cb9ba253f7ce8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ravage.2d2e570ce05bd26a256cb9ba253f7ce8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ravage.2d2e570ce05bd26a256cb9ba253f7ce8.128x128.png"
+    }
+  }
+]

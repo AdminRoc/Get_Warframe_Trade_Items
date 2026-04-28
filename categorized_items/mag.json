@@ -1,0 +1,170 @@
+[
+  {
+    "id": "54a74454e779892d5e5155c5",
+    "slug": "greedy_pull",
+    "gameRef": "/Lotus/Powersuits/Mag/PullAugmentCard",
+    "tags": [
+      "mag",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Greedy Pull",
+      "zh-hans": "贪婪吸引"
+    },
+    "icons": {
+      "en": "items/images/en/greedy_pull.46407b1a24b9928f281e9fded5134de4.png",
+      "zh-hans": "items/images/en/greedy_pull.46407b1a24b9928f281e9fded5134de4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/greedy_pull.46407b1a24b9928f281e9fded5134de4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/greedy_pull.46407b1a24b9928f281e9fded5134de4.128x128.png"
+    }
+  },
+  {
+    "id": "554d3c0ce7798942793d7e8a",
+    "slug": "shield_overload",
+    "gameRef": "/Lotus/Powersuits/Mag/ShieldRegenPvPAugmentCard",
+    "tags": [
+      "mag",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Shield Overload",
+      "zh-hans": "护盾过载"
+    },
+    "icons": {
+      "en": "items/images/en/shield_overload.e2751dfa85b7b91e170d549cd1f6b574.png",
+      "zh-hans": "items/images/en/shield_overload.e2751dfa85b7b91e170d549cd1f6b574.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shield_overload.e2751dfa85b7b91e170d549cd1f6b574.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shield_overload.e2751dfa85b7b91e170d549cd1f6b574.128x128.png"
+    }
+  },
+  {
+    "id": "59385f6716efa3a742b15f5f",
+    "slug": "magnetized_discharge",
+    "gameRef": "/Lotus/Powersuits/Mag/BulletAttractorAugmentCard",
+    "tags": [
+      "mag",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Magnetized Discharge",
+      "zh-hans": "磁吸释放"
+    },
+    "icons": {
+      "en": "items/images/en/magnetized_discharge.2865866b4b2c0b29287f721d2386beec.png",
+      "zh-hans": "items/images/en/magnetized_discharge.2865866b4b2c0b29287f721d2386beec.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magnetized_discharge.2865866b4b2c0b29287f721d2386beec.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magnetized_discharge.2865866b4b2c0b29287f721d2386beec.128x128.png"
+    }
+  },
+  {
+    "id": "554d3d13e77989430b114cb2",
+    "slug": "sapping_reach",
+    "gameRef": "/Lotus/Powersuits/Mag/PullPvPAugmentCard",
+    "tags": [
+      "mag",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Sapping Reach",
+      "zh-hans": "蚀能磁触"
+    },
+    "icons": {
+      "en": "items/images/en/sapping_reach.443c26cf9edee1c90fefca34a579609a.png",
+      "zh-hans": "items/images/en/sapping_reach.443c26cf9edee1c90fefca34a579609a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sapping_reach.443c26cf9edee1c90fefca34a579609a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sapping_reach.443c26cf9edee1c90fefca34a579609a.128x128.png"
+    }
+  },
+  {
+    "id": "5526aec0e779896af9418259",
+    "slug": "fracturing_crush",
+    "gameRef": "/Lotus/Powersuits/Mag/CrushAugmentCard",
+    "tags": [
+      "mag",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Fracturing Crush",
+      "zh-hans": "高压粉碎"
+    },
+    "icons": {
+      "en": "items/images/en/fracturing_crush.c5cfd74639913a1d6e95631afdbcb475.png",
+      "zh-hans": "items/images/en/fracturing_crush.c5cfd74639913a1d6e95631afdbcb475.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/fracturing_crush.c5cfd74639913a1d6e95631afdbcb475.128x128.png",
+      "zh-hans": "items/images/en/thumbs/fracturing_crush.c5cfd74639913a1d6e95631afdbcb475.128x128.png"
+    }
+  },
+  {
+    "id": "54e0c9eee7798903744178a7",
+    "slug": "counter_pulse",
+    "gameRef": "/Lotus/Powersuits/Mag/ShieldRegenAugmentCard",
+    "tags": [
+      "mag",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Counter Pulse",
+      "zh-hans": "反转脉冲"
+    },
+    "icons": {
+      "en": "items/images/en/counter_pulse.7f88af7ba65853e9e371265203a77526.png",
+      "zh-hans": "items/images/en/counter_pulse.7f88af7ba65853e9e371265203a77526.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/counter_pulse.7f88af7ba65853e9e371265203a77526.128x128.png",
+      "zh-hans": "items/images/en/thumbs/counter_pulse.7f88af7ba65853e9e371265203a77526.128x128.png"
+    }
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "56a7b2851133f656cb085d8d",
+    "slug": "bladed_rounds",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/Event/CritDamageWhileAimingRifleMod",
+    "tags": [
+      "rifle",
+      "mod",
+      "uncommon",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Bladed Rounds",
+      "zh-hans": "尖刃弹头"
+    },
+    "icons": {
+      "en": "items/images/en/bladed_rounds.ef8baaa32b793cfea6ede28f48ec2dd9.png",
+      "zh-hans": "items/images/en/bladed_rounds.ef8baaa32b793cfea6ede28f48ec2dd9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/bladed_rounds.ef8baaa32b793cfea6ede28f48ec2dd9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/bladed_rounds.ef8baaa32b793cfea6ede28f48ec2dd9.128x128.png"
+    }
+  }
+]

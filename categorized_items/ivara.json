@@ -1,0 +1,142 @@
+[
+  {
+    "id": "56dac5945cc639de0a45c523",
+    "slug": "power_of_three",
+    "gameRef": "/Lotus/Powersuits/Ranger/RangerQuiverPvPAugmentCard",
+    "tags": [
+      "ivara",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Power Of Three",
+      "zh-hans": "三幂之力"
+    },
+    "icons": {
+      "en": "items/images/en/power_of_three.f147d10eef80bc05208279a4d0d44a06.png",
+      "zh-hans": "items/images/en/power_of_three.f147d10eef80bc05208279a4d0d44a06.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/power_of_three.f147d10eef80bc05208279a4d0d44a06.128x128.png",
+      "zh-hans": "items/images/en/thumbs/power_of_three.f147d10eef80bc05208279a4d0d44a06.128x128.png"
+    }
+  },
+  {
+    "id": "576459d33ae92d545fd1e7ba",
+    "slug": "infiltrate",
+    "gameRef": "/Lotus/Powersuits/Ranger/RangerStealAugmentCard",
+    "tags": [
+      "ivara",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Infiltrate",
+      "zh-hans": "渗透"
+    },
+    "icons": {
+      "en": "items/images/en/infiltrate.c37581f44e0fd82263fee16fb0dfd3bd.png",
+      "zh-hans": "items/images/en/infiltrate.c37581f44e0fd82263fee16fb0dfd3bd.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/infiltrate.c37581f44e0fd82263fee16fb0dfd3bd.128x128.png",
+      "zh-hans": "items/images/en/thumbs/infiltrate.c37581f44e0fd82263fee16fb0dfd3bd.128x128.png"
+    }
+  },
+  {
+    "id": "58f0ee99aa4b70452a173073",
+    "slug": "piercing_navigator",
+    "gameRef": "/Lotus/Powersuits/Ranger/RangerControlAugmentCard",
+    "tags": [
+      "ivara",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Piercing Navigator",
+      "zh-hans": "穿刺抛体"
+    },
+    "icons": {
+      "en": "items/images/en/piercing_navigator.bb0a507032b17f728ed5b836a49707cb.png",
+      "zh-hans": "items/images/en/piercing_navigator.bb0a507032b17f728ed5b836a49707cb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/piercing_navigator.bb0a507032b17f728ed5b836a49707cb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/piercing_navigator.bb0a507032b17f728ed5b836a49707cb.128x128.png"
+    }
+  },
+  {
+    "id": "5b50a3aa3a84fd02a7823246",
+    "slug": "empowered_quiver",
+    "gameRef": "/Lotus/Powersuits/Ranger/RangerQuiverAugmentCard",
+    "tags": [
+      "ivara",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Empowered Quiver",
+      "zh-hans": "强化箭袋"
+    },
+    "icons": {
+      "en": "items/images/en/empowered_quiver.1443fd96a1641e97a75f6db5e40d8b15.png",
+      "zh-hans": "items/images/en/empowered_quiver.1443fd96a1641e97a75f6db5e40d8b15.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/empowered_quiver.1443fd96a1641e97a75f6db5e40d8b15.128x128.png",
+      "zh-hans": "items/images/en/thumbs/empowered_quiver.1443fd96a1641e97a75f6db5e40d8b15.128x128.png"
+    }
+  },
+  {
+    "id": "5ada1ab4b2b6a80bb33793f5",
+    "slug": "concentrated_arrow",
+    "gameRef": "/Lotus/Powersuits/Ranger/RangerBowAugmentCard",
+    "tags": [
+      "ivara",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Concentrated Arrow",
+      "zh-hans": "集中箭矢"
+    },
+    "icons": {
+      "en": "items/images/en/concentrated_arrow.85c0266f9521db62d11d6f5c95aeebc2.png",
+      "zh-hans": "items/images/en/concentrated_arrow.85c0266f9521db62d11d6f5c95aeebc2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/concentrated_arrow.85c0266f9521db62d11d6f5c95aeebc2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/concentrated_arrow.85c0266f9521db62d11d6f5c95aeebc2.128x128.png"
+    }
+  }
+]

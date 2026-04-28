@@ -1,0 +1,29 @@
+[
+  {
+    "id": "5d6ea6777ea27b05d929cbfb",
+    "slug": "efficient_beams",
+    "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Event/Arbitration/CrpSplitLaserArbitrationMod",
+    "tags": [
+      "convectrix",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Efficient Beams",
+      "zh-hans": "高效光束"
+    },
+    "icons": {
+      "en": "items/images/en/efficient_beams.e15144b22799ed8045a25ff71dd9a9a3.png",
+      "zh-hans": "items/images/en/efficient_beams.e15144b22799ed8045a25ff71dd9a9a3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/efficient_beams.e15144b22799ed8045a25ff71dd9a9a3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/efficient_beams.e15144b22799ed8045a25ff71dd9a9a3.128x128.png"
+    }
+  }
+]

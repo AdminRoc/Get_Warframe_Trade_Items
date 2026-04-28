@@ -1,0 +1,1820 @@
+[
+  {
+    "id": "54aae292e7798909064f1575",
+    "slug": "secura_dual_cestra",
+    "gameRef": "/Lotus/Weapons/Syndicates/PerrinSequence/Pistols/PSDualCestra",
+    "tags": [
+      "syndicate",
+      "weapon",
+      "secondary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Secura Dual Cestra",
+      "zh-hans": "保障·锡斯特双枪"
+    },
+    "icons": {
+      "en": "items/images/en/secura_dual_cestra.3d47a4ec6675ff774bb0da9b16c53e0e.png",
+      "zh-hans": "items/images/en/secura_dual_cestra.3d47a4ec6675ff774bb0da9b16c53e0e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/secura_dual_cestra.3d47a4ec6675ff774bb0da9b16c53e0e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/secura_dual_cestra.3d47a4ec6675ff774bb0da9b16c53e0e.128x128.png"
+    }
+  },
+  {
+    "id": "55e797d2e7798924849dd9f0",
+    "slug": "telos_boltor",
+    "gameRef": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/LongGuns/AHBoltor",
+    "tags": [
+      "syndicate",
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Telos Boltor",
+      "zh-hans": "终极·螺钉步枪"
+    },
+    "icons": {
+      "en": "items/images/en/telos_boltor.9a109e6b666017c81b2402e7031243b5.png",
+      "zh-hans": "items/images/en/telos_boltor.9a109e6b666017c81b2402e7031243b5.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/telos_boltor.9a109e6b666017c81b2402e7031243b5.128x128.png",
+      "zh-hans": "items/images/en/thumbs/telos_boltor.9a109e6b666017c81b2402e7031243b5.128x128.png"
+    }
+  },
+  {
+    "id": "59f38f558c202c007335ba66",
+    "slug": "spring_loaded_blade",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/MeleeRangeOnProcMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "melee",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Spring-Loaded Blade",
+      "zh-hans": "簧压刀刃"
+    },
+    "icons": {
+      "en": "items/images/en/spring_loaded_blade.fd154881f2430c34f92827e152c64b29.png",
+      "zh-hans": "items/images/en/spring_loaded_blade.fd154881f2430c34f92827e152c64b29.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/spring_loaded_blade.fd154881f2430c34f92827e152c64b29.128x128.png",
+      "zh-hans": "items/images/en/thumbs/spring_loaded_blade.fd154881f2430c34f92827e152c64b29.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155a6",
+    "slug": "shattering_justice",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/SobekMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "rare",
+      "primary",
+      "sobek"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Shattering Justice",
+      "zh-hans": "破碎正义"
+    },
+    "icons": {
+      "en": "items/images/en/shattering_justice.12be7d056cf4cd66d202b72eb1ca480e.png",
+      "zh-hans": "items/images/en/shattering_justice.12be7d056cf4cd66d202b72eb1ca480e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shattering_justice.12be7d056cf4cd66d202b72eb1ca480e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shattering_justice.12be7d056cf4cd66d202b72eb1ca480e.128x128.png"
+    }
+  },
+  {
+    "id": "5911f11d97a0add8e9d5da4c",
+    "slug": "disarming_purity",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/PantheraMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "rare",
+      "primary",
+      "panthera"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Disarming Purity",
+      "zh-hans": "缴械纯净"
+    },
+    "icons": {
+      "en": "items/images/en/disarming_purity.051b3489272e846e1ea5ecc351ea9c32.png",
+      "zh-hans": "items/images/en/disarming_purity.051b3489272e846e1ea5ecc351ea9c32.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/disarming_purity.051b3489272e846e1ea5ecc351ea9c32.128x128.png",
+      "zh-hans": "items/images/en/thumbs/disarming_purity.051b3489272e846e1ea5ecc351ea9c32.128x128.png"
+    }
+  },
+  {
+    "id": "54aae272e7798975bbba5f07",
+    "slug": "telos_akbolto",
+    "gameRef": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Pistols/AHAkbolto",
+    "tags": [
+      "syndicate",
+      "weapon",
+      "secondary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Telos Akbolto",
+      "zh-hans": "终极·螺钉双枪"
+    },
+    "icons": {
+      "en": "items/images/en/telos_akbolto.5ff5d38fdf6d7a931cd907ffae3d9e7d.png",
+      "zh-hans": "items/images/en/telos_akbolto.5ff5d38fdf6d7a931cd907ffae3d9e7d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/telos_akbolto.5ff5d38fdf6d7a931cd907ffae3d9e7d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/telos_akbolto.5ff5d38fdf6d7a931cd907ffae3d9e7d.128x128.png"
+    }
+  },
+  {
+    "id": "54aae2ace7798918750e63f2",
+    "slug": "sancti_castanas",
+    "gameRef": "/Lotus/Weapons/Syndicates/NewLoka/Pistols/NLCastanas",
+    "tags": [
+      "syndicate",
+      "weapon",
+      "secondary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sancti Castanas",
+      "zh-hans": "圣洁·雷爆信镖"
+    },
+    "icons": {
+      "en": "items/images/en/sancti_castanas.1f0b15a73acc61516e6f3fbda5060cf6.png",
+      "zh-hans": "items/images/en/sancti_castanas.1f0b15a73acc61516e6f3fbda5060cf6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sancti_castanas.1f0b15a73acc61516e6f3fbda5060cf6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sancti_castanas.1f0b15a73acc61516e6f3fbda5060cf6.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155d5",
+    "slug": "gleaming_blight",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/DarkDaggerMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "melee",
+      "rare",
+      "dark_dagger"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Gleaming Blight",
+      "zh-hans": "毁坏微光"
+    },
+    "icons": {
+      "en": "items/images/en/gleaming_blight.864cbc195d8dbbdb4adfdadd56d7de13.png",
+      "zh-hans": "items/images/en/gleaming_blight.864cbc195d8dbbdb4adfdadd56d7de13.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gleaming_blight.864cbc195d8dbbdb4adfdadd56d7de13.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gleaming_blight.864cbc195d8dbbdb4adfdadd56d7de13.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155b8",
+    "slug": "lasting_purity",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/VulkarMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "rare",
+      "primary",
+      "vulkar"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Lasting Purity",
+      "zh-hans": "永恒纯净"
+    },
+    "icons": {
+      "en": "items/images/en/lasting_purity.702ff6d12dcff064a4b9d24ba344260c.png",
+      "zh-hans": "items/images/en/lasting_purity.702ff6d12dcff064a4b9d24ba344260c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lasting_purity.702ff6d12dcff064a4b9d24ba344260c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lasting_purity.702ff6d12dcff064a4b9d24ba344260c.128x128.png"
+    }
+  },
+  {
+    "id": "5911f11d97a0add8e9d5da4f",
+    "slug": "stockpiled_blight",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/KunaiMod",
+    "tags": [
+      "syndicate",
+      "secondary",
+      "mod",
+      "rare",
+      "kunai"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Stockpiled Blight",
+      "zh-hans": "积存毁坏"
+    },
+    "icons": {
+      "en": "items/images/en/stockpiled_blight.3231785f2d66f6d8a1a452aacffb0d3d.png",
+      "zh-hans": "items/images/en/stockpiled_blight.3231785f2d66f6d8a1a452aacffb0d3d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/stockpiled_blight.3231785f2d66f6d8a1a452aacffb0d3d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/stockpiled_blight.3231785f2d66f6d8a1a452aacffb0d3d.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156a3",
+    "slug": "entropy_burst",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/SupraMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "supra",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Entropy Burst",
+      "zh-hans": "熵数爆发"
+    },
+    "icons": {
+      "en": "items/images/en/entropy_burst.66a8a280f2d56a5bdd29607869a147c3.png",
+      "zh-hans": "items/images/en/entropy_burst.66a8a280f2d56a5bdd29607869a147c3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/entropy_burst.66a8a280f2d56a5bdd29607869a147c3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/entropy_burst.66a8a280f2d56a5bdd29607869a147c3.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156b9",
+    "slug": "justice_blades",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/DualCleaversMod",
+    "tags": [
+      "syndicate",
+      "dual_cleavers",
+      "mod",
+      "melee",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Justice Blades",
+      "zh-hans": "正义刀锋"
+    },
+    "icons": {
+      "en": "items/images/en/justice_blades.465e02b8fa93e85a73dd5aa83e0808fb.png",
+      "zh-hans": "items/images/en/justice_blades.465e02b8fa93e85a73dd5aa83e0808fb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/justice_blades.465e02b8fa93e85a73dd5aa83e0808fb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/justice_blades.465e02b8fa93e85a73dd5aa83e0808fb.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155ee",
+    "slug": "entropy_flight",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/KestrelMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "melee",
+      "rare",
+      "kestrel"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Entropy Flight",
+      "zh-hans": "飞逝熵数"
+    },
+    "icons": {
+      "en": "items/images/en/entropy_flight.d0aac5dc51491213cff3e4ff49c9acff.png",
+      "zh-hans": "items/images/en/entropy_flight.d0aac5dc51491213cff3e4ff49c9acff.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/entropy_flight.d0aac5dc51491213cff3e4ff49c9acff.128x128.png",
+      "zh-hans": "items/images/en/thumbs/entropy_flight.d0aac5dc51491213cff3e4ff49c9acff.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155be",
+    "slug": "entropy_spike",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/BoltoMod",
+    "tags": [
+      "syndicate",
+      "secondary",
+      "mod",
+      "rare",
+      "bolto"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Entropy Spike",
+      "zh-hans": "熵数尖钉"
+    },
+    "icons": {
+      "en": "items/images/en/entropy_spike.def94f74a5e4438a695d47fb336d6066.png",
+      "zh-hans": "items/images/en/entropy_spike.def94f74a5e4438a695d47fb336d6066.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/entropy_spike.def94f74a5e4438a695d47fb336d6066.128x128.png",
+      "zh-hans": "items/images/en/thumbs/entropy_spike.def94f74a5e4438a695d47fb336d6066.128x128.png"
+    }
+  },
+  {
+    "id": "55e797e7e779892497cdf785",
+    "slug": "secura_penta",
+    "gameRef": "/Lotus/Weapons/Syndicates/PerrinSequence/LongGuns/PSPenta",
+    "tags": [
+      "syndicate",
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Secura Penta",
+      "zh-hans": "保障·潘塔"
+    },
+    "icons": {
+      "en": "items/images/en/secura_penta.46a8573433a7ddec1f7e7c1bccb4d5ac.png",
+      "zh-hans": "items/images/en/secura_penta.46a8573433a7ddec1f7e7c1bccb4d5ac.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/secura_penta.46a8573433a7ddec1f7e7c1bccb4d5ac.128x128.png",
+      "zh-hans": "items/images/en/thumbs/secura_penta.46a8573433a7ddec1f7e7c1bccb4d5ac.128x128.png"
+    }
+  },
+  {
+    "id": "5800c6c9c021d9dc0a9f8915",
+    "slug": "cephalon_suda_augment_mod",
+    "gameRef": "",
+    "tags": [
+      "syndicate",
+      "mod",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cephalon Suda Augment Mod",
+      "zh-hans": "中枢苏达强化Mod"
+    },
+    "icons": {
+      "en": "items/images/en/cephalon_suda_augment_mod.bf6cb888dd01ef5c15e00dde4253bff7.webp",
+      "zh-hans": "items/images/en/cephalon_suda_augment_mod.bf6cb888dd01ef5c15e00dde4253bff7.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cephalon_suda_augment_mod.bf6cb888dd01ef5c15e00dde4253bff7.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/cephalon_suda_augment_mod.bf6cb888dd01ef5c15e00dde4253bff7.128x128.webp"
+    }
+  },
+  {
+    "id": "54aae283e779897f276a5768",
+    "slug": "synoid_gammacor",
+    "gameRef": "/Lotus/Weapons/Syndicates/CephalonSuda/Pistols/CSSynoidGammacor",
+    "tags": [
+      "syndicate",
+      "weapon",
+      "secondary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Synoid Gammacor",
+      "zh-hans": "枢议·咖玛腕甲枪"
+    },
+    "icons": {
+      "en": "items/images/en/synoid_gammacor.16811422b2fab432718fd630acbf5358.png",
+      "zh-hans": "items/images/en/synoid_gammacor.16811422b2fab432718fd630acbf5358.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/synoid_gammacor.16811422b2fab432718fd630acbf5358.128x128.png",
+      "zh-hans": "items/images/en/thumbs/synoid_gammacor.16811422b2fab432718fd630acbf5358.128x128.png"
+    }
+  },
+  {
+    "id": "54aae2a0e7798911533cb007",
+    "slug": "rakta_ballistica",
+    "gameRef": "/Lotus/Weapons/Syndicates/RedVeil/Pistols/RVBallistica",
+    "tags": [
+      "syndicate",
+      "weapon",
+      "secondary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Rakta Ballistica",
+      "zh-hans": "绯红·布里斯提卡"
+    },
+    "icons": {
+      "en": "items/images/en/rakta_ballistica.2e338918b2298e17fa465e83d319cc13.png",
+      "zh-hans": "items/images/en/rakta_ballistica.2e338918b2298e17fa465e83d319cc13.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/rakta_ballistica.2e338918b2298e17fa465e83d319cc13.128x128.png",
+      "zh-hans": "items/images/en/thumbs/rakta_ballistica.2e338918b2298e17fa465e83d319cc13.128x128.png"
+    }
+  },
+  {
+    "id": "57dbdc525e334907aa8edb57",
+    "slug": "synoid_heliocor",
+    "gameRef": "/Lotus/Weapons/Syndicates/CephalonSuda/Melee/CSHeliocor",
+    "tags": [
+      "syndicate",
+      "weapon",
+      "melee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Synoid Heliocor",
+      "zh-hans": "枢议·赫利俄光锤"
+    },
+    "icons": {
+      "en": "items/images/en/synoid_heliocor.c2b16872e85db1f95ba4766f3edda84d.png",
+      "zh-hans": "items/images/en/synoid_heliocor.c2b16872e85db1f95ba4766f3edda84d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/synoid_heliocor.c2b16872e85db1f95ba4766f3edda84d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/synoid_heliocor.c2b16872e85db1f95ba4766f3edda84d.128x128.png"
+    }
+  },
+  {
+    "id": "5800c6c9c021d9dc0a9f8914",
+    "slug": "steel_meridian_augment_mod",
+    "gameRef": "",
+    "tags": [
+      "syndicate",
+      "mod",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Steel Meridian Augment Mod",
+      "zh-hans": "钢铁防线强化Mod"
+    },
+    "icons": {
+      "en": "items/images/en/steel_meridian_augment_mod.24859218a0080d6b4454c825412f0711.webp",
+      "zh-hans": "items/images/en/steel_meridian_augment_mod.24859218a0080d6b4454c825412f0711.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/steel_meridian_augment_mod.24859218a0080d6b4454c825412f0711.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/steel_meridian_augment_mod.24859218a0080d6b4454c825412f0711.128x128.webp"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515645",
+    "slug": "blade_of_truth",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/JawSwordMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "melee",
+      "rare",
+      "jaw_sword"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Blade Of Truth",
+      "zh-hans": "真相之刃"
+    },
+    "icons": {
+      "en": "items/images/en/blade_of_truth.53d68caa8f7ae06642b2ed1fd8f3b6cd.png",
+      "zh-hans": "items/images/en/blade_of_truth.53d68caa8f7ae06642b2ed1fd8f3b6cd.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/blade_of_truth.53d68caa8f7ae06642b2ed1fd8f3b6cd.128x128.png",
+      "zh-hans": "items/images/en/thumbs/blade_of_truth.53d68caa8f7ae06642b2ed1fd8f3b6cd.128x128.png"
+    }
+  },
+  {
+    "id": "5911f11d97a0add8e9d5da50",
+    "slug": "entropy_detonation",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/ObexMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "melee",
+      "rare",
+      "obex"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Entropy Detonation",
+      "zh-hans": "熵数起爆"
+    },
+    "icons": {
+      "en": "items/images/en/entropy_detonation.2330a8de6cb887513a92da41f5ea4708.png",
+      "zh-hans": "items/images/en/entropy_detonation.2330a8de6cb887513a92da41f5ea4708.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/entropy_detonation.2330a8de6cb887513a92da41f5ea4708.128x128.png",
+      "zh-hans": "items/images/en/thumbs/entropy_detonation.2330a8de6cb887513a92da41f5ea4708.128x128.png"
+    }
+  },
+  {
+    "id": "57dbdc525e334907aa8edb55",
+    "slug": "vaykor_sydon",
+    "gameRef": "/Lotus/Weapons/Syndicates/SteelMeridian/Melee/SMSydon",
+    "tags": [
+      "syndicate",
+      "weapon",
+      "melee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Vaykor Sydon",
+      "zh-hans": "勇气·恶龙"
+    },
+    "icons": {
+      "en": "items/images/en/vaykor_sydon.d83d27c1e7742988b0d4aeb9c39985bd.png",
+      "zh-hans": "items/images/en/vaykor_sydon.d83d27c1e7742988b0d4aeb9c39985bd.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vaykor_sydon.d83d27c1e7742988b0d4aeb9c39985bd.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vaykor_sydon.d83d27c1e7742988b0d4aeb9c39985bd.128x128.png"
+    }
+  },
+  {
+    "id": "5911f11d97a0add8e9d5da4d",
+    "slug": "neutralizing_justice",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/MiterMod",
+    "tags": [
+      "syndicate",
+      "miter",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Neutralizing Justice",
+      "zh-hans": "抵消正义"
+    },
+    "icons": {
+      "en": "items/images/en/neutralizing_justice.07728fc8496c758312e086bb788ad1ea.png",
+      "zh-hans": "items/images/en/neutralizing_justice.07728fc8496c758312e086bb788ad1ea.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/neutralizing_justice.07728fc8496c758312e086bb788ad1ea.128x128.png",
+      "zh-hans": "items/images/en/thumbs/neutralizing_justice.07728fc8496c758312e086bb788ad1ea.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515664",
+    "slug": "gilded_truth",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/BurstonPrimeMod",
+    "tags": [
+      "syndicate",
+      "burston_prime",
+      "mod",
+      "rare",
+      "primary",
+      "prime"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Gilded Truth",
+      "zh-hans": "镀金真相"
+    },
+    "icons": {
+      "en": "items/images/en/gilded_truth.4f864f82b65bf77a28c01419c6cbfce1.png",
+      "zh-hans": "items/images/en/gilded_truth.4f864f82b65bf77a28c01419c6cbfce1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gilded_truth.4f864f82b65bf77a28c01419c6cbfce1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gilded_truth.4f864f82b65bf77a28c01419c6cbfce1.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e51568a",
+    "slug": "bright_purity",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/SkanaMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "melee",
+      "rare",
+      "skana"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Bright Purity",
+      "zh-hans": "光明纯净"
+    },
+    "icons": {
+      "en": "items/images/en/bright_purity.3efd8f002eda7453eaa2672792b613fc.png",
+      "zh-hans": "items/images/en/bright_purity.3efd8f002eda7453eaa2672792b613fc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/bright_purity.3efd8f002eda7453eaa2672792b613fc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/bright_purity.3efd8f002eda7453eaa2672792b613fc.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155e3",
+    "slug": "toxic_sequence",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/AcridMod",
+    "tags": [
+      "syndicate",
+      "secondary",
+      "mod",
+      "rare",
+      "acrid"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Toxic Sequence",
+      "zh-hans": "毒素数列"
+    },
+    "icons": {
+      "en": "items/images/en/toxic_sequence.bab0370da343ca58b4b92fca65b1da6a.png",
+      "zh-hans": "items/images/en/toxic_sequence.bab0370da343ca58b4b92fca65b1da6a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/toxic_sequence.bab0370da343ca58b4b92fca65b1da6a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/toxic_sequence.bab0370da343ca58b4b92fca65b1da6a.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156d2",
+    "slug": "stinging_truth",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/ViperMod",
+    "tags": [
+      "syndicate",
+      "secondary",
+      "mod",
+      "rare",
+      "viper"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Stinging Truth",
+      "zh-hans": "过激真相"
+    },
+    "icons": {
+      "en": "items/images/en/stinging_truth.90e5015f6f6f08638553b8f73b857b49.png",
+      "zh-hans": "items/images/en/stinging_truth.90e5015f6f6f08638553b8f73b857b49.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/stinging_truth.90e5015f6f6f08638553b8f73b857b49.128x128.png",
+      "zh-hans": "items/images/en/thumbs/stinging_truth.90e5015f6f6f08638553b8f73b857b49.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515666",
+    "slug": "deadly_sequence",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/GrinlokMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "grinlok",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Deadly Sequence",
+      "zh-hans": "致命数列"
+    },
+    "icons": {
+      "en": "items/images/en/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.png",
+      "zh-hans": "items/images/en/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.128x128.png",
+      "zh-hans": "items/images/en/thumbs/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155f5",
+    "slug": "scattered_justice",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/HekMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "rare",
+      "primary",
+      "hek"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Scattered Justice",
+      "zh-hans": "散射正义"
+    },
+    "icons": {
+      "en": "items/images/en/scattered_justice.b46113ecdbc04d327240cedec0e3b1f1.png",
+      "zh-hans": "items/images/en/scattered_justice.b46113ecdbc04d327240cedec0e3b1f1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/scattered_justice.b46113ecdbc04d327240cedec0e3b1f1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/scattered_justice.b46113ecdbc04d327240cedec0e3b1f1.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155bb",
+    "slug": "toxic_blight",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/MireMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "melee",
+      "rare",
+      "mire"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Toxic Blight",
+      "zh-hans": "毁坏毒素"
+    },
+    "icons": {
+      "en": "items/images/en/toxic_blight.2d55757c9dcf2a97b13302a7d7ae42b4.png",
+      "zh-hans": "items/images/en/toxic_blight.2d55757c9dcf2a97b13302a7d7ae42b4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/toxic_blight.2d55757c9dcf2a97b13302a7d7ae42b4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/toxic_blight.2d55757c9dcf2a97b13302a7d7ae42b4.128x128.png"
+    }
+  },
+  {
+    "id": "57dbdc525e334907aa8edb58",
+    "slug": "secura_lecta",
+    "gameRef": "/Lotus/Weapons/Syndicates/PerrinSequence/Melee/PSLecta",
+    "tags": [
+      "syndicate",
+      "weapon",
+      "melee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Secura Lecta",
+      "zh-hans": "保障·勒克塔"
+    },
+    "icons": {
+      "en": "items/images/en/secura_lecta.44e35643f0208a0aa069fe393cd2e11b.png",
+      "zh-hans": "items/images/en/secura_lecta.44e35643f0208a0aa069fe393cd2e11b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/secura_lecta.44e35643f0208a0aa069fe393cd2e11b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/secura_lecta.44e35643f0208a0aa069fe393cd2e11b.128x128.png"
+    }
+  },
+  {
+    "id": "5800c6c9c021d9dc0a9f8916",
+    "slug": "the_perrin_sequence_augment_mod",
+    "gameRef": "",
+    "tags": [
+      "syndicate",
+      "mod",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "The Perrin Sequence Augment Mod",
+      "zh-hans": "佩兰数列强化Mod"
+    },
+    "icons": {
+      "en": "items/images/en/the_perrin_sequence_augment_mod.c4b984d8cc314def94439a70bf22df7a.webp",
+      "zh-hans": "items/images/en/the_perrin_sequence_augment_mod.c4b984d8cc314def94439a70bf22df7a.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/the_perrin_sequence_augment_mod.c4b984d8cc314def94439a70bf22df7a.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/the_perrin_sequence_augment_mod.c4b984d8cc314def94439a70bf22df7a.128x128.webp"
+    }
+  },
+  {
+    "id": "5800c6c9c021d9dc0a9f8918",
+    "slug": "new_loka_augment_mod",
+    "gameRef": "",
+    "tags": [
+      "syndicate",
+      "mod",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "New Loka Augment Mod",
+      "zh-hans": "新世间强化Mod"
+    },
+    "icons": {
+      "en": "items/images/en/new_loka_augment_mod.56722614fc5920d6450d0f9b7ede42bf.webp",
+      "zh-hans": "items/images/en/new_loka_augment_mod.56722614fc5920d6450d0f9b7ede42bf.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/new_loka_augment_mod.56722614fc5920d6450d0f9b7ede42bf.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/new_loka_augment_mod.56722614fc5920d6450d0f9b7ede42bf.128x128.webp"
+    }
+  },
+  {
+    "id": "5800c6c9c021d9dc0a9f8919",
+    "slug": "arbiters_of_hexis_augment_mod",
+    "gameRef": "",
+    "tags": [
+      "syndicate",
+      "mod",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arbiters of Hexis Augment Mod",
+      "zh-hans": "均衡仲裁者强化Mod"
+    },
+    "icons": {
+      "en": "items/images/en/arbiters_of_hexis_augment_mod.045733f67826c2efe957b7454f169c23.webp",
+      "zh-hans": "items/images/en/arbiters_of_hexis_augment_mod.045733f67826c2efe957b7454f169c23.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arbiters_of_hexis_augment_mod.045733f67826c2efe957b7454f169c23.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/arbiters_of_hexis_augment_mod.045733f67826c2efe957b7454f169c23.128x128.webp"
+    }
+  },
+  {
+    "id": "57dbdc525e334907aa8edb59",
+    "slug": "rakta_dark_dagger",
+    "gameRef": "/Lotus/Weapons/Syndicates/RedVeil/Melee/RVDarkDagger",
+    "tags": [
+      "syndicate",
+      "weapon",
+      "melee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Rakta Dark Dagger",
+      "zh-hans": "绯红·暗黑匕首"
+    },
+    "icons": {
+      "en": "items/images/en/rakta_dark_dagger.c59954c3d3a9a925e98caee4ac7d20af.png",
+      "zh-hans": "items/images/en/rakta_dark_dagger.c59954c3d3a9a925e98caee4ac7d20af.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/rakta_dark_dagger.c59954c3d3a9a925e98caee4ac7d20af.128x128.png",
+      "zh-hans": "items/images/en/thumbs/rakta_dark_dagger.c59954c3d3a9a925e98caee4ac7d20af.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e515699",
+    "slug": "sequence_burn",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/SpectraMod",
+    "tags": [
+      "syndicate",
+      "secondary",
+      "mod",
+      "rare",
+      "spectra"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Sequence Burn",
+      "zh-hans": "延烧数列"
+    },
+    "icons": {
+      "en": "items/images/en/sequence_burn.e9651c33bc02879c407f18d391667aa9.png",
+      "zh-hans": "items/images/en/sequence_burn.e9651c33bc02879c407f18d391667aa9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sequence_burn.e9651c33bc02879c407f18d391667aa9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sequence_burn.e9651c33bc02879c407f18d391667aa9.128x128.png"
+    }
+  },
+  {
+    "id": "57dbdc525e334907aa8edb5a",
+    "slug": "sancti_magistar",
+    "gameRef": "/Lotus/Weapons/Syndicates/NewLoka/Melee/NLMagistar",
+    "tags": [
+      "syndicate",
+      "weapon",
+      "melee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sancti Magistar",
+      "zh-hans": "圣洁·执法者"
+    },
+    "icons": {
+      "en": "items/images/en/sancti_magistar.65c32b4c5b64ff010486af11e6c127c2.png",
+      "zh-hans": "items/images/en/sancti_magistar.65c32b4c5b64ff010486af11e6c127c2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sancti_magistar.65c32b4c5b64ff010486af11e6c127c2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sancti_magistar.65c32b4c5b64ff010486af11e6c127c2.128x128.png"
+    }
+  },
+  {
+    "id": "54aae25de7798968b372a4e1",
+    "slug": "vaykor_marelok",
+    "gameRef": "/Lotus/Weapons/Syndicates/SteelMeridian/Pistols/SMMarelok",
+    "tags": [
+      "syndicate",
+      "weapon",
+      "secondary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Vaykor Marelok",
+      "zh-hans": "勇气·玛瑞火枪"
+    },
+    "icons": {
+      "en": "items/images/en/vaykor_marelok.592a0473da4aaf70a4864b0ca864a17f.png",
+      "zh-hans": "items/images/en/vaykor_marelok.592a0473da4aaf70a4864b0ca864a17f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vaykor_marelok.592a0473da4aaf70a4864b0ca864a17f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vaykor_marelok.592a0473da4aaf70a4864b0ca864a17f.128x128.png"
+    }
+  },
+  {
+    "id": "57dbdc525e334907aa8edb56",
+    "slug": "telos_boltace",
+    "gameRef": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Melee/AHBoltace",
+    "tags": [
+      "syndicate",
+      "weapon",
+      "melee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Telos Boltace",
+      "zh-hans": "终极·螺钉拐刃"
+    },
+    "icons": {
+      "en": "items/images/en/telos_boltace.9dc9593274da1116201b84905a53f506.png",
+      "zh-hans": "items/images/en/telos_boltace.9dc9593274da1116201b84905a53f506.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/telos_boltace.9dc9593274da1116201b84905a53f506.128x128.png",
+      "zh-hans": "items/images/en/thumbs/telos_boltace.9dc9593274da1116201b84905a53f506.128x128.png"
+    }
+  },
+  {
+    "id": "55e797c8e779892474566543",
+    "slug": "vaykor_hek",
+    "gameRef": "/Lotus/Weapons/Syndicates/SteelMeridian/LongGuns/SMHek",
+    "tags": [
+      "syndicate",
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Vaykor Hek",
+      "zh-hans": "勇气·海克"
+    },
+    "icons": {
+      "en": "items/images/en/vaykor_hek.2276a61ab8713d1b35e651db67402ca9.png",
+      "zh-hans": "items/images/en/vaykor_hek.2276a61ab8713d1b35e651db67402ca9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vaykor_hek.2276a61ab8713d1b35e651db67402ca9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vaykor_hek.2276a61ab8713d1b35e651db67402ca9.128x128.png"
+    }
+  },
+  {
+    "id": "5800c6c9c021d9dc0a9f8917",
+    "slug": "red_veil_augment_mod",
+    "gameRef": "",
+    "tags": [
+      "syndicate",
+      "mod",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Red Veil Augment Mod",
+      "zh-hans": "血色面纱强化Mod"
+    },
+    "icons": {
+      "en": "items/images/en/red_veil_augment_mod.716a6ecba2be791e9960cdd5ae73927c.webp",
+      "zh-hans": "items/images/en/red_veil_augment_mod.716a6ecba2be791e9960cdd5ae73927c.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/red_veil_augment_mod.716a6ecba2be791e9960cdd5ae73927c.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/red_veil_augment_mod.716a6ecba2be791e9960cdd5ae73927c.128x128.webp"
+    }
+  },
+  {
+    "id": "5911f11d97a0add8e9d5da4e",
+    "slug": "voltage_sequence",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/LankaMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "rare",
+      "primary",
+      "lanka"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Voltage Sequence",
+      "zh-hans": "电压数列"
+    },
+    "icons": {
+      "en": "items/images/en/voltage_sequence.65e42495eb08f41e8bbeb35b041e981a.png",
+      "zh-hans": "items/images/en/voltage_sequence.65e42495eb08f41e8bbeb35b041e981a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/voltage_sequence.65e42495eb08f41e8bbeb35b041e981a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/voltage_sequence.65e42495eb08f41e8bbeb35b041e981a.128x128.png"
+    }
+  },
+  {
+    "id": "5911f11d97a0add8e9d5da51",
+    "slug": "avenging_truth",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/SilvaAegisMod",
+    "tags": [
+      "syndicate",
+      "mod",
+      "silva_and_aegis",
+      "melee",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Avenging Truth",
+      "zh-hans": "复仇真相"
+    },
+    "icons": {
+      "en": "items/images/en/avenging_truth.78f187d18567a17c8f76d1c8cdbd5ef3.png",
+      "zh-hans": "items/images/en/avenging_truth.78f187d18567a17c8f76d1c8cdbd5ef3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/avenging_truth.78f187d18567a17c8f76d1c8cdbd5ef3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/avenging_truth.78f187d18567a17c8f76d1c8cdbd5ef3.128x128.png"
+    }
+  },
+  {
+    "id": "55e797fde7798924a5a5650a",
+    "slug": "sancti_tigris",
+    "gameRef": "/Lotus/Weapons/Syndicates/NewLoka/LongGuns/NLTigris",
+    "tags": [
+      "syndicate",
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sancti Tigris",
+      "zh-hans": "圣洁·猛虎"
+    },
+    "icons": {
+      "en": "items/images/en/sancti_tigris.fd7c28cbc2f605d4a7d23ce1319ea87e.png",
+      "zh-hans": "items/images/en/sancti_tigris.fd7c28cbc2f605d4a7d23ce1319ea87e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sancti_tigris.fd7c28cbc2f605d4a7d23ce1319ea87e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sancti_tigris.fd7c28cbc2f605d4a7d23ce1319ea87e.128x128.png"
+    }
+  },
+  {
+    "id": "55e797dde77989248e0e6d54",
+    "slug": "synoid_simulor",
+    "gameRef": "/Lotus/Weapons/Syndicates/CephalonSuda/LongGuns/CSSimulor",
+    "tags": [
+      "syndicate",
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Synoid Simulor",
+      "zh-hans": "枢议·重力奇点拟成枪"
+    },
+    "icons": {
+      "en": "items/images/en/synoid_simulor.9daa9583eb6d6d86f549933b6d0ff163.png",
+      "zh-hans": "items/images/en/synoid_simulor.9daa9583eb6d6d86f549933b6d0ff163.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/synoid_simulor.9daa9583eb6d6d86f549933b6d0ff163.128x128.png",
+      "zh-hans": "items/images/en/thumbs/synoid_simulor.9daa9583eb6d6d86f549933b6d0ff163.128x128.png"
+    }
+  },
+  {
+    "id": "55e797f3e77989249d164946",
+    "slug": "rakta_cernos",
+    "gameRef": "/Lotus/Weapons/Syndicates/RedVeil/Bows/RVCernos",
+    "tags": [
+      "syndicate",
+      "primary",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Rakta Cernos",
+      "zh-hans": "绯红·西诺斯"
+    },
+    "icons": {
+      "en": "items/images/en/rakta_cernos.3ca06a77423c5b28b8d7a9f9d860a92c.png",
+      "zh-hans": "items/images/en/rakta_cernos.3ca06a77423c5b28b8d7a9f9d860a92c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/rakta_cernos.3ca06a77423c5b28b8d7a9f9d860a92c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/rakta_cernos.3ca06a77423c5b28b8d7a9f9d860a92c.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f78479445008f27256b",
+    "slug": "new_loka_combat_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/NLCombatEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "New Loka Combat Emote",
+      "zh-hans": "新世间战斗表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/new_loka_combat_emote.e69660d40c398fa97f6436612fa2fd05.png",
+      "zh-hans": "items/images/en/new_loka_combat_emote.e69660d40c398fa97f6436612fa2fd05.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/new_loka_combat_emote.e69660d40c398fa97f6436612fa2fd05.128x128.png",
+      "zh-hans": "items/images/en/thumbs/new_loka_combat_emote.e69660d40c398fa97f6436612fa2fd05.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f78479445008f27256c",
+    "slug": "cephalon_suda_piloting_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/CSPilotingEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cephalon Suda Piloting Emote",
+      "zh-hans": "中枢苏达操纵表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/cephalon_suda_piloting_emote.eb25f3771144d9f9c4d7381c8b33d386.png",
+      "zh-hans": "items/images/en/cephalon_suda_piloting_emote.eb25f3771144d9f9c4d7381c8b33d386.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cephalon_suda_piloting_emote.eb25f3771144d9f9c4d7381c8b33d386.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cephalon_suda_piloting_emote.eb25f3771144d9f9c4d7381c8b33d386.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f79479445008f27256e",
+    "slug": "perrin_piloting_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/PSPilotingEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Perrin Piloting Emote",
+      "zh-hans": "佩兰数列操纵表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/perrin_piloting_emote.a099eab4723de418d41bf1db1a478d3f.png",
+      "zh-hans": "items/images/en/perrin_piloting_emote.a099eab4723de418d41bf1db1a478d3f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/perrin_piloting_emote.a099eab4723de418d41bf1db1a478d3f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/perrin_piloting_emote.a099eab4723de418d41bf1db1a478d3f.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f79479445008f272570",
+    "slug": "arbiters_piloting_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/AHPilotingEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arbiters Piloting Emote",
+      "zh-hans": "均衡仲裁者操纵表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/arbiters_piloting_emote.d63ff0680b57af6c8cfb21d699374b9f.png",
+      "zh-hans": "items/images/en/arbiters_piloting_emote.d63ff0680b57af6c8cfb21d699374b9f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arbiters_piloting_emote.d63ff0680b57af6c8cfb21d699374b9f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arbiters_piloting_emote.d63ff0680b57af6c8cfb21d699374b9f.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7a479445008f272577",
+    "slug": "cephalon_suda_gunnery_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/CSGunneryEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cephalon Suda Gunnery Emote",
+      "zh-hans": "中枢苏达枪炮表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/cephalon_suda_gunnery_emote.6f2addd04f36d411e4eb9ced2a22f10e.png",
+      "zh-hans": "items/images/en/cephalon_suda_gunnery_emote.6f2addd04f36d411e4eb9ced2a22f10e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cephalon_suda_gunnery_emote.6f2addd04f36d411e4eb9ced2a22f10e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cephalon_suda_gunnery_emote.6f2addd04f36d411e4eb9ced2a22f10e.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7a479445008f27257a",
+    "slug": "arbiters_combat_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/AHCombatEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arbiters Combat Emote",
+      "zh-hans": "均衡仲裁者战斗表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/arbiters_combat_emote.4c3ad2b674ec8aaac8aff78b4c238a19.png",
+      "zh-hans": "items/images/en/arbiters_combat_emote.4c3ad2b674ec8aaac8aff78b4c238a19.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arbiters_combat_emote.4c3ad2b674ec8aaac8aff78b4c238a19.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arbiters_combat_emote.4c3ad2b674ec8aaac8aff78b4c238a19.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7a479445008f27257b",
+    "slug": "steel_meridian_combat_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/SMCombatEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Steel Meridian Combat Emote",
+      "zh-hans": "钢铁防线战斗表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/steel_meridian_combat_emote.96715bf1a467fae9a0173adf2dca39f0.png",
+      "zh-hans": "items/images/en/steel_meridian_combat_emote.96715bf1a467fae9a0173adf2dca39f0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/steel_meridian_combat_emote.96715bf1a467fae9a0173adf2dca39f0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/steel_meridian_combat_emote.96715bf1a467fae9a0173adf2dca39f0.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7a479445008f27257c",
+    "slug": "steel_meridian_piloting_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/SMPilotingEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Steel Meridian Piloting Emote",
+      "zh-hans": "钢铁防线操纵表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/steel_meridian_piloting_emote.e044b94c8dac6e9e34e464bf3ec2de07.png",
+      "zh-hans": "items/images/en/steel_meridian_piloting_emote.e044b94c8dac6e9e34e464bf3ec2de07.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/steel_meridian_piloting_emote.e044b94c8dac6e9e34e464bf3ec2de07.128x128.png",
+      "zh-hans": "items/images/en/thumbs/steel_meridian_piloting_emote.e044b94c8dac6e9e34e464bf3ec2de07.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7b479445008f272580",
+    "slug": "steel_meridian_endurance_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/SMSurvivabilityEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Steel Meridian Endurance Emote",
+      "zh-hans": "钢铁防线耐力表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/steel_meridian_endurance_emote.741528d08c2c142e4761b97fa57daa5e.png",
+      "zh-hans": "items/images/en/steel_meridian_endurance_emote.741528d08c2c142e4761b97fa57daa5e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/steel_meridian_endurance_emote.741528d08c2c142e4761b97fa57daa5e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/steel_meridian_endurance_emote.741528d08c2c142e4761b97fa57daa5e.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7b479445008f272583",
+    "slug": "cephalon_suda_endurance_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/CSSurvivabilityEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cephalon Suda Endurance Emote",
+      "zh-hans": "中枢苏达耐力表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/cephalon_suda_endurance_emote.f9853af4ccec89cdc35e4f18a442e24e.png",
+      "zh-hans": "items/images/en/cephalon_suda_endurance_emote.f9853af4ccec89cdc35e4f18a442e24e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cephalon_suda_endurance_emote.f9853af4ccec89cdc35e4f18a442e24e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cephalon_suda_endurance_emote.f9853af4ccec89cdc35e4f18a442e24e.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7d479445008f272589",
+    "slug": "perrin_endurance_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/PSSurvivabilityEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Perrin Endurance Emote",
+      "zh-hans": "佩兰数列耐力表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/perrin_endurance_emote.3fc9dfb6f03017ca6070fef94518ecb4.png",
+      "zh-hans": "items/images/en/perrin_endurance_emote.3fc9dfb6f03017ca6070fef94518ecb4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/perrin_endurance_emote.3fc9dfb6f03017ca6070fef94518ecb4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/perrin_endurance_emote.3fc9dfb6f03017ca6070fef94518ecb4.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7d479445008f27258d",
+    "slug": "red_veil_engineering_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/RVEngineeringEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Red Veil Engineering Emote",
+      "zh-hans": "血色面纱工程表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/red_veil_engineering_emote.5a55c653dbb51c6aab0e26bb5bd4d862.png",
+      "zh-hans": "items/images/en/red_veil_engineering_emote.5a55c653dbb51c6aab0e26bb5bd4d862.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/red_veil_engineering_emote.5a55c653dbb51c6aab0e26bb5bd4d862.128x128.png",
+      "zh-hans": "items/images/en/thumbs/red_veil_engineering_emote.5a55c653dbb51c6aab0e26bb5bd4d862.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7d479445008f27258e",
+    "slug": "new_loka_engineering_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/NLEngineeringEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "New Loka Engineering Emote",
+      "zh-hans": "新世间工程表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/new_loka_engineering_emote.fb5ce487aa7da897b62301112e288f1c.png",
+      "zh-hans": "items/images/en/new_loka_engineering_emote.fb5ce487aa7da897b62301112e288f1c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/new_loka_engineering_emote.fb5ce487aa7da897b62301112e288f1c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/new_loka_engineering_emote.fb5ce487aa7da897b62301112e288f1c.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7e479445008f272591",
+    "slug": "new_loka_piloting_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/NLPilotingEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "New Loka Piloting Emote",
+      "zh-hans": "新世间操纵表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/new_loka_piloting_emote.ab06959ebfdb4b68477380418d2322e0.png",
+      "zh-hans": "items/images/en/new_loka_piloting_emote.ab06959ebfdb4b68477380418d2322e0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/new_loka_piloting_emote.ab06959ebfdb4b68477380418d2322e0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/new_loka_piloting_emote.ab06959ebfdb4b68477380418d2322e0.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7e479445008f272593",
+    "slug": "arbiters_engineering_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/AHEngineeringEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arbiters Engineering Emote",
+      "zh-hans": "均衡仲裁者工程表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/arbiters_engineering_emote.03f12e3b2ced32fef8293e5af0b1422b.png",
+      "zh-hans": "items/images/en/arbiters_engineering_emote.03f12e3b2ced32fef8293e5af0b1422b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arbiters_engineering_emote.03f12e3b2ced32fef8293e5af0b1422b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arbiters_engineering_emote.03f12e3b2ced32fef8293e5af0b1422b.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7e479445008f272598",
+    "slug": "cephalon_suda_engineering_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/CSEngineeringEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cephalon Suda Engineering Emote",
+      "zh-hans": "中枢苏达工程表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/cephalon_suda_engineering_emote.411720fbb47cd60a3633ccb2c61c2a88.png",
+      "zh-hans": "items/images/en/cephalon_suda_engineering_emote.411720fbb47cd60a3633ccb2c61c2a88.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cephalon_suda_engineering_emote.411720fbb47cd60a3633ccb2c61c2a88.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cephalon_suda_engineering_emote.411720fbb47cd60a3633ccb2c61c2a88.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7f479445008f27259a",
+    "slug": "arbiters_gunnery_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/AHGunneryEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arbiters Gunnery Emote",
+      "zh-hans": "均衡仲裁者枪炮表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/arbiters_gunnery_emote.d7aa8c3e9b7bc58ef19bbbb26360a42c.png",
+      "zh-hans": "items/images/en/arbiters_gunnery_emote.d7aa8c3e9b7bc58ef19bbbb26360a42c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arbiters_gunnery_emote.d7aa8c3e9b7bc58ef19bbbb26360a42c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arbiters_gunnery_emote.d7aa8c3e9b7bc58ef19bbbb26360a42c.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7f479445008f27259b",
+    "slug": "new_loka_endurance_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/NLSurvivabilityEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "New Loka Endurance Emote",
+      "zh-hans": "新世间耐力表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/new_loka_endurance_emote.5981303031cf8b2bcd19ffbd7faf85e6.png",
+      "zh-hans": "items/images/en/new_loka_endurance_emote.5981303031cf8b2bcd19ffbd7faf85e6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/new_loka_endurance_emote.5981303031cf8b2bcd19ffbd7faf85e6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/new_loka_endurance_emote.5981303031cf8b2bcd19ffbd7faf85e6.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7f479445008f27259c",
+    "slug": "arbiters_endurance_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/AHSurvivabilityEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arbiters Endurance Emote",
+      "zh-hans": "均衡仲裁者耐力表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/arbiters_endurance_emote.d2de419a9966c40ed2184371897351f8.png",
+      "zh-hans": "items/images/en/arbiters_endurance_emote.d2de419a9966c40ed2184371897351f8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arbiters_endurance_emote.d2de419a9966c40ed2184371897351f8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arbiters_endurance_emote.d2de419a9966c40ed2184371897351f8.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7f479445008f27259e",
+    "slug": "steel_meridian_gunnery_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/SMGunneryEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Steel Meridian Gunnery Emote",
+      "zh-hans": "钢铁防线枪炮表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/steel_meridian_gunnery_emote.7aaec34224506d2d8ac21c3dbcabfd83.png",
+      "zh-hans": "items/images/en/steel_meridian_gunnery_emote.7aaec34224506d2d8ac21c3dbcabfd83.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/steel_meridian_gunnery_emote.7aaec34224506d2d8ac21c3dbcabfd83.128x128.png",
+      "zh-hans": "items/images/en/thumbs/steel_meridian_gunnery_emote.7aaec34224506d2d8ac21c3dbcabfd83.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f80479445008f2725a2",
+    "slug": "cephalon_suda_combat_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/CSCombatEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cephalon Suda Combat Emote",
+      "zh-hans": "中枢苏达战斗表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/cephalon_suda_combat_emote.4bed116939895f9f358ef31d5f45f646.png",
+      "zh-hans": "items/images/en/cephalon_suda_combat_emote.4bed116939895f9f358ef31d5f45f646.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cephalon_suda_combat_emote.4bed116939895f9f358ef31d5f45f646.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cephalon_suda_combat_emote.4bed116939895f9f358ef31d5f45f646.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f80479445008f2725a3",
+    "slug": "red_veil_piloting_emote",
+    "gameRef": "/Lotus/Types/Items/Emotes/Syndicate/RVPilotingEmote",
+    "tags": [
+      "syndicate",
+      "emote"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Red Veil Piloting Emote",
+      "zh-hans": "血色面纱操纵表情动作"
+    },
+    "icons": {
+      "en": "items/images/en/red_veil_piloting_emote.910324ce7dfef7ec73e66d023d3397d6.png",
+      "zh-hans": "items/images/en/red_veil_piloting_emote.910324ce7dfef7ec73e66d023d3397d6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/red_veil_piloting_emote.910324ce7dfef7ec73e66d023d3397d6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/red_veil_piloting_emote.910324ce7dfef7ec73e66d023d3397d6.128x128.png"
+    }
+  }
+]

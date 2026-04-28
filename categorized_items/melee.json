@@ -1,0 +1,633 @@
+[
+  {
+    "id": "5c7849e22cc6ce090383e267",
+    "slug": "wolf_sledge_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/Hammer/ThrowingHammer",
+    "tags": [
+      "melee",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Wolf Sledge Set",
+      "zh-hans": "恶狼战锤 一套"
+    },
+    "icons": {
+      "en": "items/images/en/wolf_sledge_set.6b288aa755e84f886faa90486ed17d37.png",
+      "zh-hans": "items/images/en/wolf_sledge_set.6b288aa755e84f886faa90486ed17d37.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/wolf_sledge_set.6b288aa755e84f886faa90486ed17d37.128x128.png",
+      "zh-hans": "items/images/en/thumbs/wolf_sledge_set.6b288aa755e84f886faa90486ed17d37.128x128.png"
+    }
+  },
+  {
+    "id": "582b0eb80af25410a4931616",
+    "slug": "broken_war_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/Swords/StalkerTwo/StalkerTwoSmallSword",
+    "tags": [
+      "melee",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Broken War Set",
+      "zh-hans": "破碎的战争之剑 一套"
+    },
+    "icons": {
+      "en": "items/images/en/broken_war_set.a42d7af24d80abea602d631293f89b13.png",
+      "zh-hans": "items/images/en/broken_war_set.a42d7af24d80abea602d631293f89b13.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/broken_war_set.a42d7af24d80abea602d631293f89b13.128x128.png",
+      "zh-hans": "items/images/en/thumbs/broken_war_set.a42d7af24d80abea602d631293f89b13.128x128.png"
+    }
+  },
+  {
+    "id": "56dac5645cc639de0a45c51a",
+    "slug": "sheev_set",
+    "gameRef": "/Lotus/Weapons/Grineer/Melee/GrineerCombatKnife/GrineerCombatKnife",
+    "tags": [
+      "melee",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sheev Set",
+      "zh-hans": "希芙 一套"
+    },
+    "icons": {
+      "en": "items/images/en/sheev_set.96c63b432f3d71f2bf5918e9f8d721fa.png",
+      "zh-hans": "items/images/en/sheev_set.96c63b432f3d71f2bf5918e9f8d721fa.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sheev_set.96c63b432f3d71f2bf5918e9f8d721fa.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sheev_set.96c63b432f3d71f2bf5918e9f8d721fa.128x128.png"
+    }
+  },
+  {
+    "id": "5fb84768c34da3004797d545",
+    "slug": "arum_spinosa_set",
+    "gameRef": "/Lotus/Weapons/Infested/Melee/InfWarfan/InfWarfanWeapon",
+    "tags": [
+      "melee",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Arum Spinosa Set",
+      "zh-hans": "疆南星刺 一套"
+    },
+    "icons": {
+      "en": "items/images/en/arum_spinosa_set.a676e9febc397c744ba0f3d4f13b891f.png",
+      "zh-hans": "items/images/en/arum_spinosa_set.a676e9febc397c744ba0f3d4f13b891f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arum_spinosa_set.a676e9febc397c744ba0f3d4f13b891f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arum_spinosa_set.a676e9febc397c744ba0f3d4f13b891f.128x128.png"
+    }
+  },
+  {
+    "id": "6070924a84a7d7024402d51e",
+    "slug": "halikar_wraith",
+    "gameRef": "/Lotus/Weapons/Grineer/Melee/GrnBoomerang/HalikarWraithWeapon",
+    "tags": [
+      "melee",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Halikar Wraith",
+      "zh-hans": "哈利卡·亡魂"
+    },
+    "icons": {
+      "en": "items/images/en/halikar_wraith.8bb2ffb98fe8bc6b152413dd77e2e6ce.png",
+      "zh-hans": "items/images/en/halikar_wraith.8bb2ffb98fe8bc6b152413dd77e2e6ce.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/halikar_wraith.8bb2ffb98fe8bc6b152413dd77e2e6ce.128x128.png",
+      "zh-hans": "items/images/en/thumbs/halikar_wraith.8bb2ffb98fe8bc6b152413dd77e2e6ce.128x128.png"
+    }
+  },
+  {
+    "id": "60df11f0169993009bbb0d11",
+    "slug": "prisma_machete",
+    "gameRef": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/PrismaMachete",
+    "tags": [
+      "melee",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Prisma Machete",
+      "zh-hans": "棱晶·马谢特砍刀"
+    },
+    "icons": {
+      "en": "items/images/en/prisma_machete.077ffe0833496d83db56de828d5b45ec.png",
+      "zh-hans": "items/images/en/prisma_machete.077ffe0833496d83db56de828d5b45ec.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/prisma_machete.077ffe0833496d83db56de828d5b45ec.128x128.png",
+      "zh-hans": "items/images/en/thumbs/prisma_machete.077ffe0833496d83db56de828d5b45ec.128x128.png"
+    }
+  },
+  {
+    "id": "61460dcde330e600455dcea3",
+    "slug": "ghoulsaw_set",
+    "gameRef": "/Lotus/Weapons/Grineer/Melee/GrnGhoulSaw/GrnGhoulSawPlayer",
+    "tags": [
+      "melee",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "blueprint",
+      "crafted"
+    ],
+    "names": {
+      "en": "Ghoulsaw Set",
+      "zh-hans": "尸鬼电锯 一套"
+    },
+    "icons": {
+      "en": "items/images/en/ghoulsaw_set.f9a355d3f35098841d346d536abd801c.png",
+      "zh-hans": "items/images/en/ghoulsaw_set.f9a355d3f35098841d346d536abd801c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ghoulsaw_set.f9a355d3f35098841d346d536abd801c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ghoulsaw_set.f9a355d3f35098841d346d536abd801c.128x128.png"
+    }
+  },
+  {
+    "id": "61460dcde330e600455dcea5",
+    "slug": "ghoulsaw_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/GrnGhoulSawBlueprint",
+    "tags": [
+      "melee",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ghoulsaw Blueprint",
+      "zh-hans": "尸鬼电锯 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/ghoulsaw_blueprint.f9a355d3f35098841d346d536abd801c.png",
+      "zh-hans": "items/images/en/ghoulsaw_blueprint.f9a355d3f35098841d346d536abd801c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ghoulsaw_blueprint.f9a355d3f35098841d346d536abd801c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ghoulsaw_blueprint.f9a355d3f35098841d346d536abd801c.128x128.png"
+    }
+  },
+  {
+    "id": "6169ab3bc02a2f0045919275",
+    "slug": "vastilok",
+    "gameRef": "/Lotus/Weapons/Grineer/Melee/GunBlade/GrnGunBlade/GrnGunblade",
+    "tags": [
+      "melee",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Vastilok",
+      "zh-hans": "瓦斯提枪刃"
+    },
+    "icons": {
+      "en": "items/images/en/vastilok.0d6a0cdb886e051eab8f6b4e26df3e99.png",
+      "zh-hans": "items/images/en/vastilok.0d6a0cdb886e051eab8f6b4e26df3e99.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vastilok.0d6a0cdb886e051eab8f6b4e26df3e99.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vastilok.0d6a0cdb886e051eab8f6b4e26df3e99.128x128.png"
+    }
+  },
+  {
+    "id": "626ca573f40db600829c9d0c",
+    "slug": "praedos_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/Evolving/ZarimanTonfaWeaponBlueprint",
+    "tags": [
+      "melee",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Praedos Blueprint",
+      "zh-hans": "双雄 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/praedos_blueprint.e1da5767a0e93a169cc678f1a8bff20f.png",
+      "zh-hans": "items/images/en/praedos_blueprint.e1da5767a0e93a169cc678f1a8bff20f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/praedos_blueprint.e1da5767a0e93a169cc678f1a8bff20f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/praedos_blueprint.e1da5767a0e93a169cc678f1a8bff20f.128x128.png"
+    }
+  },
+  {
+    "id": "626ca573f40db600829c9d0f",
+    "slug": "hespar_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/HeavyScythe/DuviriScythe/DuviriHeavyScytheWeapon",
+    "tags": [
+      "melee",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hespar Set",
+      "zh-hans": "暮斩 一套"
+    },
+    "icons": {
+      "en": "items/images/en/hespar_set.58bd4fbd6ed4930402342b2662d68ac4.png",
+      "zh-hans": "items/images/en/hespar_set.58bd4fbd6ed4930402342b2662d68ac4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hespar_set.58bd4fbd6ed4930402342b2662d68ac4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hespar_set.58bd4fbd6ed4930402342b2662d68ac4.128x128.png"
+    }
+  },
+  {
+    "id": "62a2b943fbd62c0038ef9a2d",
+    "slug": "innodem_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/Evolving/ZarimanDaggerWeaponBlueprint",
+    "tags": [
+      "melee",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Innodem Blueprint",
+      "zh-hans": "清刚 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/innodem_blueprint.2a892f04f30e5f12bd5689a2fd467aeb.png",
+      "zh-hans": "items/images/en/innodem_blueprint.2a892f04f30e5f12bd5689a2fd467aeb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/innodem_blueprint.2a892f04f30e5f12bd5689a2fd467aeb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/innodem_blueprint.2a892f04f30e5f12bd5689a2fd467aeb.128x128.png"
+    }
+  },
+  {
+    "id": "633e2e6af570d10793afb818",
+    "slug": "tatsu_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/TatsuPrimeBlueprint",
+    "tags": [
+      "melee",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Tatsu Prime Blueprint",
+      "zh-hans": "龙辰 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/tatsu_prime_blueprint.d517fb4c89ed6076ddf26ffdb8efb88e.png",
+      "zh-hans": "items/images/en/tatsu_prime_blueprint.d517fb4c89ed6076ddf26ffdb8efb88e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tatsu_prime_blueprint.d517fb4c89ed6076ddf26ffdb8efb88e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tatsu_prime_blueprint.d517fb4c89ed6076ddf26ffdb8efb88e.128x128.png"
+    }
+  },
+  {
+    "id": "636d085bd6e304004d0be569",
+    "slug": "vericres",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/Warfan/TnMoonWarfan/MoonWarfanWeapon",
+    "tags": [
+      "melee",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Vericres",
+      "zh-hans": "真月武扇"
+    },
+    "icons": {
+      "en": "items/images/en/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.png",
+      "zh-hans": "items/images/en/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.128x128.png"
+    }
+  },
+  {
+    "id": "63886517e7c988007b5bd514",
+    "slug": "sarofang_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/Axe/WolfFrameAxeWeapon",
+    "tags": [
+      "melee",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sarofang Set",
+      "zh-hans": "沙罗之牙 一套"
+    },
+    "icons": {
+      "en": "items/images/en/sarofang_set.b9dddab4cdb3312fa7a7bf8c78d82246.png",
+      "zh-hans": "items/images/en/sarofang_set.b9dddab4cdb3312fa7a7bf8c78d82246.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sarofang_set.b9dddab4cdb3312fa7a7bf8c78d82246.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sarofang_set.b9dddab4cdb3312fa7a7bf8c78d82246.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1466456704eba6ba2e",
+    "slug": "gunsen_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/GunsenPrimeBlueprint",
+    "tags": [
+      "melee",
+      "prime",
+      "weapon",
+      "blueprint"
+    ],
+    "ducats": 15,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gunsen Prime Blueprint",
+      "zh-hans": "军扇 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/gunsen_prime_blueprint.a344dbe97a8e1968c9f04f1f21145edf.png",
+      "zh-hans": "items/images/en/gunsen_prime_blueprint.a344dbe97a8e1968c9f04f1f21145edf.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gunsen_prime_blueprint.a344dbe97a8e1968c9f04f1f21145edf.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gunsen_prime_blueprint.a344dbe97a8e1968c9f04f1f21145edf.128x128.png"
+    }
+  },
+  {
+    "id": "64c2aa1466456704eba6ba2f",
+    "slug": "gunsen_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/Warfan/PrimeGunsen/PrimeGunsenWeapon",
+    "tags": [
+      "melee",
+      "prime",
+      "weapon",
+      "set"
+    ],
+    "ducats": 305,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Gunsen Prime Set",
+      "zh-hans": "军扇 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/gunsen_prime_set.a344dbe97a8e1968c9f04f1f21145edf.png",
+      "zh-hans": "items/images/en/gunsen_prime_set.a344dbe97a8e1968c9f04f1f21145edf.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/gunsen_prime_set.a344dbe97a8e1968c9f04f1f21145edf.128x128.png",
+      "zh-hans": "items/images/en/thumbs/gunsen_prime_set.a344dbe97a8e1968c9f04f1f21145edf.128x128.png"
+    }
+  },
+  {
+    "id": "64df999889997a0052defcb1",
+    "slug": "prisma_ohma",
+    "gameRef": "/Lotus/Weapons/Corpus/Melee/CrpTonfa/CrpPrismaTonfa",
+    "tags": [
+      "melee",
+      "weapon"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Prisma Ohma",
+      "zh-hans": "棱晶·欧玛"
+    },
+    "icons": {
+      "en": "items/images/en/prisma_ohma.05f66ed2cfd4c0c6dfdb19ec4498cf54.png",
+      "zh-hans": "items/images/en/prisma_ohma.05f66ed2cfd4c0c6dfdb19ec4498cf54.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/prisma_ohma.05f66ed2cfd4c0c6dfdb19ec4498cf54.128x128.png",
+      "zh-hans": "items/images/en/thumbs/prisma_ohma.05f66ed2cfd4c0c6dfdb19ec4498cf54.128x128.png"
+    }
+  },
+  {
+    "id": "673516dddb3ac2cfade14a7c",
+    "slug": "quassus_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/Warfan/PrimeQuassus/PrimeQuassusWeapon",
+    "tags": [
+      "melee",
+      "weapon",
+      "prime",
+      "set"
+    ],
+    "ducats": 275,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Quassus Prime Set",
+      "zh-hans": "威震武扇 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp",
+      "zh-hans": "items/images/en/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/quassus_prime.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+    }
+  },
+  {
+    "id": "673516dedb3ac2cfade14a7d",
+    "slug": "quassus_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/QuassusPrimeBlueprint",
+    "tags": [
+      "melee",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Quassus Prime Blueprint",
+      "zh-hans": "威震武扇 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/quassus_prime_blueprint.e2d3b6fc89126a4d513be40752388c0e.webp",
+      "zh-hans": "items/images/en/quassus_prime_blueprint.e2d3b6fc89126a4d513be40752388c0e.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/quassus_prime_blueprint.e2d3b6fc89126a4d513be40752388c0e.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/quassus_prime_blueprint.e2d3b6fc89126a4d513be40752388c0e.128x128.webp"
+    }
+  },
+  {
+    "id": "67acd912125398d92c8bb4e5",
+    "slug": "dual_zoren_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/Axe/PrimeZoren/PrimeZorenAxeWeapon",
+    "tags": [
+      "melee",
+      "weapon",
+      "prime",
+      "set"
+    ],
+    "ducats": 275,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Dual Zoren Prime Set",
+      "zh-hans": "佐伦双斧 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/dual_zoren_prime_set.d98ec2f1e8178524255002d3f248089f.webp",
+      "zh-hans": "items/images/en/dual_zoren_prime_set.d98ec2f1e8178524255002d3f248089f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/dual_zoren_prime_set.d98ec2f1e8178524255002d3f248089f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/dual_zoren_prime_set.d98ec2f1e8178524255002d3f248089f.128x128.webp"
+    }
+  },
+  {
+    "id": "67acd913125398d92c8bb4e6",
+    "slug": "dual_zoren_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/DualZorenPrimeBlueprint",
+    "tags": [
+      "melee",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Dual Zoren Prime Blueprint",
+      "zh-hans": "佐伦双斧 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/dual_zoren_prime_blueprint.d98ec2f1e8178524255002d3f248089f.webp",
+      "zh-hans": "items/images/en/dual_zoren_prime_blueprint.d98ec2f1e8178524255002d3f248089f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/dual_zoren_prime_blueprint.d98ec2f1e8178524255002d3f248089f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/dual_zoren_prime_blueprint.d98ec2f1e8178524255002d3f248089f.128x128.webp"
+    }
+  },
+  {
+    "id": "69d6774fb3984cc97e241758",
+    "slug": "sarofang_prime_set",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/Axe/PrimeVorunaAxeWeapon",
+    "tags": [
+      "melee",
+      "weapon",
+      "prime",
+      "set"
+    ],
+    "ducats": 160,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sarofang Prime Set",
+      "zh-hans": "沙罗之牙 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/sarofang_prime_set.fbbab9117b49d01d099fd937219c9749.webp",
+      "zh-hans": "items/images/en/sarofang_prime_set.fbbab9117b49d01d099fd937219c9749.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sarofang_prime_set.fbbab9117b49d01d099fd937219c9749.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/sarofang_prime_set.fbbab9117b49d01d099fd937219c9749.128x128.webp"
+    }
+  },
+  {
+    "id": "69d67750b3984cc97e241759",
+    "slug": "sarofang_prime_blueprint",
+    "gameRef": "/Lotus/Types/Recipes/Weapons/SarofangPrimeBlueprint",
+    "tags": [
+      "melee",
+      "weapon",
+      "prime",
+      "blueprint"
+    ],
+    "ducats": 45,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sarofang Prime Blueprint",
+      "zh-hans": "沙罗之牙 Prime 蓝图"
+    },
+    "icons": {
+      "en": "items/images/en/sarofang_prime_blueprint.fbbab9117b49d01d099fd937219c9749.webp",
+      "zh-hans": "items/images/en/sarofang_prime_blueprint.fbbab9117b49d01d099fd937219c9749.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sarofang_prime_blueprint.fbbab9117b49d01d099fd937219c9749.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/sarofang_prime_blueprint.fbbab9117b49d01d099fd937219c9749.128x128.webp"
+    }
+  }
+]

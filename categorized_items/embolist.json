@@ -1,0 +1,30 @@
+[
+  {
+    "id": "54a74454e779892d5e5155a0",
+    "slug": "eroding_blight",
+    "gameRef": "/Lotus/Upgrades/Mods/Syndicate/EmbolistMod",
+    "tags": [
+      "embolist",
+      "syndicate",
+      "secondary",
+      "mod",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Eroding Blight",
+      "zh-hans": "侵蚀毁坏"
+    },
+    "icons": {
+      "en": "items/images/en/eroding_blight.8c40cf12f0b4d2b85870306b2ba2e5cd.png",
+      "zh-hans": "items/images/en/eroding_blight.8c40cf12f0b4d2b85870306b2ba2e5cd.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/eroding_blight.8c40cf12f0b4d2b85870306b2ba2e5cd.128x128.png",
+      "zh-hans": "items/images/en/thumbs/eroding_blight.8c40cf12f0b4d2b85870306b2ba2e5cd.128x128.png"
+    }
+  }
+]

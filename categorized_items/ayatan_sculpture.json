@@ -1,0 +1,266 @@
+[
+  {
+    "id": "57e91e65c76eb74c087f492f",
+    "slug": "ayatan_orta_sculpture",
+    "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexC",
+    "tags": [
+      "ayatan_sculpture"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ayatan Orta Sculpture",
+      "zh-hans": "阿耶檀识 Orta 塑像"
+    },
+    "icons": {
+      "en": "items/images/en/ayatan_orta_sculpture.942499eea26924073ddbb60d8d3016d6.png",
+      "zh-hans": "items/images/zh-hans/ayatan_orta_sculpture.942499eea26924073ddbb60d8d3016d6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ayatan_orta_sculpture.942499eea26924073ddbb60d8d3016d6.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/ayatan_orta_sculpture.942499eea26924073ddbb60d8d3016d6.128x128.png"
+    }
+  },
+  {
+    "id": "57e91e65c76eb74c087f4930",
+    "slug": "ayatan_piv_sculpture",
+    "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexE",
+    "tags": [
+      "ayatan_sculpture"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ayatan Piv Sculpture",
+      "zh-hans": "阿耶檀识 Piv 塑像"
+    },
+    "icons": {
+      "en": "items/images/en/ayatan_piv_sculpture.4d39cbe88cfd49b7da1ea55cc18629b7.png",
+      "zh-hans": "items/images/zh-hans/ayatan_piv_sculpture.4d39cbe88cfd49b7da1ea55cc18629b7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ayatan_piv_sculpture.4d39cbe88cfd49b7da1ea55cc18629b7.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/ayatan_piv_sculpture.4d39cbe88cfd49b7da1ea55cc18629b7.128x128.png"
+    }
+  },
+  {
+    "id": "58d8f22a11efe42a5e5231fe",
+    "slug": "ayatan_valana_sculpture",
+    "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexG",
+    "tags": [
+      "ayatan_sculpture"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ayatan Valana Sculpture",
+      "zh-hans": "阿耶檀识 Valana 塑像"
+    },
+    "icons": {
+      "en": "items/images/en/ayatan_valana_sculpture.331f1ba4280627977651aa7209361033.png",
+      "zh-hans": "items/images/zh-hans/ayatan_valana_sculpture.331f1ba4280627977651aa7209361033.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ayatan_valana_sculpture.331f1ba4280627977651aa7209361033.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/ayatan_valana_sculpture.331f1ba4280627977651aa7209361033.128x128.png"
+    }
+  },
+  {
+    "id": "57e91e65c76eb74c087f4932",
+    "slug": "ayatan_vaya_sculpture",
+    "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexD",
+    "tags": [
+      "ayatan_sculpture"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ayatan Vaya Sculpture",
+      "zh-hans": "阿耶檀识 Vaya 塑像"
+    },
+    "icons": {
+      "en": "items/images/en/ayatan_vaya_sculpture.3aaade63978258328e4106a499616299.png",
+      "zh-hans": "items/images/zh-hans/ayatan_vaya_sculpture.3aaade63978258328e4106a499616299.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ayatan_vaya_sculpture.3aaade63978258328e4106a499616299.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/ayatan_vaya_sculpture.3aaade63978258328e4106a499616299.128x128.png"
+    }
+  },
+  {
+    "id": "57e91e65c76eb74c087f492e",
+    "slug": "ayatan_ayr_sculpture",
+    "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexB",
+    "tags": [
+      "ayatan_sculpture"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ayatan Ayr Sculpture",
+      "zh-hans": "阿耶檀识 Ayr 塑像"
+    },
+    "icons": {
+      "en": "items/images/en/ayatan_ayr_sculpture.d5a5347b24a6ec864ce17552ba108ad7.png",
+      "zh-hans": "items/images/zh-hans/ayatan_ayr_sculpture.d5a5347b24a6ec864ce17552ba108ad7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ayatan_ayr_sculpture.d5a5347b24a6ec864ce17552ba108ad7.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/ayatan_ayr_sculpture.d5a5347b24a6ec864ce17552ba108ad7.128x128.png"
+    }
+  },
+  {
+    "id": "57e91e65c76eb74c087f4931",
+    "slug": "ayatan_sah_sculpture",
+    "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexA",
+    "tags": [
+      "ayatan_sculpture"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ayatan Sah Sculpture",
+      "zh-hans": "阿耶檀识 Sah 塑像"
+    },
+    "icons": {
+      "en": "items/images/en/ayatan_sah_sculpture.29dc05cf1143890b000ce67f6af4660c.png",
+      "zh-hans": "items/images/zh-hans/ayatan_sah_sculpture.29dc05cf1143890b000ce67f6af4660c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ayatan_sah_sculpture.29dc05cf1143890b000ce67f6af4660c.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/ayatan_sah_sculpture.29dc05cf1143890b000ce67f6af4660c.128x128.png"
+    }
+  },
+  {
+    "id": "5fe0ea826db57b0225115012",
+    "slug": "ayatan_hemakara_sculpture",
+    "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexJ",
+    "tags": [
+      "ayatan_sculpture"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ayatan Hemakara Sculpture",
+      "zh-hans": "阿耶檀识 Hemakara 塑像"
+    },
+    "icons": {
+      "en": "items/images/en/ayatan_hemakara_sculpture.fa1b98919aaef4e74dcdc8175526cc5f.png",
+      "zh-hans": "items/images/zh-hans/ayatan_hemakara_sculpture.fa1b98919aaef4e74dcdc8175526cc5f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ayatan_hemakara_sculpture.fa1b98919aaef4e74dcdc8175526cc5f.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/ayatan_hemakara_sculpture.fa1b98919aaef4e74dcdc8175526cc5f.128x128.png"
+    }
+  },
+  {
+    "id": "588a789c3cf52c408a2f88dd",
+    "slug": "ayatan_anasa_sculpture",
+    "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexF",
+    "tags": [
+      "ayatan_sculpture"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ayatan Anasa Sculpture",
+      "zh-hans": "阿耶檀识 Anasa 塑像"
+    },
+    "icons": {
+      "en": "items/images/en/ayatan_anasa_sculpture.4b0f22f5432ea4a4f196806a7b90ccb0.png",
+      "zh-hans": "items/images/zh-hans/ayatan_anasa_sculpture.4b0f22f5432ea4a4f196806a7b90ccb0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ayatan_anasa_sculpture.4b0f22f5432ea4a4f196806a7b90ccb0.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/ayatan_anasa_sculpture.4b0f22f5432ea4a4f196806a7b90ccb0.128x128.png"
+    }
+  },
+  {
+    "id": "5fb84769c34da3004797d553",
+    "slug": "ayatan_kitha_sculpture",
+    "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexEntrati",
+    "tags": [
+      "ayatan_sculpture"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ayatan Kitha Sculpture",
+      "zh-hans": "阿耶檀识 Kitha 塑像"
+    },
+    "icons": {
+      "en": "items/images/en/ayatan_kitha_sculpture.8ad5567866f41a56d876ad37ab27fbe9.png",
+      "zh-hans": "items/images/zh-hans/ayatan_kitha_sculpture.8ad5567866f41a56d876ad37ab27fbe9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ayatan_kitha_sculpture.8ad5567866f41a56d876ad37ab27fbe9.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/ayatan_kitha_sculpture.8ad5567866f41a56d876ad37ab27fbe9.128x128.png"
+    }
+  },
+  {
+    "id": "5dbe9b087ea27b0ffe3ca269",
+    "slug": "ayatan_zambuka_sculpture",
+    "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexH",
+    "tags": [
+      "ayatan_sculpture"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ayatan Zambuka Sculpture",
+      "zh-hans": "阿耶檀识 Zambuka 塑像"
+    },
+    "icons": {
+      "en": "items/images/en/ayatan_zambuka_sculpture.cfee4edb2f9ecbfef1a427dcd791847b.png",
+      "zh-hans": "items/images/zh-hans/ayatan_zambuka_sculpture.cfee4edb2f9ecbfef1a427dcd791847b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ayatan_zambuka_sculpture.cfee4edb2f9ecbfef1a427dcd791847b.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/ayatan_zambuka_sculpture.cfee4edb2f9ecbfef1a427dcd791847b.128x128.png"
+    }
+  },
+  {
+    "id": "68f7a4c3f1d462c2c07416db",
+    "slug": "ayatan_chattraka_sculpture",
+    "gameRef": "/Lotus/Types/Items/FusionTreasures/OroFusexI",
+    "tags": [
+      "ayatan_sculpture"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ayatan Chattraka Sculpture",
+      "zh-hans": "阿耶檀识 Chattraka 塑像"
+    },
+    "icons": {
+      "en": "items/images/en/ayatan_chattraka_sculpture.52414da0d1cadd96cde791852b63c0b5.webp",
+      "zh-hans": "items/images/en/ayatan_chattraka_sculpture.52414da0d1cadd96cde791852b63c0b5.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ayatan_chattraka_sculpture.52414da0d1cadd96cde791852b63c0b5.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/ayatan_chattraka_sculpture.52414da0d1cadd96cde791852b63c0b5.128x128.webp"
+    }
+  }
+]

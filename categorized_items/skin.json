@@ -1,0 +1,770 @@
+[
+  {
+    "id": "60e70f79479445008f27256d",
+    "slug": "red_veil_chest_piece",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/RedVeilArmor/RedVeilCArmor",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Red Veil Chest Piece",
+      "zh-hans": "血色面纱胸甲"
+    },
+    "icons": {
+      "en": "items/images/en/red_veil_chest_piece.0cedf1ecd264d43ae420c5096cbdb8a8.png",
+      "zh-hans": "items/images/en/red_veil_chest_piece.0cedf1ecd264d43ae420c5096cbdb8a8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/red_veil_chest_piece.0cedf1ecd264d43ae420c5096cbdb8a8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/red_veil_chest_piece.0cedf1ecd264d43ae420c5096cbdb8a8.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f79479445008f27256f",
+    "slug": "suda_chest_piece",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/CephArmor/CephArmorC",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Suda Chest Piece",
+      "zh-hans": "中枢苏达胸甲"
+    },
+    "icons": {
+      "en": "items/images/en/suda_chest_piece.194d7c17a06f68ff403a949d3085e289.png",
+      "zh-hans": "items/images/en/suda_chest_piece.194d7c17a06f68ff403a949d3085e289.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/suda_chest_piece.194d7c17a06f68ff403a949d3085e289.128x128.png",
+      "zh-hans": "items/images/en/thumbs/suda_chest_piece.194d7c17a06f68ff403a949d3085e289.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f79479445008f272571",
+    "slug": "red_veil_knee_guards",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/RedVeilArmor/RedVeilLArmor",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Red Veil Knee Guards",
+      "zh-hans": "血色面纱护膝"
+    },
+    "icons": {
+      "en": "items/images/en/red_veil_knee_guards.81e51f8f477594964c832ee03908f549.png",
+      "zh-hans": "items/images/en/red_veil_knee_guards.81e51f8f477594964c832ee03908f549.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/red_veil_knee_guards.81e51f8f477594964c832ee03908f549.128x128.png",
+      "zh-hans": "items/images/en/thumbs/red_veil_knee_guards.81e51f8f477594964c832ee03908f549.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f79479445008f272574",
+    "slug": "meridian_chest_plate",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/GrnSteelMeridianArmor/GrnSteelMeridianCArmor",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Meridian Chest Plate",
+      "zh-hans": "钢铁防线胸甲"
+    },
+    "icons": {
+      "en": "items/images/en/meridian_chest_plate.cfd18c36942cccc4c759369e348090d3.png",
+      "zh-hans": "items/images/en/meridian_chest_plate.cfd18c36942cccc4c759369e348090d3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meridian_chest_plate.cfd18c36942cccc4c759369e348090d3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meridian_chest_plate.cfd18c36942cccc4c759369e348090d3.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7a479445008f272575",
+    "slug": "meridian_armor_set",
+    "gameRef": "",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Meridian Armor Set",
+      "zh-hans": "Meridian Armor Set"
+    },
+    "icons": {
+      "en": "items/images/en/meridian_armor_set.cd1d665185d07b8996c4f4d6b6c1aa4e.webp",
+      "zh-hans": "items/images/en/meridian_armor_set.cd1d665185d07b8996c4f4d6b6c1aa4e.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meridian_armor_set.cd1d665185d07b8996c4f4d6b6c1aa4e.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/meridian_armor_set.cd1d665185d07b8996c4f4d6b6c1aa4e.128x128.webp"
+    }
+  },
+  {
+    "id": "60e70f7a479445008f272576",
+    "slug": "meridian_arm_spurs",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/GrnSteelMeridianArmor/GrnSteelMeridianAArmor",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Meridian Arm Spurs",
+      "zh-hans": "钢铁防线臂甲"
+    },
+    "icons": {
+      "en": "items/images/en/meridian_arm_spurs.539a328fd70059e66ee74c8decec6b36.png",
+      "zh-hans": "items/images/en/meridian_arm_spurs.539a328fd70059e66ee74c8decec6b36.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meridian_arm_spurs.539a328fd70059e66ee74c8decec6b36.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meridian_arm_spurs.539a328fd70059e66ee74c8decec6b36.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7a479445008f272578",
+    "slug": "solaris_leg_spurs",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/SolarisUnitedArmor/SolarisUnitedLArmor",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Solaris Leg Spurs",
+      "zh-hans": "索拉里斯腿甲"
+    },
+    "icons": {
+      "en": "items/images/en/solaris_leg_spurs.c966ea8e3ab6554916129ac0cb540964.png",
+      "zh-hans": "items/images/en/solaris_leg_spurs.c966ea8e3ab6554916129ac0cb540964.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/solaris_leg_spurs.c966ea8e3ab6554916129ac0cb540964.128x128.png",
+      "zh-hans": "items/images/en/thumbs/solaris_leg_spurs.c966ea8e3ab6554916129ac0cb540964.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7a479445008f272579",
+    "slug": "lokan_knee_spurs",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/NLokaArmor/NLokaLArmor",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Lokan Knee Spurs",
+      "zh-hans": "新世间膝甲"
+    },
+    "icons": {
+      "en": "items/images/en/lokan_knee_spurs.8a7c25d472af612432b65790c6fec05a.png",
+      "zh-hans": "items/images/en/lokan_knee_spurs.8a7c25d472af612432b65790c6fec05a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lokan_knee_spurs.8a7c25d472af612432b65790c6fec05a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lokan_knee_spurs.8a7c25d472af612432b65790c6fec05a.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7b479445008f27257e",
+    "slug": "lokan_arm_plates",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/NLokaArmor/NLokaAArmor",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Lokan Arm Plates",
+      "zh-hans": "新世间臂甲"
+    },
+    "icons": {
+      "en": "items/images/en/lokan_arm_plates.2f95530445f9c3c5d696ac5b5a39fd73.png",
+      "zh-hans": "items/images/en/lokan_arm_plates.2f95530445f9c3c5d696ac5b5a39fd73.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lokan_arm_plates.2f95530445f9c3c5d696ac5b5a39fd73.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lokan_arm_plates.2f95530445f9c3c5d696ac5b5a39fd73.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7b479445008f27257f",
+    "slug": "suda_leg_spurs",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/CephArmor/CephArmorL",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Suda Leg Spurs",
+      "zh-hans": "中枢苏达腿甲"
+    },
+    "icons": {
+      "en": "items/images/en/suda_leg_spurs.045eb759600d9d6977ca121f39bf9026.png",
+      "zh-hans": "items/images/en/suda_leg_spurs.045eb759600d9d6977ca121f39bf9026.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/suda_leg_spurs.045eb759600d9d6977ca121f39bf9026.128x128.png",
+      "zh-hans": "items/images/en/thumbs/suda_leg_spurs.045eb759600d9d6977ca121f39bf9026.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7b479445008f272581",
+    "slug": "perrin_armor_set",
+    "gameRef": "",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Perrin Armor Set",
+      "zh-hans": "Perrin Armor Set"
+    },
+    "icons": {
+      "en": "items/images/en/perrin_armor_set.dba2300bcb77e22365ec94eb0ef1a36b.webp",
+      "zh-hans": "items/images/en/perrin_armor_set.dba2300bcb77e22365ec94eb0ef1a36b.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/perrin_armor_set.dba2300bcb77e22365ec94eb0ef1a36b.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/perrin_armor_set.dba2300bcb77e22365ec94eb0ef1a36b.128x128.webp"
+    }
+  },
+  {
+    "id": "60e70f7b479445008f272582",
+    "slug": "ostron_chest_guard",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/OstronCrewArmor/OstronCrewArmorC",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ostron Chest Guard",
+      "zh-hans": "Ostron 护胸"
+    },
+    "icons": {
+      "en": "items/images/en/ostron_chest_guard.aa95b7acc34aa43b0bd0c43fba0336c9.png",
+      "zh-hans": "items/images/en/ostron_chest_guard.aa95b7acc34aa43b0bd0c43fba0336c9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ostron_chest_guard.aa95b7acc34aa43b0bd0c43fba0336c9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ostron_chest_guard.aa95b7acc34aa43b0bd0c43fba0336c9.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7c479445008f272584",
+    "slug": "perrin_leg_guards",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/PerrinSequenceArmor/PerrinSequenceArmorL",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Perrin Leg Guards",
+      "zh-hans": "佩兰数列护腿"
+    },
+    "icons": {
+      "en": "items/images/en/perrin_leg_guards.a128743cda781f66a61f8da2026f8ff1.png",
+      "zh-hans": "items/images/en/perrin_leg_guards.a128743cda781f66a61f8da2026f8ff1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/perrin_leg_guards.a128743cda781f66a61f8da2026f8ff1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/perrin_leg_guards.a128743cda781f66a61f8da2026f8ff1.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7c479445008f272585",
+    "slug": "hexis_chest_plate",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/ArbiterOfHexisArmor/ArbiterOfHexisArmorC",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hexis Chest Plate",
+      "zh-hans": "均衡仲裁者胸甲"
+    },
+    "icons": {
+      "en": "items/images/en/hexis_chest_plate.91ded728996ed7166d3578801fff614d.png",
+      "zh-hans": "items/images/en/hexis_chest_plate.91ded728996ed7166d3578801fff614d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hexis_chest_plate.91ded728996ed7166d3578801fff614d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hexis_chest_plate.91ded728996ed7166d3578801fff614d.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7c479445008f272586",
+    "slug": "suda_arm_spurs",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/CephArmor/CephArmorA",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Suda Arm Spurs",
+      "zh-hans": "中枢苏达臂甲"
+    },
+    "icons": {
+      "en": "items/images/en/suda_arm_spurs.11721de60cad9380b494606c8e55a195.png",
+      "zh-hans": "items/images/en/suda_arm_spurs.11721de60cad9380b494606c8e55a195.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/suda_arm_spurs.11721de60cad9380b494606c8e55a195.128x128.png",
+      "zh-hans": "items/images/en/thumbs/suda_arm_spurs.11721de60cad9380b494606c8e55a195.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7c479445008f272587",
+    "slug": "suda_armor_set",
+    "gameRef": "",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Suda Armor Set",
+      "zh-hans": "Suda Armor Set"
+    },
+    "icons": {
+      "en": "items/images/en/suda_armor_set.9bf5ef65cf73d16a9ba34f5495e51d3b.webp",
+      "zh-hans": "items/images/en/suda_armor_set.9bf5ef65cf73d16a9ba34f5495e51d3b.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/suda_armor_set.9bf5ef65cf73d16a9ba34f5495e51d3b.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/suda_armor_set.9bf5ef65cf73d16a9ba34f5495e51d3b.128x128.webp"
+    }
+  },
+  {
+    "id": "60e70f7c479445008f272588",
+    "slug": "perrin_chest_piece",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/PerrinSequenceArmor/PerrinSequenceArmorC",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Perrin Chest Piece",
+      "zh-hans": "佩兰数列胸甲"
+    },
+    "icons": {
+      "en": "items/images/en/perrin_chest_piece.5b1c0b4eb019648f9c930714f94ca496.png",
+      "zh-hans": "items/images/en/perrin_chest_piece.5b1c0b4eb019648f9c930714f94ca496.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/perrin_chest_piece.5b1c0b4eb019648f9c930714f94ca496.128x128.png",
+      "zh-hans": "items/images/en/thumbs/perrin_chest_piece.5b1c0b4eb019648f9c930714f94ca496.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7d479445008f27258a",
+    "slug": "hexis_arm_plates",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/ArbiterOfHexisArmor/ArbiterOfHexisArmorA",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hexis Arm Plates",
+      "zh-hans": "均衡仲裁者臂甲"
+    },
+    "icons": {
+      "en": "items/images/en/hexis_arm_plates.aaf6be0c9918abf318d0c9f819333366.png",
+      "zh-hans": "items/images/en/hexis_arm_plates.aaf6be0c9918abf318d0c9f819333366.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hexis_arm_plates.aaf6be0c9918abf318d0c9f819333366.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hexis_arm_plates.aaf6be0c9918abf318d0c9f819333366.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7d479445008f27258b",
+    "slug": "solaris_chest_marker",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/SolarisUnitedArmor/SolarisUnitedCArmor",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Solaris Chest Marker",
+      "zh-hans": "索拉里斯胸印"
+    },
+    "icons": {
+      "en": "items/images/en/solaris_chest_marker.645812f0e574141d6793983a23e7694f.png",
+      "zh-hans": "items/images/en/solaris_chest_marker.645812f0e574141d6793983a23e7694f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/solaris_chest_marker.645812f0e574141d6793983a23e7694f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/solaris_chest_marker.645812f0e574141d6793983a23e7694f.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7d479445008f27258c",
+    "slug": "solaris_armor_set",
+    "gameRef": "",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Solaris Armor Set",
+      "zh-hans": "Solaris Armor Set"
+    },
+    "icons": {
+      "en": "items/images/en/solaris_armor_set.8cfce4ab2aadc626c059ff60110cb081.webp",
+      "zh-hans": "items/images/en/solaris_armor_set.8cfce4ab2aadc626c059ff60110cb081.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/solaris_armor_set.8cfce4ab2aadc626c059ff60110cb081.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/solaris_armor_set.8cfce4ab2aadc626c059ff60110cb081.128x128.webp"
+    }
+  },
+  {
+    "id": "60e70f7d479445008f27258f",
+    "slug": "red_veil_arm_insignia",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/RedVeilArmor/RedVeilAArmor",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Red Veil Arm Insignia",
+      "zh-hans": "血色面纱臂章"
+    },
+    "icons": {
+      "en": "items/images/en/red_veil_arm_insignia.42c61941b3a7e8aba62db752a3ede4ff.png",
+      "zh-hans": "items/images/en/red_veil_arm_insignia.42c61941b3a7e8aba62db752a3ede4ff.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/red_veil_arm_insignia.42c61941b3a7e8aba62db752a3ede4ff.128x128.png",
+      "zh-hans": "items/images/en/thumbs/red_veil_arm_insignia.42c61941b3a7e8aba62db752a3ede4ff.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7d479445008f272590",
+    "slug": "lokan_armor_set",
+    "gameRef": "",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Lokan Armor Set",
+      "zh-hans": "Lokan Armor Set"
+    },
+    "icons": {
+      "en": "items/images/en/lokan_armor_set.7a223687bebf9fbf973aac719847ce3c.webp",
+      "zh-hans": "items/images/en/lokan_armor_set.7a223687bebf9fbf973aac719847ce3c.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lokan_armor_set.7a223687bebf9fbf973aac719847ce3c.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/lokan_armor_set.7a223687bebf9fbf973aac719847ce3c.128x128.webp"
+    }
+  },
+  {
+    "id": "60e70f7e479445008f272592",
+    "slug": "solaris_arm_guards",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/SolarisUnitedArmor/SolarisUnitedAArmor",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Solaris Arm Guards",
+      "zh-hans": "索拉里斯护套"
+    },
+    "icons": {
+      "en": "items/images/en/solaris_arm_guards.3bfe209e892067b37b8870c742867b14.png",
+      "zh-hans": "items/images/en/solaris_arm_guards.3bfe209e892067b37b8870c742867b14.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/solaris_arm_guards.3bfe209e892067b37b8870c742867b14.128x128.png",
+      "zh-hans": "items/images/en/thumbs/solaris_arm_guards.3bfe209e892067b37b8870c742867b14.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7e479445008f272594",
+    "slug": "ostron_armor_set",
+    "gameRef": "",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ostron Armor Set",
+      "zh-hans": "Ostron Armor Set"
+    },
+    "icons": {
+      "en": "items/images/en/ostron_armor_set.8cfce4ab2aadc626c059ff60110cb081.webp",
+      "zh-hans": "items/images/en/ostron_armor_set.8cfce4ab2aadc626c059ff60110cb081.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ostron_armor_set.8cfce4ab2aadc626c059ff60110cb081.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/ostron_armor_set.8cfce4ab2aadc626c059ff60110cb081.128x128.webp"
+    }
+  },
+  {
+    "id": "60e70f7e479445008f272595",
+    "slug": "perrin_arm_guards",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/PerrinSequenceArmor/PerrinSequenceArmorA",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Perrin Arm Guards",
+      "zh-hans": "佩兰数列护套"
+    },
+    "icons": {
+      "en": "items/images/en/perrin_arm_guards.f737ca539ee7cd3a68720debdea92336.png",
+      "zh-hans": "items/images/en/perrin_arm_guards.f737ca539ee7cd3a68720debdea92336.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/perrin_arm_guards.f737ca539ee7cd3a68720debdea92336.128x128.png",
+      "zh-hans": "items/images/en/thumbs/perrin_arm_guards.f737ca539ee7cd3a68720debdea92336.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7e479445008f272596",
+    "slug": "lokan_chest_piece",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/NLokaArmor/NLokaCArmor",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Lokan Chest Piece",
+      "zh-hans": "新世间胸甲"
+    },
+    "icons": {
+      "en": "items/images/en/lokan_chest_piece.6bc7f18d86eeb472bf20f0f708bd7ff1.png",
+      "zh-hans": "items/images/en/lokan_chest_piece.6bc7f18d86eeb472bf20f0f708bd7ff1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lokan_chest_piece.6bc7f18d86eeb472bf20f0f708bd7ff1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lokan_chest_piece.6bc7f18d86eeb472bf20f0f708bd7ff1.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7e479445008f272597",
+    "slug": "hexis_spurs",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/ArbiterOfHexisArmor/ArbiterOfHexisArmorL",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hexis Spurs",
+      "zh-hans": "均衡仲裁者膝甲"
+    },
+    "icons": {
+      "en": "items/images/en/hexis_spurs.052d37e05fd10c42e1f684aa4a082c42.png",
+      "zh-hans": "items/images/en/hexis_spurs.052d37e05fd10c42e1f684aa4a082c42.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hexis_spurs.052d37e05fd10c42e1f684aa4a082c42.128x128.png",
+      "zh-hans": "items/images/en/thumbs/hexis_spurs.052d37e05fd10c42e1f684aa4a082c42.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7f479445008f272599",
+    "slug": "hexis_armor_set",
+    "gameRef": "",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Hexis Armor Set",
+      "zh-hans": "Hexis Armor Set"
+    },
+    "icons": {
+      "en": "items/images/en/hexis_armor_set.cf3f7e3ad665aee1b47dceb5ce703e8a.webp",
+      "zh-hans": "items/images/en/hexis_armor_set.cf3f7e3ad665aee1b47dceb5ce703e8a.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/hexis_armor_set.cf3f7e3ad665aee1b47dceb5ce703e8a.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/hexis_armor_set.cf3f7e3ad665aee1b47dceb5ce703e8a.128x128.webp"
+    }
+  },
+  {
+    "id": "60e70f7f479445008f27259f",
+    "slug": "ostron_leg_guards",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/OstronCrewArmor/OstronCrewArmorL",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ostron Leg Guards",
+      "zh-hans": "Ostron 护腿"
+    },
+    "icons": {
+      "en": "items/images/en/ostron_leg_guards.7f5c6e196d90b41b1eb6a1fde6678985.png",
+      "zh-hans": "items/images/en/ostron_leg_guards.7f5c6e196d90b41b1eb6a1fde6678985.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ostron_leg_guards.7f5c6e196d90b41b1eb6a1fde6678985.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ostron_leg_guards.7f5c6e196d90b41b1eb6a1fde6678985.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f80479445008f2725a0",
+    "slug": "meridian_leg_spurs",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/GrnSteelMeridianArmor/GrnSteelMeridianLArmor",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Meridian Leg Spurs",
+      "zh-hans": "钢铁防线腿甲"
+    },
+    "icons": {
+      "en": "items/images/en/meridian_leg_spurs.78e2fe85210a73fe12bbcad6629ac2ec.png",
+      "zh-hans": "items/images/en/meridian_leg_spurs.78e2fe85210a73fe12bbcad6629ac2ec.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/meridian_leg_spurs.78e2fe85210a73fe12bbcad6629ac2ec.128x128.png",
+      "zh-hans": "items/images/en/thumbs/meridian_leg_spurs.78e2fe85210a73fe12bbcad6629ac2ec.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f80479445008f2725a1",
+    "slug": "ostron_arm_guards",
+    "gameRef": "/Lotus/Upgrades/Skins/Armor/OstronCrewArmor/OstronCrewArmorA",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ostron Arm Guards",
+      "zh-hans": "Ostron 护套"
+    },
+    "icons": {
+      "en": "items/images/en/ostron_arm_guards.df666e6b25e56f6dd6f7f0ad80318977.png",
+      "zh-hans": "items/images/en/ostron_arm_guards.df666e6b25e56f6dd6f7f0ad80318977.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ostron_arm_guards.df666e6b25e56f6dd6f7f0ad80318977.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ostron_arm_guards.df666e6b25e56f6dd6f7f0ad80318977.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f80479445008f2725a5",
+    "slug": "red_veil_armor_set",
+    "gameRef": "",
+    "tags": [
+      "skin"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Red Veil Armor Set",
+      "zh-hans": "Red Veil Armor Set"
+    },
+    "icons": {
+      "en": "items/images/en/red_veil_armor_set.f90e9e6a2c0e587feeb5fb1777fd2790.webp",
+      "zh-hans": "items/images/en/red_veil_armor_set.f90e9e6a2c0e587feeb5fb1777fd2790.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/red_veil_armor_set.f90e9e6a2c0e587feeb5fb1777fd2790.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/red_veil_armor_set.f90e9e6a2c0e587feeb5fb1777fd2790.128x128.webp"
+    }
+  }
+]

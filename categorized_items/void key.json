@@ -1,0 +1,27 @@
+[
+  {
+    "id": "56463b04b66f83585da94c6a",
+    "slug": "corpus_void_key",
+    "gameRef": "",
+    "tags": [
+      "void key",
+      "key"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Corpus Void Key",
+      "zh-hans": "Corpus虚空钥匙"
+    },
+    "icons": {
+      "en": "items/images/en/corpus_void_key.ab1bad7c5670206fa7e612257aef57c6.webp",
+      "zh-hans": "items/images/en/corpus_void_key.ab1bad7c5670206fa7e612257aef57c6.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/corpus_void_key.ab1bad7c5670206fa7e612257aef57c6.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/corpus_void_key.ab1bad7c5670206fa7e612257aef57c6.128x128.webp"
+    }
+  }
+]

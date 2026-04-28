@@ -1,0 +1,434 @@
+[
+  {
+    "id": "59eba86952f90ed715e14158",
+    "slug": "star_crimzian",
+    "gameRef": "/Lotus/Types/Items/Gems/Eidolon/RareGemACutAItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Star Crimzian",
+      "zh-hans": "星形绯红石"
+    },
+    "icons": {
+      "en": "items/images/en/star_crimzian.db39ca051236313058cc68e0f57e355c.png",
+      "zh-hans": "items/images/en/star_crimzian.db39ca051236313058cc68e0f57e355c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/star_crimzian.db39ca051236313058cc68e0f57e355c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/star_crimzian.db39ca051236313058cc68e0f57e355c.128x128.png"
+    }
+  },
+  {
+    "id": "59eba86952f90ed715e14157",
+    "slug": "marquise_veridos",
+    "gameRef": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Marquise Veridos",
+      "zh-hans": "女侯爵翠萤石"
+    },
+    "icons": {
+      "en": "items/images/en/marquise_veridos.0ff6080823e396fc6d3d5946dc192d9b.png",
+      "zh-hans": "items/images/en/marquise_veridos.0ff6080823e396fc6d3d5946dc192d9b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/marquise_veridos.0ff6080823e396fc6d3d5946dc192d9b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/marquise_veridos.0ff6080823e396fc6d3d5946dc192d9b.128x128.png"
+    }
+  },
+  {
+    "id": "5be5f5a43ffcc7038857f132",
+    "slug": "smooth_phasmin",
+    "gameRef": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Smooth Phasmin",
+      "zh-hans": "光滑翡斯敏石"
+    },
+    "icons": {
+      "en": "items/images/en/smooth_phasmin.890678cdbcd828e4605b5e6181cd7b67.png",
+      "zh-hans": "items/images/en/smooth_phasmin.890678cdbcd828e4605b5e6181cd7b67.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/smooth_phasmin.890678cdbcd828e4605b5e6181cd7b67.128x128.png",
+      "zh-hans": "items/images/en/thumbs/smooth_phasmin.890678cdbcd828e4605b5e6181cd7b67.128x128.png"
+    }
+  },
+  {
+    "id": "5be5f5a43ffcc7038857f12b",
+    "slug": "star_amarast",
+    "gameRef": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Star Amarast",
+      "zh-hans": "星形紫苋石"
+    },
+    "icons": {
+      "en": "items/images/en/star_amarast.ca85eb3d49ec07b1209b869e21aabe8f.png",
+      "zh-hans": "items/images/en/star_amarast.ca85eb3d49ec07b1209b869e21aabe8f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/star_amarast.ca85eb3d49ec07b1209b869e21aabe8f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/star_amarast.ca85eb3d49ec07b1209b869e21aabe8f.128x128.png"
+    }
+  },
+  {
+    "id": "5be5f5a23ffcc7038857f123",
+    "slug": "radiant_zodian",
+    "gameRef": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemACutItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Radiant Zodian",
+      "zh-hans": "发光的黄道宝石"
+    },
+    "icons": {
+      "en": "items/images/en/radiant_zodian.e2aefff3921bbf6045832fe9b77b0480.png",
+      "zh-hans": "items/images/en/radiant_zodian.e2aefff3921bbf6045832fe9b77b0480.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/radiant_zodian.e2aefff3921bbf6045832fe9b77b0480.128x128.png",
+      "zh-hans": "items/images/en/thumbs/radiant_zodian.e2aefff3921bbf6045832fe9b77b0480.128x128.png"
+    }
+  },
+  {
+    "id": "59eba86952f90ed715e14155",
+    "slug": "tear_azurite",
+    "gameRef": "/Lotus/Types/Items/Gems/Eidolon/CommonGemACutAItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Tear Azurite",
+      "zh-hans": "泪滴形石青"
+    },
+    "icons": {
+      "en": "items/images/en/tear_azurite.e2f857f217db500bb173a7a4e518958e.png",
+      "zh-hans": "items/images/en/tear_azurite.e2f857f217db500bb173a7a4e518958e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tear_azurite.e2f857f217db500bb173a7a4e518958e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tear_azurite.e2f857f217db500bb173a7a4e518958e.128x128.png"
+    }
+  },
+  {
+    "id": "59eba86952f90ed715e14159",
+    "slug": "radian_sentirum",
+    "gameRef": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemACutAItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Radian Sentirum",
+      "zh-hans": "弧度心智晶核"
+    },
+    "icons": {
+      "en": "items/images/en/radian_sentirum.fd67dbe87fcedfc1d914bc36ad2cb7eb.png",
+      "zh-hans": "items/images/en/radian_sentirum.fd67dbe87fcedfc1d914bc36ad2cb7eb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/radian_sentirum.fd67dbe87fcedfc1d914bc36ad2cb7eb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/radian_sentirum.fd67dbe87fcedfc1d914bc36ad2cb7eb.128x128.png"
+    }
+  },
+  {
+    "id": "5be5f5a03ffcc7038857f109",
+    "slug": "heart_noctrul",
+    "gameRef": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Heart Noctrul",
+      "zh-hans": "心形夜石"
+    },
+    "icons": {
+      "en": "items/images/en/heart_noctrul.353a7ac00570827bfc745565a5670ca0.png",
+      "zh-hans": "items/images/en/heart_noctrul.353a7ac00570827bfc745565a5670ca0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/heart_noctrul.353a7ac00570827bfc745565a5670ca0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/heart_noctrul.353a7ac00570827bfc745565a5670ca0.128x128.png"
+    }
+  },
+  {
+    "id": "59eba86952f90ed715e14156",
+    "slug": "esher_devar",
+    "gameRef": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBCutAItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Esher Devar",
+      "zh-hans": "伊舍兄弟之石"
+    },
+    "icons": {
+      "en": "items/images/en/esher_devar.c0c43cd7a20d441676da210e92a83600.png",
+      "zh-hans": "items/images/en/esher_devar.c0c43cd7a20d441676da210e92a83600.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/esher_devar.c0c43cd7a20d441676da210e92a83600.128x128.png",
+      "zh-hans": "items/images/en/thumbs/esher_devar.c0c43cd7a20d441676da210e92a83600.128x128.png"
+    }
+  },
+  {
+    "id": "59eba86952f90ed715e1415a",
+    "slug": "heart_nyth",
+    "gameRef": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBCutAItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Heart Nyth",
+      "zh-hans": "心形灵息石"
+    },
+    "icons": {
+      "en": "items/images/en/heart_nyth.c1c509b457c7fd0ecdb6e74f82c2be1e.png",
+      "zh-hans": "items/images/en/heart_nyth.c1c509b457c7fd0ecdb6e74f82c2be1e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/heart_nyth.c1c509b457c7fd0ecdb6e74f82c2be1e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/heart_nyth.c1c509b457c7fd0ecdb6e74f82c2be1e.128x128.png"
+    }
+  },
+  {
+    "id": "5f498a1e9426ed00443bd08f",
+    "slug": "trapezium_xenorhast",
+    "gameRef": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemACutItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Trapezium Xenorhast",
+      "zh-hans": "梯型异源石"
+    },
+    "icons": {
+      "en": "items/images/en/trapezium_xenorhast.508e87eac283a323559a101479d634ad.png",
+      "zh-hans": "items/images/en/trapezium_xenorhast.508e87eac283a323559a101479d634ad.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/trapezium_xenorhast.508e87eac283a323559a101479d634ad.128x128.png",
+      "zh-hans": "items/images/en/thumbs/trapezium_xenorhast.508e87eac283a323559a101479d634ad.128x128.png"
+    }
+  },
+  {
+    "id": "5f498a209426ed00443bd0a3",
+    "slug": "faceted_tiametrite",
+    "gameRef": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemACutItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Faceted Tiametrite",
+      "zh-hans": "多面提亚美凝石"
+    },
+    "icons": {
+      "en": "items/images/en/faceted_tiametrite.aa463bcd1c7e977a29a8cd586a8d3e9f.png",
+      "zh-hans": "items/images/en/faceted_tiametrite.aa463bcd1c7e977a29a8cd586a8d3e9f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/faceted_tiametrite.aa463bcd1c7e977a29a8cd586a8d3e9f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/faceted_tiametrite.aa463bcd1c7e977a29a8cd586a8d3e9f.128x128.png"
+    }
+  },
+  {
+    "id": "5f498a249426ed00443bd0c1",
+    "slug": "cabochon_embolos",
+    "gameRef": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBCutItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cabochon Embolos",
+      "zh-hans": "弧面型栓子凝石"
+    },
+    "icons": {
+      "en": "items/images/en/cabochon_embolos.99c4f8c7fcecf7492ac6fecb684b9ea9.png",
+      "zh-hans": "items/images/en/cabochon_embolos.99c4f8c7fcecf7492ac6fecb684b9ea9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cabochon_embolos.99c4f8c7fcecf7492ac6fecb684b9ea9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cabochon_embolos.99c4f8c7fcecf7492ac6fecb684b9ea9.128x128.png"
+    }
+  },
+  {
+    "id": "5f498a259426ed00443bd0c8",
+    "slug": "purified_heciphron",
+    "gameRef": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonGemACutItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Purified Heciphron",
+      "zh-hans": "高纯聚合荧石"
+    },
+    "icons": {
+      "en": "items/images/en/purified_heciphron.b86f49088c5712738121505bfd8282f8.png",
+      "zh-hans": "items/images/en/purified_heciphron.b86f49088c5712738121505bfd8282f8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/purified_heciphron.b86f49088c5712738121505bfd8282f8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/purified_heciphron.b86f49088c5712738121505bfd8282f8.128x128.png"
+    }
+  },
+  {
+    "id": "5be5f5a13ffcc7038857f10d",
+    "slug": "marquise_thyst",
+    "gameRef": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBCutItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Marquise Thyst",
+      "zh-hans": "女侯爵赤色水晶"
+    },
+    "icons": {
+      "en": "items/images/en/marquise_thyst.6c9d411ba3dc55d44e7bc1299d44bd4a.png",
+      "zh-hans": "items/images/en/marquise_thyst.6c9d411ba3dc55d44e7bc1299d44bd4a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/marquise_thyst.6c9d411ba3dc55d44e7bc1299d44bd4a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/marquise_thyst.6c9d411ba3dc55d44e7bc1299d44bd4a.128x128.png"
+    }
+  },
+  {
+    "id": "5be5f5a43ffcc7038857f12d",
+    "slug": "goblite_tears",
+    "gameRef": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Goblite Tears",
+      "zh-hans": "泪滴形填充细石"
+    },
+    "icons": {
+      "en": "items/images/en/goblite_tears.33b290553ebce2a57562cc316bc7e9aa.png",
+      "zh-hans": "items/images/en/goblite_tears.33b290553ebce2a57562cc316bc7e9aa.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/goblite_tears.33b290553ebce2a57562cc316bc7e9aa.128x128.png",
+      "zh-hans": "items/images/en/thumbs/goblite_tears.33b290553ebce2a57562cc316bc7e9aa.128x128.png"
+    }
+  },
+  {
+    "id": "5f498a269426ed00443bd0d5",
+    "slug": "stellated_necrathene",
+    "gameRef": "/Lotus/Types/Items/Gems/Deimos/DeimosRareGemACutItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Stellated Necrathene",
+      "zh-hans": "星形殁世烯"
+    },
+    "icons": {
+      "en": "items/images/en/stellated_necrathene.ca7d17dc4941bce561a68a2d7f93634d.png",
+      "zh-hans": "items/images/en/stellated_necrathene.ca7d17dc4941bce561a68a2d7f93634d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/stellated_necrathene.ca7d17dc4941bce561a68a2d7f93634d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/stellated_necrathene.ca7d17dc4941bce561a68a2d7f93634d.128x128.png"
+    }
+  },
+  {
+    "id": "5f498a269426ed00443bd0d7",
+    "slug": "purged_dagonic",
+    "gameRef": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemBCutItem",
+    "tags": [
+      "gem"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Purged Dagonic",
+      "zh-hans": "净化达戈琥珀"
+    },
+    "icons": {
+      "en": "items/images/en/purged_dagonic.1c0e451cdc247aad586725125e8161e0.png",
+      "zh-hans": "items/images/en/purged_dagonic.1c0e451cdc247aad586725125e8161e0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/purged_dagonic.1c0e451cdc247aad586725125e8161e0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/purged_dagonic.1c0e451cdc247aad586725125e8161e0.128x128.png"
+    }
+  }
+]

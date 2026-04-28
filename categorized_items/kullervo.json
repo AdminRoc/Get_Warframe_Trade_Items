@@ -1,0 +1,58 @@
+[
+  {
+    "id": "6604a600dbdd5c1673781db3",
+    "slug": "wrath_of_ukko",
+    "gameRef": "/Lotus/Powersuits/PaxDuviricus/PaxFieldAugmentCard",
+    "tags": [
+      "kullervo",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Wrath Of Ukko",
+      "zh-hans": "乌戈之怒"
+    },
+    "icons": {
+      "en": "items/images/en/wrath_of_ukko.5579ab2019b8b5a40fa55e6ba28e9cc8.png",
+      "zh-hans": "items/images/en/wrath_of_ukko.5579ab2019b8b5a40fa55e6ba28e9cc8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/wrath_of_ukko.5579ab2019b8b5a40fa55e6ba28e9cc8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/wrath_of_ukko.5579ab2019b8b5a40fa55e6ba28e9cc8.128x128.png"
+    }
+  },
+  {
+    "id": "685d4fbff41598dddb4cc2f4",
+    "slug": "volatile_recompense",
+    "gameRef": "/Lotus/Powersuits/PaxDuviricus/PaxBladesAugmentCard",
+    "tags": [
+      "kullervo",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Volatile Recompense",
+      "zh-hans": "暴力复仇"
+    },
+    "icons": {
+      "en": "items/images/en/volatile_recompense.f59006ec59f89dca8ecb40eb0788c709.webp",
+      "zh-hans": "items/images/en/volatile_recompense.f59006ec59f89dca8ecb40eb0788c709.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/volatile_recompense.f59006ec59f89dca8ecb40eb0788c709.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/volatile_recompense.f59006ec59f89dca8ecb40eb0788c709.128x128.webp"
+    }
+  }
+]

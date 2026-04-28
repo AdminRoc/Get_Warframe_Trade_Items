@@ -1,0 +1,1224 @@
+[
+  {
+    "id": "6054de645221e3005750106e",
+    "slug": "aquapulmo",
+    "gameRef": "/Lotus/Types/Items/Fish/Deimos/HybridRareAFishItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Aquapulmo",
+      "zh-hans": "水肺"
+    },
+    "icons": {
+      "en": "items/images/en/aquapulmo.614ee00bc189bf6e8188792cddcf15e3.png",
+      "zh-hans": "items/images/en/aquapulmo.614ee00bc189bf6e8188792cddcf15e3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/aquapulmo.614ee00bc189bf6e8188792cddcf15e3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/aquapulmo.614ee00bc189bf6e8188792cddcf15e3.128x128.png"
+    }
+  },
+  {
+    "id": "6054de655221e3005750106f",
+    "slug": "ostimyr",
+    "gameRef": "/Lotus/Types/Items/Fish/Deimos/HybridUncommonAFishItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Ostimyr",
+      "zh-hans": "奥斯蒂剑鱼"
+    },
+    "icons": {
+      "en": "items/images/en/ostimyr.cad7b700633006fd0feb87ffec1825d2.png",
+      "zh-hans": "items/images/en/ostimyr.cad7b700633006fd0feb87ffec1825d2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ostimyr.cad7b700633006fd0feb87ffec1825d2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ostimyr.cad7b700633006fd0feb87ffec1825d2.128x128.png"
+    }
+  },
+  {
+    "id": "6054de665221e30057501070",
+    "slug": "vitreospina",
+    "gameRef": "/Lotus/Types/Items/Fish/Deimos/HybridUncommonBFishItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Vitreospina",
+      "zh-hans": "璃化脊鳎"
+    },
+    "icons": {
+      "en": "items/images/en/vitreospina.80a20c278dacce4cd8b2c9f938f129e9.png",
+      "zh-hans": "items/images/en/vitreospina.80a20c278dacce4cd8b2c9f938f129e9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vitreospina.80a20c278dacce4cd8b2c9f938f129e9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vitreospina.80a20c278dacce4cd8b2c9f938f129e9.128x128.png"
+    }
+  },
+  {
+    "id": "6054de665221e30057501071",
+    "slug": "cryptosuctus",
+    "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonAFishItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Cryptosuctus",
+      "zh-hans": "墓沼隐龙"
+    },
+    "icons": {
+      "en": "items/images/en/cryptosuctus.4022e55bcff5b4fcfe01d3408b4b01f9.png",
+      "zh-hans": "items/images/en/cryptosuctus.4022e55bcff5b4fcfe01d3408b4b01f9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cryptosuctus.4022e55bcff5b4fcfe01d3408b4b01f9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cryptosuctus.4022e55bcff5b4fcfe01d3408b4b01f9.128x128.png"
+    }
+  },
+  {
+    "id": "6054de675221e30057501072",
+    "slug": "barbisteo",
+    "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonBFishItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Barbisteo",
+      "zh-hans": "倒刺蒂鳌"
+    },
+    "icons": {
+      "en": "items/images/en/barbisteo.84f1b278faa86c27bee4bbf1c66b8299.png",
+      "zh-hans": "items/images/en/barbisteo.84f1b278faa86c27bee4bbf1c66b8299.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/barbisteo.84f1b278faa86c27bee4bbf1c66b8299.128x128.png",
+      "zh-hans": "items/images/en/thumbs/barbisteo.84f1b278faa86c27bee4bbf1c66b8299.128x128.png"
+    }
+  },
+  {
+    "id": "6054de675221e30057501073",
+    "slug": "kymaeros",
+    "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonCFishItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Kymaeros",
+      "zh-hans": "高额异鳍"
+    },
+    "icons": {
+      "en": "items/images/en/kymaeros.0e3d7278b025ef71f33f3751f37b8df4.png",
+      "zh-hans": "items/images/en/kymaeros.0e3d7278b025ef71f33f3751f37b8df4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/kymaeros.0e3d7278b025ef71f33f3751f37b8df4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/kymaeros.0e3d7278b025ef71f33f3751f37b8df4.128x128.png"
+    }
+  },
+  {
+    "id": "6054de685221e30057501074",
+    "slug": "amniophysi",
+    "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonDFishItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Amniophysi",
+      "zh-hans": "针刺长鳄"
+    },
+    "icons": {
+      "en": "items/images/en/amniophysi.4a06c8e524a38ad11635f4c98c01c298.png",
+      "zh-hans": "items/images/en/amniophysi.4a06c8e524a38ad11635f4c98c01c298.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/amniophysi.4a06c8e524a38ad11635f4c98c01c298.128x128.png",
+      "zh-hans": "items/images/en/thumbs/amniophysi.4a06c8e524a38ad11635f4c98c01c298.128x128.png"
+    }
+  },
+  {
+    "id": "6054de695221e30057501075",
+    "slug": "lobotriscid",
+    "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonEFishItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Lobotriscid",
+      "zh-hans": "额叶鲤"
+    },
+    "icons": {
+      "en": "items/images/en/lobotriscid.a0dcd2f81b406e8c72f3761a91361f63.png",
+      "zh-hans": "items/images/en/lobotriscid.a0dcd2f81b406e8c72f3761a91361f63.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/lobotriscid.a0dcd2f81b406e8c72f3761a91361f63.128x128.png",
+      "zh-hans": "items/images/en/thumbs/lobotriscid.a0dcd2f81b406e8c72f3761a91361f63.128x128.png"
+    }
+  },
+  {
+    "id": "6054de695221e30057501076",
+    "slug": "flagellocanth",
+    "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedRareAFishItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Flagellocanth",
+      "zh-hans": "须腔棘鱼"
+    },
+    "icons": {
+      "en": "items/images/en/flagellocanth.0f6b528ec60c200c4bd28e2b1e527692.png",
+      "zh-hans": "items/images/en/flagellocanth.0f6b528ec60c200c4bd28e2b1e527692.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/flagellocanth.0f6b528ec60c200c4bd28e2b1e527692.128x128.png",
+      "zh-hans": "items/images/en/thumbs/flagellocanth.0f6b528ec60c200c4bd28e2b1e527692.128x128.png"
+    }
+  },
+  {
+    "id": "6054de6a5221e30057501077",
+    "slug": "glutinox",
+    "gameRef": "/Lotus/Types/Items/Fish/Deimos/InfestedUncommonAFishItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Glutinox",
+      "zh-hans": "狍鸮胶蛳"
+    },
+    "icons": {
+      "en": "items/images/en/glutinox.6ba4ab5ace94a138d289c5314401d5c9.png",
+      "zh-hans": "items/images/en/glutinox.6ba4ab5ace94a138d289c5314401d5c9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/glutinox.6ba4ab5ace94a138d289c5314401d5c9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/glutinox.6ba4ab5ace94a138d289c5314401d5c9.128x128.png"
+    }
+  },
+  {
+    "id": "6054de6b5221e30057501078",
+    "slug": "myxostomata",
+    "gameRef": "/Lotus/Types/Items/Fish/Deimos/OrokinLegendaryAFishItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Myxostomata",
+      "zh-hans": "独角米索鳎"
+    },
+    "icons": {
+      "en": "items/images/en/myxostomata.8e6d7580c8aa36b60c5116ee56b94483.png",
+      "zh-hans": "items/images/en/myxostomata.8e6d7580c8aa36b60c5116ee56b94483.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/myxostomata.8e6d7580c8aa36b60c5116ee56b94483.128x128.png",
+      "zh-hans": "items/images/en/thumbs/myxostomata.8e6d7580c8aa36b60c5116ee56b94483.128x128.png"
+    }
+  },
+  {
+    "id": "6054de6b5221e30057501079",
+    "slug": "duroid",
+    "gameRef": "/Lotus/Types/Items/Fish/Deimos/OrokinRareAFishItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Duroid",
+      "zh-hans": "韧铠灵鲷"
+    },
+    "icons": {
+      "en": "items/images/en/duroid.d383babc8e0d5dccbd1d8c0d54093fb9.png",
+      "zh-hans": "items/images/en/duroid.d383babc8e0d5dccbd1d8c0d54093fb9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/duroid.d383babc8e0d5dccbd1d8c0d54093fb9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/duroid.d383babc8e0d5dccbd1d8c0d54093fb9.128x128.png"
+    }
+  },
+  {
+    "id": "6054de6c5221e3005750107a",
+    "slug": "chondricord",
+    "gameRef": "/Lotus/Types/Items/Fish/Deimos/OrokinUncommonAFishItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Chondricord",
+      "zh-hans": "骨锥琼鲷"
+    },
+    "icons": {
+      "en": "items/images/en/chondricord.840ef965f6d424431214c65439c347c8.png",
+      "zh-hans": "items/images/en/chondricord.840ef965f6d424431214c65439c347c8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/chondricord.840ef965f6d424431214c65439c347c8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/chondricord.840ef965f6d424431214c65439c347c8.128x128.png"
+    }
+  },
+  {
+    "id": "6054de6c5221e3005750107b",
+    "slug": "charc_eel",
+    "gameRef": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Charc Eel",
+      "zh-hans": "查克鳗"
+    },
+    "icons": {
+      "en": "items/images/en/charc_eel.41e212b6fe01e186d698fdbf459356ff.png",
+      "zh-hans": "items/images/en/charc_eel.41e212b6fe01e186d698fdbf459356ff.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/charc_eel.41e212b6fe01e186d698fdbf459356ff.128x128.png",
+      "zh-hans": "items/images/en/thumbs/charc_eel.41e212b6fe01e186d698fdbf459356ff.128x128.png"
+    }
+  },
+  {
+    "id": "6054de6e5221e3005750107c",
+    "slug": "goopolla",
+    "gameRef": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishBItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Goopolla",
+      "zh-hans": "古泊拉"
+    },
+    "icons": {
+      "en": "items/images/en/goopolla.bd04f241b0451d1551fa642a4f7ee5ba.png",
+      "zh-hans": "items/images/en/goopolla.bd04f241b0451d1551fa642a4f7ee5ba.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/goopolla.bd04f241b0451d1551fa642a4f7ee5ba.128x128.png",
+      "zh-hans": "items/images/en/thumbs/goopolla.bd04f241b0451d1551fa642a4f7ee5ba.128x128.png"
+    }
+  },
+  {
+    "id": "6054de6f5221e3005750107d",
+    "slug": "murkray",
+    "gameRef": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Murkray",
+      "zh-hans": "阴暗鳐"
+    },
+    "icons": {
+      "en": "items/images/en/murkray.459e5a03226a2c0cfcebf26bfc6ac560.png",
+      "zh-hans": "items/images/en/murkray.459e5a03226a2c0cfcebf26bfc6ac560.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/murkray.459e5a03226a2c0cfcebf26bfc6ac560.128x128.png",
+      "zh-hans": "items/images/en/thumbs/murkray.459e5a03226a2c0cfcebf26bfc6ac560.128x128.png"
+    }
+  },
+  {
+    "id": "6054de775221e3005750107e",
+    "slug": "sharrac",
+    "gameRef": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Sharrac",
+      "zh-hans": "鲨客"
+    },
+    "icons": {
+      "en": "items/images/en/sharrac.ee2d8aa7ef4d514d607058ee1ad29295.png",
+      "zh-hans": "items/images/en/sharrac.ee2d8aa7ef4d514d607058ee1ad29295.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sharrac.ee2d8aa7ef4d514d607058ee1ad29295.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sharrac.ee2d8aa7ef4d514d607058ee1ad29295.128x128.png"
+    }
+  },
+  {
+    "id": "6054de785221e3005750107f",
+    "slug": "karkina",
+    "gameRef": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Karkina",
+      "zh-hans": "卡其那"
+    },
+    "icons": {
+      "en": "items/images/en/karkina.8e31a023f6fea55fca0f5f20d8e296a8.png",
+      "zh-hans": "items/images/en/karkina.8e31a023f6fea55fca0f5f20d8e296a8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/karkina.8e31a023f6fea55fca0f5f20d8e296a8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/karkina.8e31a023f6fea55fca0f5f20d8e296a8.128x128.png"
+    }
+  },
+  {
+    "id": "6054de795221e30057501080",
+    "slug": "mawfish",
+    "gameRef": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Mawfish",
+      "zh-hans": "喉鱼"
+    },
+    "icons": {
+      "en": "items/images/en/mawfish.5f814c64b17f3209eb4cc2df2efdbca0.png",
+      "zh-hans": "items/images/en/mawfish.5f814c64b17f3209eb4cc2df2efdbca0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mawfish.5f814c64b17f3209eb4cc2df2efdbca0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mawfish.5f814c64b17f3209eb4cc2df2efdbca0.128x128.png"
+    }
+  },
+  {
+    "id": "6054de7a5221e30057501081",
+    "slug": "khut_khut",
+    "gameRef": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishBItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Khut-Khut",
+      "zh-hans": "库特-库特"
+    },
+    "icons": {
+      "en": "items/images/en/khut_khut.9a217476a6d8b76b5ef03a4d281ce504.png",
+      "zh-hans": "items/images/en/khut_khut.9a217476a6d8b76b5ef03a4d281ce504.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/khut_khut.9a217476a6d8b76b5ef03a4d281ce504.128x128.png",
+      "zh-hans": "items/images/en/thumbs/khut_khut.9a217476a6d8b76b5ef03a4d281ce504.128x128.png"
+    }
+  },
+  {
+    "id": "6054de7b5221e30057501082",
+    "slug": "yogwun",
+    "gameRef": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishCItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Yogwun",
+      "zh-hans": "约格温"
+    },
+    "icons": {
+      "en": "items/images/en/yogwun.414590414a035d3f173860e662950d60.png",
+      "zh-hans": "items/images/en/yogwun.414590414a035d3f173860e662950d60.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/yogwun.414590414a035d3f173860e662950d60.128x128.png",
+      "zh-hans": "items/images/en/thumbs/yogwun.414590414a035d3f173860e662950d60.128x128.png"
+    }
+  },
+  {
+    "id": "6054de7c5221e30057501083",
+    "slug": "tralok",
+    "gameRef": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Tralok",
+      "zh-hans": "塔洛"
+    },
+    "icons": {
+      "en": "items/images/en/tralok.22c468b53ea71bc7a6687c60b851f85e.png",
+      "zh-hans": "items/images/en/tralok.22c468b53ea71bc7a6687c60b851f85e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tralok.22c468b53ea71bc7a6687c60b851f85e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tralok.22c468b53ea71bc7a6687c60b851f85e.128x128.png"
+    }
+  },
+  {
+    "id": "6054de7d5221e30057501084",
+    "slug": "mortus_lungfish",
+    "gameRef": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Mortus Lungfish",
+      "zh-hans": "摩图斯肺鱼"
+    },
+    "icons": {
+      "en": "items/images/en/mortus_lungfish.d4a6763f7d3cb41442eef571c9b0a6e3.png",
+      "zh-hans": "items/images/en/mortus_lungfish.d4a6763f7d3cb41442eef571c9b0a6e3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mortus_lungfish.d4a6763f7d3cb41442eef571c9b0a6e3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mortus_lungfish.d4a6763f7d3cb41442eef571c9b0a6e3.128x128.png"
+    }
+  },
+  {
+    "id": "6054de7e5221e30057501085",
+    "slug": "glappid",
+    "gameRef": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Glappid",
+      "zh-hans": "盖拉佩德"
+    },
+    "icons": {
+      "en": "items/images/en/glappid.c08d5af5e630b52b36f8ebce6dd1df3f.png",
+      "zh-hans": "items/images/en/glappid.c08d5af5e630b52b36f8ebce6dd1df3f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/glappid.c08d5af5e630b52b36f8ebce6dd1df3f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/glappid.c08d5af5e630b52b36f8ebce6dd1df3f.128x128.png"
+    }
+  },
+  {
+    "id": "6054de845221e30057501086",
+    "slug": "norg",
+    "gameRef": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Norg",
+      "zh-hans": "诺格"
+    },
+    "icons": {
+      "en": "items/images/en/norg.6ed3a518e958e16e5f1e162a9ea829b7.png",
+      "zh-hans": "items/images/en/norg.6ed3a518e958e16e5f1e162a9ea829b7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/norg.6ed3a518e958e16e5f1e162a9ea829b7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/norg.6ed3a518e958e16e5f1e162a9ea829b7.128x128.png"
+    }
+  },
+  {
+    "id": "6054de8d5221e30057501087",
+    "slug": "cuthol",
+    "gameRef": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small",
+      "medium",
+      "large"
+    ],
+    "names": {
+      "en": "Cuthol",
+      "zh-hans": "克苏尔"
+    },
+    "icons": {
+      "en": "items/images/en/cuthol.f8c5a1e7678b2010c9850660a7404cb8.png",
+      "zh-hans": "items/images/en/cuthol.f8c5a1e7678b2010c9850660a7404cb8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cuthol.f8c5a1e7678b2010c9850660a7404cb8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cuthol.f8c5a1e7678b2010c9850660a7404cb8.128x128.png"
+    }
+  },
+  {
+    "id": "6054de935221e30057501088",
+    "slug": "mirewinder",
+    "gameRef": "/Lotus/Types/Items/Fish/Solaris/CorpusBothUncommonFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Mirewinder",
+      "zh-hans": "污泥环绕者"
+    },
+    "icons": {
+      "en": "items/images/en/mirewinder.0c98cb981ea9d1170c1ae014557588fc.png",
+      "zh-hans": "items/images/en/mirewinder.0c98cb981ea9d1170c1ae014557588fc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mirewinder.0c98cb981ea9d1170c1ae014557588fc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mirewinder.0c98cb981ea9d1170c1ae014557588fc.128x128.png"
+    }
+  },
+  {
+    "id": "6054de945221e30057501089",
+    "slug": "sapcaddy",
+    "gameRef": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolCommonFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Sapcaddy",
+      "zh-hans": "液集者"
+    },
+    "icons": {
+      "en": "items/images/en/sapcaddy.202e75dc588c1f56b883bf34edd33447.png",
+      "zh-hans": "items/images/en/sapcaddy.202e75dc588c1f56b883bf34edd33447.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sapcaddy.202e75dc588c1f56b883bf34edd33447.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sapcaddy.202e75dc588c1f56b883bf34edd33447.128x128.png"
+    }
+  },
+  {
+    "id": "6054de955221e3005750108a",
+    "slug": "eye_eye",
+    "gameRef": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolUncommonFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Eye-Eye",
+      "zh-hans": "目—目"
+    },
+    "icons": {
+      "en": "items/images/en/eye_eye.fb04eaae06d8e2b7dc34b9a851e9f4af.png",
+      "zh-hans": "items/images/en/eye_eye.fb04eaae06d8e2b7dc34b9a851e9f4af.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/eye_eye.fb04eaae06d8e2b7dc34b9a851e9f4af.128x128.png",
+      "zh-hans": "items/images/en/thumbs/eye_eye.fb04eaae06d8e2b7dc34b9a851e9f4af.128x128.png"
+    }
+  },
+  {
+    "id": "6054de965221e3005750108b",
+    "slug": "echowinder",
+    "gameRef": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Echowinder",
+      "zh-hans": "回声环绕者"
+    },
+    "icons": {
+      "en": "items/images/en/echowinder.9fc57880582fbf57f7d35a0a4bc46e4c.png",
+      "zh-hans": "items/images/en/echowinder.9fc57880582fbf57f7d35a0a4bc46e4c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/echowinder.9fc57880582fbf57f7d35a0a4bc46e4c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/echowinder.9fc57880582fbf57f7d35a0a4bc46e4c.128x128.png"
+    }
+  },
+  {
+    "id": "6054de985221e3005750108c",
+    "slug": "brickie",
+    "gameRef": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishBItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Brickie",
+      "zh-hans": "砖瓦匠"
+    },
+    "icons": {
+      "en": "items/images/en/brickie.5d0e1b2df1abb9b26752402e0f17ac15.png",
+      "zh-hans": "items/images/en/brickie.5d0e1b2df1abb9b26752402e0f17ac15.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/brickie.5d0e1b2df1abb9b26752402e0f17ac15.128x128.png",
+      "zh-hans": "items/images/en/thumbs/brickie.5d0e1b2df1abb9b26752402e0f17ac15.128x128.png"
+    }
+  },
+  {
+    "id": "6054de995221e3005750108d",
+    "slug": "kriller",
+    "gameRef": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmUncommonFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Kriller",
+      "zh-hans": "磷虾杀手"
+    },
+    "icons": {
+      "en": "items/images/en/kriller.314ce2b01ba74cd88b027d353eda1ade.png",
+      "zh-hans": "items/images/en/kriller.314ce2b01ba74cd88b027d353eda1ade.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/kriller.314ce2b01ba74cd88b027d353eda1ade.128x128.png",
+      "zh-hans": "items/images/en/thumbs/kriller.314ce2b01ba74cd88b027d353eda1ade.128x128.png"
+    }
+  },
+  {
+    "id": "6054de9a5221e3005750108e",
+    "slug": "synathid",
+    "gameRef": "/Lotus/Types/Items/Fish/Solaris/OrokinBothLegendaryFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Synathid",
+      "zh-hans": "海龙"
+    },
+    "icons": {
+      "en": "items/images/en/synathid.fd490dd2666dac32bcbe393c3533d04c.png",
+      "zh-hans": "items/images/en/synathid.fd490dd2666dac32bcbe393c3533d04c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/synathid.fd490dd2666dac32bcbe393c3533d04c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/synathid.fd490dd2666dac32bcbe393c3533d04c.128x128.png"
+    }
+  },
+  {
+    "id": "6054de9d5221e3005750108f",
+    "slug": "charamote",
+    "gameRef": "/Lotus/Types/Items/Fish/Solaris/OrokinBothRareFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Charamote",
+      "zh-hans": "重筑虾"
+    },
+    "icons": {
+      "en": "items/images/en/charamote.30062a02c0c3afeb972e8b17c220a1ec.png",
+      "zh-hans": "items/images/en/charamote.30062a02c0c3afeb972e8b17c220a1ec.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/charamote.30062a02c0c3afeb972e8b17c220a1ec.128x128.png",
+      "zh-hans": "items/images/en/thumbs/charamote.30062a02c0c3afeb972e8b17c220a1ec.128x128.png"
+    }
+  },
+  {
+    "id": "6054de9f5221e30057501090",
+    "slug": "tromyzon",
+    "gameRef": "/Lotus/Types/Items/Fish/Solaris/OrokinCoolRareFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Tromyzon",
+      "zh-hans": "多目鳗"
+    },
+    "icons": {
+      "en": "items/images/en/tromyzon.b596391db46a92ee471fb3b94f265881.png",
+      "zh-hans": "items/images/en/tromyzon.b596391db46a92ee471fb3b94f265881.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tromyzon.b596391db46a92ee471fb3b94f265881.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tromyzon.b596391db46a92ee471fb3b94f265881.128x128.png"
+    }
+  },
+  {
+    "id": "6054dea25221e30057501091",
+    "slug": "scrubber",
+    "gameRef": "/Lotus/Types/Items/Fish/Solaris/SolarisBothCommonFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Scrubber",
+      "zh-hans": "洗涤者"
+    },
+    "icons": {
+      "en": "items/images/en/scrubber.08b2a0760d639950f6d5410534949913.png",
+      "zh-hans": "items/images/en/scrubber.08b2a0760d639950f6d5410534949913.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/scrubber.08b2a0760d639950f6d5410534949913.128x128.png",
+      "zh-hans": "items/images/en/thumbs/scrubber.08b2a0760d639950f6d5410534949913.128x128.png"
+    }
+  },
+  {
+    "id": "6054dea25221e30057501092",
+    "slug": "tink",
+    "gameRef": "/Lotus/Types/Items/Fish/Solaris/SolarisCoolCommonFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Tink",
+      "zh-hans": "修补机"
+    },
+    "icons": {
+      "en": "items/images/en/tink.ad7f29534e180cafb86952f2c5eaf1fd.png",
+      "zh-hans": "items/images/en/tink.ad7f29534e180cafb86952f2c5eaf1fd.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/tink.ad7f29534e180cafb86952f2c5eaf1fd.128x128.png",
+      "zh-hans": "items/images/en/thumbs/tink.ad7f29534e180cafb86952f2c5eaf1fd.128x128.png"
+    }
+  },
+  {
+    "id": "6054dea35221e30057501093",
+    "slug": "recaster",
+    "gameRef": "/Lotus/Types/Items/Fish/Solaris/SolarisCoolUncommonFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Recaster",
+      "zh-hans": "续播机"
+    },
+    "icons": {
+      "en": "items/images/en/recaster.d3e1f9906910aa1149bce2194b6e8607.png",
+      "zh-hans": "items/images/en/recaster.d3e1f9906910aa1149bce2194b6e8607.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/recaster.d3e1f9906910aa1149bce2194b6e8607.128x128.png",
+      "zh-hans": "items/images/en/thumbs/recaster.d3e1f9906910aa1149bce2194b6e8607.128x128.png"
+    }
+  },
+  {
+    "id": "6054dea55221e30057501094",
+    "slug": "longwinder",
+    "gameRef": "/Lotus/Types/Items/Fish/Solaris/SolarisWarmRareFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "basic",
+      "adorned",
+      "magnificent"
+    ],
+    "names": {
+      "en": "Longwinder",
+      "zh-hans": "长型环绕者"
+    },
+    "icons": {
+      "en": "items/images/en/longwinder.4c808577089eadb98dcb9dddd73445da.png",
+      "zh-hans": "items/images/en/longwinder.4c808577089eadb98dcb9dddd73445da.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/longwinder.4c808577089eadb98dcb9dddd73445da.128x128.png",
+      "zh-hans": "items/images/en/thumbs/longwinder.4c808577089eadb98dcb9dddd73445da.128x128.png"
+    }
+  },
+  {
+    "id": "645ba2a57ec1900802a58a43",
+    "slug": "namaes",
+    "gameRef": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishDItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small"
+    ],
+    "names": {
+      "en": "Namaes",
+      "zh-hans": "纳土鲉"
+    },
+    "icons": {
+      "en": "items/images/en/namaes.37fb90afc87b94c2c5efbf54ed37a334.png",
+      "zh-hans": "items/images/en/namaes.37fb90afc87b94c2c5efbf54ed37a334.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/namaes.37fb90afc87b94c2c5efbf54ed37a334.128x128.png",
+      "zh-hans": "items/images/en/thumbs/namaes.37fb90afc87b94c2c5efbf54ed37a334.128x128.png"
+    }
+  },
+  {
+    "id": "645ba2a57ec1900802a58a44",
+    "slug": "haav",
+    "gameRef": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishCItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small"
+    ],
+    "names": {
+      "en": "Haav",
+      "zh-hans": "浮伤鱼"
+    },
+    "icons": {
+      "en": "items/images/en/haav.4d650b51ed938546b787f4d2d2f73838.png",
+      "zh-hans": "items/images/en/haav.4d650b51ed938546b787f4d2d2f73838.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/haav.4d650b51ed938546b787f4d2d2f73838.128x128.png",
+      "zh-hans": "items/images/en/thumbs/haav.4d650b51ed938546b787f4d2d2f73838.128x128.png"
+    }
+  },
+  {
+    "id": "645ba2a57ec1900802a58a45",
+    "slug": "xiran",
+    "gameRef": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishBItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small"
+    ],
+    "names": {
+      "en": "Xiran",
+      "zh-hans": "息壤鲳"
+    },
+    "icons": {
+      "en": "items/images/en/xiran.29027ac9267e9979b3e6cd14120c3c2c.png",
+      "zh-hans": "items/images/en/xiran.29027ac9267e9979b3e6cd14120c3c2c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/xiran.29027ac9267e9979b3e6cd14120c3c2c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/xiran.29027ac9267e9979b3e6cd14120c3c2c.128x128.png"
+    }
+  },
+  {
+    "id": "645ba2a67ec1900802a58a47",
+    "slug": "seonn",
+    "gameRef": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishEItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": [
+      "small"
+    ],
+    "names": {
+      "en": "Seonn",
+      "zh-hans": "精灵鱼"
+    },
+    "icons": {
+      "en": "items/images/en/seonn.7390238e2129d768901d3b289407169b.png",
+      "zh-hans": "items/images/en/seonn.7390238e2129d768901d3b289407169b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/seonn.7390238e2129d768901d3b289407169b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/seonn.7390238e2129d768901d3b289407169b.128x128.png"
+    }
+  },
+  {
+    "id": "645ba2a67ec1900802a58a49",
+    "slug": "inaak",
+    "gameRef": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishAItem",
+    "tags": [
+      "fish"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": null,
+    "subtypes": [
+      "small"
+    ],
+    "names": {
+      "en": "Inaak",
+      "zh-hans": "载世龟"
+    },
+    "icons": {
+      "en": "items/images/en/inaak.1844cea2c8d539d0c9e00adc0382749d.png",
+      "zh-hans": "items/images/en/inaak.1844cea2c8d539d0c9e00adc0382749d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/inaak.1844cea2c8d539d0c9e00adc0382749d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/inaak.1844cea2c8d539d0c9e00adc0382749d.128x128.png"
+    }
+  }
+]

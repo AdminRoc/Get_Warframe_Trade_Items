@@ -1,0 +1,867 @@
+[
+  {
+    "id": "56153e9bb66f837074af99c5",
+    "slug": "arcane_pulse",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialHealOnHealthPickup",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Pulse",
+      "zh-hans": "赋能·生机"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_pulse.9f9a959b60addb3377fec907f8c5d35b.png",
+      "zh-hans": "items/images/en/arcane_pulse.9f9a959b60addb3377fec907f8c5d35b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_pulse.9f9a959b60addb3377fec907f8c5d35b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_pulse.9f9a959b60addb3377fec907f8c5d35b.128x128.png"
+    }
+  },
+  {
+    "id": "566750375dcbc186f0536bce",
+    "slug": "arcane_aegis",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/GolemArcaneShieldRegenOnDamage",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Aegis",
+      "zh-hans": "赋能·神盾"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_aegis.05226d37b29123fba267f5f131a9dcd8.png",
+      "zh-hans": "items/images/en/arcane_aegis.05226d37b29123fba267f5f131a9dcd8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_aegis.05226d37b29123fba267f5f131a9dcd8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_aegis.05226d37b29123fba267f5f131a9dcd8.128x128.png"
+    }
+  },
+  {
+    "id": "5667510e5dcbc186f0536bd0",
+    "slug": "arcane_consequence",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneAimGlideOnHeadshot",
+    "tags": [
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Consequence",
+      "zh-hans": "赋能·结果"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_consequence.f4e12b34a7b31c72f5fa1b042f6ae6e9.png",
+      "zh-hans": "items/images/en/arcane_consequence.f4e12b34a7b31c72f5fa1b042f6ae6e9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_consequence.f4e12b34a7b31c72f5fa1b042f6ae6e9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_consequence.f4e12b34a7b31c72f5fa1b042f6ae6e9.128x128.png"
+    }
+  },
+  {
+    "id": "56153e78b66f83706f01716f",
+    "slug": "arcane_nullifier",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MagneticProcResist",
+    "tags": [
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Nullifier",
+      "zh-hans": "赋能·消磁"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_nullifier.2fa3bc7cd7e902ae797f175896f10f97.png",
+      "zh-hans": "items/images/en/arcane_nullifier.2fa3bc7cd7e902ae797f175896f10f97.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_nullifier.2fa3bc7cd7e902ae797f175896f10f97.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_nullifier.2fa3bc7cd7e902ae797f175896f10f97.128x128.png"
+    }
+  },
+  {
+    "id": "566751b75dcbc186f0536bd5",
+    "slug": "arcane_ultimatum",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneArmorOnFinisher",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Ultimatum",
+      "zh-hans": "赋能·通牒"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_ultimatum.6f19f5350ebf251e2c2375bbd667f537.png",
+      "zh-hans": "items/images/en/arcane_ultimatum.6f19f5350ebf251e2c2375bbd667f537.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_ultimatum.6f19f5350ebf251e2c2375bbd667f537.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_ultimatum.6f19f5350ebf251e2c2375bbd667f537.128x128.png"
+    }
+  },
+  {
+    "id": "5667519a5dcbc186f0536bd4",
+    "slug": "arcane_tempo",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneShotgunSpeedOnCrit",
+    "tags": [
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Tempo",
+      "zh-hans": "赋能·节奏"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_tempo.8e5a0c4378df14ffdb5597ff8da8b828.png",
+      "zh-hans": "items/images/en/arcane_tempo.8e5a0c4378df14ffdb5597ff8da8b828.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_tempo.8e5a0c4378df14ffdb5597ff8da8b828.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_tempo.8e5a0c4378df14ffdb5597ff8da8b828.128x128.png"
+    }
+  },
+  {
+    "id": "5d8765de7ea27b08950c13b8",
+    "slug": "arcane_bodyguard",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealCompanionOnSixMeleeKills",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Bodyguard",
+      "zh-hans": "赋能·卫士"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_bodyguard.bedeb0f2ceb9e91f99f682b990c09648.png",
+      "zh-hans": "items/images/en/arcane_bodyguard.bedeb0f2ceb9e91f99f682b990c09648.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_bodyguard.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_bodyguard.bedeb0f2ceb9e91f99f682b990c09648.128x128.png"
+    }
+  },
+  {
+    "id": "5d8765de7ea27b08950c13bf",
+    "slug": "arcane_primary_charger",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDmgOnMeleeKill",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Primary Charger",
+      "zh-hans": "赋能·主武充能"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_primary_charger.bedeb0f2ceb9e91f99f682b990c09648.png",
+      "zh-hans": "items/images/en/arcane_primary_charger.bedeb0f2ceb9e91f99f682b990c09648.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_primary_charger.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_primary_charger.bedeb0f2ceb9e91f99f682b990c09648.128x128.png"
+    }
+  },
+  {
+    "id": "5d8765de7ea27b08950c13c4",
+    "slug": "arcane_blade_charger",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDmgOnRifleKill",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Blade Charger",
+      "zh-hans": "赋能·刀刃充能"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_blade_charger.bedeb0f2ceb9e91f99f682b990c09648.png",
+      "zh-hans": "items/images/en/arcane_blade_charger.bedeb0f2ceb9e91f99f682b990c09648.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_blade_charger.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_blade_charger.bedeb0f2ceb9e91f99f682b990c09648.128x128.png"
+    }
+  },
+  {
+    "id": "551085f4e7798972d0eaf1ad",
+    "slug": "arcane_warmth",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FreezeProcResist",
+    "tags": [
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Warmth",
+      "zh-hans": "赋能·温暖"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.png",
+      "zh-hans": "items/images/en/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.128x128.png"
+    }
+  },
+  {
+    "id": "5fb84767c34da3004797d53b",
+    "slug": "theorem_demulcent",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/WeaponDamageOnResidualContact",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Theorem Demulcent",
+      "zh-hans": "定理·缓和"
+    },
+    "icons": {
+      "en": "items/images/en/theorem_demulcent.463239df295fca00049643a7b4b0ff8b.png",
+      "zh-hans": "items/images/en/theorem_demulcent.463239df295fca00049643a7b4b0ff8b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/theorem_demulcent.463239df295fca00049643a7b4b0ff8b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/theorem_demulcent.463239df295fca00049643a7b4b0ff8b.128x128.png"
+    }
+  },
+  {
+    "id": "5fb84767c34da3004797d540",
+    "slug": "theorem_infection",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CompanionDamageOnResidualContact",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Theorem Infection",
+      "zh-hans": "定理·感染"
+    },
+    "icons": {
+      "en": "items/images/en/theorem_infection.1b72a86a16929c0a3c0848ca448e8783.png",
+      "zh-hans": "items/images/en/theorem_infection.1b72a86a16929c0a3c0848ca448e8783.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/theorem_infection.1b72a86a16929c0a3c0848ca448e8783.128x128.png",
+      "zh-hans": "items/images/en/thumbs/theorem_infection.1b72a86a16929c0a3c0848ca448e8783.128x128.png"
+    }
+  },
+  {
+    "id": "5fb84768c34da3004797d54b",
+    "slug": "residual_shock",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/LightningStrikeOnKill",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Residual Shock",
+      "zh-hans": "残差·电击"
+    },
+    "icons": {
+      "en": "items/images/en/residual_shock.931038e226263ca655a8e3e4eeb76cf6.png",
+      "zh-hans": "items/images/en/residual_shock.931038e226263ca655a8e3e4eeb76cf6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/residual_shock.931038e226263ca655a8e3e4eeb76cf6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/residual_shock.931038e226263ca655a8e3e4eeb76cf6.128x128.png"
+    }
+  },
+  {
+    "id": "566750e45dcbc186f0536bcf",
+    "slug": "arcane_arachne",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneBonusDamageOnWallLatch",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Arachne",
+      "zh-hans": "赋能·蜘蛛"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_arachne.6e3fe6374d5b710e6e55ccc70b395bc8.png",
+      "zh-hans": "items/images/en/arcane_arachne.6e3fe6374d5b710e6e55ccc70b395bc8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_arachne.6e3fe6374d5b710e6e55ccc70b395bc8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_arachne.6e3fe6374d5b710e6e55ccc70b395bc8.128x128.png"
+    }
+  },
+  {
+    "id": "5667516b5dcbc186f0536bd2",
+    "slug": "arcane_momentum",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneSniperSpeedOnCrit",
+    "tags": [
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Momentum",
+      "zh-hans": "赋能·动量"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_momentum.f551dd91689f3169160aafecddeede24.png",
+      "zh-hans": "items/images/en/arcane_momentum.f551dd91689f3169160aafecddeede24.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_momentum.f551dd91689f3169160aafecddeede24.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_momentum.f551dd91689f3169160aafecddeede24.128x128.png"
+    }
+  },
+  {
+    "id": "566751815dcbc186f0536bd3",
+    "slug": "arcane_precision",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolDamageOnHeadshot",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Precision",
+      "zh-hans": "赋能·精确"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_precision.9947891b2c40889b5ae96ea6987df9c1.png",
+      "zh-hans": "items/images/en/arcane_precision.9947891b2c40889b5ae96ea6987df9c1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_precision.9947891b2c40889b5ae96ea6987df9c1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_precision.9947891b2c40889b5ae96ea6987df9c1.128x128.png"
+    }
+  },
+  {
+    "id": "5fb84767c34da3004797d53e",
+    "slug": "residual_boils",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/BurningCystOnKill",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Residual Boils",
+      "zh-hans": "残差·燃沸"
+    },
+    "icons": {
+      "en": "items/images/en/residual_boils.93e9e7547e47068d710a638a90529a79.png",
+      "zh-hans": "items/images/en/residual_boils.93e9e7547e47068d710a638a90529a79.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/residual_boils.93e9e7547e47068d710a638a90529a79.128x128.png",
+      "zh-hans": "items/images/en/thumbs/residual_boils.93e9e7547e47068d710a638a90529a79.128x128.png"
+    }
+  },
+  {
+    "id": "5fb84768c34da3004797d54e",
+    "slug": "residual_viremia",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/ToxicBloodOnKill",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Residual Viremia",
+      "zh-hans": "残差·毒血"
+    },
+    "icons": {
+      "en": "items/images/en/residual_viremia.e6aabdd66ee9c050d79913a2b0eee1d2.png",
+      "zh-hans": "items/images/en/residual_viremia.e6aabdd66ee9c050d79913a2b0eee1d2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/residual_viremia.e6aabdd66ee9c050d79913a2b0eee1d2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/residual_viremia.e6aabdd66ee9c050d79913a2b0eee1d2.128x128.png"
+    }
+  },
+  {
+    "id": "5fb84768c34da3004797d54f",
+    "slug": "residual_malodor",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/IceMistOnKill",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Residual Malodor",
+      "zh-hans": "残差·恶嗅"
+    },
+    "icons": {
+      "en": "items/images/en/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.png",
+      "zh-hans": "items/images/en/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.128x128.png"
+    }
+  },
+  {
+    "id": "5fb84769c34da3004797d554",
+    "slug": "theorem_contagion",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OrbsOnResidualContact",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Theorem Contagion",
+      "zh-hans": "定理·触染"
+    },
+    "icons": {
+      "en": "items/images/en/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.png",
+      "zh-hans": "items/images/en/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.128x128.png",
+      "zh-hans": "items/images/en/thumbs/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.128x128.png"
+    }
+  },
+  {
+    "id": "5d8765df7ea27b08950c13ca",
+    "slug": "arcane_tanker",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ArmorOnHeavyGunEquipped",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Tanker",
+      "zh-hans": "赋能·坦克"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_tanker.bedeb0f2ceb9e91f99f682b990c09648.png",
+      "zh-hans": "items/images/en/arcane_tanker.bedeb0f2ceb9e91f99f682b990c09648.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_tanker.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_tanker.bedeb0f2ceb9e91f99f682b990c09648.128x128.png"
+    }
+  },
+  {
+    "id": "5d8765df7ea27b08950c13cc",
+    "slug": "arcane_pistoleer",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnPistolHeadshot",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Pistoleer",
+      "zh-hans": "赋能·枪炮"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_pistoleer.bedeb0f2ceb9e91f99f682b990c09648.png",
+      "zh-hans": "items/images/en/arcane_pistoleer.bedeb0f2ceb9e91f99f682b990c09648.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_pistoleer.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_pistoleer.bedeb0f2ceb9e91f99f682b990c09648.128x128.png"
+    }
+  },
+  {
+    "id": "5510859ce779897292ba1efc",
+    "slug": "arcane_avenger",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/CritChanceOnDamage",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Avenger",
+      "zh-hans": "赋能·复仇者"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_avenger.181b3606583aa0b904a1ebf0b6864e82.png",
+      "zh-hans": "items/images/en/arcane_avenger.181b3606583aa0b904a1ebf0b6864e82.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_avenger.181b3606583aa0b904a1ebf0b6864e82.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_avenger.181b3606583aa0b904a1ebf0b6864e82.128x128.png"
+    }
+  },
+  {
+    "id": "551085dde7798972c228aed9",
+    "slug": "arcane_rage",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunDamageOnHeadshot",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Rage",
+      "zh-hans": "赋能·愤怒"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.png",
+      "zh-hans": "items/images/en/arcane_rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_rage.5a83a065bab0b881f7b2d1c8a2dbd7a9.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f79479445008f272572",
+    "slug": "secondary_merciless",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnKill",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Secondary Merciless",
+      "zh-hans": "次要·无情"
+    },
+    "icons": {
+      "en": "items/images/en/secondary_merciless.3269867879aabaa2cb4c47af6302ea4e.png",
+      "zh-hans": "items/images/en/secondary_merciless.3269867879aabaa2cb4c47af6302ea4e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/secondary_merciless.3269867879aabaa2cb4c47af6302ea4e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/secondary_merciless.3269867879aabaa2cb4c47af6302ea4e.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f79479445008f272573",
+    "slug": "primary_merciless",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnKill",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Primary Merciless",
+      "zh-hans": "主要·无情"
+    },
+    "icons": {
+      "en": "items/images/en/primary_merciless.baca700cca91762be6465c5f52584fa7.png",
+      "zh-hans": "items/images/en/primary_merciless.baca700cca91762be6465c5f52584fa7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/primary_merciless.baca700cca91762be6465c5f52584fa7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/primary_merciless.baca700cca91762be6465c5f52584fa7.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7a479445008f27257d",
+    "slug": "secondary_dexterity",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnMeleeKill",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Secondary Dexterity",
+      "zh-hans": "次要·熟练"
+    },
+    "icons": {
+      "en": "items/images/en/secondary_dexterity.8fa0cf692f8f0e2f900e4175c5613460.png",
+      "zh-hans": "items/images/en/secondary_dexterity.8fa0cf692f8f0e2f900e4175c5613460.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/secondary_dexterity.8fa0cf692f8f0e2f900e4175c5613460.128x128.png",
+      "zh-hans": "items/images/en/thumbs/secondary_dexterity.8fa0cf692f8f0e2f900e4175c5613460.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f7f479445008f27259d",
+    "slug": "secondary_deadhead",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnNoMelee",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Secondary Deadhead",
+      "zh-hans": "次要·死首"
+    },
+    "icons": {
+      "en": "items/images/en/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.png",
+      "zh-hans": "items/images/en/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.128x128.png",
+      "zh-hans": "items/images/en/thumbs/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f80479445008f2725a4",
+    "slug": "primary_deadhead",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnNoMelee",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Primary Deadhead",
+      "zh-hans": "主要·死首"
+    },
+    "icons": {
+      "en": "items/images/en/primary_deadhead.75738d3c111067da8e673bf8000a6710.png",
+      "zh-hans": "items/images/en/primary_deadhead.75738d3c111067da8e673bf8000a6710.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/primary_deadhead.75738d3c111067da8e673bf8000a6710.128x128.png",
+      "zh-hans": "items/images/en/thumbs/primary_deadhead.75738d3c111067da8e673bf8000a6710.128x128.png"
+    }
+  },
+  {
+    "id": "60e70f80479445008f2725a6",
+    "slug": "primary_dexterity",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnMeleeKill",
+    "tags": [
+      "arcane_enhancement",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Primary Dexterity",
+      "zh-hans": "主要·熟练"
+    },
+    "icons": {
+      "en": "items/images/en/primary_dexterity.accc2c9a2780152f354696b2549814bc.png",
+      "zh-hans": "items/images/en/primary_dexterity.accc2c9a2780152f354696b2549814bc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/primary_dexterity.accc2c9a2780152f354696b2549814bc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/primary_dexterity.accc2c9a2780152f354696b2549814bc.128x128.png"
+    }
+  },
+  {
+    "id": "69765a057b65a4e83d4ab4ae",
+    "slug": "zid-an-sek-eel",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/UltimateInvisibilty",
+    "tags": [
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Zid-an Sek-eel",
+      "zh-hans": "齐塞"
+    },
+    "icons": {
+      "en": "items/images/en/zid-an-sek-eel.8bc9e9fa897d0231cdeca3f6d8645e66.webp",
+      "zh-hans": "items/images/en/zid-an-sek-eel.8bc9e9fa897d0231cdeca3f6d8645e66.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/zid-an-sek-eel.8bc9e9fa897d0231cdeca3f6d8645e66.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/zid-an-sek-eel.8bc9e9fa897d0231cdeca3f6d8645e66.128x128.webp"
+    }
+  },
+  {
+    "id": "69765a057b65a4e83d4ab4af",
+    "slug": "zid-an-asheir",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/StatusChanceOnUltimateHit",
+    "tags": [
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Zid-an Asheir",
+      "zh-hans": "齐阿"
+    },
+    "icons": {
+      "en": "items/images/en/zid-an-asheir.7b04215b7593ec4aca12d32ef276ef3c.webp",
+      "zh-hans": "items/images/en/zid-an-asheir.7b04215b7593ec4aca12d32ef276ef3c.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/zid-an-asheir.7b04215b7593ec4aca12d32ef276ef3c.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/zid-an-asheir.7b04215b7593ec4aca12d32ef276ef3c.128x128.webp"
+    }
+  },
+  {
+    "id": "69765a057b65a4e83d4ab4b0",
+    "slug": "zid-an-uskos",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/HeatStatusProcOnUltimateKill",
+    "tags": [
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Zid-an Uskos",
+      "zh-hans": "齐乌"
+    },
+    "icons": {
+      "en": "items/images/en/zid-an-uskos.818fb0745c38781db3fa7319dcb0729a.webp",
+      "zh-hans": "items/images/en/zid-an-uskos.818fb0745c38781db3fa7319dcb0729a.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/zid-an-uskos.818fb0745c38781db3fa7319dcb0729a.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/zid-an-uskos.818fb0745c38781db3fa7319dcb0729a.128x128.webp"
+    }
+  },
+  {
+    "id": "69765a067b65a4e83d4ab4b1",
+    "slug": "zid-an-haras",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/AmmoEfficencyDuringUltimate",
+    "tags": [
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Zid-an Haras",
+      "zh-hans": "齐哈"
+    },
+    "icons": {
+      "en": "items/images/en/zid-an-haras.56d691fea4cbd08f4dc35ac85d8fd1fb.webp",
+      "zh-hans": "items/images/en/zid-an-haras.56d691fea4cbd08f4dc35ac85d8fd1fb.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/zid-an-haras.56d691fea4cbd08f4dc35ac85d8fd1fb.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/zid-an-haras.56d691fea4cbd08f4dc35ac85d8fd1fb.128x128.webp"
+    }
+  },
+  {
+    "id": "69765a067b65a4e83d4ab4b2",
+    "slug": "zid-an-osbok",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/VoidSlingsOverguardStrip",
+    "tags": [
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Zid-an Osbok",
+      "zh-hans": "齐奥"
+    },
+    "icons": {
+      "en": "items/images/en/zid-an-osbok.bea2033c8ac9089bcff1ea005cdff694.webp",
+      "zh-hans": "items/images/en/zid-an-osbok.bea2033c8ac9089bcff1ea005cdff694.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/zid-an-osbok.bea2033c8ac9089bcff1ea005cdff694.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/zid-an-osbok.bea2033c8ac9089bcff1ea005cdff694.128x128.webp"
+    }
+  }
+]

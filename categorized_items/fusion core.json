@@ -1,0 +1,51 @@
+[
+  {
+    "id": "54aaf526e779896a8c2ecfd8",
+    "slug": "ancient_fusion_core",
+    "gameRef": "",
+    "tags": [
+      "fusion core",
+      "legendary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ancient Fusion Core",
+      "zh-hans": "远古融合核心"
+    },
+    "icons": {
+      "en": "items/images/en/ancient_fusion_core.98f3def86e72c56c2acc352e4da3d744.webp",
+      "zh-hans": "items/images/en/ancient_fusion_core.98f3def86e72c56c2acc352e4da3d744.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ancient_fusion_core.98f3def86e72c56c2acc352e4da3d744.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/ancient_fusion_core.98f3def86e72c56c2acc352e4da3d744.128x128.webp"
+    }
+  },
+  {
+    "id": "54aaf530e77989707ada3a7e",
+    "slug": "legendary_fusion_core",
+    "gameRef": "",
+    "tags": [
+      "fusion core"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Legendary Fusion Core",
+      "zh-hans": "传说核心"
+    },
+    "icons": {
+      "en": "items/images/en/legendary_fusion_core.094c2850f995a3d365d934296517c0d5.webp",
+      "zh-hans": "items/images/en/legendary_fusion_core.094c2850f995a3d365d934296517c0d5.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/legendary_fusion_core.094c2850f995a3d365d934296517c0d5.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/legendary_fusion_core.094c2850f995a3d365d934296517c0d5.128x128.webp"
+    }
+  }
+]

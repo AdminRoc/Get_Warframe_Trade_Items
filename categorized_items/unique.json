@@ -1,0 +1,29 @@
+[
+  {
+    "id": "55c15448e779895dccdabe9c",
+    "slug": "adhesive_blast",
+    "gameRef": "/Lotus/Upgrades/Mods/Rifle/WeaponGrenadeStickyMod",
+    "tags": [
+      "unique",
+      "mod",
+      "rare",
+      "primary"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Adhesive Blast",
+      "zh-hans": "凝胶爆破"
+    },
+    "icons": {
+      "en": "items/images/en/adhesive_blast.10b405d40b908ec8cf3ea73547e724f7.png",
+      "zh-hans": "items/images/en/adhesive_blast.10b405d40b908ec8cf3ea73547e724f7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/adhesive_blast.10b405d40b908ec8cf3ea73547e724f7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/adhesive_blast.10b405d40b908ec8cf3ea73547e724f7.128x128.png"
+    }
+  }
+]

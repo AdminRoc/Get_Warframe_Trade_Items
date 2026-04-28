@@ -1,0 +1,98 @@
+[
+  {
+    "id": "54d4c727e77989281cc7d753",
+    "slug": "mutalist_alad_v_assassinate_key",
+    "gameRef": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey",
+    "tags": [
+      "key"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Mutalist Alad V Assassinate (Key)",
+      "zh-hans": "异融 Alad V 刺杀 （钥匙）"
+    },
+    "icons": {
+      "en": "items/images/en/mutalist_alad_v_assassinate_key.7540fb6d7ef2b2843352e32c9ff64e73.png",
+      "zh-hans": "items/images/en/mutalist_alad_v_assassinate_key.7540fb6d7ef2b2843352e32c9ff64e73.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mutalist_alad_v_assassinate_key.7540fb6d7ef2b2843352e32c9ff64e73.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mutalist_alad_v_assassinate_key.7540fb6d7ef2b2843352e32c9ff64e73.128x128.png"
+    }
+  },
+  {
+    "id": "57222fbf92cc365777a61c10",
+    "slug": "sands_of_inaros",
+    "gameRef": "/Lotus/Types/Keys/MummyQuest/MummyQuestKeyChain",
+    "tags": [
+      "key"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Sands Of Inaros",
+      "zh-hans": "Inaros 之沙"
+    },
+    "icons": {
+      "en": "items/images/en/sands_of_inaros.1673d171ddb1a58800c1742a184d2af2.png",
+      "zh-hans": "items/images/en/sands_of_inaros.1673d171ddb1a58800c1742a184d2af2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sands_of_inaros.1673d171ddb1a58800c1742a184d2af2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sands_of_inaros.1673d171ddb1a58800c1742a184d2af2.128x128.png"
+    }
+  },
+  {
+    "id": "60537c312201ea0053ec2e59",
+    "slug": "nihils_oubliette_(key)",
+    "gameRef": "/Lotus/Types/Items/ShipDecos/Nightwave/GlassmakerShipDeco",
+    "tags": [
+      "key"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Nihil's Oubliette (Key)",
+      "zh-hans": "无刹的密牢 （钥匙）"
+    },
+    "icons": {
+      "en": "items/images/en/nihils_oubliette_(key).a25ee2dd868149b3492280528bdbfa86.png",
+      "zh-hans": "items/images/en/nihils_oubliette_(key).a25ee2dd868149b3492280528bdbfa86.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/nihils_oubliette_(key).a25ee2dd868149b3492280528bdbfa86.128x128.png",
+      "zh-hans": "items/images/en/thumbs/nihils_oubliette_(key).a25ee2dd868149b3492280528bdbfa86.128x128.png"
+    }
+  },
+  {
+    "id": "60537c322201ea0053ec2e5a",
+    "slug": "baro_void_signal_(key)",
+    "gameRef": "",
+    "tags": [
+      "key"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Baro Void-Signal (Key)",
+      "zh-hans": "Baro 虚空信号（钥匙）"
+    },
+    "icons": {
+      "en": "items/images/en/baro_void_signal_(key).d41c0135a2027f79ffcbf8d2889e9e96.webp",
+      "zh-hans": "items/images/en/baro_void_signal_(key).d41c0135a2027f79ffcbf8d2889e9e96.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/baro_void_signal_(key).d41c0135a2027f79ffcbf8d2889e9e96.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/baro_void_signal_(key).d41c0135a2027f79ffcbf8d2889e9e96.128x128.webp"
+    }
+  }
+]

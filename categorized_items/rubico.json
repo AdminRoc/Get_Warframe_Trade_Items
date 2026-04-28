@@ -1,0 +1,30 @@
+[
+  {
+    "id": "56dac5b05cc639de0a45c527",
+    "slug": "ambush_optics",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Rifle/RubicoLowZoom",
+    "tags": [
+      "rubico",
+      "primary",
+      "pvp",
+      "rare",
+      "mod"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Ambush Optics",
+      "zh-hans": "伏击光子"
+    },
+    "icons": {
+      "en": "items/images/en/ambush_optics_(rubico).95034bc198404a324392a661e7e6cd0c.png",
+      "zh-hans": "items/images/en/ambush_optics_(rubico).95034bc198404a324392a661e7e6cd0c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ambush_optics_(rubico).95034bc198404a324392a661e7e6cd0c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ambush_optics_(rubico).95034bc198404a324392a661e7e6cd0c.128x128.png"
+    }
+  }
+]

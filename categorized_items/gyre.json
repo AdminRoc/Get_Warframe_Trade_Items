@@ -1,0 +1,86 @@
+[
+  {
+    "id": "63ee00fd10125411da49e6e9",
+    "slug": "cathode_current",
+    "gameRef": "/Lotus/Powersuits/Gyre/GyreEnergizedAugmentCard",
+    "tags": [
+      "gyre",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Cathode Current",
+      "zh-hans": "阴极电流"
+    },
+    "icons": {
+      "en": "items/images/en/cathode_current.518865b7d6dd246b66a58217bf3aab8a.png",
+      "zh-hans": "items/images/en/cathode_current.518865b7d6dd246b66a58217bf3aab8a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cathode_current.518865b7d6dd246b66a58217bf3aab8a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cathode_current.518865b7d6dd246b66a58217bf3aab8a.128x128.png"
+    }
+  },
+  {
+    "id": "66fd67dc3a826eccf651cd4f",
+    "slug": "coil_recharge",
+    "gameRef": "/Lotus/Powersuits/Gyre/GyreSphereAugmentCard",
+    "tags": [
+      "gyre",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Coil Recharge",
+      "zh-hans": "旋爆电击"
+    },
+    "icons": {
+      "en": "items/images/en/coil_recharge.a81cadf3c1f6e67c92c188534ced77b2.webp",
+      "zh-hans": "items/images/en/coil_recharge.a81cadf3c1f6e67c92c188534ced77b2.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/coil_recharge.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/coil_recharge.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp"
+    }
+  },
+  {
+    "id": "67db60859cec3e52e62523f2",
+    "slug": "conductive_sphere",
+    "gameRef": "/Lotus/Powersuits/Gyre/GyrePulseAugmentCard",
+    "tags": [
+      "gyre",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Conductive Sphere",
+      "zh-hans": "导电球"
+    },
+    "icons": {
+      "en": "items/images/en/conductive_sphere.8c1849daaf94f9404d2160952ae70691.webp",
+      "zh-hans": "items/images/en/conductive_sphere.8c1849daaf94f9404d2160952ae70691.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/conductive_sphere.8c1849daaf94f9404d2160952ae70691.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/conductive_sphere.8c1849daaf94f9404d2160952ae70691.128x128.webp"
+    }
+  }
+]

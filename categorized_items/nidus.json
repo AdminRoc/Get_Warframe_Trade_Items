@@ -1,0 +1,142 @@
+[
+  {
+    "id": "5cb04869fc2db2068006980f",
+    "slug": "teeming_virulence",
+    "gameRef": "/Lotus/Powersuits/Infestation/InfestRuptureAugmentCard",
+    "tags": [
+      "nidus",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Teeming Virulence",
+      "zh-hans": "猛爆致病"
+    },
+    "icons": {
+      "en": "items/images/en/teeming_virulence.fa710f9e32c92ec59ee9bd77215811d0.png",
+      "zh-hans": "items/images/en/teeming_virulence.fa710f9e32c92ec59ee9bd77215811d0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/teeming_virulence.fa710f9e32c92ec59ee9bd77215811d0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/teeming_virulence.fa710f9e32c92ec59ee9bd77215811d0.128x128.png"
+    }
+  },
+  {
+    "id": "5ecd08d704d55c0806f85348",
+    "slug": "abundant_mutation",
+    "gameRef": "/Lotus/Powersuits/Infestation/InfestPassiveAugmentCard",
+    "tags": [
+      "nidus",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Abundant Mutation",
+      "zh-hans": "增生突变"
+    },
+    "icons": {
+      "en": "items/images/en/abundant_mutation.a7d69a73522f536dedb348626a8efdfc.png",
+      "zh-hans": "items/images/en/abundant_mutation.a7d69a73522f536dedb348626a8efdfc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/abundant_mutation.a7d69a73522f536dedb348626a8efdfc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/abundant_mutation.a7d69a73522f536dedb348626a8efdfc.128x128.png"
+    }
+  },
+  {
+    "id": "5a6b495c7f2bca025fde2b58",
+    "slug": "larva_burst",
+    "gameRef": "/Lotus/Powersuits/Infestation/InfestTendrilsAugmentCard",
+    "tags": [
+      "nidus",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Larva Burst",
+      "zh-hans": "幼体爆发"
+    },
+    "icons": {
+      "en": "items/images/en/larva_burst.cc35be884ce7c5ef3c9913a9586a76aa.png",
+      "zh-hans": "items/images/en/larva_burst.cc35be884ce7c5ef3c9913a9586a76aa.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/larva_burst.cc35be884ce7c5ef3c9913a9586a76aa.128x128.png",
+      "zh-hans": "items/images/en/thumbs/larva_burst.cc35be884ce7c5ef3c9913a9586a76aa.128x128.png"
+    }
+  },
+  {
+    "id": "5b50a3ac3a84fd02a782324b",
+    "slug": "insatiable",
+    "gameRef": "/Lotus/Powersuits/Infestation/InfestPodsAugmentCard",
+    "tags": [
+      "nidus",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Insatiable",
+      "zh-hans": "不竭贪婪"
+    },
+    "icons": {
+      "en": "items/images/en/insatiable.8bb5b675d8f3bbae956d3abb47b4a170.png",
+      "zh-hans": "items/images/en/insatiable.8bb5b675d8f3bbae956d3abb47b4a170.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/insatiable.8bb5b675d8f3bbae956d3abb47b4a170.128x128.png",
+      "zh-hans": "items/images/en/thumbs/insatiable.8bb5b675d8f3bbae956d3abb47b4a170.128x128.png"
+    }
+  },
+  {
+    "id": "6604a680dbdd5c1673781dbb",
+    "slug": "parasitic_vitality",
+    "gameRef": "/Lotus/Powersuits/Infestation/InfestLinkAugmentCard",
+    "tags": [
+      "nidus",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Parasitic Vitality",
+      "zh-hans": "寄生 生命力"
+    },
+    "icons": {
+      "en": "items/images/en/parasitic_vitality.6aba69113d42dd27bcfee1981bd734e5.png",
+      "zh-hans": "items/images/en/parasitic_vitality.6aba69113d42dd27bcfee1981bd734e5.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/parasitic_vitality.6aba69113d42dd27bcfee1981bd734e5.128x128.png",
+      "zh-hans": "items/images/en/thumbs/parasitic_vitality.6aba69113d42dd27bcfee1981bd734e5.128x128.png"
+    }
+  }
+]

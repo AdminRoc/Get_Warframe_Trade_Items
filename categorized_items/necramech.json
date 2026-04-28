@@ -1,0 +1,458 @@
+[
+  {
+    "id": "5f498a1f9426ed00443bd0a0",
+    "slug": "damaged_necramech_weapon_pod",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartWeaponPodItem",
+    "tags": [
+      "necramech",
+      "component",
+      "damaged"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Damaged Necramech Weapon Pod",
+      "zh-hans": "损坏的殁世机甲 武器舱"
+    },
+    "icons": {
+      "en": "items/images/en/damaged_necramech_weapon_pod.e008174ff300af7f99fd100df35b7652.png",
+      "zh-hans": "items/images/en/damaged_necramech_weapon_pod.e008174ff300af7f99fd100df35b7652.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/damaged_necramech_weapon_pod.e008174ff300af7f99fd100df35b7652.128x128.png",
+      "zh-hans": "items/images/en/thumbs/damaged_necramech_weapon_pod.e008174ff300af7f99fd100df35b7652.128x128.png"
+    }
+  },
+  {
+    "id": "5f498a209426ed00443bd0a4",
+    "slug": "damaged_necramech_engine",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartEngineItem",
+    "tags": [
+      "necramech",
+      "component",
+      "damaged"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Damaged Necramech Engine",
+      "zh-hans": "损坏的殁世机甲 引擎"
+    },
+    "icons": {
+      "en": "items/images/en/damaged_necramech_engine.f3362d44d24c273f8799f229983e53d6.png",
+      "zh-hans": "items/images/en/damaged_necramech_engine.f3362d44d24c273f8799f229983e53d6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/damaged_necramech_engine.f3362d44d24c273f8799f229983e53d6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/damaged_necramech_engine.f3362d44d24c273f8799f229983e53d6.128x128.png"
+    }
+  },
+  {
+    "id": "5f498a219426ed00443bd0a8",
+    "slug": "damaged_necramech_weapon_set",
+    "gameRef": "",
+    "tags": [
+      "necramech",
+      "weapon",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Damaged Necramech Weapon Set",
+      "zh-hans": "损坏的殁世机甲武器 一套"
+    },
+    "icons": {
+      "en": "items/images/en/damaged_necramech_weapon_set.b273d89779e4f681c8323227ce22052f.webp",
+      "zh-hans": "items/images/en/damaged_necramech_weapon_set.b273d89779e4f681c8323227ce22052f.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/damaged_necramech_weapon_set.b273d89779e4f681c8323227ce22052f.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/damaged_necramech_weapon_set.b273d89779e4f681c8323227ce22052f.128x128.webp"
+    }
+  },
+  {
+    "id": "5f498a259426ed00443bd0c6",
+    "slug": "damaged_necramech_set",
+    "gameRef": "",
+    "tags": [
+      "necramech",
+      "set",
+      "mech"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Damaged Necramech Set",
+      "zh-hans": "损坏的殁世机甲 一套"
+    },
+    "icons": {
+      "en": "items/images/en/damaged_necramech_set.e17864dfe78acafe6bec06c085f80edf.webp",
+      "zh-hans": "items/images/en/damaged_necramech_set.e17864dfe78acafe6bec06c085f80edf.webp"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/damaged_necramech_set.e17864dfe78acafe6bec06c085f80edf.128x128.webp",
+      "zh-hans": "items/images/en/thumbs/damaged_necramech_set.e17864dfe78acafe6bec06c085f80edf.128x128.webp"
+    }
+  },
+  {
+    "id": "5f498a259426ed00443bd0cd",
+    "slug": "damaged_necramech_pod",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
+    "tags": [
+      "necramech",
+      "component",
+      "damaged"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Damaged Necramech Pod",
+      "zh-hans": "损坏的殁世机甲 机舱"
+    },
+    "icons": {
+      "en": "items/images/en/damaged_necramech_pod.2d84326db74bb9cc5c9a8e60e43c037e.png",
+      "zh-hans": "items/images/en/damaged_necramech_pod.2d84326db74bb9cc5c9a8e60e43c037e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/damaged_necramech_pod.2d84326db74bb9cc5c9a8e60e43c037e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/damaged_necramech_pod.2d84326db74bb9cc5c9a8e60e43c037e.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c16db57b0185b3906e",
+    "slug": "bonewidow_set",
+    "gameRef": "/Lotus/Powersuits/EntratiMech/ThanoTech",
+    "tags": [
+      "necramech",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Bonewidow Set",
+      "zh-hans": "骨骸寡妇 一套"
+    },
+    "icons": {
+      "en": "items/images/en/bonewidow_set.7858543d86d523cc11593591599b92a2.png",
+      "zh-hans": "items/images/en/bonewidow_set.7858543d86d523cc11593591599b92a2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/bonewidow_set.7858543d86d523cc11593591599b92a2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/bonewidow_set.7858543d86d523cc11593591599b92a2.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c26db57b0185b3906f",
+    "slug": "bonewidow_weapon_pod",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartWeaponPodItem",
+    "tags": [
+      "necramech",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Bonewidow Weapon Pod",
+      "zh-hans": "骨骸寡妇 武器舱"
+    },
+    "icons": {
+      "en": "items/images/en/bonewidow_weapon_pod.c041e9d28d729aa9bdefa255ef272fa1.png",
+      "zh-hans": "items/images/zh-hans/bonewidow_weapon_pod.c041e9d28d729aa9bdefa255ef272fa1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/bonewidow_weapon_pod.c041e9d28d729aa9bdefa255ef272fa1.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/bonewidow_weapon_pod.c041e9d28d729aa9bdefa255ef272fa1.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c26db57b0185b39070",
+    "slug": "bonewidow_casing",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartChassisItem",
+    "tags": [
+      "necramech",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Bonewidow Casing",
+      "zh-hans": "骨骸寡妇 外壳"
+    },
+    "icons": {
+      "en": "items/images/en/bonewidow_casing.d8acf865db09a10d93fdac2cdd1e8211.png",
+      "zh-hans": "items/images/zh-hans/bonewidow_casing.d8acf865db09a10d93fdac2cdd1e8211.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/bonewidow_casing.d8acf865db09a10d93fdac2cdd1e8211.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/bonewidow_casing.d8acf865db09a10d93fdac2cdd1e8211.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c26db57b0185b39071",
+    "slug": "morgha_stock",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherStockItem",
+    "tags": [
+      "necramech",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Morgha Stock",
+      "zh-hans": "置灵者 枪托"
+    },
+    "icons": {
+      "en": "items/images/en/morgha_stock.91f0b5fabbeeebd690890cd4e16ebf71.png",
+      "zh-hans": "items/images/zh-hans/morgha_stock.91f0b5fabbeeebd690890cd4e16ebf71.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/morgha_stock.91f0b5fabbeeebd690890cd4e16ebf71.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/morgha_stock.91f0b5fabbeeebd690890cd4e16ebf71.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c26db57b0185b39073",
+    "slug": "cortege_barrel",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem",
+    "tags": [
+      "necramech",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cortege Barrel",
+      "zh-hans": "送葬者 枪管"
+    },
+    "icons": {
+      "en": "items/images/en/cortege_barrel.d33f9cd234690f5b7be1daaaa236a64f.png",
+      "zh-hans": "items/images/zh-hans/cortege_barrel.d33f9cd234690f5b7be1daaaa236a64f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cortege_barrel.d33f9cd234690f5b7be1daaaa236a64f.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/cortege_barrel.d33f9cd234690f5b7be1daaaa236a64f.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c56db57b0185b3907e",
+    "slug": "cortege_stock",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunStockItem",
+    "tags": [
+      "necramech",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cortege Stock",
+      "zh-hans": "送葬者 枪托"
+    },
+    "icons": {
+      "en": "items/images/en/cortege_stock.91f0b5fabbeeebd690890cd4e16ebf71.png",
+      "zh-hans": "items/images/zh-hans/cortege_stock.91f0b5fabbeeebd690890cd4e16ebf71.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cortege_stock.91f0b5fabbeeebd690890cd4e16ebf71.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/cortege_stock.91f0b5fabbeeebd690890cd4e16ebf71.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c66db57b0185b39085",
+    "slug": "bonewidow_capsule",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem",
+    "tags": [
+      "necramech",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Bonewidow Capsule",
+      "zh-hans": "骨骸寡妇 机舱"
+    },
+    "icons": {
+      "en": "items/images/en/bonewidow_capsule.75bd55fc8ff8512e1667272e4bc4e567.png",
+      "zh-hans": "items/images/zh-hans/bonewidow_capsule.75bd55fc8ff8512e1667272e4bc4e567.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/bonewidow_capsule.75bd55fc8ff8512e1667272e4bc4e567.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/bonewidow_capsule.75bd55fc8ff8512e1667272e4bc4e567.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c66db57b0185b39086",
+    "slug": "voidrig_set",
+    "gameRef": "/Lotus/Powersuits/EntratiMech/NechroTech",
+    "tags": [
+      "necramech",
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Voidrig Set",
+      "zh-hans": "虚空锐将 一套"
+    },
+    "icons": {
+      "en": "items/images/en/voidrig_set.7174a72013c8dc2d0464cb6454f9c161.png",
+      "zh-hans": "items/images/en/voidrig_set.7174a72013c8dc2d0464cb6454f9c161.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/voidrig_set.7174a72013c8dc2d0464cb6454f9c161.128x128.png",
+      "zh-hans": "items/images/en/thumbs/voidrig_set.7174a72013c8dc2d0464cb6454f9c161.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c26db57b0185b39072",
+    "slug": "morgha_receiver",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherReceiverItem",
+    "tags": [
+      "necramech",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Morgha Receiver",
+      "zh-hans": "置灵者 枪机"
+    },
+    "icons": {
+      "en": "items/images/en/morgha_receiver.a08482f3e246479e09f00f1ee8ffccb6.png",
+      "zh-hans": "items/images/zh-hans/morgha_receiver.a08482f3e246479e09f00f1ee8ffccb6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/morgha_receiver.a08482f3e246479e09f00f1ee8ffccb6.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/morgha_receiver.a08482f3e246479e09f00f1ee8ffccb6.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c36db57b0185b39075",
+    "slug": "cortege_receiver",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunReceiverItem",
+    "tags": [
+      "necramech",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Cortege Receiver",
+      "zh-hans": "送葬者 枪机"
+    },
+    "icons": {
+      "en": "items/images/en/cortege_receiver.a08482f3e246479e09f00f1ee8ffccb6.png",
+      "zh-hans": "items/images/zh-hans/cortege_receiver.a08482f3e246479e09f00f1ee8ffccb6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cortege_receiver.a08482f3e246479e09f00f1ee8ffccb6.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/cortege_receiver.a08482f3e246479e09f00f1ee8ffccb6.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c66db57b0185b39083",
+    "slug": "bonewidow_engine",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem",
+    "tags": [
+      "necramech",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Bonewidow Engine",
+      "zh-hans": "骨骸寡妇 引擎"
+    },
+    "icons": {
+      "en": "items/images/en/bonewidow_engine.8644e648e796b8b8db590ee5de986cca.png",
+      "zh-hans": "items/images/zh-hans/bonewidow_engine.8644e648e796b8b8db590ee5de986cca.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/bonewidow_engine.8644e648e796b8b8db590ee5de986cca.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/bonewidow_engine.8644e648e796b8b8db590ee5de986cca.128x128.png"
+    }
+  },
+  {
+    "id": "5f498a269426ed00443bd0d3",
+    "slug": "damaged_necramech_casing",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartChassisItem",
+    "tags": [
+      "necramech",
+      "component",
+      "damaged"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Damaged Necramech Casing",
+      "zh-hans": "损坏的殁世机甲 外壳"
+    },
+    "icons": {
+      "en": "items/images/en/damaged_necramech_casing.544ed6631ed590f8ae4d8f90322bd04a.png",
+      "zh-hans": "items/images/en/damaged_necramech_casing.544ed6631ed590f8ae4d8f90322bd04a.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/damaged_necramech_casing.544ed6631ed590f8ae4d8f90322bd04a.128x128.png",
+      "zh-hans": "items/images/en/thumbs/damaged_necramech_casing.544ed6631ed590f8ae4d8f90322bd04a.128x128.png"
+    }
+  },
+  {
+    "id": "5fde10c46db57b0185b3907b",
+    "slug": "morgha_barrel",
+    "gameRef": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem",
+    "tags": [
+      "necramech",
+      "component"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Morgha Barrel",
+      "zh-hans": "置灵者 枪管"
+    },
+    "icons": {
+      "en": "items/images/en/morgha_barrel.d33f9cd234690f5b7be1daaaa236a64f.png",
+      "zh-hans": "items/images/zh-hans/morgha_barrel.d33f9cd234690f5b7be1daaaa236a64f.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/morgha_barrel.d33f9cd234690f5b7be1daaaa236a64f.128x128.png",
+      "zh-hans": "items/images/zh-hans/thumbs/morgha_barrel.d33f9cd234690f5b7be1daaaa236a64f.128x128.png"
+    }
+  }
+]

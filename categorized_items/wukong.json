@@ -1,0 +1,86 @@
+[
+  {
+    "id": "576459af3ae92d545fd1e7b7",
+    "slug": "primal_rage",
+    "gameRef": "/Lotus/Powersuits/MonkeyKing/MonkeyStaffAugmentCard",
+    "tags": [
+      "wukong",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Primal Rage",
+      "zh-hans": "原始暴怒"
+    },
+    "icons": {
+      "en": "items/images/en/primal_rage.c7d10e485d85553cea850b0a6514337e.png",
+      "zh-hans": "items/images/en/primal_rage.c7d10e485d85553cea850b0a6514337e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/primal_rage.c7d10e485d85553cea850b0a6514337e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/primal_rage.c7d10e485d85553cea850b0a6514337e.128x128.png"
+    }
+  },
+  {
+    "id": "576459b43ae92d545fd1e7b8",
+    "slug": "celestial_stomp",
+    "gameRef": "/Lotus/Powersuits/MonkeyKing/MonkeyPokeAugmentCard",
+    "tags": [
+      "wukong",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Celestial Stomp",
+      "zh-hans": "天圣践踏"
+    },
+    "icons": {
+      "en": "items/images/en/celestial_stomp.b63ddae93673a888011f8996a80c8a41.png",
+      "zh-hans": "items/images/en/celestial_stomp.b63ddae93673a888011f8996a80c8a41.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/celestial_stomp.b63ddae93673a888011f8996a80c8a41.128x128.png",
+      "zh-hans": "items/images/en/thumbs/celestial_stomp.b63ddae93673a888011f8996a80c8a41.128x128.png"
+    }
+  },
+  {
+    "id": "5b91784d0566c80216658ce9",
+    "slug": "enveloping_cloud",
+    "gameRef": "/Lotus/Powersuits/MonkeyKing/MonkeyCloudAugmentCard",
+    "tags": [
+      "wukong",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Enveloping Cloud",
+      "zh-hans": "包覆游云"
+    },
+    "icons": {
+      "en": "items/images/en/enveloping_cloud.bd980ad56e9579b5c5f5504079f7d273.png",
+      "zh-hans": "items/images/en/enveloping_cloud.bd980ad56e9579b5c5f5504079f7d273.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/enveloping_cloud.bd980ad56e9579b5c5f5504079f7d273.128x128.png",
+      "zh-hans": "items/images/en/thumbs/enveloping_cloud.bd980ad56e9579b5c5f5504079f7d273.128x128.png"
+    }
+  }
+]

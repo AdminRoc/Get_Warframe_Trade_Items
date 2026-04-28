@@ -1,0 +1,1081 @@
+[
+  {
+    "id": "54a74454e779892d5e515600",
+    "slug": "polar_magazine",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponFreezeDamageMod",
+    "tags": [
+      "uncommon",
+      "primary",
+      "mod",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Polar Magazine",
+      "zh-hans": "极地弹仓"
+    },
+    "icons": {
+      "en": "items/images/en/polar_magazine.b1ff9ac7249fcc44429a6fa9153236fb.png",
+      "zh-hans": "items/images/en/polar_magazine.b1ff9ac7249fcc44429a6fa9153236fb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/polar_magazine.b1ff9ac7249fcc44429a6fa9153236fb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/polar_magazine.b1ff9ac7249fcc44429a6fa9153236fb.128x128.png"
+    }
+  },
+  {
+    "id": "551085ece7798972cb579c3e",
+    "slug": "arcane_trickery",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/InvisibilityOnFinisher",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Trickery",
+      "zh-hans": "赋能·诡计"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_trickery.bec8b43aaa7a5ec1cb152f017516a69c.png",
+      "zh-hans": "items/images/en/arcane_trickery.bec8b43aaa7a5ec1cb152f017516a69c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_trickery.bec8b43aaa7a5ec1cb152f017516a69c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_trickery.bec8b43aaa7a5ec1cb152f017516a69c.128x128.png"
+    }
+  },
+  {
+    "id": "566751d35dcbc186f0536bd6",
+    "slug": "arcane_velocity",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolSpeedOnCrit",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Velocity",
+      "zh-hans": "赋能·迅速"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_velocity.ea37edd24f8212ce4bb283205658829b.png",
+      "zh-hans": "items/images/en/arcane_velocity.ea37edd24f8212ce4bb283205658829b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_velocity.ea37edd24f8212ce4bb283205658829b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_velocity.ea37edd24f8212ce4bb283205658829b.128x128.png"
+    }
+  },
+  {
+    "id": "55a46c61e779890338bfadd8",
+    "slug": "arcane_resistance",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ElectricityProcResist",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Resistance",
+      "zh-hans": "赋能·抗毒"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_resistance.4ca1f093ba47158b7f2641f3508e9b99.png",
+      "zh-hans": "items/images/en/arcane_resistance.4ca1f093ba47158b7f2641f3508e9b99.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_resistance.4ca1f093ba47158b7f2641f3508e9b99.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_resistance.4ca1f093ba47158b7f2641f3508e9b99.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156ab",
+    "slug": "modified_munitions",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleStatusChanceMod",
+    "tags": [
+      "uncommon",
+      "primary",
+      "mod",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Modified Munitions",
+      "zh-hans": "弹药改良"
+    },
+    "icons": {
+      "en": "items/images/en/modified_munitions.f055ca94ece97bff9a5d5a67fd947d2c.png",
+      "zh-hans": "items/images/en/modified_munitions.f055ca94ece97bff9a5d5a67fd947d2c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/modified_munitions.f055ca94ece97bff9a5d5a67fd947d2c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/modified_munitions.f055ca94ece97bff9a5d5a67fd947d2c.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bda1b14a8e4006b1dad92",
+    "slug": "magus_repair",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidMode",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magus Repair",
+      "zh-hans": "魔导·修复"
+    },
+    "icons": {
+      "en": "items/images/en/magus_repair.476b8fa90aceb37cf1b07e223f1669fb.png",
+      "zh-hans": "items/images/en/magus_repair.476b8fa90aceb37cf1b07e223f1669fb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magus_repair.476b8fa90aceb37cf1b07e223f1669fb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magus_repair.476b8fa90aceb37cf1b07e223f1669fb.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bda1e14a8e4006b1dad95",
+    "slug": "magus_glitch",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/NoPenaltyOnDeath",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magus Glitch",
+      "zh-hans": "魔导·干扰"
+    },
+    "icons": {
+      "en": "items/images/en/magus_glitch.280ca4675b8d1d36f742493903bf7c3c.png",
+      "zh-hans": "items/images/en/magus_glitch.280ca4675b8d1d36f742493903bf7c3c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magus_glitch.280ca4675b8d1d36f742493903bf7c3c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magus_glitch.280ca4675b8d1d36f742493903bf7c3c.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e515692",
+    "slug": "blazing_steel",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponFireDamageMod",
+    "tags": [
+      "uncommon",
+      "melee",
+      "mod",
+      "archwing",
+      "archmelee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Blazing Steel",
+      "zh-hans": "炽烈坚刃"
+    },
+    "icons": {
+      "en": "items/images/en/blazing_steel.4462c08189e7218a64537da221faa4c6.png",
+      "zh-hans": "items/images/en/blazing_steel.4462c08189e7218a64537da221faa4c6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/blazing_steel.4462c08189e7218a64537da221faa4c6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/blazing_steel.4462c08189e7218a64537da221faa4c6.128x128.png"
+    }
+  },
+  {
+    "id": "551085e4e7798972c7353fb0",
+    "slug": "arcane_strike",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeSpeedOnHit",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Strike",
+      "zh-hans": "赋能·速攻"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_strike.27c40994b55f506fe736175c9cebbf0e.png",
+      "zh-hans": "items/images/en/arcane_strike.27c40994b55f506fe736175c9cebbf0e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_strike.27c40994b55f506fe736175c9cebbf0e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_strike.27c40994b55f506fe736175c9cebbf0e.128x128.png"
+    }
+  },
+  {
+    "id": "55a46ad5e77989029d9706ee",
+    "slug": "arcane_victory",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HealthRegenOnHeadshot",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Victory",
+      "zh-hans": "赋能·胜利"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_victory.2e3e7da2e7600a0e376eae98c3fd80a9.png",
+      "zh-hans": "items/images/en/arcane_victory.2e3e7da2e7600a0e376eae98c3fd80a9.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_victory.2e3e7da2e7600a0e376eae98c3fd80a9.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_victory.2e3e7da2e7600a0e376eae98c3fd80a9.128x128.png"
+    }
+  },
+  {
+    "id": "551085b5e7798972a3b857aa",
+    "slug": "arcane_eruption",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/RadialKnockdownOnEnergyPickup",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Eruption",
+      "zh-hans": "赋能·爆发"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_eruption.96e2b7f03322df6295089a9dd442df86.png",
+      "zh-hans": "items/images/en/arcane_eruption.96e2b7f03322df6295089a9dd442df86.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_eruption.96e2b7f03322df6295089a9dd442df86.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_eruption.96e2b7f03322df6295089a9dd442df86.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155c7",
+    "slug": "combustion_rounds",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponFireDamageMod",
+    "tags": [
+      "uncommon",
+      "primary",
+      "mod",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Combustion Rounds",
+      "zh-hans": "燃烧弹头"
+    },
+    "icons": {
+      "en": "items/images/en/combustion_rounds.5f8d4224dcdc992f9029cd491cd98f35.png",
+      "zh-hans": "items/images/en/combustion_rounds.5f8d4224dcdc992f9029cd491cd98f35.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/combustion_rounds.5f8d4224dcdc992f9029cd491cd98f35.128x128.png",
+      "zh-hans": "items/images/en/thumbs/combustion_rounds.5f8d4224dcdc992f9029cd491cd98f35.128x128.png"
+    }
+  },
+  {
+    "id": "551085a6e77989729ab10a35",
+    "slug": "arcane_awakening",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/PistolDamageOnReload",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Awakening",
+      "zh-hans": "赋能·觉醒"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_awakening.5d194d91360b233f4226fd02af5d7d1d.png",
+      "zh-hans": "items/images/en/arcane_awakening.5d194d91360b233f4226fd02af5d7d1d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_awakening.5d194d91360b233f4226fd02af5d7d1d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_awakening.5d194d91360b233f4226fd02af5d7d1d.128x128.png"
+    }
+  },
+  {
+    "id": "55a46c43e77989032fa38f11",
+    "slug": "arcane_deflection",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SlashProcResist",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Deflection",
+      "zh-hans": "赋能·偏折"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_deflection.6ee1147da81f3a9f705621012c560832.png",
+      "zh-hans": "items/images/en/arcane_deflection.6ee1147da81f3a9f705621012c560832.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_deflection.6ee1147da81f3a9f705621012c560832.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_deflection.6ee1147da81f3a9f705621012c560832.128x128.png"
+    }
+  },
+  {
+    "id": "5a0475086c4655012038ddc0",
+    "slug": "exodia_valor",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritChannelingDamage",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Exodia Valor",
+      "zh-hans": "神威·勇猛"
+    },
+    "icons": {
+      "en": "items/images/en/exodia_valor.6944e42105fc09e60c8a843acedfd7cf.png",
+      "zh-hans": "items/images/en/exodia_valor.6944e42105fc09e60c8a843acedfd7cf.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/exodia_valor.6944e42105fc09e60c8a843acedfd7cf.128x128.png",
+      "zh-hans": "items/images/en/thumbs/exodia_valor.6944e42105fc09e60c8a843acedfd7cf.128x128.png"
+    }
+  },
+  {
+    "id": "5754a31be701ef5844257dab",
+    "slug": "armored_recovery",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/RagdollImmunityMod",
+    "tags": [
+      "uncommon",
+      "pvp",
+      "mod",
+      "warframe"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Armored Recovery",
+      "zh-hans": "复原装甲"
+    },
+    "icons": {
+      "en": "items/images/en/armored_recovery.ca5e0f617d60d6227b4499bfcffb898b.png",
+      "zh-hans": "items/images/en/armored_recovery.ca5e0f617d60d6227b4499bfcffb898b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/armored_recovery.ca5e0f617d60d6227b4499bfcffb898b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/armored_recovery.ca5e0f617d60d6227b4499bfcffb898b.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515670",
+    "slug": "rubedo_lined_barrel",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleDamageAmountMod",
+    "tags": [
+      "uncommon",
+      "primary",
+      "mod",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Rubedo-Lined Barrel",
+      "zh-hans": "红晶枪管"
+    },
+    "icons": {
+      "en": "items/images/en/rubedo_lined_barrel.1aaa79bd2072d87ef1401758528b0ed0.png",
+      "zh-hans": "items/images/en/rubedo_lined_barrel.1aaa79bd2072d87ef1401758528b0ed0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/rubedo_lined_barrel.1aaa79bd2072d87ef1401758528b0ed0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/rubedo_lined_barrel.1aaa79bd2072d87ef1401758528b0ed0.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156db",
+    "slug": "electrified_barrel",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponElectricityDamageMod",
+    "tags": [
+      "uncommon",
+      "primary",
+      "mod",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Electrified Barrel",
+      "zh-hans": "带电枪管"
+    },
+    "icons": {
+      "en": "items/images/en/electrified_barrel.4578f59f618c4033e9f3b00df2bbc921.png",
+      "zh-hans": "items/images/en/electrified_barrel.4578f59f618c4033e9f3b00df2bbc921.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/electrified_barrel.4578f59f618c4033e9f3b00df2bbc921.128x128.png",
+      "zh-hans": "items/images/en/thumbs/electrified_barrel.4578f59f618c4033e9f3b00df2bbc921.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e5155d9",
+    "slug": "cutting_edge",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeDamageMod",
+    "tags": [
+      "uncommon",
+      "melee",
+      "mod",
+      "archwing",
+      "archmelee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 10,
+    "subtypes": null,
+    "names": {
+      "en": "Cutting Edge",
+      "zh-hans": "切割刃缘"
+    },
+    "icons": {
+      "en": "items/images/en/cutting_edge.757405ee47cf3e77d647d18202d1bc99.png",
+      "zh-hans": "items/images/en/cutting_edge.757405ee47cf3e77d647d18202d1bc99.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/cutting_edge.757405ee47cf3e77d647d18202d1bc99.128x128.png",
+      "zh-hans": "items/images/en/thumbs/cutting_edge.757405ee47cf3e77d647d18202d1bc99.128x128.png"
+    }
+  },
+  {
+    "id": "55108594e77989728d5100c6",
+    "slug": "arcane_agility",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnDamage",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Agility",
+      "zh-hans": "赋能·灵敏"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_agility.2274fd115d389b990a55f5a4ff864773.png",
+      "zh-hans": "items/images/en/arcane_agility.2274fd115d389b990a55f5a4ff864773.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_agility.2274fd115d389b990a55f5a4ff864773.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_agility.2274fd115d389b990a55f5a4ff864773.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e515695",
+    "slug": "glacial_edge",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponFreezeDamageMod",
+    "tags": [
+      "uncommon",
+      "melee",
+      "mod",
+      "archwing",
+      "archmelee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Glacial Edge",
+      "zh-hans": "冰冷刃缘"
+    },
+    "icons": {
+      "en": "items/images/en/glacial_edge.34a006b5d2a18e9cc682b49562fe467d.png",
+      "zh-hans": "items/images/en/glacial_edge.34a006b5d2a18e9cc682b49562fe467d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/glacial_edge.34a006b5d2a18e9cc682b49562fe467d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/glacial_edge.34a006b5d2a18e9cc682b49562fe467d.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bd9fd14a8e4006b1dad50",
+    "slug": "quick_reload",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleReloadSpeedMod",
+    "tags": [
+      "uncommon",
+      "primary",
+      "mod",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Quick Reload",
+      "zh-hans": "快速装填"
+    },
+    "icons": {
+      "en": "items/images/en/quick_reload.fa52a871aab9230ddcd58a85f37ad0a3.png",
+      "zh-hans": "items/images/en/quick_reload.fa52a871aab9230ddcd58a85f37ad0a3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/quick_reload.fa52a871aab9230ddcd58a85f37ad0a3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/quick_reload.fa52a871aab9230ddcd58a85f37ad0a3.128x128.png"
+    }
+  },
+  {
+    "id": "56dac5985cc639de0a45c524",
+    "slug": "anti_flak_plating",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/BlastResist",
+    "tags": [
+      "uncommon",
+      "pvp",
+      "mod",
+      "warframe"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Anti-Flak Plating",
+      "zh-hans": "抗爆覆甲"
+    },
+    "icons": {
+      "en": "items/images/en/anti_flak_plating.cf4a771790c289975365c7dd23e51cde.png",
+      "zh-hans": "items/images/en/anti_flak_plating.cf4a771790c289975365c7dd23e51cde.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/anti_flak_plating.cf4a771790c289975365c7dd23e51cde.128x128.png",
+      "zh-hans": "items/images/en/thumbs/anti_flak_plating.cf4a771790c289975365c7dd23e51cde.128x128.png"
+    }
+  },
+  {
+    "id": "5a0475076c4655012038ddbe",
+    "slug": "magus_cadence",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/SpeedOnVoidDash",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magus Cadence",
+      "zh-hans": "魔导·韵律"
+    },
+    "icons": {
+      "en": "items/images/en/magus_cadence.c86f261fe3644b1eb27e22d4a53fa318.png",
+      "zh-hans": "items/images/en/magus_cadence.c86f261fe3644b1eb27e22d4a53fa318.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magus_cadence.c86f261fe3644b1eb27e22d4a53fa318.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magus_cadence.c86f261fe3644b1eb27e22d4a53fa318.128x128.png"
+    }
+  },
+  {
+    "id": "5a0475096c4655012038ddc3",
+    "slug": "exodia_triumph",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusChannelingDamage",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Exodia Triumph",
+      "zh-hans": "神威·凯旋"
+    },
+    "icons": {
+      "en": "items/images/en/exodia_triumph.fe6f1256127be984a80deb48afd26faa.png",
+      "zh-hans": "items/images/en/exodia_triumph.fe6f1256127be984a80deb48afd26faa.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/exodia_triumph.fe6f1256127be984a80deb48afd26faa.128x128.png",
+      "zh-hans": "items/images/en/thumbs/exodia_triumph.fe6f1256127be984a80deb48afd26faa.128x128.png"
+    }
+  },
+  {
+    "id": "567af35fcbfa8f05d076a4d7",
+    "slug": "follow_through",
+    "gameRef": "/Lotus/Upgrades/Mods/PvPMods/Warframe/EnergyOnKill",
+    "tags": [
+      "uncommon",
+      "pvp",
+      "mod",
+      "warframe"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Follow Through",
+      "zh-hans": "贯彻始终"
+    },
+    "icons": {
+      "en": "items/images/en/follow_through.a1544cb860ea4175e3dea411582f3d34.png",
+      "zh-hans": "items/images/en/follow_through.a1544cb860ea4175e3dea411582f3d34.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/follow_through.a1544cb860ea4175e3dea411582f3d34.128x128.png",
+      "zh-hans": "items/images/en/thumbs/follow_through.a1544cb860ea4175e3dea411582f3d34.128x128.png"
+    }
+  },
+  {
+    "id": "551085bce7798972a9b2fc6e",
+    "slug": "arcane_guardian",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ArmourOnDamage",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Guardian",
+      "zh-hans": "赋能·保卫者"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_guardian.5d8874dfd06eaaf9aaceef59d99213b3.png",
+      "zh-hans": "items/images/en/arcane_guardian.5d8874dfd06eaaf9aaceef59d99213b3.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_guardian.5d8874dfd06eaaf9aaceef59d99213b3.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_guardian.5d8874dfd06eaaf9aaceef59d99213b3.128x128.png"
+    }
+  },
+  {
+    "id": "54a74455e779892d5e5156da",
+    "slug": "venomous_clip",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponToxinDamageMod",
+    "tags": [
+      "uncommon",
+      "primary",
+      "mod",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Venomous Clip",
+      "zh-hans": "恶毒弹匣"
+    },
+    "icons": {
+      "en": "items/images/en/venomous_clip.9fc8ea3b71afd7b9d9392cb04519f805.png",
+      "zh-hans": "items/images/en/venomous_clip.9fc8ea3b71afd7b9d9392cb04519f805.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/venomous_clip.9fc8ea3b71afd7b9d9392cb04519f805.128x128.png",
+      "zh-hans": "items/images/en/thumbs/venomous_clip.9fc8ea3b71afd7b9d9392cb04519f805.128x128.png"
+    }
+  },
+  {
+    "id": "551085c3e7798972ae2819db",
+    "slug": "arcane_healing",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/RadiationProcResist",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Healing",
+      "zh-hans": "赋能·复原"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_healing.acadb2bf20e9dad0e620e8641110a928.png",
+      "zh-hans": "items/images/en/arcane_healing.acadb2bf20e9dad0e620e8641110a928.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_healing.acadb2bf20e9dad0e620e8641110a928.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_healing.acadb2bf20e9dad0e620e8641110a928.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e51562d",
+    "slug": "poisonous_sting",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponToxinDamageMod",
+    "tags": [
+      "uncommon",
+      "melee",
+      "mod",
+      "archwing",
+      "archmelee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Poisonous Sting",
+      "zh-hans": "剧毒螫刺"
+    },
+    "icons": {
+      "en": "items/images/en/poisonous_sting.a297e619a0c0f338e50a7613c6cad0fc.png",
+      "zh-hans": "items/images/en/poisonous_sting.a297e619a0c0f338e50a7613c6cad0fc.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/poisonous_sting.a297e619a0c0f338e50a7613c6cad0fc.128x128.png",
+      "zh-hans": "items/images/en/thumbs/poisonous_sting.a297e619a0c0f338e50a7613c6cad0fc.128x128.png"
+    }
+  },
+  {
+    "id": "5a04750d6c4655012038ddcc",
+    "slug": "magus_replenish",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidDash",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magus Replenish",
+      "zh-hans": "魔导·充盈"
+    },
+    "icons": {
+      "en": "items/images/en/magus_replenish.b65658da1b4a7e7090c6439e28476d39.png",
+      "zh-hans": "items/images/en/magus_replenish.b65658da1b4a7e7090c6439e28476d39.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magus_replenish.b65658da1b4a7e7090c6439e28476d39.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magus_replenish.b65658da1b4a7e7090c6439e28476d39.128x128.png"
+    }
+  },
+  {
+    "id": "56d6b7f483240e1f3aab2907",
+    "slug": "shell_rush",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleChargeSpeedMod",
+    "tags": [
+      "uncommon",
+      "primary",
+      "mod",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Shell Rush",
+      "zh-hans": "填弹加速"
+    },
+    "icons": {
+      "en": "items/images/en/shell_rush.184b1b2a564ccb241e3f3956ede39cb6.png",
+      "zh-hans": "items/images/en/shell_rush.184b1b2a564ccb241e3f3956ede39cb6.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/shell_rush.184b1b2a564ccb241e3f3956ede39cb6.128x128.png",
+      "zh-hans": "items/images/en/thumbs/shell_rush.184b1b2a564ccb241e3f3956ede39cb6.128x128.png"
+    }
+  },
+  {
+    "id": "5a04750e6c4655012038ddcf",
+    "slug": "magus_cloud",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ImmunityFallDamageOnVoidDash",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magus Cloud",
+      "zh-hans": "魔导·游云"
+    },
+    "icons": {
+      "en": "items/images/en/magus_cloud.911f21546c5c95ceb5e23bb5127fd9e4.png",
+      "zh-hans": "items/images/en/magus_cloud.911f21546c5c95ceb5e23bb5127fd9e4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magus_cloud.911f21546c5c95ceb5e23bb5127fd9e4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magus_cloud.911f21546c5c95ceb5e23bb5127fd9e4.128x128.png"
+    }
+  },
+  {
+    "id": "5510858ae779897288827a4b",
+    "slug": "arcane_acceleration",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/LongGunSpeedOnCrit",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Acceleration",
+      "zh-hans": "赋能·加速"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_acceleration.452ae9fb49a9a6f7a1207133be620b42.png",
+      "zh-hans": "items/images/en/arcane_acceleration.452ae9fb49a9a6f7a1207133be620b42.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_acceleration.452ae9fb49a9a6f7a1207133be620b42.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_acceleration.452ae9fb49a9a6f7a1207133be620b42.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515689",
+    "slug": "conductive_blade",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponElectricityDamageMod",
+    "tags": [
+      "uncommon",
+      "melee",
+      "mod",
+      "archwing",
+      "archmelee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Conductive Blade",
+      "zh-hans": "通电刀刃"
+    },
+    "icons": {
+      "en": "items/images/en/conductive_blade.dbd843a5bdcdf3c963a99b8afbf906c8.png",
+      "zh-hans": "items/images/en/conductive_blade.dbd843a5bdcdf3c963a99b8afbf906c8.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/conductive_blade.dbd843a5bdcdf3c963a99b8afbf906c8.128x128.png",
+      "zh-hans": "items/images/en/thumbs/conductive_blade.dbd843a5bdcdf3c963a99b8afbf906c8.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bd9f914a8e4006b1dad49",
+    "slug": "resolute_focus",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingCCImmunityIfAimingMod",
+    "tags": [
+      "uncommon",
+      "primary",
+      "mod",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Resolute Focus",
+      "zh-hans": "坚决专注"
+    },
+    "icons": {
+      "en": "items/images/en/resolute_focus.a25bb4ed2565504baa073dd60019ecec.png",
+      "zh-hans": "items/images/en/resolute_focus.a25bb4ed2565504baa073dd60019ecec.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/resolute_focus.a25bb4ed2565504baa073dd60019ecec.128x128.png",
+      "zh-hans": "items/images/en/thumbs/resolute_focus.a25bb4ed2565504baa073dd60019ecec.128x128.png"
+    }
+  },
+  {
+    "id": "54a74454e779892d5e515639",
+    "slug": "furor",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeFireRateMod",
+    "tags": [
+      "uncommon",
+      "melee",
+      "mod",
+      "archwing",
+      "archmelee"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Furor",
+      "zh-hans": "狂怒"
+    },
+    "icons": {
+      "en": "items/images/en/furor.071ae1a3bff51fa6de6657046b22617e.png",
+      "zh-hans": "items/images/en/furor.071ae1a3bff51fa6de6657046b22617e.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/furor.071ae1a3bff51fa6de6657046b22617e.128x128.png",
+      "zh-hans": "items/images/en/thumbs/furor.071ae1a3bff51fa6de6657046b22617e.128x128.png"
+    }
+  },
+  {
+    "id": "5c1bda2414a8e4006b1dada4",
+    "slug": "ammo_chain",
+    "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleAmmoMaxMod",
+    "tags": [
+      "uncommon",
+      "primary",
+      "mod",
+      "archwing",
+      "archgun"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Ammo Chain",
+      "zh-hans": "弹链"
+    },
+    "icons": {
+      "en": "items/images/en/ammo_chain.40e8b3be7565a2ca11143ba312b65db1.png",
+      "zh-hans": "items/images/en/ammo_chain.40e8b3be7565a2ca11143ba312b65db1.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ammo_chain.40e8b3be7565a2ca11143ba312b65db1.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ammo_chain.40e8b3be7565a2ca11143ba312b65db1.128x128.png"
+    }
+  },
+  {
+    "id": "551085d6e7798972bcb28132",
+    "slug": "arcane_phantasm",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnParry",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Phantasm",
+      "zh-hans": "赋能·幻象"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_phantasm.78366e4d487988a78d128a4822b4f824.png",
+      "zh-hans": "items/images/en/arcane_phantasm.78366e4d487988a78d128a4822b4f824.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_phantasm.78366e4d487988a78d128a4822b4f824.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_phantasm.78366e4d487988a78d128a4822b4f824.128x128.png"
+    }
+  },
+  {
+    "id": "644b00227ec1900044b97723",
+    "slug": "arcane_intention",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/HealthWhileUsingChanneledAbilities",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Arcane Intention",
+      "zh-hans": "赋能·心相"
+    },
+    "icons": {
+      "en": "items/images/en/arcane_intention.2d412880c8134b5078de0b9debf2a9e7.png",
+      "zh-hans": "items/images/en/arcane_intention.2d412880c8134b5078de0b9debf2a9e7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/arcane_intention.2d412880c8134b5078de0b9debf2a9e7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/arcane_intention.2d412880c8134b5078de0b9debf2a9e7.128x128.png"
+    }
+  },
+  {
+    "id": "644b00237ec1900044b9772e",
+    "slug": "magus_aggress",
+    "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OperatorHeavyMeleeDamageOnTransference",
+    "tags": [
+      "uncommon",
+      "arcane_enhancement"
+    ],
+    "ducats": null,
+    "bulkTradable": true,
+    "maxRank": 5,
+    "subtypes": null,
+    "names": {
+      "en": "Magus Aggress",
+      "zh-hans": "魔导·侵略"
+    },
+    "icons": {
+      "en": "items/images/en/magus_aggress.03f6a273fe2e6e2b3720957cf32c2adf.png",
+      "zh-hans": "items/images/en/magus_aggress.03f6a273fe2e6e2b3720957cf32c2adf.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/magus_aggress.03f6a273fe2e6e2b3720957cf32c2adf.128x128.png",
+      "zh-hans": "items/images/en/thumbs/magus_aggress.03f6a273fe2e6e2b3720957cf32c2adf.128x128.png"
+    }
+  }
+]

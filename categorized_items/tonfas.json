@@ -1,0 +1,29 @@
+[
+  {
+    "id": "588247dcefa102dc532bd503",
+    "slug": "sovereign_outcast",
+    "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/TonfaCmbTwoMeleeTree",
+    "tags": [
+      "tonfas",
+      "mod",
+      "stance",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Sovereign Outcast",
+      "zh-hans": "至尊浪人"
+    },
+    "icons": {
+      "en": "items/images/en/sovereign_outcast.c7057a1044205cdfd9422199b5d76d41.png",
+      "zh-hans": "items/images/en/sovereign_outcast.c7057a1044205cdfd9422199b5d76d41.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/sovereign_outcast.c7057a1044205cdfd9422199b5d76d41.128x128.png",
+      "zh-hans": "items/images/en/thumbs/sovereign_outcast.c7057a1044205cdfd9422199b5d76d41.128x128.png"
+    }
+  }
+]

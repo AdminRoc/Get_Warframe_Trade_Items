@@ -1,0 +1,58 @@
+[
+  {
+    "id": "61a25ff968fd79003fe3fd53",
+    "slug": "vampiric_grasp",
+    "gameRef": "/Lotus/Powersuits/BrokenFrame/GraspAugmentCard",
+    "tags": [
+      "xaku",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "Vampiric Grasp",
+      "zh-hans": "血吸之握"
+    },
+    "icons": {
+      "en": "items/images/en/vampiric_grasp.37e2edd4178998409b909bbf41bdad66.png",
+      "zh-hans": "items/images/en/vampiric_grasp.37e2edd4178998409b909bbf41bdad66.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vampiric_grasp.37e2edd4178998409b909bbf41bdad66.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vampiric_grasp.37e2edd4178998409b909bbf41bdad66.128x128.png"
+    }
+  },
+  {
+    "id": "61a25ffa68fd79003fe3fd5c",
+    "slug": "the_relentless_lost",
+    "gameRef": "/Lotus/Powersuits/BrokenFrame/EmbraceAugmentCard",
+    "tags": [
+      "xaku",
+      "mod",
+      "warframe",
+      "augment",
+      "rare"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": 3,
+    "subtypes": null,
+    "names": {
+      "en": "The Relentless Lost",
+      "zh-hans": "无情失落"
+    },
+    "icons": {
+      "en": "items/images/en/the_relentless_lost.91e155f5c17760b97b47dd8b5db03d71.png",
+      "zh-hans": "items/images/en/the_relentless_lost.91e155f5c17760b97b47dd8b5db03d71.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/the_relentless_lost.91e155f5c17760b97b47dd8b5db03d71.128x128.png",
+      "zh-hans": "items/images/en/thumbs/the_relentless_lost.91e155f5c17760b97b47dd8b5db03d71.128x128.png"
+    }
+  }
+]

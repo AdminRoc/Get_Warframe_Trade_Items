@@ -1,0 +1,797 @@
+[
+  {
+    "id": "56783f24cbfa8f0432dd899c",
+    "slug": "frost_prime_set",
+    "gameRef": "/Lotus/Powersuits/Frost/FrostPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 175,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Frost Prime Set",
+      "zh-hans": "Frost Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/frost_prime_set.4f8ff8605be1afaab9a0e5cc3c67cb21.png",
+      "zh-hans": "items/images/en/frost_prime_set.4f8ff8605be1afaab9a0e5cc3c67cb21.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/frost_prime_set.4f8ff8605be1afaab9a0e5cc3c67cb21.128x128.png",
+      "zh-hans": "items/images/en/thumbs/frost_prime_set.4f8ff8605be1afaab9a0e5cc3c67cb21.128x128.png"
+    }
+  },
+  {
+    "id": "57222f1c92cc365777a61c0f",
+    "slug": "mantis_set",
+    "gameRef": "/Lotus/Types/Items/Ships/InsectShip",
+    "tags": [
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Mantis Set",
+      "zh-hans": "Mantis 一套"
+    },
+    "icons": {
+      "en": "items/images/en/mantis_set.d4716b0defc2695308eb9b5a4b18d935.png",
+      "zh-hans": "items/images/en/mantis_set.d4716b0defc2695308eb9b5a4b18d935.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mantis_set.d4716b0defc2695308eb9b5a4b18d935.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mantis_set.d4716b0defc2695308eb9b5a4b18d935.128x128.png"
+    }
+  },
+  {
+    "id": "56c3bbea5d2f0202da32e93f",
+    "slug": "saryn_prime_set",
+    "gameRef": "/Lotus/Powersuits/Saryn/SarynPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Saryn Prime Set",
+      "zh-hans": "Saryn Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/saryn_prime_set.394094bef0383f954bd38d622bb075e5.png",
+      "zh-hans": "items/images/en/saryn_prime_set.394094bef0383f954bd38d622bb075e5.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/saryn_prime_set.394094bef0383f954bd38d622bb075e5.128x128.png",
+      "zh-hans": "items/images/en/thumbs/saryn_prime_set.394094bef0383f954bd38d622bb075e5.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd89ab",
+    "slug": "rhino_prime_set",
+    "gameRef": "/Lotus/Powersuits/Rhino/RhinoPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Rhino Prime Set",
+      "zh-hans": "Rhino Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/rhino_prime_set.22301207f9463fe9ab215e40eb23a326.png",
+      "zh-hans": "items/images/en/rhino_prime_set.22301207f9463fe9ab215e40eb23a326.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/rhino_prime_set.22301207f9463fe9ab215e40eb23a326.128x128.png",
+      "zh-hans": "items/images/en/thumbs/rhino_prime_set.22301207f9463fe9ab215e40eb23a326.128x128.png"
+    }
+  },
+  {
+    "id": "57222f1092cc365777a61c0d",
+    "slug": "scimitar_set",
+    "gameRef": "/Lotus/Types/Items/Ships/BlueSkyShip",
+    "tags": [
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Scimitar Set",
+      "zh-hans": "Scimitar 一套"
+    },
+    "icons": {
+      "en": "items/images/en/scimitar_set.c8644ada3c4381efbe9a11b55c58b0a7.png",
+      "zh-hans": "items/images/en/scimitar_set.c8644ada3c4381efbe9a11b55c58b0a7.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/scimitar_set.c8644ada3c4381efbe9a11b55c58b0a7.128x128.png",
+      "zh-hans": "items/images/en/thumbs/scimitar_set.c8644ada3c4381efbe9a11b55c58b0a7.128x128.png"
+    }
+  },
+  {
+    "id": "5d21ce48f4604c012d1e0c18",
+    "slug": "wukong_prime_set",
+    "gameRef": "/Lotus/Powersuits/MonkeyKing/WukongPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Wukong Prime Set",
+      "zh-hans": "Wukong Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/wukong_prime_set.6fa7196ae48a7a3901c35834476f3891.png",
+      "zh-hans": "items/images/en/wukong_prime_set.6fa7196ae48a7a3901c35834476f3891.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/wukong_prime_set.6fa7196ae48a7a3901c35834476f3891.128x128.png",
+      "zh-hans": "items/images/en/thumbs/wukong_prime_set.6fa7196ae48a7a3901c35834476f3891.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd899a",
+    "slug": "ember_prime_set",
+    "gameRef": "/Lotus/Powersuits/Ember/EmberPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 175,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ember Prime Set",
+      "zh-hans": "Ember Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/ember_prime_set.971255acc3f1ad8a374d236c6af1c816.png",
+      "zh-hans": "items/images/en/ember_prime_set.971255acc3f1ad8a374d236c6af1c816.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ember_prime_set.971255acc3f1ad8a374d236c6af1c816.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ember_prime_set.971255acc3f1ad8a374d236c6af1c816.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd89a4",
+    "slug": "mag_prime_set",
+    "gameRef": "/Lotus/Powersuits/Mag/MagPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 175,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Mag Prime Set",
+      "zh-hans": "Mag Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/mag_prime_set.2afb45373319b966737bd91cf05a813c.png",
+      "zh-hans": "items/images/en/mag_prime_set.2afb45373319b966737bd91cf05a813c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mag_prime_set.2afb45373319b966737bd91cf05a813c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mag_prime_set.2afb45373319b966737bd91cf05a813c.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd89af",
+    "slug": "trinity_prime_set",
+    "gameRef": "/Lotus/Powersuits/Trinity/TrinityPrime",
+    "tags": [
+      "set",
+      "warframe",
+      "prime"
+    ],
+    "ducats": 130,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Trinity Prime Set",
+      "zh-hans": "Trinity Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/trinity_prime_set.4115dba418ab8ee70197a7fdaee8da76.png",
+      "zh-hans": "items/images/en/trinity_prime_set.4115dba418ab8ee70197a7fdaee8da76.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/trinity_prime_set.4115dba418ab8ee70197a7fdaee8da76.128x128.png",
+      "zh-hans": "items/images/en/thumbs/trinity_prime_set.4115dba418ab8ee70197a7fdaee8da76.128x128.png"
+    }
+  },
+  {
+    "id": "5d93ca117ea27b0a87566f6b",
+    "slug": "dethcube_prime_set",
+    "gameRef": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeDethCubePowerSuit",
+    "tags": [
+      "set",
+      "prime",
+      "sentinel"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Dethcube Prime Set",
+      "zh-hans": "死亡魔方 Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/dethcube_prime_set.47a0e82681bf367a015928558a9f133b.png",
+      "zh-hans": "items/images/en/dethcube_prime_set.47a0e82681bf367a015928558a9f133b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/dethcube_prime_set.47a0e82681bf367a015928558a9f133b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/dethcube_prime_set.47a0e82681bf367a015928558a9f133b.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd89b2",
+    "slug": "volt_prime_set",
+    "gameRef": "/Lotus/Powersuits/Volt/VoltPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 180,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Volt Prime Set",
+      "zh-hans": "Volt Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/volt_prime_set.9481daa3eb02aaec1108cdbeeaeea159.png",
+      "zh-hans": "items/images/en/volt_prime_set.9481daa3eb02aaec1108cdbeeaeea159.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/volt_prime_set.9481daa3eb02aaec1108cdbeeaeea159.128x128.png",
+      "zh-hans": "items/images/en/thumbs/volt_prime_set.9481daa3eb02aaec1108cdbeeaeea159.128x128.png"
+    }
+  },
+  {
+    "id": "57dbdc685e334907aa8edb5e",
+    "slug": "amesha_set",
+    "gameRef": "/Lotus/Powersuits/Archwing/SupportJetPack/SupportJetPack",
+    "tags": [
+      "set",
+      "archwing"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Amesha Set",
+      "zh-hans": "圣使 一套"
+    },
+    "icons": {
+      "en": "items/images/en/amesha_set.ff297caf790ef259b5715a2510974338.png",
+      "zh-hans": "items/images/en/amesha_set.ff297caf790ef259b5715a2510974338.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/amesha_set.ff297caf790ef259b5715a2510974338.128x128.png",
+      "zh-hans": "items/images/en/thumbs/amesha_set.ff297caf790ef259b5715a2510974338.128x128.png"
+    }
+  },
+  {
+    "id": "57dbdc745e334907aa8edb62",
+    "slug": "elytron_set",
+    "gameRef": "/Lotus/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack",
+    "tags": [
+      "set",
+      "archwing"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Elytron Set",
+      "zh-hans": "鞘翅 一套"
+    },
+    "icons": {
+      "en": "items/images/en/elytron_set.971d1e23ad3033ff3af37147302efb8b.png",
+      "zh-hans": "items/images/en/elytron_set.971d1e23ad3033ff3af37147302efb8b.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/elytron_set.971d1e23ad3033ff3af37147302efb8b.128x128.png",
+      "zh-hans": "items/images/en/thumbs/elytron_set.971d1e23ad3033ff3af37147302efb8b.128x128.png"
+    }
+  },
+  {
+    "id": "57dbdc825e334907aa8edb66",
+    "slug": "itzal_set",
+    "gameRef": "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack",
+    "tags": [
+      "set",
+      "archwing"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Itzal Set",
+      "zh-hans": "刺影 一套"
+    },
+    "icons": {
+      "en": "items/images/en/itzal_set.0010e4eeee847edd082019f488da2fc2.png",
+      "zh-hans": "items/images/en/itzal_set.0010e4eeee847edd082019f488da2fc2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/itzal_set.0010e4eeee847edd082019f488da2fc2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/itzal_set.0010e4eeee847edd082019f488da2fc2.128x128.png"
+    }
+  },
+  {
+    "id": "5e839496267539077b0dd6d3",
+    "slug": "titania_prime_set",
+    "gameRef": "/Lotus/Powersuits/Fairy/TitaniaPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Titania Prime Set",
+      "zh-hans": "Titania Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.png",
+      "zh-hans": "items/images/en/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.128x128.png",
+      "zh-hans": "items/images/en/thumbs/titania_prime_set.d783da2b4926bc3760d50bba21eff7db.128x128.png"
+    }
+  },
+  {
+    "id": "5f0deab69f527b024d48f055",
+    "slug": "inaros_prime_set",
+    "gameRef": "/Lotus/Powersuits/Sandman/InarosPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Inaros Prime Set",
+      "zh-hans": "Inaros Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/inaros_prime_set.58fc170fbf04332e7d541a615c198b41.png",
+      "zh-hans": "items/images/en/inaros_prime_set.58fc170fbf04332e7d541a615c198b41.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/inaros_prime_set.58fc170fbf04332e7d541a615c198b41.128x128.png",
+      "zh-hans": "items/images/en/thumbs/inaros_prime_set.58fc170fbf04332e7d541a615c198b41.128x128.png"
+    }
+  },
+  {
+    "id": "5b2987abeb069f0536234278",
+    "slug": "limbo_prime_set",
+    "gameRef": "/Lotus/Powersuits/Magician/LimboPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 260,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Limbo Prime Set",
+      "zh-hans": "Limbo Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/limbo_prime_set.7bfbc70bd8438594d45a47fba260b174.png",
+      "zh-hans": "items/images/en/limbo_prime_set.7bfbc70bd8438594d45a47fba260b174.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/limbo_prime_set.7bfbc70bd8438594d45a47fba260b174.128x128.png",
+      "zh-hans": "items/images/en/thumbs/limbo_prime_set.7bfbc70bd8438594d45a47fba260b174.128x128.png"
+    }
+  },
+  {
+    "id": "57222f1692cc365777a61c0e",
+    "slug": "xiphos_set",
+    "gameRef": "/Lotus/Types/Items/Ships/GyroscopeShip",
+    "tags": [
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Xiphos Set",
+      "zh-hans": "Xiphos 一套"
+    },
+    "icons": {
+      "en": "items/images/en/xiphos_set.452dba7ad34799a24d7d72d8f5e206eb.png",
+      "zh-hans": "items/images/en/xiphos_set.452dba7ad34799a24d7d72d8f5e206eb.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/xiphos_set.452dba7ad34799a24d7d72d8f5e206eb.128x128.png",
+      "zh-hans": "items/images/en/thumbs/xiphos_set.452dba7ad34799a24d7d72d8f5e206eb.128x128.png"
+    }
+  },
+  {
+    "id": "5d9385b17ea27b0a28fd75b9",
+    "slug": "atlas_prime_set",
+    "gameRef": "/Lotus/Powersuits/Brawler/AtlasPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Atlas Prime Set",
+      "zh-hans": "Atlas Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/atlas_prime_set.91fb26397de19c27bfece550a8315a14.png",
+      "zh-hans": "items/images/en/atlas_prime_set.91fb26397de19c27bfece550a8315a14.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/atlas_prime_set.91fb26397de19c27bfece550a8315a14.128x128.png",
+      "zh-hans": "items/images/en/thumbs/atlas_prime_set.91fb26397de19c27bfece550a8315a14.128x128.png"
+    }
+  },
+  {
+    "id": "5ba9f2034567de01415f638b",
+    "slug": "chroma_prime_set",
+    "gameRef": "/Lotus/Powersuits/Dragon/ChromaPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Chroma Prime Set",
+      "zh-hans": "Chroma Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/chroma_prime_set.746ea1c1556aa60f94f0c2399946baaf.png",
+      "zh-hans": "items/images/en/chroma_prime_set.746ea1c1556aa60f94f0c2399946baaf.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/chroma_prime_set.746ea1c1556aa60f94f0c2399946baaf.128x128.png",
+      "zh-hans": "items/images/en/thumbs/chroma_prime_set.746ea1c1556aa60f94f0c2399946baaf.128x128.png"
+    }
+  },
+  {
+    "id": "573b7fcc0ec44a47787a6910",
+    "slug": "vauban_prime_set",
+    "gameRef": "/Lotus/Powersuits/Trapper/TrapperPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 290,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Vauban Prime Set",
+      "zh-hans": "Vauban Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/vauban_prime_set.9c15bb47d3ed4ed8e960c2502fac82f2.png",
+      "zh-hans": "items/images/en/vauban_prime_set.9c15bb47d3ed4ed8e960c2502fac82f2.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/vauban_prime_set.9c15bb47d3ed4ed8e960c2502fac82f2.128x128.png",
+      "zh-hans": "items/images/en/thumbs/vauban_prime_set.9c15bb47d3ed4ed8e960c2502fac82f2.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd89a3",
+    "slug": "loki_prime_set",
+    "gameRef": "/Lotus/Powersuits/Loki/LokiPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 175,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Loki Prime Set",
+      "zh-hans": "Loki Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/loki_prime_set.abc05c280f92196bcb688643873fbf95.png",
+      "zh-hans": "items/images/en/loki_prime_set.abc05c280f92196bcb688643873fbf95.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/loki_prime_set.abc05c280f92196bcb688643873fbf95.128x128.png",
+      "zh-hans": "items/images/en/thumbs/loki_prime_set.abc05c280f92196bcb688643873fbf95.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd89a5",
+    "slug": "nova_prime_set",
+    "gameRef": "/Lotus/Powersuits/AntiMatter/NovaPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 175,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Nova Prime Set",
+      "zh-hans": "Nova Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/nova_prime_set.639a9222e1cb351cd6dd09ef28155ef0.png",
+      "zh-hans": "items/images/en/nova_prime_set.639a9222e1cb351cd6dd09ef28155ef0.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/nova_prime_set.639a9222e1cb351cd6dd09ef28155ef0.128x128.png",
+      "zh-hans": "items/images/en/thumbs/nova_prime_set.639a9222e1cb351cd6dd09ef28155ef0.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd89a6",
+    "slug": "nyx_prime_set",
+    "gameRef": "/Lotus/Powersuits/Jade/NyxPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Nyx Prime Set",
+      "zh-hans": "Nyx Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/nyx_prime_set.fd41c04c9e9bcc7e0e6963914f68f880.png",
+      "zh-hans": "items/images/en/nyx_prime_set.fd41c04c9e9bcc7e0e6963914f68f880.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/nyx_prime_set.fd41c04c9e9bcc7e0e6963914f68f880.128x128.png",
+      "zh-hans": "items/images/en/thumbs/nyx_prime_set.fd41c04c9e9bcc7e0e6963914f68f880.128x128.png"
+    }
+  },
+  {
+    "id": "5df8b0ab1456970087cd9b00",
+    "slug": "ivara_prime_set",
+    "gameRef": "/Lotus/Powersuits/Ranger/IvaraPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ivara Prime Set",
+      "zh-hans": "Ivara Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/ivara_prime_set.5c4fbd8ffa071c741cf93e260e43b6db.png",
+      "zh-hans": "items/images/en/ivara_prime_set.5c4fbd8ffa071c741cf93e260e43b6db.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ivara_prime_set.5c4fbd8ffa071c741cf93e260e43b6db.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ivara_prime_set.5c4fbd8ffa071c741cf93e260e43b6db.128x128.png"
+    }
+  },
+  {
+    "id": "5ca28670fc2db2035eae059e",
+    "slug": "equinox_prime_set",
+    "gameRef": "/Lotus/Powersuits/YinYang/EquinoxPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 205,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Equinox Prime Set",
+      "zh-hans": "Equinox Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/equinox_prime_set.1163c3dad7a8ffce02af7d475fc0ccd4.png",
+      "zh-hans": "items/images/en/equinox_prime_set.1163c3dad7a8ffce02af7d475fc0ccd4.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/equinox_prime_set.1163c3dad7a8ffce02af7d475fc0ccd4.128x128.png",
+      "zh-hans": "items/images/en/thumbs/equinox_prime_set.1163c3dad7a8ffce02af7d475fc0ccd4.128x128.png"
+    }
+  },
+  {
+    "id": "56783f24cbfa8f0432dd898f",
+    "slug": "ash_prime_set",
+    "gameRef": "/Lotus/Powersuits/Ninja/AshPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 170,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Ash Prime Set",
+      "zh-hans": "Ash Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/ash_prime_set.9f3f82bee82a9741531857cf76eb6594.png",
+      "zh-hans": "items/images/en/ash_prime_set.9f3f82bee82a9741531857cf76eb6594.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/ash_prime_set.9f3f82bee82a9741531857cf76eb6594.128x128.png",
+      "zh-hans": "items/images/en/thumbs/ash_prime_set.9f3f82bee82a9741531857cf76eb6594.128x128.png"
+    }
+  },
+  {
+    "id": "5c182b739603780081b09a53",
+    "slug": "mesa_prime_set",
+    "gameRef": "/Lotus/Powersuits/Cowgirl/MesaPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 260,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Mesa Prime Set",
+      "zh-hans": "Mesa Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/mesa_prime_set.34d67af54de052f6de1d5ae64ed40197.png",
+      "zh-hans": "items/images/en/mesa_prime_set.34d67af54de052f6de1d5ae64ed40197.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/mesa_prime_set.34d67af54de052f6de1d5ae64ed40197.128x128.png",
+      "zh-hans": "items/images/en/thumbs/mesa_prime_set.34d67af54de052f6de1d5ae64ed40197.128x128.png"
+    }
+  },
+  {
+    "id": "57bc9a40e506eb45ea251451",
+    "slug": "nekros_prime_set",
+    "gameRef": "/Lotus/Powersuits/Necro/NekrosPrime",
+    "tags": [
+      "set",
+      "warframe",
+      "prime"
+    ],
+    "ducats": 225,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Nekros Prime Set",
+      "zh-hans": "Nekros Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/nekros_prime_set.523943a15c82985ebe7cf14eac98966d.png",
+      "zh-hans": "items/images/en/nekros_prime_set.523943a15c82985ebe7cf14eac98966d.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/nekros_prime_set.523943a15c82985ebe7cf14eac98966d.128x128.png",
+      "zh-hans": "items/images/en/thumbs/nekros_prime_set.523943a15c82985ebe7cf14eac98966d.128x128.png"
+    }
+  },
+  {
+    "id": "5f986cfc9dbdce024971b0c2",
+    "slug": "nezha_prime_set",
+    "gameRef": "/Lotus/Powersuits/Nezha/NezhaPrime",
+    "tags": [
+      "set",
+      "prime",
+      "warframe"
+    ],
+    "ducats": 260,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Nezha Prime Set",
+      "zh-hans": "Nezha Prime 一套"
+    },
+    "icons": {
+      "en": "items/images/en/nezha_prime_set.462f17d4752cca5cea3988ecb9786467.png",
+      "zh-hans": "items/images/en/nezha_prime_set.462f17d4752cca5cea3988ecb9786467.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/nezha_prime_set.462f17d4752cca5cea3988ecb9786467.128x128.png",
+      "zh-hans": "items/images/en/thumbs/nezha_prime_set.462f17d4752cca5cea3988ecb9786467.128x128.png"
+    }
+  },
+  {
+    "id": "62a2baebfbd62c00450b71da",
+    "slug": "parallax_set",
+    "gameRef": "/Lotus/Types/Items/Ships/ZarimanShip",
+    "tags": [
+      "set"
+    ],
+    "ducats": null,
+    "bulkTradable": null,
+    "maxRank": null,
+    "subtypes": null,
+    "names": {
+      "en": "Parallax Set",
+      "zh-hans": "星察 一套"
+    },
+    "icons": {
+      "en": "items/images/en/parallax_set.75e7e972c395cb8f385c810b9c73b55c.png",
+      "zh-hans": "items/images/en/parallax_set.75e7e972c395cb8f385c810b9c73b55c.png"
+    },
+    "thumbs": {
+      "en": "items/images/en/thumbs/parallax_set.75e7e972c395cb8f385c810b9c73b55c.128x128.png",
+      "zh-hans": "items/images/en/thumbs/parallax_set.75e7e972c395cb8f385c810b9c73b55c.128x128.png"
+    }
+  }
+]
